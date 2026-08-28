@@ -143,41 +143,41 @@
       "symbol": "INFY"
     },
     {
-      "n": 16,
+      "n": 17,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 75.0,
-        "avg_return": 0.86,
-        "median_return": 0.5,
+        "win_rate": 76.5,
+        "avg_return": 0.87,
+        "median_return": 0.62,
         "best": 5.42,
         "worst": -1.23
       },
       "10d": {
-        "win_rate": 93.8,
-        "avg_return": 2.68,
-        "median_return": 2.27,
+        "win_rate": 94.1,
+        "avg_return": 2.63,
+        "median_return": 2.25,
         "best": 10.95,
         "worst": -2.31
       },
       "20d": {
-        "win_rate": 75.0,
-        "avg_return": 3.14,
-        "median_return": 2.87,
+        "win_rate": 76.5,
+        "avg_return": 3.11,
+        "median_return": 2.74,
         "best": 15.02,
         "worst": -12.19
       },
       "40d": {
-        "win_rate": 75.0,
-        "avg_return": 2.21,
-        "median_return": 3.12,
+        "win_rate": 76.5,
+        "avg_return": 2.61,
+        "median_return": 3.68,
         "best": 11.72,
         "worst": -10.5
       },
       "60d": {
-        "win_rate": 81.2,
-        "avg_return": 4.2,
-        "median_return": 9.72,
-        "best": 13.53,
+        "win_rate": 82.4,
+        "avg_return": 4.82,
+        "median_return": 9.97,
+        "best": 14.79,
         "worst": -19.22
       },
       "name": "State Bank of India",
@@ -202,40 +202,40 @@
       "symbol": "HINDUNILVR"
     },
     {
-      "n": 4,
+      "n": 3,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 75.0,
-        "avg_return": 0.77,
-        "median_return": 0.98,
-        "best": 2.35,
+        "win_rate": 66.7,
+        "avg_return": 0.25,
+        "median_return": 0.2,
+        "best": 1.76,
         "worst": -1.22
       },
       "10d": {
-        "win_rate": 50.0,
-        "avg_return": 0.96,
-        "median_return": 0.3,
-        "best": 4.15,
+        "win_rate": 33.3,
+        "avg_return": -0.11,
+        "median_return": -0.46,
+        "best": 1.06,
         "worst": -0.92
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 3.56,
-        "median_return": 3.65,
+        "avg_return": 3.22,
+        "median_return": 2.71,
         "best": 4.7,
         "worst": 2.25
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 5.0,
-        "median_return": 5.18,
+        "avg_return": 4.53,
+        "median_return": 3.95,
         "best": 7.61,
         "worst": 2.03
       },
       "60d": {
-        "win_rate": 50.0,
-        "avg_return": 1.41,
-        "median_return": 1.1,
+        "win_rate": 33.3,
+        "avg_return": 0.22,
+        "median_return": -2.76,
         "best": 9.19,
         "worst": -5.76
       },
@@ -243,40 +243,40 @@
       "symbol": "LT"
     },
     {
-      "n": 5,
+      "n": 6,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -1.79,
-        "median_return": -1.91,
+        "avg_return": -2.04,
+        "median_return": -2.19,
         "best": -0.05,
-        "worst": -2.9
+        "worst": -3.3
       },
       "10d": {
-        "win_rate": 40.0,
-        "avg_return": -0.61,
-        "median_return": -0.69,
+        "win_rate": 50.0,
+        "avg_return": -0.28,
+        "median_return": 0.2,
         "best": 1.63,
         "worst": -2.86
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 2.6,
-        "median_return": 2.1,
-        "best": 4.46,
+        "avg_return": 3.11,
+        "median_return": 2.78,
+        "best": 5.68,
         "worst": 1.14
       },
       "40d": {
-        "win_rate": 60.0,
-        "avg_return": -0.31,
-        "median_return": 3.73,
-        "best": 8.02,
+        "win_rate": 66.7,
+        "avg_return": 1.16,
+        "median_return": 4.0,
+        "best": 8.51,
         "worst": -15.26
       },
       "60d": {
-        "win_rate": 60.0,
-        "avg_return": 0.64,
-        "median_return": 3.87,
+        "win_rate": 66.7,
+        "avg_return": 1.3,
+        "median_return": 4.24,
         "best": 5.5,
         "worst": -7.45
       },
@@ -419,41 +419,41 @@
       "symbol": "HCLTECH"
     },
     {
-      "n": 3,
+      "n": 5,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 33.3,
-        "avg_return": -2.08,
+        "win_rate": 40.0,
+        "avg_return": -1.94,
         "median_return": -4.22,
-        "best": 2.4,
-        "worst": -4.43
+        "best": 2.54,
+        "worst": -6.0
       },
       "10d": {
-        "win_rate": 33.3,
-        "avg_return": -1.22,
+        "win_rate": 40.0,
+        "avg_return": -1.33,
         "median_return": -0.74,
-        "best": 0.88,
-        "worst": -3.82
+        "best": 2.88,
+        "worst": -5.86
       },
       "20d": {
-        "win_rate": 33.3,
-        "avg_return": -0.25,
+        "win_rate": 40.0,
+        "avg_return": -0.03,
         "median_return": -0.15,
-        "best": 0.52,
-        "worst": -1.14
+        "best": 7.47,
+        "worst": -6.85
       },
       "40d": {
-        "win_rate": 100.0,
-        "avg_return": 5.17,
-        "median_return": 6.3,
+        "win_rate": 80.0,
+        "avg_return": 2.69,
+        "median_return": 4.89,
         "best": 7.75,
-        "worst": 1.47
+        "worst": -6.98
       },
       "60d": {
-        "win_rate": 66.7,
-        "avg_return": -0.26,
+        "win_rate": 60.0,
+        "avg_return": 1.96,
         "median_return": 4.02,
-        "best": 4.59,
+        "best": 12.05,
         "worst": -9.38
       },
       "name": "NTPC",
@@ -706,43 +706,8 @@
       "symbol": "POLYCAB"
     },
     {
-      "n": 1,
-      "note": "Price-only; no point-in-time fundamentals",
-      "5d": {
-        "win_rate": 100.0,
-        "avg_return": 2.41,
-        "median_return": 2.41,
-        "best": 2.41,
-        "worst": 2.41
-      },
-      "10d": {
-        "win_rate": 100.0,
-        "avg_return": 2.29,
-        "median_return": 2.29,
-        "best": 2.29,
-        "worst": 2.29
-      },
-      "20d": {
-        "win_rate": 0.0,
-        "avg_return": -5.14,
-        "median_return": -5.14,
-        "best": -5.14,
-        "worst": -5.14
-      },
-      "40d": {
-        "win_rate": 0.0,
-        "avg_return": -12.57,
-        "median_return": -12.57,
-        "best": -12.57,
-        "worst": -12.57
-      },
-      "60d": {
-        "win_rate": 0.0,
-        "avg_return": -15.68,
-        "median_return": -15.68,
-        "best": -15.68,
-        "worst": -15.68
-      },
+      "n": 0,
+      "note": "No qualifying signals",
       "name": "Dixon Technologies",
       "symbol": "DIXON"
     },
@@ -829,41 +794,41 @@
       "symbol": "CGPOWER"
     },
     {
-      "n": 1,
+      "n": 2,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -6.35,
-        "median_return": -6.35,
-        "best": -6.35,
+        "avg_return": -4.15,
+        "median_return": -4.15,
+        "best": -1.96,
         "worst": -6.35
       },
       "10d": {
         "win_rate": 0.0,
-        "avg_return": -5.67,
-        "median_return": -5.67,
-        "best": -5.67,
+        "avg_return": -3.75,
+        "median_return": -3.75,
+        "best": -1.83,
         "worst": -5.67
       },
       "20d": {
-        "win_rate": 0.0,
-        "avg_return": -16.07,
-        "median_return": -16.07,
-        "best": -16.07,
+        "win_rate": 50.0,
+        "avg_return": -8.0,
+        "median_return": -8.0,
+        "best": 0.06,
         "worst": -16.07
       },
       "40d": {
         "win_rate": 0.0,
-        "avg_return": -15.16,
-        "median_return": -15.16,
-        "best": -15.16,
+        "avg_return": -8.95,
+        "median_return": -8.95,
+        "best": -2.75,
         "worst": -15.16
       },
       "60d": {
         "win_rate": 0.0,
-        "avg_return": -40.87,
-        "median_return": -40.87,
-        "best": -40.87,
+        "avg_return": -24.34,
+        "median_return": -24.34,
+        "best": -7.81,
         "worst": -40.87
       },
       "name": "Coforge",
@@ -993,41 +958,41 @@
       "symbol": "MUTHOOTFIN"
     },
     {
-      "n": 1,
+      "n": 2,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 0.0,
-        "avg_return": -6.99,
-        "median_return": -6.99,
-        "best": -6.99,
+        "win_rate": 50.0,
+        "avg_return": -3.17,
+        "median_return": -3.17,
+        "best": 0.65,
         "worst": -6.99
       },
       "10d": {
         "win_rate": 0.0,
-        "avg_return": -2.21,
-        "median_return": -2.21,
-        "best": -2.21,
+        "avg_return": -1.94,
+        "median_return": -1.94,
+        "best": -1.66,
         "worst": -2.21
       },
       "20d": {
         "win_rate": 0.0,
-        "avg_return": -12.15,
-        "median_return": -12.15,
-        "best": -12.15,
+        "avg_return": -10.52,
+        "median_return": -10.52,
+        "best": -8.89,
         "worst": -12.15
       },
       "40d": {
         "win_rate": 0.0,
-        "avg_return": -20.67,
-        "median_return": -20.67,
+        "avg_return": -22.72,
+        "median_return": -22.72,
         "best": -20.67,
-        "worst": -20.67
+        "worst": -24.77
       },
       "60d": {
         "win_rate": 0.0,
-        "avg_return": -26.68,
-        "median_return": -26.68,
-        "best": -26.68,
+        "avg_return": -24.86,
+        "median_return": -24.86,
+        "best": -23.05,
         "worst": -26.68
       },
       "name": "PB Fintech",
@@ -1122,41 +1087,41 @@
       "symbol": "APLAPOLLO"
     },
     {
-      "n": 1,
+      "n": 2,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 100.0,
-        "avg_return": 1.57,
-        "median_return": 1.57,
-        "best": 1.57,
+        "avg_return": 1.76,
+        "median_return": 1.76,
+        "best": 1.94,
         "worst": 1.57
       },
       "10d": {
         "win_rate": 100.0,
-        "avg_return": 0.24,
-        "median_return": 0.24,
-        "best": 0.24,
+        "avg_return": 2.19,
+        "median_return": 2.19,
+        "best": 4.14,
         "worst": 0.24
       },
       "20d": {
-        "win_rate": 0.0,
-        "avg_return": -0.53,
-        "median_return": -0.53,
-        "best": -0.53,
+        "win_rate": 50.0,
+        "avg_return": 3.02,
+        "median_return": 3.02,
+        "best": 6.58,
         "worst": -0.53
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 1.38,
-        "median_return": 1.38,
-        "best": 1.38,
+        "avg_return": 6.03,
+        "median_return": 6.03,
+        "best": 10.69,
         "worst": 1.38
       },
       "60d": {
-        "win_rate": 0.0,
-        "avg_return": -13.25,
-        "median_return": -13.25,
-        "best": -13.25,
+        "win_rate": 50.0,
+        "avg_return": -1.38,
+        "median_return": -1.38,
+        "best": 10.5,
         "worst": -13.25
       },
       "name": "Persistent Systems",
@@ -1386,41 +1351,41 @@
       "symbol": "NEULANDLAB"
     },
     {
-      "n": 7,
+      "n": 3,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 71.4,
-        "avg_return": 1.76,
+        "win_rate": 66.7,
+        "avg_return": 2.5,
         "median_return": 1.24,
-        "best": 10.97,
-        "worst": -11.87
+        "best": 9.11,
+        "worst": -2.86
       },
       "10d": {
-        "win_rate": 57.1,
-        "avg_return": -1.45,
-        "median_return": 0.28,
+        "win_rate": 66.7,
+        "avg_return": -3.15,
+        "median_return": 1.34,
         "best": 5.99,
         "worst": -16.78
       },
       "20d": {
         "win_rate": 0.0,
-        "avg_return": -9.38,
-        "median_return": -10.36,
-        "best": -0.88,
+        "avg_return": -12.7,
+        "median_return": -13.51,
+        "best": -8.29,
         "worst": -16.32
       },
       "40d": {
-        "win_rate": 57.1,
-        "avg_return": 8.68,
-        "median_return": 14.65,
-        "best": 29.03,
+        "win_rate": 0.0,
+        "avg_return": -10.65,
+        "median_return": -10.23,
+        "best": -6.57,
         "worst": -15.14
       },
       "60d": {
-        "win_rate": 28.6,
-        "avg_return": -6.06,
-        "median_return": -2.34,
-        "best": 13.37,
+        "win_rate": 0.0,
+        "avg_return": -20.3,
+        "median_return": -19.19,
+        "best": -15.73,
         "worst": -25.97
       },
       "name": "Force Motors",
@@ -1474,43 +1439,8 @@
       "symbol": "ECLERX"
     },
     {
-      "n": 1,
-      "note": "Price-only; no point-in-time fundamentals",
-      "5d": {
-        "win_rate": 0.0,
-        "avg_return": -11.7,
-        "median_return": -11.7,
-        "best": -11.7,
-        "worst": -11.7
-      },
-      "10d": {
-        "win_rate": 0.0,
-        "avg_return": -7.36,
-        "median_return": -7.36,
-        "best": -7.36,
-        "worst": -7.36
-      },
-      "20d": {
-        "win_rate": 0.0,
-        "avg_return": -11.85,
-        "median_return": -11.85,
-        "best": -11.85,
-        "worst": -11.85
-      },
-      "40d": {
-        "win_rate": 0.0,
-        "avg_return": -18.08,
-        "median_return": -18.08,
-        "best": -18.08,
-        "worst": -18.08
-      },
-      "60d": {
-        "win_rate": 0.0,
-        "avg_return": -31.26,
-        "median_return": -31.26,
-        "best": -31.26,
-        "worst": -31.26
-      },
+      "n": 0,
+      "note": "No qualifying signals",
       "name": "Greaves Cotton",
       "symbol": "GREAVESCOT"
     },
