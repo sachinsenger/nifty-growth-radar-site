@@ -1,0 +1,1947 @@
+{
+  "date": "2026-09-01",
+  "items": [
+    {
+      "query": "India markets",
+      "title": "Nifty 50 Falls 146 Points to 24,029 on August 31 as $90 Crude Extends India\u2019s Three-Month Slide - The Eastern Herald",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdWZDSTUwNmxYdHFNalcwamlsMDVVaGx3WmJfVnAxR2gyQUlJa0YxeWc4UFVGRDB2VDNpaVhzeWUtekY5VHN3Z25OSHdSLUxwTnlQZ0tOb1dSS2hnY2EtNmlhY3k4eS1MWDZzN09fR3BEek55SWc?oc=5",
+      "description": "Nifty 50 Falls 146 Points to 24,029 on August 31 as $90 Crude Extends India\u2019s Three-Month Slide &nbsp;&nbsp; The Eastern Herald",
+      "published": "Mon, 31 Aug 2026 12:07:44 GMT",
+      "source": "The Eastern Herald",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India bonds slump on Fed rate hike bets, benchmark trades at discount - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEFsOThya3hhNnlWcFVsc2hUWjE3NkRXcGI0QUo0WTNwRXRfYVVSU2daYzBoZUJwZTBzSmgxaWhBZEhCRXN3RzF6Z2ctaXpIMUMyYUtfQ3VwUXNkNEExQldrTjBWODJ0NGZ6RkFyc1BWaDRmS1RLUnJMSVhZM0NjZmU3cmVzci1qcmgzMmxrc1I4a0JzbVh2TUswYlFIaGVKQ2NaSHdzNkZidDMtdk1jbEhZWmtUQlNaQ0pCZkF6Vno2TUFQSWtHNmhpc243bkpfSVHSAdcBQVVfeXFMT0ZMYktNblpuYWtKVnZDZGM5dFoxeTNxNWw3RUdUaWhFNUs2akItbHhkWG9ITUVvZ0syWWo2RDVBUG04bGxaU1oyQmJKcjFzb1hyMG1rOVlVS1c5cVhUTFpOTWFRWF9PcnVBWHk4empYT3pac24zcEUyWVNGQ2ZlN1FhNGRMT3Q4NF9CZ2pMQUMya0JtODJIWHh1UGJKcU5YMkkwYUhvRDZNN3BkeXNkYVZkU3lLZGZUTFpDMUdKaGJuTWRQWDBBazB3VUNwV25FbU8waHlnWFk?oc=5",
+      "description": "India bonds slump on Fed rate hike bets, benchmark trades at discount &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 31 Aug 2026 07:00:17 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Indian Inflation Well-Behaved States Chief Economic Advisor - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTG1GWktZb2cyc0NkTkFQam82VDZWa2ROODJBclEyQ2FMZjMyQzhlYVBxREFvS2k1aVZxNU4tbVB1U2VOQ1M2bTNkbXVhVVlERG1QSmpDSUUwX0pGWXBPeGZZMWoyc0xkMnZCdDZnZm1LOGRqdU8yQ2x6akZMMmtiazRqakRwTkhSdlVWalYwQ0hHWEhkNHF1RDVKNU1scUE?oc=5",
+      "description": "Indian Inflation Well-Behaved States Chief Economic Advisor &nbsp;&nbsp; Sahi",
+      "published": "Mon, 31 Aug 2026 12:40:40 GMT",
+      "source": "Sahi",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Auto",
+      "title": "Toyota and Honda may get stuck with the bill for Trump\u2019s Canada tariffs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb09rNTJxd0V5ZWpoWGVfZERRQjAzS0N4Rm01NE5uaUpFTWw4d3VodVh2Nnp6dHdWY3VHRi00R1pCbUdXa2dMTXZGT3IzaXdlR2NvSy1saUNYeURRamZCVWdFY2VMb3JmWmxXd2NSa2N6UVR4SV8wUnJmX3FPd3UwZjVIaU9IY211OUI0WFVjUU8wRWt5YWhObkNEcWR2NjJFNTBYZlYtZ3B0YmstWTNiOVJWa09DUnZNZnJkYWlxWDF1QQ?oc=5",
+      "description": "Toyota and Honda may get stuck with the bill for Trump\u2019s Canada tariffs &nbsp;&nbsp; Reuters",
+      "published": "Mon, 31 Aug 2026 04:42:53 GMT",
+      "source": "Reuters",
+      "stocks": [],
+      "sectors": [
+        "Auto"
+      ],
+      "affected": [
+        "Auto",
+        "IT",
+        "Pharma",
+        "Metals",
+        "Chemicals"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Can US Iran Escalation Push Global Markets Toward Higher Rates? - Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXQ4SkZQaFJwbjc1QnBMTERMYVZvOVM5NUJQYUhNengxNlRvR1JEd0lKZE1PVF94eTBCelJTRmRUNWpZczM1OWItcmlOUjU1RllIZlRRYVhGMmd4WTJsNlVhMmhrOXNVZ2VNUFJIWjVFTVFiTzN0VDFEU1d6QjhQVFRGMEdQLUFxVmEzOXpVY2dxX1lPLTNwU2NQNnc1dzJyQko0?oc=5",
+      "description": "Can US Iran Escalation Push Global Markets Toward Higher Rates? &nbsp;&nbsp; Modern Diplomacy",
+      "published": "Mon, 31 Aug 2026 09:25:38 GMT",
+      "source": "Modern Diplomacy",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Global markets fall as Fed rate hike expectations, Middle East tensions weigh on sentiment - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGNSb3ZoenlJajZiWEpESVFabnlmSmhaaEpxeTRYUjllNkVOQjV3alVLdENZTnFwU19FMU42UV84eHhNUVlCT1pMcEdVMDc2OVdDNDF1aWtFV0Q1WVpielJrX2NyTDVrWEJNN2pZTzJnQ296TktiR0o5N0dKc2RXNzc5VXhmOVMyaGlkTXpwMzV1WkZ1R0NmRExkay1Zdk5BdFJfUmZua3V4WDJWMm9SQlR6MlpWQ1NEbEFLbERSV19ZbHdjUkZ3WFhn?oc=5",
+      "description": "Global markets fall as Fed rate hike expectations, Middle East tensions weigh on sentiment &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "published": "Mon, 31 Aug 2026 08:07:14 GMT",
+      "source": "Anadolu Ajans\u0131",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Market Quick Take - Warsh turns hawkish as Hormuz risk returns - 31 August 2026 - Saxo",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX21kQkl1Yk9xbmJaWW91bWxiTGJrQUFFaDI4Y3ZCQ2lrQmFTRE90WEVjUEl3cWlwVVhsQnVRVThvUV9SclBranVhaV9BZTBXZmxBYklWMC1IbDRLTVdYeXh3NUtYUi04c0JCR1VRV01fT3NpNWp2UEtJcDY0Uk9id2NyVHZpMUM5d2dWVlZrWXJ1c04wQzVnQ3ZwSE5mWkVXU0s4c25UYjJLLUxNbG5DSkRHYUZxdEtEQUttTjRZenlOQndieTE5U3c5OGtqZkExeTY2bUZB?oc=5",
+      "description": "Market Quick Take - Warsh turns hawkish as Hormuz risk returns - 31 August 2026 &nbsp;&nbsp; Saxo",
+      "published": "Mon, 31 Aug 2026 07:26:16 GMT",
+      "source": "Saxo",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "Nasdaq Today: Tech-Heavy Index Slides on Iran Sanctions and Tariff Fears - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzF5YmxkNHh3MlNqN2cxS3BSVzRtZnVON2g4OGpzRUEyemVfYkpQb3VTQ3JYdUlRVGoybXVIbGJEOEdyY2UyZ09wdHhlb21TaC0zTkdsZmk3MFE4eXpVY3M2SHprcW9GNVJBdUw4RDR4Y19HZTZvYVYwTTVHd1JkTExDRGlDMHZzZUNwOGh1RjlxLVVsY0tFd0QzS0J3TkhoMk1DaHV1NG9VTVk?oc=5",
+      "description": "Nasdaq Today: Tech-Heavy Index Slides on Iran Sanctions and Tariff Fears &nbsp;&nbsp; BBN Times",
+      "published": "Mon, 31 Aug 2026 20:53:23 GMT",
+      "source": "BBN Times",
+      "stocks": [],
+      "sectors": [
+        "AI semiconductors"
+      ],
+      "affected": [
+        "Auto",
+        "IT",
+        "Pharma",
+        "Metals",
+        "Chemicals"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "AI semiconductors"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Foreign buying in Indian stocks hits 23-month high in August, RBI data shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHFqREx4OGJ4T0NFMVlHaDZ4aDQ3VTE3ckFZX0JPVk1rRFBBSWxNX25fZkRuYTgyUnJfNlNUUmd1ampBUXZBQ1c4Y3JvYnRKMkh6eVdENFJSTWFQZ3FHVWZ3dDhBbUx1ZXlBY3ZjcEg3ZWNVVk9kNGowdENSZFNuSnRoLXkyNWNSQVpyVndFYUJyYl9kUVNGSDNybGtuZzNzc3laNHJya3ppNG91dDRWZE5SeVh5Vk82?oc=5",
+      "description": "Foreign buying in Indian stocks hits 23-month high in August, RBI data shows &nbsp;&nbsp; Reuters",
+      "published": "Mon, 31 Aug 2026 14:46:01 GMT",
+      "source": "Reuters",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "description": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News &nbsp;&nbsp; News On AIR",
+      "published": "Mon, 31 Aug 2026 14:21:17 GMT",
+      "source": "News On AIR",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Liquidity in the economy: What it means, how RBI manages it and why it matters - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFoyM1p0N1ZfZWdxdWVpUkFJcEZmTUxrcmM4ZnRyNHFLRGVhdXQxTWVRTDlab2tJd2FZUi1CVU0yNS1QR3dsbF9IRmN1dW1wVnJHWjQzenFmVEt3Z0FucjJaT2lURjczUXA3T0lYcVUwSVN4b1RyWEx4UnZUbTBtV0dXOTR5Y2xGWTNfRjdJbzY1Z1FZdTBnb1VTV1RmVFhseU1CRFVhQ1FYMExYUU1xQ0RPb1lUbXFEelM3ZFdRdDlLQ2NKbDlqRVBCaDV4N1N3bUloakhSeld0VGx0YTk0Q0gzYkdTMEZCX3hqanJR0gHuAUFVX3lxTFB4WjIzWnQ3Vl9lZ3F1ZWlSQUlwRmZNTGtyYzhmdHI0cUtEZWF1dDFNZVFMOVpva0l3YVlSLUJVTTI1LVBHd2xsX0hGY3V1bXBWckdaNDN6cWZUS3dnQW5yMlpPaVRGNzNRcDdPSVhxVTBJU3hvVHJYTHhSdlRtMG1XR1c5NHljbEZZM19GN0lvNjVnUVl1MGdvVVNXVGZUWGx5TUJEVWFDUVgwTFhRTXFDRE9vWVRtcUR6UzdkV1F0OUtDY0psOWpFUEJoNXg3U3dtSWhqSFJ6V3RUbHRhOTRDSDNiR1MwRkJfeGpqclE?oc=5",
+      "description": "Liquidity in the economy: What it means, how RBI manages it and why it matters &nbsp;&nbsp; The Times of India",
+      "published": "Mon, 31 Aug 2026 13:36:00 GMT",
+      "source": "The Times of India",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India's April-June GDP growth beats estimates at 7.8%, stays resilient despite Iran war - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1AxUVJTazNHa3RadmoxSEZfSG5hNHNlTTh0ams4bUJiX0w1dnJMeHNrZ2pGakpEOVBPT0ROeUMzQWM3cV9iZ0lKcnAtbXByb2lQWlg4SkRGRHY5dXpTc2c2MkRRbkNuU3pIVE9kQldheTVQY2RkZG50dDFhQmRBQ2ZSUjNHVFE0LXUtVTltVE1WOUYwTUVXSFJJZGpMYm4wRTR5WWk2dFB6ZEY0NTdxVThsXzZqNWJISHNwTHZrTUJPQWV0ci1faE1tTWVwYTTSAdwBQVVfeXFMUExNNnhBdkZtemdXZ2x5dDRkOGVCY1N0aUJCTWEtREhHMGFkeEtWZFlTb2t3ckZUOWZ2cnlJZVc2dUZzVkhIVnVZQ2NlZGh3MVFWeEZvb0JGRl9oWk5qY016c1FqeTZkeDE0M1hrczZRdWREWjg1SXB3cUNld1lPYk9meDZISFJwbVZjZXFvMXJwc19rczVlM3pwZU9LUEtWUXlEc0E3OTZFaHNXZHJkRUNOMC1uR1lydWF2ZnJtN1djY2N3dER2SzV5c2dDWUF3TTVzTHF3el8zTl9JNA?oc=5",
+      "description": "India's April-June GDP growth beats estimates at 7.8%, stays resilient despite Iran war &nbsp;&nbsp; The New Indian Express",
+      "published": "Mon, 31 Aug 2026 11:44:27 GMT",
+      "source": "The New Indian Express",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India rupee hits near four-week high on equity-related flows, RBI support; logs monthly rise - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVBydllGZE96REQzbFZyM19xRWxMclNxWDhxSlpNZ0ZoQUltZ0VCVmdiLWFYb1U3TUNWdFhQS3g0NXZkZ2d4cDhkZGFENVBEYmc4QVp4VmVMUlpTUkxtNjdPdmZBb2NyeFVkMmlsQnpFN01fTEYwUnFVUG9XM29aZFJxck9YTkM0U1ZSejQ4N3Y4WUhsUFJMNHA4QmNVT1pIdE11WDc1eUx4QUw3aW9Pa0YyaVp2blRjbGRDREdOYlU2cmxCMG5WSkFnNE9IMmlLZXFGQ0tVa3A1cENtQk9UY0hzNlpoOF9vSjZ4ZUdndHZja1dBSzQ1Uzk5MlFVUdIBgwJBVV95cUxPbmw5bjJud2RENHM0SUN5U2E1ZWRDUE9lMmZ4T0JxdFdHdTIwTE44MnNuY0haZFNjaFhEdTdwTFZseFl6alZEWW1CdzJTUEJFVmdmMHlLM05pSUtYbWpnUDJ3ZHl4M2J3TEk5OE9qeE5vMmNoaTRJM1FzM3RKbjJkelFhOHlCenFXR0RwRGFKWE9rWjBhWGJObGluMk5LdmJ2S1l0bzBqNS1rVzNSSS1nWmlYVTB0akFpUTFBeHEwTWxicGdxZFRxbjIyY1l1T3ctTV9NSkM3NFVoVHRXTmREd08yNGRETEszc1JHLW55U1N1VW9vQTJGZVFSV18zWlBWMDZn?oc=5",
+      "description": "India rupee hits near four-week high on equity-related flows, RBI support; logs monthly rise &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 31 Aug 2026 10:40:30 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI's liquidity mop-up auctions see tepid demand as surplus tops \u20b95 trn - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYzREWnQ2SE5xdjNRd2R4Rm1qbU5hWi1VdlBCX3RQNmxjbl9LRENmZ3ZKNUtTVXJhdkFPclFqOFFoVWZOYmlZVm5lVVBqWENRaGlXVTlkeGJWa2IxaEhoa0tocXBUOTN3MzNRajloZWg1NHNpUFJrTzVSZDRDbGx3aU9ETExIWTFkVTNGWkNzWEdWUEVaRXJ3OGM0YmxmT2NCQkNfRTRTamJqWDRVNzhzVHRsa2s1cGlGc3JJaUZ2T2dYU3Z0S1E4VlNjX01FQWRZdGo5a0JsSFLSAdgBQVVfeXFMT2M0RFp0NkhOcXYzUXdkeEZtam1OYVotVXZQQl90UDZsY25fS0RDZmd2SjVLU1VyYXZBT3JRajhRaFVmTmJpWVZuZVVQalhDUWhpV1U5ZHhiVmtiMWhIaGtLaHFwVDkzdzMzUWo5aGVoNTRzaVBSa081UmQ0Q2xsd2lPRExMSFkxZFUzRlpDc1hHVlBFWkVydzhjNGJsZk9jQkJDX0U0U2pialg0VTc4c1R0bGtrNXBpRnNySWlGdk9nWFN2dEtROFZTY19NRUFkWXRqOWtCbEhS?oc=5",
+      "description": "RBI's liquidity mop-up auctions see tepid demand as surplus tops \u20b95 trn &nbsp;&nbsp; Business Standard",
+      "published": "Mon, 31 Aug 2026 15:30:17 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Rupee jumps to 4-week high, ends at 95.16 to the dollar - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnJYMjhmYUEyTE1HMDJJTnFoLVBSd1UyczdNVGNUa2huaXR6Q0dHbEoxVENqQ2ZNb2diUHBXQ3BJUnRybkhpd1ZxWTVTZkJtNV95Q3YxbHZ4MURTR2k5UlN0Q0RFN3hSdEZ3UmxldXBUeDFrczh4bXhLQXRGRjdTcXVNeHhNNDl6RHN0LWNVSFBKcHpJaElnSnM1QkdsaGhnX2c4SklnemdRQkxCdGx6X2lqQmVWUjVUdkI3Z0tJWktKQ2xGdnk5aFlVRVEwUdIB0wFBVV95cUxNVFlYYUJMMk9ubmRWV1FCWjJaNmRGY0xBUTMxbnp4TTROUlJCM2dIWGtHS1A5aHB2cHBSSmMxNjZabFkwNVNZc3dydmppLWFYVkhQX2V5TGtJbVM1VHRZd1VRM0ZjZlVNVG9OMV9lVFpzbWtSRE5LbC1Wb0RuaDFGcUN5SUJ5TWRTdDFCV0Zfc3laRW5VS1hWWkthRlE2TElkQVBpMXZnYjNlSW5OOUQ2bnFJaHd1QjhZNHdQOWpoQ3lnc2ZvYmRpZVlOR2FyT0lfc3Jz?oc=5",
+      "description": "Rupee jumps to 4-week high, ends at 95.16 to the dollar &nbsp;&nbsp; The Economic Times",
+      "published": "Tue, 01 Sep 2026 00:40:19 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Intervenes in Spot and Swap Markets to Stabilize Rupee Amid Oil and Fed Headwinds - psuindia.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjExMS1HeXFqZ09KR2p4ZjgzQW5qMzRSbXlaOXNQSkpRQkplaTFfLUROWHJyaTF6bFptREpVd2FRQ1hFaGFCa19pM2RCaGk0U3dDLUs5WXFlMDhNX0VES1pIbEZCenIyODZPXzJtMEJiNUVRMHloV2hYSnotcy1DbTc0U195NTlkTlFZNjJGcUV6TlJ4aDFTRUFkUWphVDMxb2I5QTBHUjlDMFpOcUFSOVpKVk1ZLXI4YWN1SG5ORjFLSlMzLXl3OVU1bkgxMEJ00gHQAUFVX3lxTE9WMTExLUd5cWpnT0pHanhmODNBbmozNFJteVo5c1BKSlFCSmVpMV8tRE5YcnJpMXpsWm1ESlV3YVFDWEVoYUJrX2kzZEJoaTRTd0MtSzlZcWUwOE1fRURLWkhsRkJ6cjI4Nk9fMm0wQmI1RVEweWhXaFhKei1zLUNtNzRTX3k1OWROUVk2MkZxRXpOUnhoMVNFQWRRamFUMzFvYjlBMEdSOUMwWk5xQVI5WkpWTVktcjhhY3VIbk5GMUtKUzMteXc5VTVuSDEwQnQ?oc=5",
+      "description": "RBI Intervenes in Spot and Swap Markets to Stabilize Rupee Amid Oil and Fed Headwinds &nbsp;&nbsp; psuindia.com",
+      "published": "Mon, 31 Aug 2026 11:18:37 GMT",
+      "source": "psuindia.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Explainer: How RBI\u2019s inflation targeting ensured price stability & growth - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaGpZWE9PZWZEZloybHhnZkJzTWd2enc3X3pFemZRYlJxeV9FQnZuOHVTaDVWWi11S3JLNnU1OWR4TVpIS0NVUzV1dlZEbnd4WS16TDVacy1XY3A0TTg1Y2JRekVoMUplYmFZckFGZ0t5YmsxbExFRDVnbWZBR25kaGVRWWxsMVVtMGdUNk5fR2ZPRjZIT25GUHA1RWpBZzlMWmYwMGVRLXVXV3pVRGg5VHJWRHZodGlwaXh5TWlFRnhjQjRqdXJpOGhRYUVUYjht0gHQAUFVX3lxTFBoallYT09lZkRmWjJseGdmQnNNZ3Z6dzdfekV6ZlFiUnF5X0VCdm44dVNoNVZaLXVLcks2dTU5ZHhNWkhLQ1VTNXV2VkRud3hZLXpMNVpzLVdjcDRNODVjYlF6RWgxSmViYVlyQUZnS3liazFsTEVENWdtZkFHbmRoZVFZbGwxVW0wZ1Q2Tl9HZk9GNkhPbkZQcDVFakFnOUxaZjAwZVEtdVdXelVEaDlUclZEdmh0aXBpeHlNaUVGeGNCNGp1cmk4aFFhRVRiOG0?oc=5",
+      "description": "Explainer: How RBI\u2019s inflation targeting ensured price stability & growth &nbsp;&nbsp; financialexpress.com",
+      "published": "Mon, 31 Aug 2026 13:58:29 GMT",
+      "source": "financialexpress.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONUExaWMxenBGOW4wYlhfQVdRTHJvWlNuUnMwMFlBeDNJTVl0RlNOcHI4QkJSWWV4WFJNdU4tbWpoTlkyY2I2cjR3UUNLSTdHNDFQeW9HTWNRRU9vQ1VVdC1tRGdkN2JSOWJFT0tlcUZiV0h2NHhlZVpVbl9HN1pkNS1kbHcwcUpxNW5ZWjRBS0FsUE92RE1NQzFBR2xZamp3TmRVOE5jWUFkVF9fQkhTZXlESE5VREV1d1dhTlREYVN4LS0weWMzeFZyYVc3bVY0NkNPempqRHBfR29jWnVxU3ZRelpIb29QaVlRVlFvTXU3NWdMY2530gH8AUFVX3lxTE9BQmZaY2tvRFhYd1FZd2VueVpRRXkwMmNrcG5Ocnd0VGdVLWhlUjl5UFdRNkdsOTM1U0ZreVRlb0d6czRlcUY0ajlORklyQzhFYno4cXZ6cmEwakEtdFllVkhkWUVRQjIzdGV4TEI3SHNudU1xWkNpbUU3NHYyR1NzMjU4Ymlva1NRUHlWX1BzOV9tX0xVUmtOWHRBT3RUVzc1WFNIcGxNbDdOcklpb1BGaXlGZlZpSGFGWWpzTUNXOEMxYUxKaUdqeC0tdG5KYTJPLXJUWlVSNzNFSVNOWVhzYk9oWGVFeFcyd1VfWXlHdDU4SXJtMWJxOEFXWg?oc=5",
+      "description": "Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut &nbsp;&nbsp; The Times of India",
+      "published": "Tue, 01 Sep 2026 02:03:00 GMT",
+      "source": "The Times of India",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "IT",
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Tops $91 As US-Iran Tensions Put Hormuz Supplies At Risk - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2Juekc1MUI1M1Zfd1dYSkZXVW5ZYmlYMFkxcUVncWhGdzQ1aVRBYUtQcTltTUE4TzRWNENBZWE2VGtUWmZqOTBRc0JRRzFOT0RyS1ZUTDJxYVktVWdDOXpCSGN6VW5sSTIwMGJqYkFmTXZBWTZIQjAzcmhIdDd3elRwMmdsV0hVM1ZaNGlpS1VFWTMta3pMYVlvYVdWWmUxdG9icXJXTEc?oc=5",
+      "description": "Brent Tops $91 As US-Iran Tensions Put Hormuz Supplies At Risk &nbsp;&nbsp; BW Businessworld",
+      "published": "Tue, 01 Sep 2026 02:05:01 GMT",
+      "source": "BW Businessworld",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil price today: Brent tops $91 as US-Iran strikes raise Strait of Hormuz supply fears | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMmVrZ05JQld1MTB5N1NiXzlEaXg0Qk5tTGVvaWdhUy1XNU0wNWhYeFMtNmw4VzA0dnpyNXhwYlI5N3luWDJLcWlyTTZVMDZfMzNmeExMTnE2ZmROamZrejJ3dTVfVzlRSzl5N1piZDAyTXg2QlhXVUZUMXZPZUUzY2E1bnhleEVFYy1jbGpBYzJ0cmp3SlV3SUlKZlByU284bjdNR0s5RHktb1oxTkpZUXFhelJra0hRam1MUHZmWEFUcWw3MXl0Y0hnekotRDRaaklXdXBPZzJ6d1JfREZwNWNQaldvUm51WVVF0gHwAUFVX3lxTE9VT0N0cUdZMXBvSkhWWXl2ZG0xZ0hvNjRoSVFqLVNtMW96OEZOUTY4WDZjSktOTkc5dnJMOHJyWWdvbXNLaHdXaUgtZ0V1N3k4Y0k5Z1JRdTRFTHRIZE9oTEl4R3JhNVpqLUN4ZVN1U0tmMkg0dDVNcG5zVU5uazJoUENTZVpwQ2M2aG1rdDd6YUhEaTdaUk9XaGNJVTQ5LXFmRnFoR19mb1ZyNnBtNlBMbUtQc0NlYVlsYkEtVmwxWlZMbnpWVm1CeWhhMVlnanZHRTZ4TGtpQWhCOEYwX3Q1TGNCOW41MnAwYkZuVjUtbQ?oc=5",
+      "description": "Oil price today: Brent tops $91 as US-Iran strikes raise Strait of Hormuz supply fears | Hindustan Times &nbsp;&nbsp; Hindustan Times",
+      "published": "Mon, 31 Aug 2026 11:26:32 GMT",
+      "source": "Hindustan Times",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
+      "description": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days &nbsp;&nbsp; LiteFinance",
+      "published": "Mon, 31 Aug 2026 17:48:43 GMT",
+      "source": "LiteFinance",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Price Today: Brent Jumps 1.2% After US Strikes Iran Island - Univest",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBra1dKZFg5QnhIR2dBdWp0M3JoVV80V3JKd2xxRmJIbGxQZVowQjZMWHJEQnhheWV2WmdtODJVQ1RzQVo3R2c0NzJoZ3FOYXlaZ2tLR0VIVnNCbmxwX04wLUFZQXlZZw?oc=5",
+      "description": "Oil Price Today: Brent Jumps 1.2% After US Strikes Iran Island &nbsp;&nbsp; Univest",
+      "published": "Mon, 31 Aug 2026 06:31:00 GMT",
+      "source": "Univest",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Crude Jumps Above $90 as Middle East Escalation Hits Shipping - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeFl4S2FyV04tZnZkYmtYLVZfby14Y3Rob3hBTlhqV2o4SzhZbVIwVmhibllUNkR4cC1qNkFtelRLU1B5bU1XR3VYak01YVZXRGJTYmw3UHlzLXBwX0dCVzF1S1Z4X25yZi1fQjN0bURydEN4RHlSX25uZzdBRGVXQVNrM2wydjg1bHhLVDBzY3Y4TjN3N1ZUUkxQdkdvN2lmdWJkWlY0dWMxR2NXZjh0dHgyMlFJcGU2amdUU0pKbXpNc3lrU2U3V3NfNmh1OHpleDA0eTBHNzNZcnpmdVlnZmdoQzI1U0Vo?oc=5",
+      "description": "Crude Jumps Above $90 as Middle East Escalation Hits Shipping &nbsp;&nbsp; HDFC Sky",
+      "published": "Mon, 31 Aug 2026 04:33:11 GMT",
+      "source": "HDFC Sky",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Global Market: Emerging Asian currencies fall as Fed hike bets rise, oil prices surge - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNnZjSnFvaXMtNEozcmVFMVYta19HOXFLV0tBTXQ4Y1J0cnc4WWJ0dmhWYU5FS2N0RlRqd1JtanZCdnRTeGRqbVJPd0tvT0FXMHFHZ1ZZbHdNaHFnOWd1RWhZenhhUWs3STBVT01NVmVFdko2WkZCdGh6NkZiRHFObkdqUHdnd3pVYW1xbXZ6WXNaamN3b3JpWEc2QjdXM1QzYTBmUklqaHhsMHdpYkJjbVQxTzdJZGIxdDk4SkJ2bU1lOE9vMnRpcjNoREN4el90bWplM0NVQVVMUm9DSVhXZnV4a21wWEVxay1ILXFyZzhLQdIB9wFBVV95cUxPdzlrajFpS3ZTNHJXeHBldHhHREloWmU4alVrelI1bF9hNVdISkozeWdhTHJNUi1DdnNzOWVHQXVBQjBVM3l5UVFNMEhaR2FaakVudFlKWEdZX1BnS2lPWEFQTU56SU1nMXZ6TlJxVUozVkF6M1docHpETWxSak1uSG1JWXJkaXZha3JfRnEyUUxDYnp6SUZmTjdHUjE3TndnUkpFTngtWm9UbEhPSDRPd29tUjA2NFZxS0tGRktSXzJyUDVFVXl5dGU3b2tfYWpsb3BIcU5lMkJRcmQ2NHZpQ2twTUd2cEE2VXJubC1YNGVNcXJtMURz?oc=5",
+      "description": "Global Market: Emerging Asian currencies fall as Fed hike bets rise, oil prices surge &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 31 Aug 2026 11:44:26 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "No Rate-Hiking Map From The Federal Reserve - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUdwX1g1S3BhZGphN0dIY1d0d3Zfb0hVVWxXU3IySmxnVTVmTl9MVW1tLTZiOE9wdUZlVExmNGd5WnBqOGd5Q19jR3hKRFI3aUtCTENYU1pIUTNpejhfUlpGekJhcVZhdUlkSGlGMXJPT0doMG93Q0VDUVU4UW9LVHhOSnlaSVU?oc=5",
+      "description": "No Rate-Hiking Map From The Federal Reserve &nbsp;&nbsp; Seeking Alpha",
+      "published": "Mon, 31 Aug 2026 18:05:00 GMT",
+      "source": "Seeking Alpha",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Asia Markets Slide as US-Iran Clashes Send Oil Past $90 and Fed Hike Bets Jump - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NeGFneHpwZWl2WHJFVmpMcG1TMWZ1b3ZyVjdxSEQ3MUNxNzVqbTdmdU5wXzRWdjVSZk9pR0JNN0RpaWJwRk5ZQlUtMERMREhXMkpkYVFwVWRTWUdEdDFSVkJ5bkZNVVlUb1pUUkxrTVg2ZlRKTHc?oc=5",
+      "description": "Asia Markets Slide as US-Iran Clashes Send Oil Past $90 and Fed Hike Bets Jump &nbsp;&nbsp; finance.biggo.com",
+      "published": "Mon, 31 Aug 2026 07:35:00 GMT",
+      "source": "finance.biggo.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Brent Oil Surges to $90.51\u00b7U.S. Treasury Yields Spike...Asian Stock Markets Weaken : \uae08\uc735 : JKN - \uc7ac\uacbd\uc77c\ubcf4",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEUjBwUW54WVZ6SnRxUHBVUEtSdW1vaFhwVGkzYmw1VmVVSWdzOElRQWVpNVpEUS1ZbW1EUGQtbENxdk15Z0RfcHN3?oc=5",
+      "description": "Brent Oil Surges to $90.51\u00b7U.S. Treasury Yields Spike...Asian Stock Markets Weaken : \uae08\uc735 : JKN &nbsp;&nbsp; \uc7ac\uacbd\uc77c\ubcf4",
+      "published": "Mon, 31 Aug 2026 07:50:00 GMT",
+      "source": "\uc7ac\uacbd\uc77c\ubcf4",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2Q1Rm5tRHVKUGp5dTB1NkhaYkRKb0dtUjhHcDJQUzlYbUxfeW85MDlHanI1SHBQb3dvbDZuemV5SmNfSFItLWtVb281VjVCZDZTZTVaaWgwOEh1Y2JtekV3cmNuRjRWQW8zR1JtLU5PV3NPeW9zUThzaVNFcl9RYVdSZFdJci1qX0dsb2lWMFJPZ1p6RUdMX2J4ajJWcHR0UTR4MHlPVVNoeUZWTG1VMjNMblBNVzJlNjBXOUxZN2hvWVZtbWVJenNBYzRnQQ?oc=5",
+      "description": "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound &nbsp;&nbsp; BBN Times",
+      "published": "Mon, 31 Aug 2026 16:55:32 GMT",
+      "source": "BBN Times",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "IT AI",
+      "title": "Nifty IT tanks 2%; Infosys, Wipro top losers: What's behind the weakness? - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckd5ZWZRUU5RTEhxZG1sb1V2S2JNUTh0Ykt3RzFVclpSc0dVOVNnc1RDMkFxTFloVHlKd2EzREd1V0dWMFJwVVlVRy12Wjk5OXV1TExoNEFxZ3JmbUxUNEU1MVdjNmlOeXl0a0tKbkVlVnZzMTJRZHdSd1Bob3FpTk5XT0dWV0N0elVVcFpzdTZOZG9KenpDQjhFc3N6UjFNM2xtdGJkdEdoLV9UTnpSelRva0tOeFk5bmd6N0dBUTV3cHJwVmZRTE8tUDNUOFAx0gHWAUFVX3lxTE5DRFRlSlplamg2V0toSGJCb01ZYUJ6VkllX1NwX3JiTHVGV0IyZWxRM0tFUWlsZ0l5N19ycTJ2bmZpd2pSYmR3azFMR1B2TUJaTnM4bEdrUTFtZ21EUy1OeTVpcW1XOGdCakUybk1JWmdKLVFITk9UQzRXclBVQXJxeDlWYUJlQmV3UlN6dEdQLVUwaGZfc0kwRHJPUEp5UEFXTlBwdHlnSlN2VTRHNUZRS3BRd1FidWpjZko1QkJHa1NLRVhnalJ0YlkteWwtS2JHa2dLOFE?oc=5",
+      "description": "Nifty IT tanks 2%; Infosys, Wipro top losers: What's behind the weakness? &nbsp;&nbsp; Business Standard",
+      "published": "Mon, 31 Aug 2026 06:34:34 GMT",
+      "source": "Business Standard",
+      "stocks": [
+        "INFY",
+        "WIPRO"
+      ],
+      "sectors": [
+        "IT AI"
+      ],
+      "affected": [
+        "IT AI"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "INFY",
+        "WIPRO"
+      ],
+      "derived_stocks": [],
+      "macro": false
+    },
+    {
+      "query": "India markets",
+      "title": "Mahindra Expands Battery-as-a-Service Across Electric SUVs | Tata Chemicals Arm Wins Major Contracts | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQYlhZQTBESTlfQWFWWEhaLWJ5UHNOMXpFc1FuNXlJUkxTRDRwR2pTTHZxeDZRRkJzVGNMeXRNOWhHODhESHVwRTRES3BPRFpkOEJEY0UxeXRVR01UWm9ZLVNJTkFaZGI0TGZfNm1hRjJBMzlwamhoVElJdUpvNGVCOVNCT2ZaLWh0ZXdDTnJ5RzFtZFJ6Wk03YUNrbHVPZlNjY0NBM1l1c2FFOXQ1V0MycGJ5eEpzZGJuckNLZlRjQVFQazlDdWE3QVNPVTYxb3NiVVozb1d5VzlSeWp6R0pqUWh6QUJqV1pYa05aVV8xUlZWcEUwRkxXYmR0dUgxWE1VaTY5NkZTMW5lY2g3ZlVJaFBfb2djMVhfeWFfOUFSdExLZy03c3JZWGZBbmtIOXpGSFJaNVlkUGd2YjN2ek90cVVlMDI3STVTcFFIZ2EtNy1EMklITTlqY2VsU1VybWhmUWtQa2J1WkdKaGRadUhMWjZkYkhhdWRB?oc=5",
+      "description": "Mahindra Expands Battery-as-a-Service Across Electric SUVs | Tata Chemicals Arm Wins Major Contracts | Top Buzzing Stocks Today &nbsp;&nbsp; Equitymaster",
+      "published": "Tue, 01 Sep 2026 00:30:00 GMT",
+      "source": "Equitymaster",
+      "stocks": [
+        "M&M"
+      ],
+      "sectors": [
+        "Chemicals"
+      ],
+      "affected": [
+        "Chemicals"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "M&M"
+      ],
+      "derived_stocks": [
+        "PIDILITIND",
+        "ASIANPAINT"
+      ],
+      "macro": false
+    }
+  ],
+  "high_impact": [
+    {
+      "query": "India markets",
+      "title": "Nifty 50 Falls 146 Points to 24,029 on August 31 as $90 Crude Extends India\u2019s Three-Month Slide - The Eastern Herald",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQdWZDSTUwNmxYdHFNalcwamlsMDVVaGx3WmJfVnAxR2gyQUlJa0YxeWc4UFVGRDB2VDNpaVhzeWUtekY5VHN3Z25OSHdSLUxwTnlQZ0tOb1dSS2hnY2EtNmlhY3k4eS1MWDZzN09fR3BEek55SWc?oc=5",
+      "description": "Nifty 50 Falls 146 Points to 24,029 on August 31 as $90 Crude Extends India\u2019s Three-Month Slide &nbsp;&nbsp; The Eastern Herald",
+      "published": "Mon, 31 Aug 2026 12:07:44 GMT",
+      "source": "The Eastern Herald",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India bonds slump on Fed rate hike bets, benchmark trades at discount - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEFsOThya3hhNnlWcFVsc2hUWjE3NkRXcGI0QUo0WTNwRXRfYVVSU2daYzBoZUJwZTBzSmgxaWhBZEhCRXN3RzF6Z2ctaXpIMUMyYUtfQ3VwUXNkNEExQldrTjBWODJ0NGZ6RkFyc1BWaDRmS1RLUnJMSVhZM0NjZmU3cmVzci1qcmgzMmxrc1I4a0JzbVh2TUswYlFIaGVKQ2NaSHdzNkZidDMtdk1jbEhZWmtUQlNaQ0pCZkF6Vno2TUFQSWtHNmhpc243bkpfSVHSAdcBQVVfeXFMT0ZMYktNblpuYWtKVnZDZGM5dFoxeTNxNWw3RUdUaWhFNUs2akItbHhkWG9ITUVvZ0syWWo2RDVBUG04bGxaU1oyQmJKcjFzb1hyMG1rOVlVS1c5cVhUTFpOTWFRWF9PcnVBWHk4empYT3pac24zcEUyWVNGQ2ZlN1FhNGRMT3Q4NF9CZ2pMQUMya0JtODJIWHh1UGJKcU5YMkkwYUhvRDZNN3BkeXNkYVZkU3lLZGZUTFpDMUdKaGJuTWRQWDBBazB3VUNwV25FbU8waHlnWFk?oc=5",
+      "description": "India bonds slump on Fed rate hike bets, benchmark trades at discount &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 31 Aug 2026 07:00:17 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Indian Inflation Well-Behaved States Chief Economic Advisor - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTG1GWktZb2cyc0NkTkFQam82VDZWa2ROODJBclEyQ2FMZjMyQzhlYVBxREFvS2k1aVZxNU4tbVB1U2VOQ1M2bTNkbXVhVVlERG1QSmpDSUUwX0pGWXBPeGZZMWoyc0xkMnZCdDZnZm1LOGRqdU8yQ2x6akZMMmtiazRqakRwTkhSdlVWalYwQ0hHWEhkNHF1RDVKNU1scUE?oc=5",
+      "description": "Indian Inflation Well-Behaved States Chief Economic Advisor &nbsp;&nbsp; Sahi",
+      "published": "Mon, 31 Aug 2026 12:40:40 GMT",
+      "source": "Sahi",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Auto",
+      "title": "Toyota and Honda may get stuck with the bill for Trump\u2019s Canada tariffs - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb09rNTJxd0V5ZWpoWGVfZERRQjAzS0N4Rm01NE5uaUpFTWw4d3VodVh2Nnp6dHdWY3VHRi00R1pCbUdXa2dMTXZGT3IzaXdlR2NvSy1saUNYeURRamZCVWdFY2VMb3JmWmxXd2NSa2N6UVR4SV8wUnJmX3FPd3UwZjVIaU9IY211OUI0WFVjUU8wRWt5YWhObkNEcWR2NjJFNTBYZlYtZ3B0YmstWTNiOVJWa09DUnZNZnJkYWlxWDF1QQ?oc=5",
+      "description": "Toyota and Honda may get stuck with the bill for Trump\u2019s Canada tariffs &nbsp;&nbsp; Reuters",
+      "published": "Mon, 31 Aug 2026 04:42:53 GMT",
+      "source": "Reuters",
+      "stocks": [],
+      "sectors": [
+        "Auto"
+      ],
+      "affected": [
+        "Auto",
+        "IT",
+        "Pharma",
+        "Metals",
+        "Chemicals"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Can US Iran Escalation Push Global Markets Toward Higher Rates? - Modern Diplomacy",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXQ4SkZQaFJwbjc1QnBMTERMYVZvOVM5NUJQYUhNengxNlRvR1JEd0lKZE1PVF94eTBCelJTRmRUNWpZczM1OWItcmlOUjU1RllIZlRRYVhGMmd4WTJsNlVhMmhrOXNVZ2VNUFJIWjVFTVFiTzN0VDFEU1d6QjhQVFRGMEdQLUFxVmEzOXpVY2dxX1lPLTNwU2NQNnc1dzJyQko0?oc=5",
+      "description": "Can US Iran Escalation Push Global Markets Toward Higher Rates? &nbsp;&nbsp; Modern Diplomacy",
+      "published": "Mon, 31 Aug 2026 09:25:38 GMT",
+      "source": "Modern Diplomacy",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Global markets fall as Fed rate hike expectations, Middle East tensions weigh on sentiment - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGNSb3ZoenlJajZiWEpESVFabnlmSmhaaEpxeTRYUjllNkVOQjV3alVLdENZTnFwU19FMU42UV84eHhNUVlCT1pMcEdVMDc2OVdDNDF1aWtFV0Q1WVpielJrX2NyTDVrWEJNN2pZTzJnQ296TktiR0o5N0dKc2RXNzc5VXhmOVMyaGlkTXpwMzV1WkZ1R0NmRExkay1Zdk5BdFJfUmZua3V4WDJWMm9SQlR6MlpWQ1NEbEFLbERSV19ZbHdjUkZ3WFhn?oc=5",
+      "description": "Global markets fall as Fed rate hike expectations, Middle East tensions weigh on sentiment &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "published": "Mon, 31 Aug 2026 08:07:14 GMT",
+      "source": "Anadolu Ajans\u0131",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Market Quick Take - Warsh turns hawkish as Hormuz risk returns - 31 August 2026 - Saxo",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX21kQkl1Yk9xbmJaWW91bWxiTGJrQUFFaDI4Y3ZCQ2lrQmFTRE90WEVjUEl3cWlwVVhsQnVRVThvUV9SclBranVhaV9BZTBXZmxBYklWMC1IbDRLTVdYeXh3NUtYUi04c0JCR1VRV01fT3NpNWp2UEtJcDY0Uk9id2NyVHZpMUM5d2dWVlZrWXJ1c04wQzVnQ3ZwSE5mWkVXU0s4c25UYjJLLUxNbG5DSkRHYUZxdEtEQUttTjRZenlOQndieTE5U3c5OGtqZkExeTY2bUZB?oc=5",
+      "description": "Market Quick Take - Warsh turns hawkish as Hormuz risk returns - 31 August 2026 &nbsp;&nbsp; Saxo",
+      "published": "Mon, 31 Aug 2026 07:26:16 GMT",
+      "source": "Saxo",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "Nasdaq Today: Tech-Heavy Index Slides on Iran Sanctions and Tariff Fears - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdzF5YmxkNHh3MlNqN2cxS3BSVzRtZnVON2g4OGpzRUEyemVfYkpQb3VTQ3JYdUlRVGoybXVIbGJEOEdyY2UyZ09wdHhlb21TaC0zTkdsZmk3MFE4eXpVY3M2SHprcW9GNVJBdUw4RDR4Y19HZTZvYVYwTTVHd1JkTExDRGlDMHZzZUNwOGh1RjlxLVVsY0tFd0QzS0J3TkhoMk1DaHV1NG9VTVk?oc=5",
+      "description": "Nasdaq Today: Tech-Heavy Index Slides on Iran Sanctions and Tariff Fears &nbsp;&nbsp; BBN Times",
+      "published": "Mon, 31 Aug 2026 20:53:23 GMT",
+      "source": "BBN Times",
+      "stocks": [],
+      "sectors": [
+        "AI semiconductors"
+      ],
+      "affected": [
+        "Auto",
+        "IT",
+        "Pharma",
+        "Metals",
+        "Chemicals"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "AI semiconductors"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Foreign buying in Indian stocks hits 23-month high in August, RBI data shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOHFqREx4OGJ4T0NFMVlHaDZ4aDQ3VTE3ckFZX0JPVk1rRFBBSWxNX25fZkRuYTgyUnJfNlNUUmd1ampBUXZBQ1c4Y3JvYnRKMkh6eVdENFJSTWFQZ3FHVWZ3dDhBbUx1ZXlBY3ZjcEg3ZWNVVk9kNGowdENSZFNuSnRoLXkyNWNSQVpyVndFYUJyYl9kUVNGSDNybGtuZzNzc3laNHJya3ppNG91dDRWZE5SeVh5Vk82?oc=5",
+      "description": "Foreign buying in Indian stocks hits 23-month high in August, RBI data shows &nbsp;&nbsp; Reuters",
+      "published": "Mon, 31 Aug 2026 14:46:01 GMT",
+      "source": "Reuters",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "description": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News &nbsp;&nbsp; News On AIR",
+      "published": "Mon, 31 Aug 2026 14:21:17 GMT",
+      "source": "News On AIR",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Liquidity in the economy: What it means, how RBI manages it and why it matters - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeFoyM1p0N1ZfZWdxdWVpUkFJcEZmTUxrcmM4ZnRyNHFLRGVhdXQxTWVRTDlab2tJd2FZUi1CVU0yNS1QR3dsbF9IRmN1dW1wVnJHWjQzenFmVEt3Z0FucjJaT2lURjczUXA3T0lYcVUwSVN4b1RyWEx4UnZUbTBtV0dXOTR5Y2xGWTNfRjdJbzY1Z1FZdTBnb1VTV1RmVFhseU1CRFVhQ1FYMExYUU1xQ0RPb1lUbXFEelM3ZFdRdDlLQ2NKbDlqRVBCaDV4N1N3bUloakhSeld0VGx0YTk0Q0gzYkdTMEZCX3hqanJR0gHuAUFVX3lxTFB4WjIzWnQ3Vl9lZ3F1ZWlSQUlwRmZNTGtyYzhmdHI0cUtEZWF1dDFNZVFMOVpva0l3YVlSLUJVTTI1LVBHd2xsX0hGY3V1bXBWckdaNDN6cWZUS3dnQW5yMlpPaVRGNzNRcDdPSVhxVTBJU3hvVHJYTHhSdlRtMG1XR1c5NHljbEZZM19GN0lvNjVnUVl1MGdvVVNXVGZUWGx5TUJEVWFDUVgwTFhRTXFDRE9vWVRtcUR6UzdkV1F0OUtDY0psOWpFUEJoNXg3U3dtSWhqSFJ6V3RUbHRhOTRDSDNiR1MwRkJfeGpqclE?oc=5",
+      "description": "Liquidity in the economy: What it means, how RBI manages it and why it matters &nbsp;&nbsp; The Times of India",
+      "published": "Mon, 31 Aug 2026 13:36:00 GMT",
+      "source": "The Times of India",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India's April-June GDP growth beats estimates at 7.8%, stays resilient despite Iran war - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR1AxUVJTazNHa3RadmoxSEZfSG5hNHNlTTh0ams4bUJiX0w1dnJMeHNrZ2pGakpEOVBPT0ROeUMzQWM3cV9iZ0lKcnAtbXByb2lQWlg4SkRGRHY5dXpTc2c2MkRRbkNuU3pIVE9kQldheTVQY2RkZG50dDFhQmRBQ2ZSUjNHVFE0LXUtVTltVE1WOUYwTUVXSFJJZGpMYm4wRTR5WWk2dFB6ZEY0NTdxVThsXzZqNWJISHNwTHZrTUJPQWV0ci1faE1tTWVwYTTSAdwBQVVfeXFMUExNNnhBdkZtemdXZ2x5dDRkOGVCY1N0aUJCTWEtREhHMGFkeEtWZFlTb2t3ckZUOWZ2cnlJZVc2dUZzVkhIVnVZQ2NlZGh3MVFWeEZvb0JGRl9oWk5qY016c1FqeTZkeDE0M1hrczZRdWREWjg1SXB3cUNld1lPYk9meDZISFJwbVZjZXFvMXJwc19rczVlM3pwZU9LUEtWUXlEc0E3OTZFaHNXZHJkRUNOMC1uR1lydWF2ZnJtN1djY2N3dER2SzV5c2dDWUF3TTVzTHF3el8zTl9JNA?oc=5",
+      "description": "India's April-June GDP growth beats estimates at 7.8%, stays resilient despite Iran war &nbsp;&nbsp; The New Indian Express",
+      "published": "Mon, 31 Aug 2026 11:44:27 GMT",
+      "source": "The New Indian Express",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India rupee hits near four-week high on equity-related flows, RBI support; logs monthly rise - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTVBydllGZE96REQzbFZyM19xRWxMclNxWDhxSlpNZ0ZoQUltZ0VCVmdiLWFYb1U3TUNWdFhQS3g0NXZkZ2d4cDhkZGFENVBEYmc4QVp4VmVMUlpTUkxtNjdPdmZBb2NyeFVkMmlsQnpFN01fTEYwUnFVUG9XM29aZFJxck9YTkM0U1ZSejQ4N3Y4WUhsUFJMNHA4QmNVT1pIdE11WDc1eUx4QUw3aW9Pa0YyaVp2blRjbGRDREdOYlU2cmxCMG5WSkFnNE9IMmlLZXFGQ0tVa3A1cENtQk9UY0hzNlpoOF9vSjZ4ZUdndHZja1dBSzQ1Uzk5MlFVUdIBgwJBVV95cUxPbmw5bjJud2RENHM0SUN5U2E1ZWRDUE9lMmZ4T0JxdFdHdTIwTE44MnNuY0haZFNjaFhEdTdwTFZseFl6alZEWW1CdzJTUEJFVmdmMHlLM05pSUtYbWpnUDJ3ZHl4M2J3TEk5OE9qeE5vMmNoaTRJM1FzM3RKbjJkelFhOHlCenFXR0RwRGFKWE9rWjBhWGJObGluMk5LdmJ2S1l0bzBqNS1rVzNSSS1nWmlYVTB0akFpUTFBeHEwTWxicGdxZFRxbjIyY1l1T3ctTV9NSkM3NFVoVHRXTmREd08yNGRETEszc1JHLW55U1N1VW9vQTJGZVFSV18zWlBWMDZn?oc=5",
+      "description": "India rupee hits near four-week high on equity-related flows, RBI support; logs monthly rise &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 31 Aug 2026 10:40:30 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI's liquidity mop-up auctions see tepid demand as surplus tops \u20b95 trn - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYzREWnQ2SE5xdjNRd2R4Rm1qbU5hWi1VdlBCX3RQNmxjbl9LRENmZ3ZKNUtTVXJhdkFPclFqOFFoVWZOYmlZVm5lVVBqWENRaGlXVTlkeGJWa2IxaEhoa0tocXBUOTN3MzNRajloZWg1NHNpUFJrTzVSZDRDbGx3aU9ETExIWTFkVTNGWkNzWEdWUEVaRXJ3OGM0YmxmT2NCQkNfRTRTamJqWDRVNzhzVHRsa2s1cGlGc3JJaUZ2T2dYU3Z0S1E4VlNjX01FQWRZdGo5a0JsSFLSAdgBQVVfeXFMT2M0RFp0NkhOcXYzUXdkeEZtam1OYVotVXZQQl90UDZsY25fS0RDZmd2SjVLU1VyYXZBT3JRajhRaFVmTmJpWVZuZVVQalhDUWhpV1U5ZHhiVmtiMWhIaGtLaHFwVDkzdzMzUWo5aGVoNTRzaVBSa081UmQ0Q2xsd2lPRExMSFkxZFUzRlpDc1hHVlBFWkVydzhjNGJsZk9jQkJDX0U0U2pialg0VTc4c1R0bGtrNXBpRnNySWlGdk9nWFN2dEtROFZTY19NRUFkWXRqOWtCbEhS?oc=5",
+      "description": "RBI's liquidity mop-up auctions see tepid demand as surplus tops \u20b95 trn &nbsp;&nbsp; Business Standard",
+      "published": "Mon, 31 Aug 2026 15:30:17 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Rupee jumps to 4-week high, ends at 95.16 to the dollar - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYnJYMjhmYUEyTE1HMDJJTnFoLVBSd1UyczdNVGNUa2huaXR6Q0dHbEoxVENqQ2ZNb2diUHBXQ3BJUnRybkhpd1ZxWTVTZkJtNV95Q3YxbHZ4MURTR2k5UlN0Q0RFN3hSdEZ3UmxldXBUeDFrczh4bXhLQXRGRjdTcXVNeHhNNDl6RHN0LWNVSFBKcHpJaElnSnM1QkdsaGhnX2c4SklnemdRQkxCdGx6X2lqQmVWUjVUdkI3Z0tJWktKQ2xGdnk5aFlVRVEwUdIB0wFBVV95cUxNVFlYYUJMMk9ubmRWV1FCWjJaNmRGY0xBUTMxbnp4TTROUlJCM2dIWGtHS1A5aHB2cHBSSmMxNjZabFkwNVNZc3dydmppLWFYVkhQX2V5TGtJbVM1VHRZd1VRM0ZjZlVNVG9OMV9lVFpzbWtSRE5LbC1Wb0RuaDFGcUN5SUJ5TWRTdDFCV0Zfc3laRW5VS1hWWkthRlE2TElkQVBpMXZnYjNlSW5OOUQ2bnFJaHd1QjhZNHdQOWpoQ3lnc2ZvYmRpZVlOR2FyT0lfc3Jz?oc=5",
+      "description": "Rupee jumps to 4-week high, ends at 95.16 to the dollar &nbsp;&nbsp; The Economic Times",
+      "published": "Tue, 01 Sep 2026 00:40:19 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Intervenes in Spot and Swap Markets to Stabilize Rupee Amid Oil and Fed Headwinds - psuindia.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjExMS1HeXFqZ09KR2p4ZjgzQW5qMzRSbXlaOXNQSkpRQkplaTFfLUROWHJyaTF6bFptREpVd2FRQ1hFaGFCa19pM2RCaGk0U3dDLUs5WXFlMDhNX0VES1pIbEZCenIyODZPXzJtMEJiNUVRMHloV2hYSnotcy1DbTc0U195NTlkTlFZNjJGcUV6TlJ4aDFTRUFkUWphVDMxb2I5QTBHUjlDMFpOcUFSOVpKVk1ZLXI4YWN1SG5ORjFLSlMzLXl3OVU1bkgxMEJ00gHQAUFVX3lxTE9WMTExLUd5cWpnT0pHanhmODNBbmozNFJteVo5c1BKSlFCSmVpMV8tRE5YcnJpMXpsWm1ESlV3YVFDWEVoYUJrX2kzZEJoaTRTd0MtSzlZcWUwOE1fRURLWkhsRkJ6cjI4Nk9fMm0wQmI1RVEweWhXaFhKei1zLUNtNzRTX3k1OWROUVk2MkZxRXpOUnhoMVNFQWRRamFUMzFvYjlBMEdSOUMwWk5xQVI5WkpWTVktcjhhY3VIbk5GMUtKUzMteXc5VTVuSDEwQnQ?oc=5",
+      "description": "RBI Intervenes in Spot and Swap Markets to Stabilize Rupee Amid Oil and Fed Headwinds &nbsp;&nbsp; psuindia.com",
+      "published": "Mon, 31 Aug 2026 11:18:37 GMT",
+      "source": "psuindia.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Explainer: How RBI\u2019s inflation targeting ensured price stability & growth - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaGpZWE9PZWZEZloybHhnZkJzTWd2enc3X3pFemZRYlJxeV9FQnZuOHVTaDVWWi11S3JLNnU1OWR4TVpIS0NVUzV1dlZEbnd4WS16TDVacy1XY3A0TTg1Y2JRekVoMUplYmFZckFGZ0t5YmsxbExFRDVnbWZBR25kaGVRWWxsMVVtMGdUNk5fR2ZPRjZIT25GUHA1RWpBZzlMWmYwMGVRLXVXV3pVRGg5VHJWRHZodGlwaXh5TWlFRnhjQjRqdXJpOGhRYUVUYjht0gHQAUFVX3lxTFBoallYT09lZkRmWjJseGdmQnNNZ3Z6dzdfekV6ZlFiUnF5X0VCdm44dVNoNVZaLXVLcks2dTU5ZHhNWkhLQ1VTNXV2VkRud3hZLXpMNVpzLVdjcDRNODVjYlF6RWgxSmViYVlyQUZnS3liazFsTEVENWdtZkFHbmRoZVFZbGwxVW0wZ1Q2Tl9HZk9GNkhPbkZQcDVFakFnOUxaZjAwZVEtdVdXelVEaDlUclZEdmh0aXBpeHlNaUVGeGNCNGp1cmk4aFFhRVRiOG0?oc=5",
+      "description": "Explainer: How RBI\u2019s inflation targeting ensured price stability & growth &nbsp;&nbsp; financialexpress.com",
+      "published": "Mon, 31 Aug 2026 13:58:29 GMT",
+      "source": "financialexpress.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONUExaWMxenBGOW4wYlhfQVdRTHJvWlNuUnMwMFlBeDNJTVl0RlNOcHI4QkJSWWV4WFJNdU4tbWpoTlkyY2I2cjR3UUNLSTdHNDFQeW9HTWNRRU9vQ1VVdC1tRGdkN2JSOWJFT0tlcUZiV0h2NHhlZVpVbl9HN1pkNS1kbHcwcUpxNW5ZWjRBS0FsUE92RE1NQzFBR2xZamp3TmRVOE5jWUFkVF9fQkhTZXlESE5VREV1d1dhTlREYVN4LS0weWMzeFZyYVc3bVY0NkNPempqRHBfR29jWnVxU3ZRelpIb29QaVlRVlFvTXU3NWdMY2530gH8AUFVX3lxTE9BQmZaY2tvRFhYd1FZd2VueVpRRXkwMmNrcG5Ocnd0VGdVLWhlUjl5UFdRNkdsOTM1U0ZreVRlb0d6czRlcUY0ajlORklyQzhFYno4cXZ6cmEwakEtdFllVkhkWUVRQjIzdGV4TEI3SHNudU1xWkNpbUU3NHYyR1NzMjU4Ymlva1NRUHlWX1BzOV9tX0xVUmtOWHRBT3RUVzc1WFNIcGxNbDdOcklpb1BGaXlGZlZpSGFGWWpzTUNXOEMxYUxKaUdqeC0tdG5KYTJPLXJUWlVSNzNFSVNOWVhzYk9oWGVFeFcyd1VfWXlHdDU4SXJtMWJxOEFXWg?oc=5",
+      "description": "Oil climbs past $90 as Middle East conflict keeps Strait of Hormuz shut &nbsp;&nbsp; The Times of India",
+      "published": "Tue, 01 Sep 2026 02:03:00 GMT",
+      "source": "The Times of India",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "IT",
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Tops $91 As US-Iran Tensions Put Hormuz Supplies At Risk - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2Juekc1MUI1M1Zfd1dYSkZXVW5ZYmlYMFkxcUVncWhGdzQ1aVRBYUtQcTltTUE4TzRWNENBZWE2VGtUWmZqOTBRc0JRRzFOT0RyS1ZUTDJxYVktVWdDOXpCSGN6VW5sSTIwMGJqYkFmTXZBWTZIQjAzcmhIdDd3elRwMmdsV0hVM1ZaNGlpS1VFWTMta3pMYVlvYVdWWmUxdG9icXJXTEc?oc=5",
+      "description": "Brent Tops $91 As US-Iran Tensions Put Hormuz Supplies At Risk &nbsp;&nbsp; BW Businessworld",
+      "published": "Tue, 01 Sep 2026 02:05:01 GMT",
+      "source": "BW Businessworld",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil price today: Brent tops $91 as US-Iran strikes raise Strait of Hormuz supply fears | Hindustan Times - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMmVrZ05JQld1MTB5N1NiXzlEaXg0Qk5tTGVvaWdhUy1XNU0wNWhYeFMtNmw4VzA0dnpyNXhwYlI5N3luWDJLcWlyTTZVMDZfMzNmeExMTnE2ZmROamZrejJ3dTVfVzlRSzl5N1piZDAyTXg2QlhXVUZUMXZPZUUzY2E1bnhleEVFYy1jbGpBYzJ0cmp3SlV3SUlKZlByU284bjdNR0s5RHktb1oxTkpZUXFhelJra0hRam1MUHZmWEFUcWw3MXl0Y0hnekotRDRaaklXdXBPZzJ6d1JfREZwNWNQaldvUm51WVVF0gHwAUFVX3lxTE9VT0N0cUdZMXBvSkhWWXl2ZG0xZ0hvNjRoSVFqLVNtMW96OEZOUTY4WDZjSktOTkc5dnJMOHJyWWdvbXNLaHdXaUgtZ0V1N3k4Y0k5Z1JRdTRFTHRIZE9oTEl4R3JhNVpqLUN4ZVN1U0tmMkg0dDVNcG5zVU5uazJoUENTZVpwQ2M2aG1rdDd6YUhEaTdaUk9XaGNJVTQ5LXFmRnFoR19mb1ZyNnBtNlBMbUtQc0NlYVlsYkEtVmwxWlZMbnpWVm1CeWhhMVlnanZHRTZ4TGtpQWhCOEYwX3Q1TGNCOW41MnAwYkZuVjUtbQ?oc=5",
+      "description": "Oil price today: Brent tops $91 as US-Iran strikes raise Strait of Hormuz supply fears | Hindustan Times &nbsp;&nbsp; Hindustan Times",
+      "published": "Mon, 31 Aug 2026 11:26:32 GMT",
+      "source": "Hindustan Times",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
+      "description": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days &nbsp;&nbsp; LiteFinance",
+      "published": "Mon, 31 Aug 2026 17:48:43 GMT",
+      "source": "LiteFinance",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Price Today: Brent Jumps 1.2% After US Strikes Iran Island - Univest",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBra1dKZFg5QnhIR2dBdWp0M3JoVV80V3JKd2xxRmJIbGxQZVowQjZMWHJEQnhheWV2WmdtODJVQ1RzQVo3R2c0NzJoZ3FOYXlaZ2tLR0VIVnNCbmxwX04wLUFZQXlZZw?oc=5",
+      "description": "Oil Price Today: Brent Jumps 1.2% After US Strikes Iran Island &nbsp;&nbsp; Univest",
+      "published": "Mon, 31 Aug 2026 06:31:00 GMT",
+      "source": "Univest",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Crude Jumps Above $90 as Middle East Escalation Hits Shipping - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeFl4S2FyV04tZnZkYmtYLVZfby14Y3Rob3hBTlhqV2o4SzhZbVIwVmhibllUNkR4cC1qNkFtelRLU1B5bU1XR3VYak01YVZXRGJTYmw3UHlzLXBwX0dCVzF1S1Z4X25yZi1fQjN0bURydEN4RHlSX25uZzdBRGVXQVNrM2wydjg1bHhLVDBzY3Y4TjN3N1ZUUkxQdkdvN2lmdWJkWlY0dWMxR2NXZjh0dHgyMlFJcGU2amdUU0pKbXpNc3lrU2U3V3NfNmh1OHpleDA0eTBHNzNZcnpmdVlnZmdoQzI1U0Vo?oc=5",
+      "description": "Crude Jumps Above $90 as Middle East Escalation Hits Shipping &nbsp;&nbsp; HDFC Sky",
+      "published": "Mon, 31 Aug 2026 04:33:11 GMT",
+      "source": "HDFC Sky",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Global Market: Emerging Asian currencies fall as Fed hike bets rise, oil prices surge - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNnZjSnFvaXMtNEozcmVFMVYta19HOXFLV0tBTXQ4Y1J0cnc4WWJ0dmhWYU5FS2N0RlRqd1JtanZCdnRTeGRqbVJPd0tvT0FXMHFHZ1ZZbHdNaHFnOWd1RWhZenhhUWs3STBVT01NVmVFdko2WkZCdGh6NkZiRHFObkdqUHdnd3pVYW1xbXZ6WXNaamN3b3JpWEc2QjdXM1QzYTBmUklqaHhsMHdpYkJjbVQxTzdJZGIxdDk4SkJ2bU1lOE9vMnRpcjNoREN4el90bWplM0NVQVVMUm9DSVhXZnV4a21wWEVxay1ILXFyZzhLQdIB9wFBVV95cUxPdzlrajFpS3ZTNHJXeHBldHhHREloWmU4alVrelI1bF9hNVdISkozeWdhTHJNUi1DdnNzOWVHQXVBQjBVM3l5UVFNMEhaR2FaakVudFlKWEdZX1BnS2lPWEFQTU56SU1nMXZ6TlJxVUozVkF6M1docHpETWxSak1uSG1JWXJkaXZha3JfRnEyUUxDYnp6SUZmTjdHUjE3TndnUkpFTngtWm9UbEhPSDRPd29tUjA2NFZxS0tGRktSXzJyUDVFVXl5dGU3b2tfYWpsb3BIcU5lMkJRcmQ2NHZpQ2twTUd2cEE2VXJubC1YNGVNcXJtMURz?oc=5",
+      "description": "Global Market: Emerging Asian currencies fall as Fed hike bets rise, oil prices surge &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 31 Aug 2026 11:44:26 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "No Rate-Hiking Map From The Federal Reserve - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUUdwX1g1S3BhZGphN0dIY1d0d3Zfb0hVVWxXU3IySmxnVTVmTl9MVW1tLTZiOE9wdUZlVExmNGd5WnBqOGd5Q19jR3hKRFI3aUtCTENYU1pIUTNpejhfUlpGekJhcVZhdUlkSGlGMXJPT0doMG93Q0VDUVU4UW9LVHhOSnlaSVU?oc=5",
+      "description": "No Rate-Hiking Map From The Federal Reserve &nbsp;&nbsp; Seeking Alpha",
+      "published": "Mon, 31 Aug 2026 18:05:00 GMT",
+      "source": "Seeking Alpha",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Asia Markets Slide as US-Iran Clashes Send Oil Past $90 and Fed Hike Bets Jump - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NeGFneHpwZWl2WHJFVmpMcG1TMWZ1b3ZyVjdxSEQ3MUNxNzVqbTdmdU5wXzRWdjVSZk9pR0JNN0RpaWJwRk5ZQlUtMERMREhXMkpkYVFwVWRTWUdEdDFSVkJ5bkZNVVlUb1pUUkxrTVg2ZlRKTHc?oc=5",
+      "description": "Asia Markets Slide as US-Iran Clashes Send Oil Past $90 and Fed Hike Bets Jump &nbsp;&nbsp; finance.biggo.com",
+      "published": "Mon, 31 Aug 2026 07:35:00 GMT",
+      "source": "finance.biggo.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Brent Oil Surges to $90.51\u00b7U.S. Treasury Yields Spike...Asian Stock Markets Weaken : \uae08\uc735 : JKN - \uc7ac\uacbd\uc77c\ubcf4",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBEUjBwUW54WVZ6SnRxUHBVUEtSdW1vaFhwVGkzYmw1VmVVSWdzOElRQWVpNVpEUS1ZbW1EUGQtbENxdk15Z0RfcHN3?oc=5",
+      "description": "Brent Oil Surges to $90.51\u00b7U.S. Treasury Yields Spike...Asian Stock Markets Weaken : \uae08\uc735 : JKN &nbsp;&nbsp; \uc7ac\uacbd\uc77c\ubcf4",
+      "published": "Mon, 31 Aug 2026 07:50:00 GMT",
+      "source": "\uc7ac\uacbd\uc77c\ubcf4",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR2Q1Rm5tRHVKUGp5dTB1NkhaYkRKb0dtUjhHcDJQUzlYbUxfeW85MDlHanI1SHBQb3dvbDZuemV5SmNfSFItLWtVb281VjVCZDZTZTVaaWgwOEh1Y2JtekV3cmNuRjRWQW8zR1JtLU5PV3NPeW9zUThzaVNFcl9RYVdSZFdJci1qX0dsb2lWMFJPZ1p6RUdMX2J4ajJWcHR0UTR4MHlPVVNoeUZWTG1VMjNMblBNVzJlNjBXOUxZN2hvWVZtbWVJenNBYzRnQQ?oc=5",
+      "description": "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound &nbsp;&nbsp; BBN Times",
+      "published": "Mon, 31 Aug 2026 16:55:32 GMT",
+      "source": "BBN Times",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "IT AI",
+      "title": "Nifty IT tanks 2%; Infosys, Wipro top losers: What's behind the weakness? - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQckd5ZWZRUU5RTEhxZG1sb1V2S2JNUTh0Ykt3RzFVclpSc0dVOVNnc1RDMkFxTFloVHlKd2EzREd1V0dWMFJwVVlVRy12Wjk5OXV1TExoNEFxZ3JmbUxUNEU1MVdjNmlOeXl0a0tKbkVlVnZzMTJRZHdSd1Bob3FpTk5XT0dWV0N0elVVcFpzdTZOZG9KenpDQjhFc3N6UjFNM2xtdGJkdEdoLV9UTnpSelRva0tOeFk5bmd6N0dBUTV3cHJwVmZRTE8tUDNUOFAx0gHWAUFVX3lxTE5DRFRlSlplamg2V0toSGJCb01ZYUJ6VkllX1NwX3JiTHVGV0IyZWxRM0tFUWlsZ0l5N19ycTJ2bmZpd2pSYmR3azFMR1B2TUJaTnM4bEdrUTFtZ21EUy1OeTVpcW1XOGdCakUybk1JWmdKLVFITk9UQzRXclBVQXJxeDlWYUJlQmV3UlN6dEdQLVUwaGZfc0kwRHJPUEp5UEFXTlBwdHlnSlN2VTRHNUZRS3BRd1FidWpjZko1QkJHa1NLRVhnalJ0YlkteWwtS2JHa2dLOFE?oc=5",
+      "description": "Nifty IT tanks 2%; Infosys, Wipro top losers: What's behind the weakness? &nbsp;&nbsp; Business Standard",
+      "published": "Mon, 31 Aug 2026 06:34:34 GMT",
+      "source": "Business Standard",
+      "stocks": [
+        "INFY",
+        "WIPRO"
+      ],
+      "sectors": [
+        "IT AI"
+      ],
+      "affected": [
+        "IT AI"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "INFY",
+        "WIPRO"
+      ],
+      "derived_stocks": [],
+      "macro": false
+    },
+    {
+      "query": "India markets",
+      "title": "Mahindra Expands Battery-as-a-Service Across Electric SUVs | Tata Chemicals Arm Wins Major Contracts | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQYlhZQTBESTlfQWFWWEhaLWJ5UHNOMXpFc1FuNXlJUkxTRDRwR2pTTHZxeDZRRkJzVGNMeXRNOWhHODhESHVwRTRES3BPRFpkOEJEY0UxeXRVR01UWm9ZLVNJTkFaZGI0TGZfNm1hRjJBMzlwamhoVElJdUpvNGVCOVNCT2ZaLWh0ZXdDTnJ5RzFtZFJ6Wk03YUNrbHVPZlNjY0NBM1l1c2FFOXQ1V0MycGJ5eEpzZGJuckNLZlRjQVFQazlDdWE3QVNPVTYxb3NiVVozb1d5VzlSeWp6R0pqUWh6QUJqV1pYa05aVV8xUlZWcEUwRkxXYmR0dUgxWE1VaTY5NkZTMW5lY2g3ZlVJaFBfb2djMVhfeWFfOUFSdExLZy03c3JZWGZBbmtIOXpGSFJaNVlkUGd2YjN2ek90cVVlMDI3STVTcFFIZ2EtNy1EMklITTlqY2VsU1VybWhmUWtQa2J1WkdKaGRadUhMWjZkYkhhdWRB?oc=5",
+      "description": "Mahindra Expands Battery-as-a-Service Across Electric SUVs | Tata Chemicals Arm Wins Major Contracts | Top Buzzing Stocks Today &nbsp;&nbsp; Equitymaster",
+      "published": "Tue, 01 Sep 2026 00:30:00 GMT",
+      "source": "Equitymaster",
+      "stocks": [
+        "M&M"
+      ],
+      "sectors": [
+        "Chemicals"
+      ],
+      "affected": [
+        "Chemicals"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "M&M"
+      ],
+      "derived_stocks": [
+        "PIDILITIND",
+        "ASIANPAINT"
+      ],
+      "macro": false
+    }
+  ],
+  "sectors": [
+    [
+      "Energy",
+      11
+    ],
+    [
+      "Financials",
+      7
+    ],
+    [
+      "IT",
+      5
+    ],
+    [
+      "RBI rates inflation",
+      4
+    ],
+    [
+      "Global markets",
+      4
+    ],
+    [
+      "Auto",
+      1
+    ],
+    [
+      "AI semiconductors",
+      1
+    ],
+    [
+      "IT AI",
+      1
+    ],
+    [
+      "Chemicals",
+      1
+    ]
+  ]
+}
