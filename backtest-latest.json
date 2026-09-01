@@ -1755,8 +1755,43 @@
       "symbol": "ATHERENERG"
     },
     {
-      "n": 0,
-      "note": "No qualifying signals",
+      "n": 1,
+      "note": "Price-only; no point-in-time fundamentals",
+      "5d": {
+        "win_rate": 0.0,
+        "avg_return": -3.91,
+        "median_return": -3.91,
+        "best": -3.91,
+        "worst": -3.91
+      },
+      "10d": {
+        "win_rate": 100.0,
+        "avg_return": 0.62,
+        "median_return": 0.62,
+        "best": 0.62,
+        "worst": 0.62
+      },
+      "20d": {
+        "win_rate": 100.0,
+        "avg_return": 0.56,
+        "median_return": 0.56,
+        "best": 0.56,
+        "worst": 0.56
+      },
+      "40d": {
+        "win_rate": 0.0,
+        "avg_return": -0.66,
+        "median_return": -0.66,
+        "best": -0.66,
+        "worst": -0.66
+      },
+      "60d": {
+        "win_rate": 0.0,
+        "avg_return": -5.34,
+        "median_return": -5.34,
+        "best": -5.34,
+        "worst": -5.34
+      },
       "name": "KIMS Hospitals",
       "symbol": "KIMS"
     },
