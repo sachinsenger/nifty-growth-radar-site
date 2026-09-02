@@ -3,87 +3,160 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Market News Brief — 2 Sep 2026</title>
+<title>Market Dashboard — 2 Sep 2026</title>
 <style>
-body{font-family:system-ui,-apple-system,sans-serif;margin:0;background:#f3f6fa;color:#172033;line-height:1.55}
-header{background:#17365d;color:#fff;padding:28px 20px}header h1{margin:0 0 6px;font-size:30px}header p{margin:0;opacity:.9}
-main{max-width:1150px;margin:auto;padding:20px}.card{background:#fff;border-radius:14px;padding:20px;margin:14px 0;box-shadow:0 2px 9px #0001}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.metric{background:#f7f9fb;border-radius:10px;padding:14px}.metric b{display:block;font-size:22px}.tag{display:inline-block;padding:5px 9px;border-radius:8px;background:#fff3cd;font-weight:700}.small{font-size:12px;color:#667085}ul{padding-left:20px}a{color:#17365d;font-weight:700;text-decoration:none}
-.stocks{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:12px}.stock{border:1px solid #e3e8ef;border-radius:12px;padding:16px;background:#fafbfc}.stock h3{margin:0 0 4px}.stock .why{font-size:13px;color:#475467}.impact{font-weight:700;font-size:12px;margin-top:8px}.levels{font-size:14px}.source{font-size:11px;color:#667085;margin-top:10px}
+:root{--navy:#17365d;--bg:#f3f6fa;--card:#fff;--muted:#667085;--line:#e3e8ef;--green:#087443;--red:#b42318;--amber:#b54708}
+*{box-sizing:border-box}body{font-family:system-ui,-apple-system,sans-serif;margin:0;background:var(--bg);color:#172033;line-height:1.5}header{background:var(--navy);color:#fff;padding:26px 18px}header h1{margin:0 0 5px;font-size:29px}header p{margin:0;opacity:.9}main{max-width:1200px;margin:auto;padding:16px}.card{background:var(--card);border-radius:14px;padding:18px;margin:13px 0;box-shadow:0 2px 9px #0001}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px}.metric{background:#f7f9fb;border:1px solid var(--line);border-radius:10px;padding:12px}.metric .label{font-size:11px;color:var(--muted);display:block}.metric b{display:block;font-size:22px;margin:2px 0}.metric small{color:var(--muted)}.tag{display:inline-block;padding:5px 9px;border-radius:8px;font-weight:800;font-size:12px}.amber{background:#fff3cd;color:var(--amber)}.red{background:#fee4e2;color:var(--red)}.green{background:#dcfae6;color:var(--green)}.neutral{background:#eef2f6;color:#475467}.table{width:100%;border-collapse:collapse}.table th,.table td{text-align:left;padding:9px;border-bottom:1px solid var(--line);font-size:13px}.table th{background:#f7f9fb}.stocks{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:11px}.stock{border:1px solid var(--line);border-radius:12px;padding:15px;background:#fafbfc}.stock h3{margin:0 0 3px}.stock .why{font-size:13px;color:#475467}.impact{font-weight:800;font-size:12px}.scenario{border-left:5px solid #98a2b3;background:#f8fafc;padding:13px;border-radius:9px;margin:8px 0}.scenario.bull{border-left-color:#087443}.scenario.bear{border-left-color:#b42318}.scenario.range{border-left-color:#b54708}.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}@media(max-width:700px){.two{grid-template-columns:1fr}.table{min-width:680px}.scroll{overflow:auto}.stocks{grid-template-columns:1fr}}
+a{color:var(--navy);font-weight:700;text-decoration:none}.small{font-size:11px;color:var(--muted)}.source{font-size:11px;color:var(--muted);margin-top:10px}.footer{font-size:11px;color:var(--muted);padding:10px 3px 25px}
 </style>
 </head>
 <body>
 <header>
-<h1>📰 Market News Brief</h1>
-<p>Indian equity market intelligence • Latest update: 2 Sep 2026</p>
+<h1>📊 Daily Market Dashboard</h1>
+<p>Indian equities • Trading + F&O + swing + investment context • 2 Sep 2026</p>
 </header>
 <main>
 <section class="card">
-<h2>Market stance</h2>
-<p><span class="tag">CAUTIOUS / RISK-OFF</span></p>
+<h2>🚦 1. Market Regime</h2>
+<p><span class="tag amber">CAUTIOUS / RISK-OFF</span> <span class="small">Confidence: medium-high</span></p>
+<p>External risk is dominating the opening setup: oil is near $97, US yields are elevated and Asian markets are sharply lower. Domestic growth and DII support are positives, so the preferred approach is selective rather than indiscriminate bearishness.</p>
 <div class="grid">
-<div class="metric"><span class="small">Nifty close — 1 Sep</span><b>~23,963</b>Down ~0.5%</div>
-<div class="metric"><span class="small">Key support</span><b>23,800</b>Breakdown risk below this level</div>
-<div class="metric"><span class="small">Psychological level</span><b>24,000</b>Important near-term pivot</div>
-<div class="metric"><span class="small">Resistance</span><b>24,380</b>Major upside hurdle</div>
+<div class="metric"><span class="label">Nifty 50 close</span><b>24,055.80</b><small>-0.10% on 1 Sep</small></div>
+<div class="metric"><span class="label">GIFT Nifty</span><b>~24,033.5</b><small>Weak pre-market indication</small></div>
+<div class="metric"><span class="label">Bank Nifty</span><b>57,409.60</b><small>-1.06%</small></div>
+<div class="metric"><span class="label">India VIX</span><b>11.49</b><small>+2.68%; volatility rising</small></div>
 </div>
 </section>
 
 <section class="card">
-<h2>🌍 What is driving the market?</h2>
-<ul>
-<li><b>Oil & geopolitics — Negative:</b> Widening Iran conflict pushed crude higher, with Brent around $96.6/bbl. Higher crude is a key risk for India because it can pressure inflation, the trade balance and corporate margins.</li>
-<li><b>US yields & dollar — Negative:</b> US 10Y yields were around 4.8% and the dollar remained firm. Higher US yields can reduce the relative attractiveness of emerging-market equities and keep FII sentiment cautious.</li>
-<li><b>India growth — Positive:</b> Q1 FY27 GDP growth was 7.8%, while private investment/capex showed improvement. This provides a fundamental cushion despite the external risk environment.</li>
-<li><b>Institutional flows — Supportive:</b> FIIs bought roughly ₹1,143 crore and DIIs bought roughly ₹1,847 crore on 1 Sep. DII support is helping absorb foreign selling pressure.</li>
-</ul>
+<h2>🎯 2. Nifty & Bank Nifty Levels</h2>
+<div class="two">
+<div>
+<h3>Nifty 50</h3>
+<table class="table"><tr><th>Level</th><th>Use</th></tr><tr><td><b>24,380</b></td><td>Major resistance / breakout trigger</td></tr><tr><td><b>24,200</b></td><td>Option-chain resistance zone</td></tr><tr><td><b>24,000</b></td><td>Psychological support / pivot</td></tr><tr><td><b>23,800</b></td><td>Important breakdown level</td></tr></table>
+</div>
+<div>
+<h3>Bank Nifty</h3>
+<table class="table"><tr><th>Level</th><th>Use</th></tr><tr><td><b>58,025</b></td><td>Previous close / immediate recovery reference</td></tr><tr><td><b>57,770</b></td><td>1 Sep intraday high</td></tr><tr><td><b>57,150</b></td><td>1 Sep intraday low</td></tr><tr><td><b>57,000</b></td><td>Psychological downside reference</td></tr></table>
+</div>
+</div>
+<p class="small">For intraday entries, confirm these levels with VWAP, 9/20 EMA alignment, volume and ADX rather than trading a level alone.</p>
 </section>
 
 <section class="card">
-<h2>📊 Sector view</h2>
+<h2>🎯 3. Nifty F&O Dashboard</h2>
 <div class="grid">
-<div class="metric"><span class="small">Relative strength</span><b>IT</b>One of the stronger areas</div>
-<div class="metric"><span class="small">Relative strength</span><b>Telecom</b>Showing resilience</div>
-<div class="metric"><span class="small">Relative strength</span><b>Capital Goods</b>Among stronger sectors</div>
-<div class="metric"><span class="small">Weakness</span><b>Banking / Metals</b>Lagging</div>
-<div class="metric"><span class="small">Weakness</span><b>Energy / FMCG</b>Under pressure</div>
+<div class="metric"><span class="label">PCR (OI)</span><b>~0.69</b><small>Cautious positioning</small></div>
+<div class="metric"><span class="label">Max pain</span><b>~24,100</b><small>Near spot</small></div>
+<div class="metric"><span class="label">Major Put OI</span><b>24,000</b><small>Important support area</small></div>
+<div class="metric"><span class="label">Major Call OI</span><b>24,200</b><small>Immediate resistance area</small></div>
+<div class="metric"><span class="label">ATM IV</span><b>~10.22%</b><small>Use with option premium/expiry</small></div>
+</div>
+<p><b>F&O interpretation:</b> 24,000–24,200 is the immediate battlefield. A sustained move above 24,200 would improve the upside setup; rejection near 24,200 followed by a break of 24,000 would strengthen the bearish setup.</p>
+<p class="small">Option-chain figures are snapshots and can change rapidly. Do not use OI or PCR alone as an entry signal.</p>
+</section>
+
+<section class="card">
+<h2>🌍 4. Global & Macro Dashboard</h2>
+<div class="grid">
+<div class="metric"><span class="label">Brent crude</span><b>~$96.6</b><small>Higher oil = India headwind</small></div>
+<div class="metric"><span class="label">US 10Y yield</span><b>~4.81%</b><small>Elevated global rates</small></div>
+<div class="metric"><span class="label">USD/INR</span><b>94.95</b><small>1 Sep close; oil pressure risk</small></div>
+<div class="metric"><span class="label">S&P 500</span><b>-0.7%</b><small>Previous US session</small></div>
+<div class="metric"><span class="label">Nasdaq</span><b>-1.0%</b><small>Previous US session</small></div>
+<div class="metric"><span class="label">Nikkei</span><b>~-2.6%</b><small>Asian risk-off cue</small></div>
+<div class="metric"><span class="label">KOSPI</span><b>~-3.0%</b><small>Strong risk-off cue</small></div>
+<div class="metric"><span class="label">India GDP Q1 FY27</span><b>7.8%</b><small>Domestic growth cushion</small></div>
 </div>
 </section>
 
 <section class="card">
-<h2>👀 Stocks to watch — and why</h2>
+<h2>🔄 5. Sector Rotation</h2>
+<div class="grid">
+<div class="metric"><span class="label">Relative strength</span><b>IT</b><small>+0.98% on 1 Sep</small></div>
+<div class="metric"><span class="label">Relative strength</span><b>FMCG</b><small>+0.94% on 1 Sep</small></div>
+<div class="metric"><span class="label">Relative strength</span><b>Oil & Gas</b><small>+0.35% on 1 Sep</small></div>
+<div class="metric"><span class="label">Weak</span><b>Auto</b><small>-1.22% on 1 Sep</small></div>
+<div class="metric"><span class="label">Weak</span><b>Financial Services</b><small>-1.10% on 1 Sep</small></div>
+<div class="metric"><span class="label">Weak</span><b>Pharma</b><small>-1.45% on 1 Sep</small></div>
+<div class="metric"><span class="label">Weak</span><b>Realty</b><small>-1.42% on 1 Sep</small></div>
+</div>
+<p class="small">Prefer stocks that outperform their sector rather than simply buying the strongest-looking sector.</p>
+</section>
+
+<section class="card">
+<h2>🔥 6. Stocks to Watch — Catalyst + Why</h2>
 <div class="stocks">
-<article class="stock"><h3>Coal India</h3><div class="impact">WATCH — Commodity / energy sensitivity</div><p class="why">Worth watching for relative strength and its ability to hold up if the broader market remains weak. Higher energy prices can also keep attention on the coal and power complex.</p></article>
-<article class="stock"><h3>Gland Pharma</h3><div class="impact">WATCH — Defensive pharma</div><p class="why">Pharma can provide relative defensiveness during a risk-off session. Gland Pharma was specifically highlighted among stocks to watch against the weak-market backdrop.</p></article>
-<article class="stock"><h3>Wipro</h3><div class="impact">WATCH — IT relative strength</div><p class="why">IT was among the stronger sectors in the previous session. Wipro is therefore worth monitoring for continuation of relative strength rather than chasing the first move.</p></article>
-<article class="stock"><h3>ITC</h3><div class="impact">WATCH — Defensive / FMCG</div><p class="why">ITC is useful to monitor for defensive behavior if market breadth deteriorates. The broader FMCG sector was weak, so confirmation from price action is important.</p></article>
-<article class="stock"><h3>L&T Finance</h3><div class="impact">WATCH — Financials</div><p class="why">Financials were among the weaker areas, making this a stock to watch for relative-strength divergence or a recovery setup rather than an automatic buy.</p></article>
-<article class="stock"><h3>BPCL</h3><div class="impact">WATCH — Crude sensitivity</div><p class="why">Higher crude makes oil-marketing companies particularly important to monitor. BPCL could see sentiment move quickly with changes in crude prices and margin expectations.</p></article>
-<article class="stock"><h3>NMDC</h3><div class="impact">WATCH — Metals / commodity</div><p class="why">Metals were weak overall, so NMDC is a useful relative-strength check. A stock holding key levels while the sector weakens can become an important signal.</p></article>
-<article class="stock"><h3>Hero MotoCorp</h3><div class="impact">WATCH — Auto / domestic demand</div><p class="why">Auto was highlighted among stocks to watch. Monitor price action, volume and whether it can maintain relative strength despite the broader risk-off tone.</p></article>
-<article class="stock"><h3>Reliance Industries</h3><div class="impact">WATCH — Index heavyweight</div><p class="why">As a major Nifty heavyweight, Reliance can materially influence index direction. Its reaction to crude and broader risk sentiment is especially relevant for the Nifty.</p></article>
-<article class="stock"><h3>Adani Green</h3><div class="impact">WATCH — High-beta / momentum</div><p class="why">Worth monitoring for momentum and volume behavior. In a cautious market, confirmation through sustained volume and price strength is more important than an isolated spike.</p></article>
+<article class="stock"><h3>Gland Pharma</h3><div class="impact">🟢 EVENT + DEFENSIVE</div><p class="why"><b>Why:</b> US FDA reported a clean inspection outcome for its Visakhapatnam facility. Pharma can also provide relative defensiveness during a risk-off market.</p><p><b>Watch for:</b> Gap behavior, volume and whether the stock holds the opening range.</p></article>
+<article class="stock"><h3>Coal India</h3><div class="impact">🟢 EVENT + COMMODITY</div><p class="why"><b>Why:</b> The company is moving toward a 10% stake sale in Mahanadi Coalfields via IPO. It is also relevant to the energy/commodity theme.</p><p><b>Watch for:</b> Relative strength if the index remains weak.</p></article>
+<article class="stock"><h3>Wipro</h3><div class="impact">🟢 IT RELATIVE STRENGTH</div><p class="why"><b>Why:</b> IT was one of the stronger sectors in the previous session while global technology markets are now under pressure. That creates a useful relative-strength test.</p><p><b>Watch for:</b> Holding above VWAP and opening-range high before considering momentum.</p></article>
+<article class="stock"><h3>Reliance Industries</h3><div class="impact">🟢 INDEX HEAVYWEIGHT</div><p class="why"><b>Why:</b> Reliance gained 2.5% on 1 Sep after a positive brokerage view tied to stronger refining margins. Its index weight makes it important for Nifty direction.</p><p><b>Watch for:</b> Whether it continues to outperform despite higher crude.</p></article>
+<article class="stock"><h3>Tata Motors</h3><div class="impact">🟡 AUTO EVENT / HIGH VOLATILITY</div><p class="why"><b>Why:</b> Auto was a weak sector and August sales/news flow can create stock-specific volatility. This is a confirmation trade, not an automatic buy.</p><p><b>Watch for:</b> Relative strength versus Nifty Auto and volume confirmation.</p></article>
+<article class="stock"><h3>BPCL</h3><div class="impact">🟡 CRUDE SENSITIVITY</div><p class="why"><b>Why:</b> Crude near $97 makes oil-marketing companies particularly sensitive to margin and sentiment changes.</p><p><b>Watch for:</b> Crude direction + price/volume divergence.</p></article>
+<article class="stock"><h3>Hero MotoCorp</h3><div class="impact">🟡 AUTO RELATIVE STRENGTH</div><p class="why"><b>Why:</b> Auto remains weak overall, so any stock that holds key levels and outperforms its sector becomes more interesting.</p><p><b>Watch for:</b> VWAP, 20 EMA and volume expansion.</p></article>
+<article class="stock"><h3>NMDC</h3><div class="impact">🟡 METALS RELATIVE STRENGTH</div><p class="why"><b>Why:</b> Metals are mixed; NMDC is useful for checking whether a commodity stock can maintain relative strength while the market is defensive.</p><p><b>Watch for:</b> Breakout/retest with volume.</p></article>
 </div>
 </section>
 
 <section class="card">
-<h2>🎯 Trading lens for today</h2>
-<p class="levels"><b>23,960 → 24,000:</b> watch whether buyers can reclaim and hold this zone.</p>
-<p class="levels"><b>24,380:</b> next important resistance; a clean breakout would improve the short-term setup.</p>
-<p class="levels"><b>23,800:</b> critical downside level. A decisive break with weak breadth would favor a defensive approach.</p>
+<h2>🚫 7. What to Avoid Today</h2>
 <ul>
-<li>Do not chase a sharp opening gap or first impulse candle.</li>
-<li>Prefer stocks showing relative strength, strong volume and confirmation after the opening volatility settles.</li>
-<li>For F&O, avoid turning a market-news view into an immediate option entry; confirm price action, trend and risk/reward first.</li>
+<li>Do not chase the first 5-minute candle after a weak gap.</li>
+<li>Avoid buying OTM options simply because Nifty is near a support level.</li>
+<li>Avoid averaging a losing option position without a new technical thesis.</li>
+<li>Be careful with high-beta stocks if VIX rises sharply after the open.</li>
+<li>Avoid treating a single news headline as confirmation; wait for price + volume.</li>
 </ul>
 </section>
 
 <section class="card">
-<h2>🧭 How to use this page</h2>
-<p>This brief is designed as a morning context layer for the Nifty Swing Growth Radar. Use the market regime, sector strength, stock-specific reasons and key index levels together rather than treating any single item as a trading signal.</p>
-<p><a href="./index.html">→ Open Nifty Swing Growth Radar</a></p>
-<p class="small">Market information is for research and educational purposes and is not a guaranteed trading signal or investment advice.</p>
+<h2>📈 8. Intraday Scenarios</h2>
+<div class="scenario bull"><b>🟢 Bullish scenario:</b> Nifty reclaims 24,000 and sustains above 24,200 with VWAP support, 9 EMA above 20 EMA and expanding volume → momentum longs become more attractive. 24,380 is the next major test.</div>
+<div class="scenario range"><b>🟡 Range scenario:</b> Nifty remains between 24,000 and 24,200 with low ADX/weak follow-through → avoid chasing; wait for a clean breakout or breakdown.</div>
+<div class="scenario bear"><b>🔴 Bearish scenario:</b> Nifty loses 24,000 with volume and fails to reclaim VWAP → downside risk increases toward 23,800. For options, prefer defined-risk setups rather than naked directional bets.</div>
 </section>
+
+<section class="card">
+<h2>📅 9. Events & Risk Monitor</h2>
+<div class="grid">
+<div class="metric"><span class="label">Geopolitics</span><b>🔴 High</b><small>US-Iran escalation / oil supply risk</small></div>
+<div class="metric"><span class="label">Crude</span><b>🔴 High</b><small>Near $97/bbl</small></div>
+<div class="metric"><span class="label">Global yields</span><b>🔴 High</b><small>US 10Y near 4.81%</small></div>
+<div class="metric"><span class="label">Domestic growth</span><b>🟢 Positive</b><small>Q1 FY27 GDP 7.8%</small></div>
+<div class="metric"><span class="label">Institutional support</span><b>🟢 Positive</b><small>DII buying has been supportive</small></div>
+</div>
+</section>
+
+<section class="card">
+<h2>💰 10. Long-Term Investor Lens</h2>
+<ul>
+<li>Do not convert a geopolitical one-day selloff into a long-term thesis without checking earnings, cash flow, debt and valuation.</li>
+<li>Prefer quality businesses with strong ROE/ROCE, durable free cash flow and manageable leverage when adding on corrections.</li>
+<li>For your investment radar, compare current price with intrinsic/fair value rather than buying solely because a stock has fallen.</li>
+<li>Use the swing radar for technical timing and keep the investment decision fundamentally driven.</li>
+</ul>
+<p><a href="./index.html">→ Open Nifty Swing Growth Radar / Investment Radar</a></p>
+</section>
+
+<section class="card">
+<h2>🧠 11. One-Minute AI Market Summary</h2>
+<p><b>Base case:</b> cautious opening and elevated volatility. The strongest immediate variables are crude, US yields and Asian risk sentiment. Nifty 24,000 is the key psychological pivot, while 24,200–24,380 is the upside confirmation zone. The best trading approach is to wait for price/volume confirmation and favor relative-strength names rather than chasing the gap. For F&O, 24,000–24,200 is the key positioning zone.</p>
+</section>
+
+<section class="card">
+<h2>📚 Sources & Data Notes</h2>
+<p class="small">Market dashboard uses the latest available public market/news snapshots. Values can change during the session. Option-chain figures are snapshots, not live execution data.</p>
+<ul class="small">
+<li><a href="https://www.reuters.com/world/india/indian-shares-fall-widening-iran-conflict-sends-oil-higher-2026-09-02/">Reuters — Indian shares / oil / GIFT Nifty</a></li>
+<li><a href="https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-02/">Reuters — Global markets, yields and crude</a></li>
+<li><a href="https://www.upstox.com/indices/india-vix-share-price/">Upstox — India VIX / index snapshot</a></li>
+<li><a href="https://www.upstox.com/indices/nifty-bank-share-price/">Upstox — Nifty Bank snapshot</a></li>
+<li><a href="https://optionalgo.in/max-pain/nifty">OptionAlgo — Nifty max pain / PCR snapshot</a></li>
+<li><a href="https://m.economictimes.com/markets/stocks/news/stocks-in-news-reliance-industries-wipro-tata-motors-among-9-stocks-that-will-be-in-focus-today/articleshow/133695276.cms">Economic Times — stocks in focus</a></li>
+</ul>
+</section>
+
+<div class="footer">Research and educational dashboard only. No section is a guaranteed trading signal. Confirm live price, liquidity, spreads, option-chain changes and risk/reward before executing a trade.</div>
 </main>
 </body>
 </html>
