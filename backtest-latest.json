@@ -2,41 +2,41 @@
   "method": "technical breakout/volume price-only backtest",
   "results": [
     {
-      "n": 3,
+      "n": 2,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 33.3,
-        "avg_return": -0.41,
-        "median_return": -0.61,
-        "best": 1.37,
+        "win_rate": 0.0,
+        "avg_return": -1.29,
+        "median_return": -1.29,
+        "best": -0.61,
         "worst": -1.98
       },
       "10d": {
-        "win_rate": 33.3,
-        "avg_return": -0.35,
-        "median_return": -0.18,
-        "best": 1.22,
+        "win_rate": 0.0,
+        "avg_return": -1.14,
+        "median_return": -1.14,
+        "best": -0.18,
         "worst": -2.1
       },
       "20d": {
-        "win_rate": 33.3,
-        "avg_return": 0.8,
-        "median_return": -0.44,
-        "best": 3.59,
+        "win_rate": 0.0,
+        "avg_return": -0.59,
+        "median_return": -0.59,
+        "best": -0.44,
         "worst": -0.75
       },
       "40d": {
-        "win_rate": 33.3,
-        "avg_return": -4.07,
-        "median_return": -5.83,
-        "best": 5.33,
+        "win_rate": 0.0,
+        "avg_return": -8.77,
+        "median_return": -8.77,
+        "best": -5.83,
         "worst": -11.71
       },
       "60d": {
-        "win_rate": 33.3,
-        "avg_return": -5.16,
-        "median_return": -6.47,
-        "best": 0.58,
+        "win_rate": 0.0,
+        "avg_return": -8.03,
+        "median_return": -8.03,
+        "best": -6.47,
         "worst": -9.59
       },
       "name": "Reliance Industries",
@@ -55,41 +55,41 @@
       "symbol": "ICICIBANK"
     },
     {
-      "n": 4,
+      "n": 3,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 50.0,
-        "avg_return": 0.51,
-        "median_return": 0.26,
+        "win_rate": 66.7,
+        "avg_return": 1.13,
+        "median_return": 1.89,
         "best": 3.38,
         "worst": -1.87
       },
       "10d": {
-        "win_rate": 75.0,
-        "avg_return": 1.11,
-        "median_return": 2.36,
+        "win_rate": 100.0,
+        "avg_return": 2.6,
+        "median_return": 3.01,
         "best": 3.08,
-        "worst": -3.35
+        "worst": 1.7
       },
       "20d": {
-        "win_rate": 75.0,
-        "avg_return": 2.96,
-        "median_return": 3.64,
+        "win_rate": 66.7,
+        "avg_return": 3.1,
+        "median_return": 4.76,
         "best": 4.98,
         "worst": -0.44
       },
       "40d": {
-        "win_rate": 75.0,
-        "avg_return": 3.15,
-        "median_return": 2.66,
-        "best": 7.63,
+        "win_rate": 66.7,
+        "avg_return": 1.66,
+        "median_return": 2.46,
+        "best": 2.87,
         "worst": -0.36
       },
       "60d": {
-        "win_rate": 50.0,
-        "avg_return": -0.51,
-        "median_return": -0.34,
-        "best": 5.47,
+        "win_rate": 33.3,
+        "avg_return": -2.51,
+        "median_return": -1.41,
+        "best": 0.74,
         "worst": -6.84
       },
       "name": "Bharti Airtel",
@@ -178,40 +178,40 @@
       "symbol": "INFY"
     },
     {
-      "n": 16,
+      "n": 17,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 75.0,
-        "avg_return": 0.83,
-        "median_return": 0.5,
+        "win_rate": 76.5,
+        "avg_return": 0.87,
+        "median_return": 0.62,
         "best": 5.42,
         "worst": -1.23
       },
       "10d": {
-        "win_rate": 93.8,
-        "avg_return": 2.59,
-        "median_return": 2.02,
+        "win_rate": 94.1,
+        "avg_return": 2.65,
+        "median_return": 2.25,
         "best": 10.95,
         "worst": -2.31
       },
       "20d": {
-        "win_rate": 75.0,
-        "avg_return": 3.0,
-        "median_return": 2.6,
+        "win_rate": 76.5,
+        "avg_return": 3.2,
+        "median_return": 2.74,
         "best": 15.02,
         "worst": -12.19
       },
       "40d": {
-        "win_rate": 75.0,
-        "avg_return": 2.42,
-        "median_return": 3.12,
+        "win_rate": 76.5,
+        "avg_return": 2.63,
+        "median_return": 3.68,
         "best": 11.72,
         "worst": -10.5
       },
       "60d": {
-        "win_rate": 81.2,
-        "avg_return": 4.36,
-        "median_return": 9.74,
+        "win_rate": 82.4,
+        "avg_return": 4.84,
+        "median_return": 10.03,
         "best": 14.79,
         "worst": -19.22
       },
@@ -278,41 +278,41 @@
       "symbol": "LT"
     },
     {
-      "n": 7,
+      "n": 8,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 14.3,
-        "avg_return": -1.36,
-        "median_return": -1.91,
+        "win_rate": 25.0,
+        "avg_return": -1.03,
+        "median_return": -1.76,
         "best": 2.7,
         "worst": -3.3
       },
       "10d": {
-        "win_rate": 57.1,
-        "avg_return": 0.33,
-        "median_return": 1.09,
-        "best": 3.97,
+        "win_rate": 62.5,
+        "avg_return": 0.79,
+        "median_return": 1.23,
+        "best": 4.05,
         "worst": -2.86
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 3.48,
-        "median_return": 3.47,
+        "avg_return": 3.7,
+        "median_return": 3.97,
         "best": 5.68,
         "worst": 1.14
       },
       "40d": {
-        "win_rate": 71.4,
-        "avg_return": 2.42,
-        "median_return": 4.27,
+        "win_rate": 75.0,
+        "avg_return": 3.25,
+        "median_return": 6.15,
         "best": 10.01,
         "worst": -15.26
       },
       "60d": {
-        "win_rate": 71.4,
-        "avg_return": 2.99,
-        "median_return": 4.6,
-        "best": 13.11,
+        "win_rate": 75.0,
+        "avg_return": 4.32,
+        "median_return": 4.64,
+        "best": 13.61,
         "worst": -7.45
       },
       "name": "Axis Bank",
@@ -401,41 +401,41 @@
       "symbol": "BAJFINANCE"
     },
     {
-      "n": 2,
+      "n": 1,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 50.0,
-        "avg_return": 0.51,
-        "median_return": 0.51,
-        "best": 1.45,
+        "win_rate": 0.0,
+        "avg_return": -0.42,
+        "median_return": -0.42,
+        "best": -0.42,
         "worst": -0.42
       },
       "10d": {
-        "win_rate": 50.0,
-        "avg_return": 1.07,
-        "median_return": 1.07,
-        "best": 2.68,
+        "win_rate": 0.0,
+        "avg_return": -0.53,
+        "median_return": -0.53,
+        "best": -0.53,
         "worst": -0.53
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 6.14,
-        "median_return": 6.14,
-        "best": 10.43,
+        "avg_return": 1.84,
+        "median_return": 1.84,
+        "best": 1.84,
         "worst": 1.84
       },
       "40d": {
-        "win_rate": 50.0,
-        "avg_return": 4.93,
-        "median_return": 4.93,
-        "best": 10.6,
+        "win_rate": 0.0,
+        "avg_return": -0.75,
+        "median_return": -0.75,
+        "best": -0.75,
         "worst": -0.75
       },
       "60d": {
         "win_rate": 100.0,
-        "avg_return": 5.21,
-        "median_return": 5.21,
-        "best": 8.45,
+        "avg_return": 1.97,
+        "median_return": 1.97,
+        "best": 1.97,
         "worst": 1.97
       },
       "name": "Maruti Suzuki",
@@ -647,40 +647,40 @@
       "symbol": "TITAN"
     },
     {
-      "n": 7,
+      "n": 6,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 71.4,
-        "avg_return": 1.4,
-        "median_return": 4.43,
+        "win_rate": 66.7,
+        "avg_return": 0.89,
+        "median_return": 4.38,
         "best": 8.95,
         "worst": -13.61
       },
       "10d": {
-        "win_rate": 71.4,
-        "avg_return": 0.62,
-        "median_return": 2.69,
+        "win_rate": 66.7,
+        "avg_return": 0.05,
+        "median_return": 1.87,
         "best": 9.46,
         "worst": -13.33
       },
       "20d": {
-        "win_rate": 57.1,
-        "avg_return": 4.84,
-        "median_return": 0.09,
+        "win_rate": 66.7,
+        "avg_return": 6.81,
+        "median_return": 6.14,
         "best": 23.51,
         "worst": -10.61
       },
       "40d": {
-        "win_rate": 57.1,
-        "avg_return": 4.35,
-        "median_return": 0.66,
+        "win_rate": 66.7,
+        "avg_return": 5.56,
+        "median_return": 2.37,
         "best": 23.81,
         "worst": -12.07
       },
       "60d": {
-        "win_rate": 71.4,
-        "avg_return": 7.21,
-        "median_return": 14.79,
+        "win_rate": 66.7,
+        "avg_return": 7.68,
+        "median_return": 15.61,
         "best": 22.51,
         "worst": -16.42
       },
@@ -1104,8 +1104,43 @@
       "symbol": "POLICYBZR"
     },
     {
-      "n": 0,
-      "note": "No qualifying signals",
+      "n": 1,
+      "note": "Price-only; no point-in-time fundamentals",
+      "5d": {
+        "win_rate": 100.0,
+        "avg_return": 2.06,
+        "median_return": 2.06,
+        "best": 2.06,
+        "worst": 2.06
+      },
+      "10d": {
+        "win_rate": 0.0,
+        "avg_return": -3.32,
+        "median_return": -3.32,
+        "best": -3.32,
+        "worst": -3.32
+      },
+      "20d": {
+        "win_rate": 0.0,
+        "avg_return": -3.27,
+        "median_return": -3.27,
+        "best": -3.27,
+        "worst": -3.27
+      },
+      "40d": {
+        "win_rate": 0.0,
+        "avg_return": -5.71,
+        "median_return": -5.71,
+        "best": -5.71,
+        "worst": -5.71
+      },
+      "60d": {
+        "win_rate": 0.0,
+        "avg_return": -16.6,
+        "median_return": -16.6,
+        "best": -16.6,
+        "worst": -16.6
+      },
       "name": "Mazagon Dock Shipbuilders",
       "symbol": "MAZDOCK"
     },
@@ -1327,43 +1362,8 @@
       "symbol": "BHARATFORG"
     },
     {
-      "n": 2,
-      "note": "Price-only; no point-in-time fundamentals",
-      "5d": {
-        "win_rate": 0.0,
-        "avg_return": -4.48,
-        "median_return": -4.48,
-        "best": -3.37,
-        "worst": -5.59
-      },
-      "10d": {
-        "win_rate": 0.0,
-        "avg_return": -9.34,
-        "median_return": -9.34,
-        "best": -8.07,
-        "worst": -10.62
-      },
-      "20d": {
-        "win_rate": 0.0,
-        "avg_return": -7.65,
-        "median_return": -7.65,
-        "best": -7.32,
-        "worst": -7.97
-      },
-      "40d": {
-        "win_rate": 0.0,
-        "avg_return": -15.32,
-        "median_return": -15.32,
-        "best": -13.39,
-        "worst": -17.24
-      },
-      "60d": {
-        "win_rate": 0.0,
-        "avg_return": -13.33,
-        "median_return": -13.33,
-        "best": -12.56,
-        "worst": -14.09
-      },
+      "n": 0,
+      "note": "No qualifying signals",
       "name": "Zensar Technologies",
       "symbol": "ZENSARTECH"
     },
@@ -1538,41 +1538,41 @@
       "symbol": "BLS"
     },
     {
-      "n": 3,
+      "n": 2,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -4.11,
-        "median_return": -1.13,
-        "best": -1.05,
+        "avg_return": -5.63,
+        "median_return": -5.63,
+        "best": -1.13,
         "worst": -10.13
       },
       "10d": {
-        "win_rate": 33.3,
-        "avg_return": -6.03,
-        "median_return": -9.22,
-        "best": 0.45,
+        "win_rate": 0.0,
+        "avg_return": -9.27,
+        "median_return": -9.27,
+        "best": -9.22,
         "worst": -9.31
       },
       "20d": {
         "win_rate": 0.0,
-        "avg_return": -5.77,
-        "median_return": -7.5,
+        "avg_return": -4.66,
+        "median_return": -4.66,
         "best": -1.83,
-        "worst": -7.98
+        "worst": -7.5
       },
       "40d": {
         "win_rate": 0.0,
-        "avg_return": -1.89,
-        "median_return": -0.19,
+        "avg_return": -2.74,
+        "median_return": -2.74,
         "best": -0.03,
         "worst": -5.44
       },
       "60d": {
-        "win_rate": 33.3,
-        "avg_return": -14.38,
-        "median_return": -9.18,
-        "best": 1.44,
+        "win_rate": 0.0,
+        "avg_return": -22.29,
+        "median_return": -22.29,
+        "best": -9.18,
         "worst": -35.41
       },
       "name": "eClerx Services",
@@ -1837,40 +1837,40 @@
       "symbol": "DATAPATTNS"
     },
     {
-      "n": 13,
+      "n": 11,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 53.8,
-        "avg_return": 2.37,
-        "median_return": 0.94,
+        "win_rate": 54.5,
+        "avg_return": 2.98,
+        "median_return": 2.7,
         "best": 12.9,
         "worst": -6.68
       },
       "10d": {
-        "win_rate": 61.5,
-        "avg_return": 2.47,
-        "median_return": 5.02,
+        "win_rate": 54.5,
+        "avg_return": 1.84,
+        "median_return": 4.44,
         "best": 10.13,
         "worst": -8.86
       },
       "20d": {
-        "win_rate": 61.5,
-        "avg_return": 5.17,
-        "median_return": 7.62,
+        "win_rate": 54.5,
+        "avg_return": 3.72,
+        "median_return": 5.09,
         "best": 26.61,
         "worst": -15.92
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 16.64,
-        "median_return": 18.38,
-        "best": 25.64,
+        "avg_return": 15.09,
+        "median_return": 17.42,
+        "best": 20.94,
         "worst": 7.69
       },
       "60d": {
         "win_rate": 100.0,
-        "avg_return": 21.11,
-        "median_return": 18.27,
+        "avg_return": 23.43,
+        "median_return": 20.53,
         "best": 52.55,
         "worst": 7.28
       },
