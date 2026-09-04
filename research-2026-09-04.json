@@ -1,0 +1,624 @@
+{
+  "date": "2026-09-03",
+  "source": "Yahoo Finance daily OHLCV",
+  "nifty_rows": 1175,
+  "stock_count": 32,
+  "stock_failures": [
+    {
+      "symbol": "RELIANCE",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "HDFCBANK",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "ICICIBANK",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "BHARTIARTL",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "TCS",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "SBIN",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "SUNPHARMA",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "HCLTECH",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "M&M",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "TITAN",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "OFSS",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "SOLARINDS",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "POLYCAB",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "DIXON",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "CUMMINSIND",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "COFORGE",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "INDIANB",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "MUTHOOTFIN",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "PERSISTENT",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "MAXHEALTH",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "NEULANDLAB",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "ECLERX",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "BALAMINES",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "DATAPATTNS",
+      "error": "Insufficient independent Yahoo daily history"
+    },
+    {
+      "symbol": "KVBL",
+      "error": "Insufficient independent Yahoo daily history"
+    }
+  ],
+  "batch_failures": [],
+  "weekly": {
+    "n": 249,
+    "avg": 0.14337383041693014,
+    "median": 0.14291013051537238,
+    "win": 54.21686746987952,
+    "std": 1.9408440085246916,
+    "best": 6.484620955123077,
+    "worst": -6.781728636742878
+  },
+  "gaps": {
+    "n": 1175,
+    "avg": 0.06443099098557088,
+    "median": 0.09494333720199144,
+    "win": 61.4468085106383,
+    "std": 0.5823726298709663,
+    "best": 4.861411535351445,
+    "worst": -5.003607889365114
+  },
+  "five_day": {
+    "n": 1175,
+    "avg": 0.16129996970171176,
+    "median": 0.20483151020767032,
+    "win": 54.8936170212766,
+    "std": 1.9385867520479823,
+    "best": 7.707436936302603,
+    "worst": -6.781728636742878
+  },
+  "current": {
+    "close": 23873.44921875,
+    "ret5": -0.9024189439146957,
+    "rsi": 30.147899276090186,
+    "gap": 0.3491612925566878
+  },
+  "top_stocks": [
+    {
+      "name": "Kirloskar Oil Engines",
+      "symbol": "KIRLOSENG",
+      "cap": "Small",
+      "sector": "Industrials",
+      "score": 97.5,
+      "action": "STRONG SETUP",
+      "close": 2267.60009765625,
+      "rsi": 65.28004204862317,
+      "ret20": 0.8315263517514104,
+      "ret60": 26.124927240893904,
+      "rs60": 23.28839292933853,
+      "trend": "Bullish alignment",
+      "vol_ratio": 2.6106570685578685,
+      "atr_pct": 3.3953447756366337,
+      "ema20": 2137.883877046202,
+      "ema50": 2127.917504372551,
+      "ema200": 1736.2351887060477,
+      "stop": 2137.883877046202,
+      "target": 2501.089294754336,
+      "rr": 1.8
+    },
+    {
+      "name": "Sona BLW Precision Forgings",
+      "symbol": "SONACOMS",
+      "cap": "Mid",
+      "sector": "Auto",
+      "score": 86,
+      "action": "STRONG SETUP",
+      "close": 800.0,
+      "rsi": 52.88392314936236,
+      "ret20": 1.0101010101010166,
+      "ret60": 36.728770018979205,
+      "rs60": 33.892235707423836,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.7701351596545404,
+      "atr_pct": 2.6370528084891185,
+      "ema20": 797.4774700862163,
+      "ema50": 750.2420798174869,
+      "ema200": 622.3692700760748,
+      "stop": 768.3553662981305,
+      "target": 856.9603406633651,
+      "rr": 1.8
+    },
+    {
+      "name": "Ather Energy",
+      "symbol": "ATHERENERG",
+      "cap": "Small",
+      "sector": "Auto",
+      "score": 86,
+      "action": "PULLBACK WATCH",
+      "close": 1638.9000244140625,
+      "rsi": 62.931387609441394,
+      "ret20": 12.778700762578277,
+      "ret60": 59.51917320118278,
+      "rs60": 56.68263888962741,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.8397602698203046,
+      "atr_pct": 3.8187626546078426,
+      "ema20": 1529.758341594213,
+      "ema50": 1373.5175304992708,
+      "ema200": 996.4317684509657,
+      "stop": 1529.758341594213,
+      "target": 1835.3550534897913,
+      "rr": 1.8
+    },
+    {
+      "name": "Marksans Pharma",
+      "symbol": "MARKSANS",
+      "cap": "Small",
+      "sector": "Pharma",
+      "score": 83.2,
+      "action": "STRONG SETUP",
+      "close": 332.20001220703125,
+      "rsi": 49.35380592386476,
+      "ret20": 23.54035691607892,
+      "ret60": 32.970423797090056,
+      "rs60": 30.133889485534684,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.4296086516954864,
+      "atr_pct": 3.8638508447190247,
+      "ema20": 314.8444970235634,
+      "ema50": 289.5198348826496,
+      "ema200": 236.4841216646214,
+      "stop": 312.9464427403041,
+      "target": 366.8564372471401,
+      "rr": 1.8
+    },
+    {
+      "name": "PB Fintech",
+      "symbol": "POLICYBZR",
+      "cap": "Mid",
+      "sector": "Financials",
+      "score": 80.6,
+      "action": "STRONG SETUP",
+      "close": 1870.0,
+      "rsi": 69.61678540799619,
+      "ret20": 16.94809255784866,
+      "ret60": 24.31857869315457,
+      "rs60": 21.4820443815992,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.6775714988190084,
+      "atr_pct": 2.596639308244604,
+      "ema20": 1779.921737923646,
+      "ema50": 1705.2415985748942,
+      "ema200": 1661.7276025334204,
+      "stop": 1779.921737923646,
+      "target": 2032.140871737437,
+      "rr": 1.8
+    },
+    {
+      "name": "CDSL",
+      "symbol": "CDSL",
+      "cap": "Small",
+      "sector": "Financials",
+      "score": 78.3,
+      "action": "WATCH",
+      "close": 1394.0,
+      "rsi": 59.604949945040005,
+      "ret20": 4.733283245679942,
+      "ret60": 17.12317738103273,
+      "rs60": 14.286643069477357,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.7386647731291541,
+      "atr_pct": 2.385735907596651,
+      "ema20": 1376.8616325186663,
+      "ema50": 1353.607411631977,
+      "ema200": 1354.56622816466,
+      "stop": 1344.114262172154,
+      "target": 1468.828606741769,
+      "rr": 1.5
+    },
+    {
+      "name": "Aegis Logistics",
+      "symbol": "AEGISLOG",
+      "cap": "Small",
+      "sector": "Logistics",
+      "score": 73,
+      "action": "WATCH",
+      "close": 1287.199951171875,
+      "rsi": 52.17044346637997,
+      "ret20": -8.057146344866073,
+      "ret60": 39.021483662499534,
+      "rs60": 36.184949350944166,
+      "trend": "Mixed",
+      "vol_ratio": 0.8506004539949182,
+      "atr_pct": 4.672934218237461,
+      "ema20": 1298.3382940089023,
+      "ema50": 1242.3343948307963,
+      "ema200": 966.8904309275721,
+      "stop": 1196.9749407087054,
+      "target": 1422.5374668666295,
+      "rr": 1.5
+    },
+    {
+      "name": "HFCL",
+      "symbol": "HFCL",
+      "cap": "Small",
+      "sector": "Telecom",
+      "score": 70.7,
+      "action": "WATCH",
+      "close": 220.4199981689453,
+      "rsi": 48.39785464546904,
+      "ret20": 8.224088059403712,
+      "ret60": 34.66520529821575,
+      "rs60": 31.82867098666038,
+      "trend": "Mixed",
+      "vol_ratio": 0.3826623530336131,
+      "atr_pct": 4.758773934818702,
+      "ema20": 228.46916745330472,
+      "ema50": 213.5182906909991,
+      "ema200": 151.6091293459237,
+      "stop": 204.68606403895785,
+      "target": 244.0208993639265,
+      "rr": 1.5
+    },
+    {
+      "name": "Kotak Mahindra Bank",
+      "symbol": "KOTAKBANK",
+      "cap": "Large",
+      "sector": "Financials",
+      "score": 68.2,
+      "action": "WATCH",
+      "close": 421.1499938964844,
+      "rsi": 74.95838745418558,
+      "ret20": 6.890861395046799,
+      "ret60": 7.067493926936108,
+      "rs60": 4.230959615380736,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.509877469332227,
+      "atr_pct": 1.8732723971392595,
+      "ema20": 408.1883521412288,
+      "ema50": 398.7851677738358,
+      "ema200": 397.4137318059443,
+      "stop": 408.1883521412288,
+      "target": 440.5924565293677,
+      "rr": 1.5
+    },
+    {
+      "name": "Axis Bank",
+      "symbol": "AXISBANK",
+      "cap": "Large",
+      "sector": "Financials",
+      "score": 57.7,
+      "action": "LOW PRIORITY",
+      "close": 1267.0,
+      "rsi": 63.06638427980739,
+      "ret20": 0.8757961783439461,
+      "ret60": -3.8184200230518606,
+      "rs60": -6.654954334607233,
+      "trend": "Mixed",
+      "vol_ratio": 0.6922284252385724,
+      "atr_pct": 1.8316602905837749,
+      "ema20": 1254.7419181516989,
+      "ema50": 1265.988377858321,
+      "ema200": 1266.1496244800433,
+      "stop": 1232.1892961774554,
+      "target": 1319.216055733817,
+      "rr": 1.5
+    },
+    {
+      "name": "CG Power",
+      "symbol": "CGPOWER",
+      "cap": "Mid",
+      "sector": "Industrials",
+      "score": 57.6,
+      "action": "LOW PRIORITY",
+      "close": 895.0,
+      "rsi": 51.121900309538425,
+      "ret20": 2.168949771689488,
+      "ret60": -0.7044961178159004,
+      "rs60": -3.5410304293712724,
+      "trend": "Mixed",
+      "vol_ratio": 1.0908127260123506,
+      "atr_pct": 2.407422868708849,
+      "ema20": 885.2607734847669,
+      "ema50": 885.2674680552891,
+      "ema200": 812.6184029842857,
+      "stop": 862.6803479875837,
+      "target": 943.4794780186245,
+      "rr": 1.5
+    },
+    {
+      "name": "Bajaj Finance",
+      "symbol": "BAJFINANCE",
+      "cap": "Large",
+      "sector": "Financials",
+      "score": 55.3,
+      "action": "LOW PRIORITY",
+      "close": 1049.0,
+      "rsi": 32.2430311700698,
+      "ret20": -8.368277842597116,
+      "ret60": 20.49853709830498,
+      "rs60": 17.662002786749607,
+      "trend": "Mixed",
+      "vol_ratio": 1.2472624555461067,
+      "atr_pct": 1.8561902332578646,
+      "ema20": 1074.6969144709863,
+      "ema50": 1053.5921253279996,
+      "ema200": 985.2817885561234,
+      "stop": 1019.7928466796875,
+      "target": 1092.8107299804688,
+      "rr": 1.5
+    },
+    {
+      "name": "LICI",
+      "symbol": "LICI",
+      "cap": "Large",
+      "sector": "Financials",
+      "score": 54.6,
+      "action": "LOW PRIORITY",
+      "close": 416.8999938964844,
+      "rsi": 52.891153373258796,
+      "ret20": 7.573218172617913,
+      "ret60": 6.027462094018032,
+      "rs60": 3.1909277824626603,
+      "trend": "Mixed",
+      "vol_ratio": 0.3569531335920851,
+      "atr_pct": 2.027720707278739,
+      "ema20": 415.32978988901215,
+      "ema50": 416.5454554924388,
+      "ema200": 419.5560763598671,
+      "stop": 404.21964263916016,
+      "target": 435.9205207824707,
+      "rr": 1.5
+    },
+    {
+      "name": "Delhivery",
+      "symbol": "DELHIVERY",
+      "cap": "Small",
+      "sector": "Logistics",
+      "score": 52.5,
+      "action": "LOW PRIORITY",
+      "close": 464.3500061035156,
+      "rsi": 53.06121874963586,
+      "ret20": 0.16177739217555498,
+      "ret60": 7.426259364607435,
+      "rs60": 4.589725053052063,
+      "trend": "Mixed",
+      "vol_ratio": 0.8405986648205188,
+      "atr_pct": 2.1112461073998476,
+      "ema20": 460.999736155147,
+      "ema50": 466.0263464154397,
+      "ema200": 449.55940097385263,
+      "stop": 449.64464896065846,
+      "target": 486.4080418178014,
+      "rr": 1.5
+    },
+    {
+      "name": "Greaves Cotton",
+      "symbol": "GREAVESCOT",
+      "cap": "Small",
+      "sector": "Auto",
+      "score": 47.3,
+      "action": "LOW PRIORITY",
+      "close": 194.77999877929688,
+      "rsi": 50.63019258047328,
+      "ret20": -3.358970066957734,
+      "ret60": 10.488403311215343,
+      "rs60": 7.651868999659971,
+      "trend": "Mixed",
+      "vol_ratio": 0.5396962150976587,
+      "atr_pct": 2.641442717362205,
+      "ema20": 199.24392488217794,
+      "ema50": 204.94760384077026,
+      "ema200": 193.80807654596796,
+      "stop": 187.062495640346,
+      "target": 206.35625348772322,
+      "rr": 1.5
+    },
+    {
+      "name": "Bharat Forge",
+      "symbol": "BHARATFORG",
+      "cap": "Mid",
+      "sector": "Auto",
+      "score": 44.2,
+      "action": "LOW PRIORITY",
+      "close": 1981.0,
+      "rsi": 39.53139813815255,
+      "ret20": -10.361990950226241,
+      "ret60": 1.960984873497429,
+      "rs60": -0.8755494380579432,
+      "trend": "Mixed",
+      "vol_ratio": 1.4006786522369994,
+      "atr_pct": 2.4194103539991527,
+      "ema20": 2068.216526481434,
+      "ema50": 2077.8669649179315,
+      "ema200": 1844.3975659889177,
+      "stop": 1909.107221330915,
+      "target": 2088.8391680036275,
+      "rr": 1.5
+    },
+    {
+      "name": "Narayana Hrudayalaya",
+      "symbol": "NH",
+      "cap": "Small",
+      "sector": "Healthcare",
+      "score": 43.8,
+      "action": "LOW PRIORITY",
+      "close": 1882.199951171875,
+      "rsi": 57.72584995700921,
+      "ret20": -0.14854370440980924,
+      "ret60": 1.2752193259012667,
+      "rs60": -1.5613149856541053,
+      "trend": "Mixed",
+      "vol_ratio": 0.41237632944030406,
+      "atr_pct": 1.9783078323291938,
+      "ema20": 1892.1067612681054,
+      "ema50": 1906.7306569091688,
+      "ema200": 1857.541937516328,
+      "stop": 1826.3463875906807,
+      "target": 1965.9802965436666,
+      "rr": 1.5
+    },
+    {
+      "name": "Astral",
+      "symbol": "ASTRAL",
+      "cap": "Mid",
+      "sector": "Industrials",
+      "score": 42.2,
+      "action": "LOW PRIORITY",
+      "close": 1495.199951171875,
+      "rsi": 31.223102547942744,
+      "ret20": 3.689317002210468,
+      "ret60": 0.3355254438216937,
+      "rs60": -2.5010088677336784,
+      "trend": "Mixed",
+      "vol_ratio": 0.3993016294388613,
+      "atr_pct": 2.160247124511839,
+      "ema20": 1504.7337806371427,
+      "ema50": 1487.1037210501815,
+      "ema200": 1500.5680763607156,
+      "stop": 1446.7499302455358,
+      "target": 1567.8749825613838,
+      "rr": 1.5
+    },
+    {
+      "name": "Larsen & Toubro",
+      "symbol": "LT",
+      "cap": "Large",
+      "sector": "Industrials",
+      "score": 40.8,
+      "action": "LOW PRIORITY",
+      "close": 3975.0,
+      "rsi": 38.018692255555955,
+      "ret20": -2.1369847797694463,
+      "ret60": 2.9259451061626196,
+      "rs60": 0.08941079460724755,
+      "trend": "Mixed",
+      "vol_ratio": 0.7330413203584798,
+      "atr_pct": 1.2840958944013925,
+      "ema20": 4023.6821617945243,
+      "ema50": 4006.5934595917647,
+      "ema200": 3939.0733068399654,
+      "stop": 3898.435782296317,
+      "target": 4089.8463265555247,
+      "rr": 1.5
+    },
+    {
+      "name": "KIMS Hospitals",
+      "symbol": "KIMS",
+      "cap": "Small",
+      "sector": "Healthcare",
+      "score": 39.2,
+      "action": "LOW PRIORITY",
+      "close": 767.8499755859375,
+      "rsi": 34.1893386584519,
+      "ret20": -5.039574725496532,
+      "ret60": 0.320087678825276,
+      "rs60": -2.516446632730096,
+      "trend": "Mixed",
+      "vol_ratio": 0.6105981646576999,
+      "atr_pct": 2.600489276005915,
+      "ema20": 778.0779744916608,
+      "ema50": 783.9602190990317,
+      "ema200": 735.413890142482,
+      "stop": 737.898191179548,
+      "target": 812.7776521955218,
+      "rr": 1.5
+    }
+  ],
+  "intraday_orb_options": {
+    "intraday": {
+      "NIFTY": {
+        "available": false,
+        "source": "Yahoo Finance 15m",
+        "reason": "429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?interval=15m&range=60d&events=history&includeAdjustedClose=true"
+      },
+      "BANKNIFTY": {
+        "available": false,
+        "source": "Yahoo Finance 15m",
+        "reason": "429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEBANK?interval=15m&range=60d&events=history&includeAdjustedClose=true"
+      }
+    },
+    "options": {
+      "NIFTY": {
+        "available": false,
+        "source": "Yahoo Finance",
+        "reason": "429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v7/finance/options/%5ENSEI"
+      },
+      "BANKNIFTY": {
+        "available": false,
+        "source": "Yahoo Finance",
+        "reason": "429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v7/finance/options/%5ENSEBANK"
+      }
+    },
+    "errors": [
+      "NIFTY intraday: HTTPError: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEI?interval=15m&range=60d&events=history&includeAdjustedClose=true",
+      "NIFTY options: HTTPError: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v7/finance/options/%5ENSEI",
+      "BANKNIFTY intraday: HTTPError: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v8/finance/chart/%5ENSEBANK?interval=15m&range=60d&events=history&includeAdjustedClose=true",
+      "BANKNIFTY options: HTTPError: 429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v7/finance/options/%5ENSEBANK"
+    ]
+  }
+}

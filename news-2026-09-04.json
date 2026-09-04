@@ -1,0 +1,2105 @@
+{
+  "date": "2026-09-04",
+  "items": [
+    {
+      "query": "India markets",
+      "title": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWNzTnpjcEtTaTVLcHZRWjdhcUhhODdtMW1CaWxVSVhiLTRvcGZobzN2UE5CVW1pQmxsamJmMDc3VHUxQWU3VUNyMV8tUWN2dVZGMU9RcmJhTnp1aWhVSS1zVl9MU3VBQ0UySFlaUjFpQVk5bXNnMFd2QlpnNUdQUTVRQi1hc2J0dUpnSUVKek03Q0k5UXhhSzBkUnRYbzh0Q1lMV2lYanlydjZiUE9iVVdR0gG6AUFVX3lxTFBwVGxfTzVOb2htNE1xc0Y5dDZodGV1eUFMWlBnS3NJMy1RLVB2ZHUydEtXMTExMW4yd2o2UTBVNjRILTZqX3hFSlYwcDZucHhqS0RONHNaNVM3QWZoNG80dHpPSXBIQk5YaEJSdU1sbURYclpuN0d2NWl6UC1pOHFFNWNLdHZrR25nQ0hQZ0I3MkkyUms4U2M5aHhDdTlDS2lFNlN2eGdsUGhoZ0x5WXlIT2p2M0pCTDkxdw?oc=5",
+      "description": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets &nbsp;&nbsp; NDTV",
+      "published": "Fri, 04 Sep 2026 02:52:01 GMT",
+      "source": "NDTV",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI may raise repo rate to 5.75-6 pc in H2 FY27, rate hike cycle likely from December: UBI - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaEpDZFlJdFB3dFdabUxZSmY0ZUd4dktMRTlWLTIxSlJTc3pmMVlCZ0pDWmZvSks3UkRrZ2VEaUl2anpiT29jdVY4ZG9PTm4teERITUtYS0FkaVROUm9FRUV2UjFQNEJrOEdfZEU4ZGhSeFVwQmVEYUlNRUg1bFl6M05hVVJ6dDRjZ3J2b2Rickt2c2JYZnZSLXg2MDVIUXlvODROci1SWXFQRWRmNWxLS1R2UEtSVWZhcFJxWHZCblNlLTFzWnVjYnZYV0RFUFViTUFhS3ZLZ1FsNC11YWdNVWRvOE1WUTdiQ3FsVdIB7AFBVV95cUxPaEpDZFlJdFB3dFdabUxZSmY0ZUd4dktMRTlWLTIxSlJTc3pmMVlCZ0pDWmZvSks3UkRrZ2VEaUl2anpiT29jdVY4ZG9PTm4teERITUtYS0FkaVROUm9FRUV2UjFQNEJrOEdfZEU4ZGhSeFVwQmVEYUlNRUg1bFl6M05hVVJ6dDRjZ3J2b2Rickt2c2JYZnZSLXg2MDVIUXlvODROci1SWXFQRWRmNWxLS1R2UEtSVWZhcFJxWHZCblNlLTFzWnVjYnZYV0RFUFViTUFhS3ZLZ1FsNC11YWdNVWRvOE1WUTdiQ3FsVQ?oc=5",
+      "description": "RBI may raise repo rate to 5.75-6 pc in H2 FY27, rate hike cycle likely from December: UBI &nbsp;&nbsp; The Tribune",
+      "published": "Fri, 04 Sep 2026 07:02:37 GMT",
+      "source": "The Tribune",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Rupee Outlook Improves as Fed Rate Hike Bets Cool - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQem5EY213a3A2NkdEZXY1eUpQek9PYTVCX01NeE9BZ3ROZ1QzanduV0FveGJoc1RRQ2ptTnZhYUxkMHBiT0hULW9FaFRQUTVnZ0NZUVVBbHlQczAyVmZFY0NsYnBBSUI2cVRETnpVMTczODJCWHo4QWhHR3lpMjF6LVB6ZXYwLVZqdUhVLUw1NzhLWVNmZnNMM0puWEVfQnRaRzRRamttdk1tbTF1RXlyejRuZG5XNzdzVFFKTUo3Zjl0cVlGMl85WQ?oc=5",
+      "description": "Rupee Outlook Improves as Fed Rate Hike Bets Cool &nbsp;&nbsp; Whalesbook",
+      "published": "Fri, 04 Sep 2026 05:06:29 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil prices steady as US signals no plans for 'indefinite war' with Iran - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcE1iUEU4LXJwQ0lzX1VsWWNudDhfaHZpYjZjN19MS0QzLXZOOF9rRlpVcGYwNTRuaDM0MDlxdUdwVlpuQ1Z6VDcxOHdaNjl0NHcxLXZOZm52Y0RtZm5tMm96bnNyTzQ4akZkVGh6eHBfMnAxOUtib3hLXzhyZUptby1STkVvYzlmcWJwNjYwN2pUNUppem9DTHRDTnhDemZuZHRWN2FBVm5tNXI0SVFuNw?oc=5",
+      "description": "Oil prices steady as US signals no plans for 'indefinite war' with Iran &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "published": "Fri, 04 Sep 2026 08:05:42 GMT",
+      "source": "Anadolu Ajans\u0131",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Crude Holds a War Premium Despite 17 Million Barrels Crossing Hormuz - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYWpKRktwNF9qeFgyblZjVkN4T1Z6VjZGZXVGZ0NETElqT2xDQVJ2WmNkUVp1aGo4SHdzem10TXJtSnI3UVVQby1LekNjT1FlamRCbG5iTWZ4cDZfeVFKWWpqeVpCX190OWdfUzlfQWZMcmJGM0FUWVJnbWZhenRlSUxQbml2Qy01UnlwUVRxcHZTTUZ0R1A2ZFU4Wk16WXdmbXpRUHRjYXExQU5CekMzMVF0SS1aWDNzMFdR?oc=5",
+      "description": "Brent Crude Holds a War Premium Despite 17 Million Barrels Crossing Hormuz &nbsp;&nbsp; Investing.com",
+      "published": "Thu, 03 Sep 2026 20:25:55 GMT",
+      "source": "Investing.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI steps in again to support rupee as oil prices, Asian currencies weaken - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUnNnLWxuR3JFT2NuVExkY0VBS2xJTE83OW9rbXR1a0NVTzhFX3pvdWtKOWRkcnJpLVp4UW0xUHYxMHk1M2x5VkRmejF0SWFZWjk5bzNQckF1VVItXzRETFE3ZE5DZTVCVU9HaXZ4UXhXelhKQ2FtSy1jZE9md1Fqb3NkczIxTEhIT3V1SFc5VGFVa3FTdXVkRVI3NVZ2dkN4V0FHeTJGbUhKTi0zdDRZRDlxRkRFc2NOM1U2TkJtc2ZpVHNiQTlTaFE1UTl6NVdQXzBnOHNETGtEQTVF0gHcAUFVX3lxTE5Sc2ctbG5HckVPY25UTGRjRUFLbElMTzc5b2ttdHVrQ1VPOEVfem91a0o5ZGRycmktWnhRbTFQdjEweTUzbHlWRGZ6MXRJYVlaOTlvM1ByQXVVUi1fNERMUTdkTkNlNUJVT0dpdnhReFd6WEpDYW1LLWNkT2Z3UWpvc2RzMjFMSEhPdXVIVzlUYVVrcVN1dWRFUjc1VnZ2Q3hXQUd5MkZtSEpOLTN0NFlEOXFGREVzY04zVTZOQm1zZmlUc2JBOVNoUTVROXo1V1BfMGc4c0RMa0RBNUU?oc=5",
+      "description": "RBI steps in again to support rupee as oil prices, Asian currencies weaken &nbsp;&nbsp; Business Standard",
+      "published": "Fri, 04 Sep 2026 06:19:18 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "There Are Four Forces Pressuring Bonds: War Is No. 1 - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZE91SHQzZ3Q0X3hyM0pjYzFTZXZRN1JxTlZwM0dFdFpWazZRMDUxWUdNYkNaTV9MOUZfaGtVVGVVTHJnUmJabVhqWnduanBHVWFXckw3YXNMVkRWQ3ZwU0RqQlpxekV6TmFONWlHemFxalV2WklOTThiekI5THgxQVZhbWh5bEFHSGVsOWNoZmdMdVVjNjV1Qm01NE5HQQ?oc=5",
+      "description": "There Are Four Forces Pressuring Bonds: War Is No. 1 &nbsp;&nbsp; WSJ",
+      "published": "Fri, 04 Sep 2026 01:01:54 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Interest rate fears ease, war worries persist, crude oil remains volatile - DhanamOnline",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTnJISG8zV3dRUDRPbzk2YjhiUkU5VmxZNDFJTW9VbFJJNEZhT1ZDV1VnMDVKV09aTE5RY2NuNHBCcW9tX1FoZ3JhczlKWFprd1BWRG5qcG16NGtBNlFPZVJYN3phQXVQLU9rZkJvcnZYd3lyS2NCSlNIZHJaVEs1UmZ6WWhqX0xsUFRMckgweGhiWndncmUwVW9HazdvNk9QMXBQQTZvdjNMeXVVdXd2SVlUenpmamlIQkU0S9IBygFBVV95cUxOcTVhTFdWdXJKZFdJVnNvYzFVN3c4U0JlOEw1c1NUSEp0alRYM09qS1hMd3lrV2ZrYVhTR0loOERJXy1ISXdrcDFKQy10eGczWkpnTkhMVU5zN1RIcHU0YUFoeDJhejlJSklxOE5yMkUyZXdKVUlmYWNCeWdqVG0zWXJkY1MxdS00VjhMakFGZ2V4aW5ad2xrTjFtcTYtekJVX3RFcUxGOFh2UXVibS1aMjRKcnJlZGFTU09KUFNQQmhZVHU1WXNoeDBB?oc=5",
+      "description": "Interest rate fears ease, war worries persist, crude oil remains volatile &nbsp;&nbsp; DhanamOnline",
+      "published": "Fri, 04 Sep 2026 02:28:25 GMT",
+      "source": "DhanamOnline",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "US Fed rate cut bets fall below 50% after Governor Chris Waller\u2019s comments. What did he say? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQamZDby1sMVg4bmdEZ0hObVQ5TTJpSzNWcFE0NjVBZ1pQdjA4ajhRdEJsS3h3d0RWZ0Jma1ZhYXBsMlZKdjh1TXUxd3NWTG9HUWExcE1QVUIwRlM3Z1AwSzc2RVJ3QUxoWlJCQXZKT1FJeU1jQ1RrekFsemhrbGhhNE5LQ3pkX3JhZ1ZNamZVX01uVDhwRnRFMXNkQXJ1YkxLd1ZscXJvOHBGaGw3Y1Rra003M0tuN3NnTzRMcHJ5OFJTR2d5RklJQ3FWa1lUdDVRaW9abG83SEdxRnVTd2hEdXM4V1dSdW53cWQzM3NCNk5KV1dLbHhMTmI1cENGYUsxbzZncTR2Q2U5eWRGUVYw0gGPAkFVX3lxTFBqZkNvLWwxWDhuZ0RnSE5tVDlNMmlLM1ZwUTQ2NUFnWlB2MDhqOFF0QmxLeHd3RFZnQmZrVmFhcGwyVkp2OHVNdTF3c1ZMb0dRYTFwTVBVQjBGUzdnUDBLNzZFUndBTGhaUkJBdkpPUUl5TWNDVGt6QWx6aGtsaGE0TktDemRfcmFnVk1qZlVfTW5UOHBGdEUxc2RBcnViTEt3Vmxxcm84cEZobDdjVGtrTTczS243c2dPNExwcnk4UlNHZ3lGSUlDcVZrWVR0NVFpb1psbzdIR3FGdVN3aER1czhXV1J1bndxZDMzc0I2TkpXV0tseExOYjVwQ0ZhSzFvNmdxNHZDZTl5ZEZRVjA?oc=5",
+      "description": "US Fed rate cut bets fall below 50% after Governor Chris Waller\u2019s comments. What did he say? &nbsp;&nbsp; The Economic Times",
+      "published": "Fri, 04 Sep 2026 06:38:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "How India's RBI could tackle a liquidity deluge triggered by dollar deposits - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMW9CeXIzMnNDZjN2XzhIalNNX3RSMldzTEFqNnlOaFBiWVdPZjMtWGJFbjYyWXlraEQtSWZfMGtzUndlNHVzUUZzcXd0WUQ2andWSF9tUTIzQlo3eWxidVZETUZqcnNoRlB4NFhOM3FWTVRwUFhGaWhiaUlNWDAxbHd3UmVDU3l1QjBSWUZYNFVHaUxRdUtXRWsxZkdKYUZTejBENUIxRldYMW1ZTVdjdHM2MUVpckpoSEJuMWpB?oc=5",
+      "description": "How India's RBI could tackle a liquidity deluge triggered by dollar deposits &nbsp;&nbsp; Reuters",
+      "published": "Thu, 03 Sep 2026 12:35:43 GMT",
+      "source": "Reuters",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Faces Liquidity Glut as India Gets $127 Billion From Its Diaspora, Giving RBI a New Headache - NiftyTrader",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wWkl6X1NkN3BRMlRCekYzNFJQWGxhYmUtYlBOOVZ2OVR5QVAwS1lYeHQ5QW14TERTaXhoQW1aQ1k1ZTdLLWlVRUlRN0Nnb1BCRXJZbzloZzQ5LXFuNE9zNUxaLTlGVFZJMWhqYmdkTzRsZE9wVlRwdw?oc=5",
+      "description": "RBI Faces Liquidity Glut as India Gets $127 Billion From Its Diaspora, Giving RBI a New Headache &nbsp;&nbsp; NiftyTrader",
+      "published": "Thu, 03 Sep 2026 10:27:14 GMT",
+      "source": "NiftyTrader",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "How RBI could tackle a liquidity deluge triggered by dollar deposits - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcndxWHZKbnJHZTY2VE81bkFmaklxUEQ2REFDWTVJWWpmOFYxZk5BYUttMXdPb2dkbHVNYmxGOVNUekVMRXNIdTNoQkJLdFlKUzlZWGRrOS1ERVdKNTZFRWE0LXU1NzZlcHk3dlJVV0Znd3F6UUlZUDRpYjVYeDhQVV94anpCUXBFeHRDNkxLb283M1dlM0VmcHZrY1FsaGN0S2Jja0FMN09NQVJKWmhYa2t3QU9nRlA5YTB0TDJiN0lxVldVNFdpVzVNdFAtWVhNUFRsbDhqbVZYYlc0YThJ0gHfAUFVX3lxTE5yd3FYdkpuckdlNjZUTzVuQWZqSXFQRDZEQUNZNUlZamY4VjFmTkFhS20xd09vZ2RsdU1ibEY5U1R6RUxFc0h1M2hCQkt0WUpTOVlYZGs5LURFV0o1NkVFYTQtdTU3NmVweTd2UlVXRmd3cXpRSVlQNGliNVh4OFBVX3hqekJRcEV4dEM2TEtvbzczV2UzRWZwdmtjUWxoY3RLYmNrQUw3T01BUkpaaFhra3dBT2dGUDlhMHRMMmI3SXFWV1U0V2lXNU10UC1ZWE1QVGxsOGptVlhiVzRhOEk?oc=5",
+      "description": "How RBI could tackle a liquidity deluge triggered by dollar deposits &nbsp;&nbsp; The Economic Times",
+      "published": "Thu, 03 Sep 2026 10:41:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Mobilizes Record $136 Billion Forex Inflow - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONzh4cUdfVDNmdWFIVVRDbmFwXzU3cEFyNlhZZmFrbFlNZUQxVWlKcEV3cjNYQTlCVUNxakI2SmtwelNFbHBsNW1Mem5uZjBuQU5MUENKcnNoNzlJbk43MU5HdVdmdWhyQWpiU2VhdkxBSVZPZmxzdGtXNjFhaTFCN3psYUdpV3RyRlV3Z3NxbHlVRG5La28tSjgxMmxEOWx4Nm1UZkdGNklReEQzaFpBdGY1ZFUyS3dibWhoMA?oc=5",
+      "description": "RBI Mobilizes Record $136 Billion Forex Inflow &nbsp;&nbsp; Whalesbook",
+      "published": "Thu, 03 Sep 2026 17:06:30 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil may top $100 as Hormuz, Russia risks persist: Mirae Asset Sharekhan - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORURDM1ZDLTZDc204UzNyMU5PWkJKUWhkeF9vM2NVME8yMlkxWUV0VWhCbjlpWG53a2Y0VTFKblJReGtQeWFuNXpuSHl2RVhDbUJhM2F5MG1YWkNyRUZhT3pMUXZHR3JpQ2ZWLWFRV0UxZ3YwLVZ3NXR6a1M1WmtCQVRHdmZlNjhsNGdSLTVheTd6bWphSU5ERWd0SGtFb1ItVU93d3dEbW9xbGJxVUJfZmhZN0VyX0xZVmtZSGRDTk4xRG9uMXZGWVhNVnN2WVZlMkdlSV9Gd3BnZw?oc=5",
+      "description": "Oil may top $100 as Hormuz, Russia risks persist: Mirae Asset Sharekhan &nbsp;&nbsp; Business Standard",
+      "published": "Fri, 04 Sep 2026 07:35:51 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5",
+      "description": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks &nbsp;&nbsp; WSJ",
+      "published": "Fri, 04 Sep 2026 07:21:46 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZno2NGVxVEdHT05HYUNscTFmOW52WnpWbzFTTm1QSHIyc0pQYXotN3J0UlZoM2JGYVNSaUVTRzhLNjFnYWpWRGhIT1ZHbmZ6VUE0LTlDTGF4OTc5UkZOdVJGZTFJSjRzcHN0ZXF3ZFQ2SUhHemhWVTZCZGdpLUlnbHZISDYwbzVES1ZUMVFhTHNpaFBvbHV2RXhoZzJQY0Z5V1ZkMzY3TTM0RGJOR083UjhR0gG3AUFVX3lxTE40RmxqZ0RCMDAtWTNkTTAzSDVuMGpJSHZJYm5zcUJYMTB4RUFyX1c0cU1oc1lXcnUtQ2xVSFFzeUNjdGg5Mjl2NHNhRk84Q3ZBR19tNE1McDBOTDRZem1hTzZ2aWloenFzVW45bkI3NXlpQURmZkdaak4xZ29fcjNuS0c4RnVxczlOUXNXTWJjODBNT2RWSW1SQVJtUklVY25iWU9LUlJJaXdCNDRVLV84aWJnNTFkWQ?oc=5",
+      "description": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+      "published": "Fri, 04 Sep 2026 05:40:00 GMT",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Price Today (September 4): Crude oil at $96, set for a 7% weekly surge as Iran, US exchange attacks. What\u2019s next? - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNeHA2TzIyT2NBQng3OXBOT0d4OXFxT0FUeGV4dmg4Wms5c25Ub3RqZUQ3UXNkN1pNVmNKeDZNTDN0S0ZzMkFhMHhnTlRLd0tVRkozcFA2U1BkMVFueEJ5YUYzNjJqN3g0MVpOV2hRdjZfS0dyTGlmN08tSjk2alIzSGNxMHhYSXA2OThsVFA2a0pDNExIWjNNT0h2Q2hMX1NqQ0h4NzI5eHZjVVoyOGNKbGM4czJZQzVCWExLSDhob0VlMDZDUVk0TDFCMlFISThMQ1VmWEpnb3NVemxXWUFmYjlNNENlT1BKdGRlZVljdEhOUGYwaE9MdkNrWXI0MURMcHRCck04R1NmeTMwYVdUNS1pWTBfSTBwcGpTQ1Y0T2lpdE9lN2ppd0IzSkpZczFJd1dBQ1J3clB5c3FlbzNRNzN6bE5mUFVyMmtNTFFmQWhGSkJ5aHRMT3BYNld0cm5uMVBCV09fU2JnVzc0VmZNd0ZDd1J4S1IwSG5zYi1B?oc=5",
+      "description": "Oil Price Today (September 4): Crude oil at $96, set for a 7% weekly surge as Iran, US exchange attacks. What\u2019s next? &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Fri, 04 Sep 2026 02:12:17 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
+      "description": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days &nbsp;&nbsp; LiteFinance",
+      "published": "Fri, 04 Sep 2026 00:11:12 GMT",
+      "source": "LiteFinance",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Citi raises Q3 Brent forecast to $86 on Hormuz closure By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVd2YlJBTUh6NTV1VHhSUlBCNS1EN0hyWWdJOXpnRG13UDhpU2I5bG1ybUpGNXFVc3d1bTF5TXd3OTlWUWZRVERuRVJXUHdCbE1lSFo0dXZHczZ2akk4d3htaWFZU19obGRBRGp1NEtBeEJwTEd2R3VGN25tQzFpZVB6TTI2bzNaeE5UOE5XdkI5OG9pbFNxUlFGY19UdEMwdFV2ZENHcUtlOG1MYUFWc2hnRUM?oc=5",
+      "description": "Citi raises Q3 Brent forecast to $86 on Hormuz closure By Investing.com &nbsp;&nbsp; Investing.com India",
+      "published": "Thu, 03 Sep 2026 23:06:34 GMT",
+      "source": "Investing.com India",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Indian rupee inflow-linked, RBI-backed optimism faces oil test - brecorder.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pTldDUnN0UUpSQW8tUUFTSGlkaEN4WUhTaHBFMGE2cUg1cXJwRnF2a2FoaGlSSTg2WUlLRnBVWFhZSGQxeHdUSml3TlExc0dDY3JPNG1yZDjSAVZBVV95cUxQckQxZk9aLW5nV2xfRnUwSk55d2d5bldwX0t1UDRMOERRUWlrRzQ4WUluZHo1ckctZExvQW9uSDRLb3I4cWNxSklrSzN6OC1iZ0t5VVRjQQ?oc=5",
+      "description": "Indian rupee inflow-linked, RBI-backed optimism faces oil test &nbsp;&nbsp; brecorder.com",
+      "published": "Fri, 04 Sep 2026 03:14:50 GMT",
+      "source": "brecorder.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "Energy"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
+      "description": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict &nbsp;&nbsp; WSJ",
+      "published": "Thu, 03 Sep 2026 19:08:00 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "India's record diaspora inflows leave RBI facing potential $10.6 bn bill - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFlobF91cDlLV0tTM3c3c25jZENFa20yd0pjSkxTcVk2UmRCUmtFY0FtQjBzNzcxa2dBRHhZOGptSk1OR05kcUVSMXBJZzdRRmhQdElmNHMwSEJrVVhsSF9FQmVrakdqWXJIeXliWE1xTVppWU1jTjdxTXNROFNXcnVvUWx0Q296NnQycE5vVExkOTFiR05qbVptSlZHaFFPcjhVMEcyOEJjYmNvUzczZWQ0aHlaUVliekh2UFBVM21PMXlFaTFjOHdnQ2NpVVNwaXVmR9IB2gFBVV95cUxObGNaQ1hlSUVSOWdVQkJlOEY1dy14dmwyS25CX1BFYkxXcGhPdHBobS04a1JGLU5fRy1fZmlLc3d2YzZwWHlVSG9aR1BlVDFWRVpwd0E0em05QnBDQzhWVmViSUkxU251Y2R4QUJPa0Z3RTNUMnM3MTJRYm1BRU1XekRUekVLdU9Mei1aU1dFM2Vvc0t5ZV9zZFRqOUxQVy1NZmh4cGtJVzM4NnRvS3RxTjRpYV82YjlIeU44NzJZM2JEcHZTWXVWcm5QbE5HcDA1LXc1S3NSMXN6Zw?oc=5",
+      "description": "India's record diaspora inflows leave RBI facing potential $10.6 bn bill &nbsp;&nbsp; Business Standard",
+      "published": "Fri, 04 Sep 2026 06:39:49 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "NBFCs must use AI, strengthen underwriting as credit growth accelerates: RBI Deputy Governor Murmu - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPREV2ZWtZOUZIRUlVbjZtQXBDNVpiN2dCaldZWUg0WGppUHR4bWJVeHotdHYwcjVYeURSMDBTdnRlLVFENDE2MC1nRUtVOWoxYWFtWjVKZ01FanZIWGFZTF9tSVVobkdocXdneFh2di1TU1hKaHMxTHFOUWcwbVJwM1UyaXVkTWZvVGJzZTBGX2Z5akxpaTFsWUg2b1pwS2FfOGw0WDN3eEFJQ0RGLVV3VEp3Sk5MajZZVmJBNUJfQkxWd0I4em11ajlnOWNraTZ4bGQzMGFmYThLSUltR3hPRTF4Uko2MEY0aVQ4Y3QwZUs0RmlXZ0lzMtIB-AFBVV95cUxPREV2ZWtZOUZIRUlVbjZtQXBDNVpiN2dCaldZWUg0WGppUHR4bWJVeHotdHYwcjVYeURSMDBTdnRlLVFENDE2MC1nRUtVOWoxYWFtWjVKZ01FanZIWGFZTF9tSVVobkdocXdneFh2di1TU1hKaHMxTHFOUWcwbVJwM1UyaXVkTWZvVGJzZTBGX2Z5akxpaTFsWUg2b1pwS2FfOGw0WDN3eEFJQ0RGLVV3VEp3Sk5MajZZVmJBNUJfQkxWd0I4em11ajlnOWNraTZ4bGQzMGFmYThLSUltR3hPRTF4Uko2MEY0aVQ4Y3QwZUs0RmlXZ0lzMg?oc=5",
+      "description": "NBFCs must use AI, strengthen underwriting as credit growth accelerates: RBI Deputy Governor Murmu &nbsp;&nbsp; The Economic Times",
+      "published": "Thu, 03 Sep 2026 08:35:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI's dollar sales, robust swap inflows lift rupee to 10-week high - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnVLclZxM2FpeXFHMlBINXBMVTYyNjREQnNMQ2lONHVxWEtLMXptYVkzNC1LQVFOVmFidmNDX0ZhVk4zTFlHLWl1Mmc3Y2VEZThhQ0M0Q2VLNUx6R21WYTl0WVBFLUFpUWJKRDFFZHVqYzliak9IMTRCLWlkUHBZZk9tZy1EVDU4dnNrVktIZTJtbFVwRVAtRmhuTk9JbkVRSl9Jbnp5MGVzbXQ2SjBlUE1PN3EzSVk2WU45Szl0cUVuWkxoZlR1a1NweFnSAdIBQVVfeXFMTW5CYXZCWHVMMTRhZFhfZHVWVVVVY0VlVTVGa2FyMm9fWFJBcWU5Tkl3cnpvaXpnamE2WVRwOTZWVW5mQWpGNnZiUF9KWTNHRFQ0TE9OWnlKV0t3YWJXdTkyZExBTHI0OFVuTjdtU2wzUk9xeHBzQTdoQjRjaUROMExSbmFJenJpZnp3TGtadFJLR0EwOVJkaDNBUkxiWmxLN0VZdmtIVEthcm1QQkhHTGlLOHFhOEM4ZXo0T1F5cHNmLVV6SUxqQllxeHVoU2hHYUN3?oc=5",
+      "description": "RBI's dollar sales, robust swap inflows lift rupee to 10-week high &nbsp;&nbsp; Business Standard",
+      "published": "Thu, 03 Sep 2026 15:20:17 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNME1HaTkycDRrcTd1MkRUNVVBU1cxY0FsVVJBcVlmdGdwMk5tUFRJa2p2TFBleElLNEpaOTdNVGs4djlleUp5dmhtMFBjT2RqdmNrdkg2VnJkal9mc2Q5UmdLeHpWN0R3d2xfVjAydjFja1A5SkQ5RC11X1JreWNpclFXcEpuVjFyU0EtWU1SeFJlN25aV1hKM1JwaDhxNkp2VElEczlFbDZwTV9IQkRzano4djA4aUtuWUtaYTBUOXRQdHY0SGpzNld2dGdEa1JQUEVWdUpBMDUzc3cwRmlVVzRWaE02Ylcxb1HSAeoBQVVfeXFMTTBNR2k5MnA0a3E3dTJEVDVVQVNXMWNBbFVSQXFZZnRncDJObVBUSWtqdkxQZXhJSzRKWjk3TVRrOHY5ZXlKeXZobTBQY09kanZja3ZINlZyZGpfZnNkOVJnS3h6VjdEd3dsX1YwMnYxY2tQOUpEOUQtdV9Sa3ljaXJRV3BKblYxclNBLVlNUnhSZTduWldYSjNScGg4cTZKdlRJRHM5RWw2cE1fSEJEc2p6OHYwOGlLbllLWmEwVDl0UHR2NEhqczZXdnRnRGtSUFBFVnVKQTA1M3N3MEZpVVc0VmhNNmJXMW9R?oc=5",
+      "description": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG &nbsp;&nbsp; The Economic Times",
+      "published": "Thu, 03 Sep 2026 10:55:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI's Murmu urges NBFCs, HFCs to diversify funding, strengthen liquidity - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHdwenRVUUx6NURMSlNsamF5ZzNvaFdlbTBUVWdyaS1CQkRaaEFEVGNvbVFnOHhRX3BnQXJDNnZuYlhtYjdteElJU2JnbUpQUGE3SEdONC1Fd1M0SVNiQ3RJUi1HNldrR1VHc1RMbmt0dlY5NHcxWWJUU0I3NTk2U1VtUENNZVRtcV8wSXdEUDJiczlSMmZzWkloMEFIOHVuOWNXazk1bGtZd0tCSmZLb25YZGJhOW5qMkoxZVdTQjhDZmRZbU9KbHotaDk2ZDNaTlJj0gHYAUFVX3lxTE13LW1QamhWRHRPdnVRZlVuTVk5aFdvSVk2MGZEeUJGTlVBZWV6UFFTVjVrREpXX0JKLV9DWEhiSGRjZzVMYktXNTNXTzVGLVJBd2JDWEdGS1MzckJYLU1VRnVKYlVFZXg2RjIxVTMxazJXUHVOU05UNDJrSHUwSzdUNC1ndjBkeFdSNDNfbk5nVkN1dk0wRWtPUEY3UGdkLUVWTU9ZMlpxVTJhVUlRbmg2c19QUGtVV09OY2tRWDV3NVgwdG91VGJZZGNqb1FDS0dVRXV1MHB1aw?oc=5",
+      "description": "RBI's Murmu urges NBFCs, HFCs to diversify funding, strengthen liquidity &nbsp;&nbsp; Business Standard",
+      "published": "Thu, 03 Sep 2026 11:37:43 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEcwY1VWV2oxV295MXlNOTZmV1Faa0dUak9PYlg1RjR4cmdEOWZXX0xic25XZzVLZGNoQ1FHeXNIS3dUdVZnbXhaSmFacUdGU2MzVGhfSG1HQmU1Q0xKNlhRbWJISC1GVG1GSHoyNTlNamhHUGJNX2JmN2s0Z1VpRkQtaVZYTW0wdXhqTGhtdGhXTU9MTG1iWkVxWnZCa25zZmdLdXlxY29kUG1VS20zeW9fcTZtQ1NfTUM2ZmdPQTA3a19VRm1WUXdPWk1NSkNZQ2ZtXzVEeGVxNmg2ZVN1MnFTeG9ralF6RHVSd0hUV0zSAeoBQVVfeXFMTTBNR2k5MnA0a3E3dTJEVDVVQVNXMWNBbFVSQXFZZnRncDJObVBUSWtqdkxQZXhJSzRKWjk3TVRrOHY5ZXlKeXZobTBQY09kanZja3ZINlZyZGpfZnNkOVJnS3h6VjdEd3dsX1YwMnYxY2tQOUpEOUQtdV9Sa3ljaXJRV3BKblYxclNBLVlNUnhSZTduWldYSjNScGg4cTZKdlRJRHM5RWw2cE1fSEJEc2p6OHYwOGlLbllLWmEwVDl0UHR2NEhqczZXdnRnRGtSUFBFVnVKQTA1M3N3MEZpVVc0VmhNNmJXMW9R?oc=5",
+      "description": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Thu, 03 Sep 2026 10:55:17 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI Urges NBFCs: Prioritize Asset Quality Over Loan Growth - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2lvVm1kVnhjUy1BZWZ3eXVlWVdPSk9NQVJCSDhXdXB6ZC14Q1ZsN2xyZGxiTGhORDRJc05kN25TYVZ6UFdRT09xNWt0VVpZQUtMMTBfWlFkSWlTeUJ1WHJWdE81YmpmNlh6QmpwcC1WVk80TDZZVVNLbkhtR3JOS09PRkRKMXlFTVBCQ1ZPYjVaWERER3Jycld1aGowV2M5Vm5pVUtJdVVYX1NvWXfSAbMBQVVfeXFMUE9yMldMMTNqUC0yVF91aWZzbVZUczcxakNsZ0pZZk1NakJmbDdMTjd6Z0RsN01kVktncWtrS0lmNVRpem1RWnd0Zk9mX0JkSkFmYVV4REdsYmJtSV82QnB4RHFOenhJWmNvOW9mTzBLTi0zOEFKZGdmNnQtWU02SDl0dF8xclc1bWNGcVVsVFk4bmdOZzcwUXpsa1ZLanNhbjQzRzNyeVpQNGtNQ1pqcmlYZEE?oc=5",
+      "description": "RBI Urges NBFCs: Prioritize Asset Quality Over Loan Growth &nbsp;&nbsp; Rediff MoneyWiz",
+      "published": "Thu, 03 Sep 2026 11:27:26 GMT",
+      "source": "Rediff MoneyWiz",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI Deputy Governor urges lenders to use AI, ML to spot early signs of borrower stress - indiagazette.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnJkWW9TUEVPM3pUOUZ4Y2lWRFdMSFJmX1pIbE5rdFZudmc1Zi1uaDk0SjFoQlRpemIxNDl4Q3pIaVRvWC1CTFFNYkswckJ0cHktQUMxcnJObDVELUlwX21famM3b3Zrc2hkU05EUEFwclpsVnM4bDZnblR0RUFPZDdPYTFUOWUwUG8zMU90dUlqX1VWTnNDWGdMc1ZWM1IxR29SQ2ItSWkxN2NDajNYbV9QY0JGX2hMZDh2bkRmeUkxbUQ4R2pscw?oc=5",
+      "description": "RBI Deputy Governor urges lenders to use AI, ML to spot early signs of borrower stress &nbsp;&nbsp; indiagazette.com",
+      "published": "Thu, 03 Sep 2026 10:33:00 GMT",
+      "source": "indiagazette.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Revolving credit ban will impact a larger section, NBFCs tell RBI - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzF0Z0pCMzZsUG51ZlRjXzc0Q0VCQWo0WUlzTEs4dUFnbVlEM01xWnNlWUQ1M1lGVTVKSzNZUE5KbTNORWJPcUtGSEY4V21rd1RwYUFibUtEMUhOSHZwMWwycmJUbGYxNmlVUl9EY1FfSXNHTzJiazg3ZENPc3FKLTZad0o2NnFuNXdjcGdPWkdNNThYWExpMnIyemhxaF8zZ1lmSVRhSVZhOU1aSGVQQnJoUlNvdkc1cUhOVVdKMkUzTFY5U3ZjZWh6Y9IB0AFBVV95cUxQZHJjZ0hUYkY3UERCVXJpZnRxeXAxZHdlM1o0eXNaUFpLODVNZUNvOXJpaUxyRFJ0dWJiQmI5dnJNMkFZRV9TZ2tnV2k5VmhLckdRSWZnWm5kMUthQ3ZPdlhSdU91b3pJc1Z2Mi1SYTJ5UXNHRzdPc0FmV0U5ejc3Mi14TklyenRNUnVTcXU0QmtwdWNqclhSRC1GVnFxRXdNUFdtSy1sWS1TX1RsYkdSLThfNjRDb3hyVVFSNmZGTFNIVzJNZVVmSkJzTWtZSVRx?oc=5",
+      "description": "Revolving credit ban will impact a larger section, NBFCs tell RBI &nbsp;&nbsp; Business Standard",
+      "published": "Thu, 03 Sep 2026 14:43:25 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "Auto"
+      ],
+      "affected": [
+        "Financials",
+        "Auto"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    }
+  ],
+  "high_impact": [
+    {
+      "query": "India markets",
+      "title": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVWNzTnpjcEtTaTVLcHZRWjdhcUhhODdtMW1CaWxVSVhiLTRvcGZobzN2UE5CVW1pQmxsamJmMDc3VHUxQWU3VUNyMV8tUWN2dVZGMU9RcmJhTnp1aWhVSS1zVl9MU3VBQ0UySFlaUjFpQVk5bXNnMFd2QlpnNUdQUTVRQi1hc2J0dUpnSUVKek03Q0k5UXhhSzBkUnRYbzh0Q1lMV2lYanlydjZiUE9iVVdR0gG6AUFVX3lxTFBwVGxfTzVOb2htNE1xc0Y5dDZodGV1eUFMWlBnS3NJMy1RLVB2ZHUydEtXMTExMW4yd2o2UTBVNjRILTZqX3hFSlYwcDZucHhqS0RONHNaNVM3QWZoNG80dHpPSXBIQk5YaEJSdU1sbURYclpuN0d2NWl6UC1pOHFFNWNLdHZrR25nQ0hQZ0I3MkkyUms4U2M5aHhDdTlDS2lFNlN2eGdsUGhoZ0x5WXlIT2p2M0pCTDkxdw?oc=5",
+      "description": "Crude Oil, Interest Rates, Iran War: How 3 Risks Can Shake Indian Stock Markets &nbsp;&nbsp; NDTV",
+      "published": "Fri, 04 Sep 2026 02:52:01 GMT",
+      "source": "NDTV",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI may raise repo rate to 5.75-6 pc in H2 FY27, rate hike cycle likely from December: UBI - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaEpDZFlJdFB3dFdabUxZSmY0ZUd4dktMRTlWLTIxSlJTc3pmMVlCZ0pDWmZvSks3UkRrZ2VEaUl2anpiT29jdVY4ZG9PTm4teERITUtYS0FkaVROUm9FRUV2UjFQNEJrOEdfZEU4ZGhSeFVwQmVEYUlNRUg1bFl6M05hVVJ6dDRjZ3J2b2Rickt2c2JYZnZSLXg2MDVIUXlvODROci1SWXFQRWRmNWxLS1R2UEtSVWZhcFJxWHZCblNlLTFzWnVjYnZYV0RFUFViTUFhS3ZLZ1FsNC11YWdNVWRvOE1WUTdiQ3FsVdIB7AFBVV95cUxPaEpDZFlJdFB3dFdabUxZSmY0ZUd4dktMRTlWLTIxSlJTc3pmMVlCZ0pDWmZvSks3UkRrZ2VEaUl2anpiT29jdVY4ZG9PTm4teERITUtYS0FkaVROUm9FRUV2UjFQNEJrOEdfZEU4ZGhSeFVwQmVEYUlNRUg1bFl6M05hVVJ6dDRjZ3J2b2Rickt2c2JYZnZSLXg2MDVIUXlvODROci1SWXFQRWRmNWxLS1R2UEtSVWZhcFJxWHZCblNlLTFzWnVjYnZYV0RFUFViTUFhS3ZLZ1FsNC11YWdNVWRvOE1WUTdiQ3FsVQ?oc=5",
+      "description": "RBI may raise repo rate to 5.75-6 pc in H2 FY27, rate hike cycle likely from December: UBI &nbsp;&nbsp; The Tribune",
+      "published": "Fri, 04 Sep 2026 07:02:37 GMT",
+      "source": "The Tribune",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Rupee Outlook Improves as Fed Rate Hike Bets Cool - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQem5EY213a3A2NkdEZXY1eUpQek9PYTVCX01NeE9BZ3ROZ1QzanduV0FveGJoc1RRQ2ptTnZhYUxkMHBiT0hULW9FaFRQUTVnZ0NZUVVBbHlQczAyVmZFY0NsYnBBSUI2cVRETnpVMTczODJCWHo4QWhHR3lpMjF6LVB6ZXYwLVZqdUhVLUw1NzhLWVNmZnNMM0puWEVfQnRaRzRRamttdk1tbTF1RXlyejRuZG5XNzdzVFFKTUo3Zjl0cVlGMl85WQ?oc=5",
+      "description": "Rupee Outlook Improves as Fed Rate Hike Bets Cool &nbsp;&nbsp; Whalesbook",
+      "published": "Fri, 04 Sep 2026 05:06:29 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil prices steady as US signals no plans for 'indefinite war' with Iran - Anadolu Ajans\u0131",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcE1iUEU4LXJwQ0lzX1VsWWNudDhfaHZpYjZjN19MS0QzLXZOOF9rRlpVcGYwNTRuaDM0MDlxdUdwVlpuQ1Z6VDcxOHdaNjl0NHcxLXZOZm52Y0RtZm5tMm96bnNyTzQ4akZkVGh6eHBfMnAxOUtib3hLXzhyZUptby1STkVvYzlmcWJwNjYwN2pUNUppem9DTHRDTnhDemZuZHRWN2FBVm5tNXI0SVFuNw?oc=5",
+      "description": "Oil prices steady as US signals no plans for 'indefinite war' with Iran &nbsp;&nbsp; Anadolu Ajans\u0131",
+      "published": "Fri, 04 Sep 2026 08:05:42 GMT",
+      "source": "Anadolu Ajans\u0131",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Crude Holds a War Premium Despite 17 Million Barrels Crossing Hormuz - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYWpKRktwNF9qeFgyblZjVkN4T1Z6VjZGZXVGZ0NETElqT2xDQVJ2WmNkUVp1aGo4SHdzem10TXJtSnI3UVVQby1LekNjT1FlamRCbG5iTWZ4cDZfeVFKWWpqeVpCX190OWdfUzlfQWZMcmJGM0FUWVJnbWZhenRlSUxQbml2Qy01UnlwUVRxcHZTTUZ0R1A2ZFU4Wk16WXdmbXpRUHRjYXExQU5CekMzMVF0SS1aWDNzMFdR?oc=5",
+      "description": "Brent Crude Holds a War Premium Despite 17 Million Barrels Crossing Hormuz &nbsp;&nbsp; Investing.com",
+      "published": "Thu, 03 Sep 2026 20:25:55 GMT",
+      "source": "Investing.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI steps in again to support rupee as oil prices, Asian currencies weaken - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUnNnLWxuR3JFT2NuVExkY0VBS2xJTE83OW9rbXR1a0NVTzhFX3pvdWtKOWRkcnJpLVp4UW0xUHYxMHk1M2x5VkRmejF0SWFZWjk5bzNQckF1VVItXzRETFE3ZE5DZTVCVU9HaXZ4UXhXelhKQ2FtSy1jZE9md1Fqb3NkczIxTEhIT3V1SFc5VGFVa3FTdXVkRVI3NVZ2dkN4V0FHeTJGbUhKTi0zdDRZRDlxRkRFc2NOM1U2TkJtc2ZpVHNiQTlTaFE1UTl6NVdQXzBnOHNETGtEQTVF0gHcAUFVX3lxTE5Sc2ctbG5HckVPY25UTGRjRUFLbElMTzc5b2ttdHVrQ1VPOEVfem91a0o5ZGRycmktWnhRbTFQdjEweTUzbHlWRGZ6MXRJYVlaOTlvM1ByQXVVUi1fNERMUTdkTkNlNUJVT0dpdnhReFd6WEpDYW1LLWNkT2Z3UWpvc2RzMjFMSEhPdXVIVzlUYVVrcVN1dWRFUjc1VnZ2Q3hXQUd5MkZtSEpOLTN0NFlEOXFGREVzY04zVTZOQm1zZmlUc2JBOVNoUTVROXo1V1BfMGc4c0RMa0RBNUU?oc=5",
+      "description": "RBI steps in again to support rupee as oil prices, Asian currencies weaken &nbsp;&nbsp; Business Standard",
+      "published": "Fri, 04 Sep 2026 06:19:18 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "There Are Four Forces Pressuring Bonds: War Is No. 1 - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZE91SHQzZ3Q0X3hyM0pjYzFTZXZRN1JxTlZwM0dFdFpWazZRMDUxWUdNYkNaTV9MOUZfaGtVVGVVTHJnUmJabVhqWnduanBHVWFXckw3YXNMVkRWQ3ZwU0RqQlpxekV6TmFONWlHemFxalV2WklOTThiekI5THgxQVZhbWh5bEFHSGVsOWNoZmdMdVVjNjV1Qm01NE5HQQ?oc=5",
+      "description": "There Are Four Forces Pressuring Bonds: War Is No. 1 &nbsp;&nbsp; WSJ",
+      "published": "Fri, 04 Sep 2026 01:01:54 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Interest rate fears ease, war worries persist, crude oil remains volatile - DhanamOnline",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTnJISG8zV3dRUDRPbzk2YjhiUkU5VmxZNDFJTW9VbFJJNEZhT1ZDV1VnMDVKV09aTE5RY2NuNHBCcW9tX1FoZ3JhczlKWFprd1BWRG5qcG16NGtBNlFPZVJYN3phQXVQLU9rZkJvcnZYd3lyS2NCSlNIZHJaVEs1UmZ6WWhqX0xsUFRMckgweGhiWndncmUwVW9HazdvNk9QMXBQQTZvdjNMeXVVdXd2SVlUenpmamlIQkU0S9IBygFBVV95cUxOcTVhTFdWdXJKZFdJVnNvYzFVN3c4U0JlOEw1c1NUSEp0alRYM09qS1hMd3lrV2ZrYVhTR0loOERJXy1ISXdrcDFKQy10eGczWkpnTkhMVU5zN1RIcHU0YUFoeDJhejlJSklxOE5yMkUyZXdKVUlmYWNCeWdqVG0zWXJkY1MxdS00VjhMakFGZ2V4aW5ad2xrTjFtcTYtekJVX3RFcUxGOFh2UXVibS1aMjRKcnJlZGFTU09KUFNQQmhZVHU1WXNoeDBB?oc=5",
+      "description": "Interest rate fears ease, war worries persist, crude oil remains volatile &nbsp;&nbsp; DhanamOnline",
+      "published": "Fri, 04 Sep 2026 02:28:25 GMT",
+      "source": "DhanamOnline",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "US Fed rate cut bets fall below 50% after Governor Chris Waller\u2019s comments. What did he say? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQamZDby1sMVg4bmdEZ0hObVQ5TTJpSzNWcFE0NjVBZ1pQdjA4ajhRdEJsS3h3d0RWZ0Jma1ZhYXBsMlZKdjh1TXUxd3NWTG9HUWExcE1QVUIwRlM3Z1AwSzc2RVJ3QUxoWlJCQXZKT1FJeU1jQ1RrekFsemhrbGhhNE5LQ3pkX3JhZ1ZNamZVX01uVDhwRnRFMXNkQXJ1YkxLd1ZscXJvOHBGaGw3Y1Rra003M0tuN3NnTzRMcHJ5OFJTR2d5RklJQ3FWa1lUdDVRaW9abG83SEdxRnVTd2hEdXM4V1dSdW53cWQzM3NCNk5KV1dLbHhMTmI1cENGYUsxbzZncTR2Q2U5eWRGUVYw0gGPAkFVX3lxTFBqZkNvLWwxWDhuZ0RnSE5tVDlNMmlLM1ZwUTQ2NUFnWlB2MDhqOFF0QmxLeHd3RFZnQmZrVmFhcGwyVkp2OHVNdTF3c1ZMb0dRYTFwTVBVQjBGUzdnUDBLNzZFUndBTGhaUkJBdkpPUUl5TWNDVGt6QWx6aGtsaGE0TktDemRfcmFnVk1qZlVfTW5UOHBGdEUxc2RBcnViTEt3Vmxxcm84cEZobDdjVGtrTTczS243c2dPNExwcnk4UlNHZ3lGSUlDcVZrWVR0NVFpb1psbzdIR3FGdVN3aER1czhXV1J1bndxZDMzc0I2TkpXV0tseExOYjVwQ0ZhSzFvNmdxNHZDZTl5ZEZRVjA?oc=5",
+      "description": "US Fed rate cut bets fall below 50% after Governor Chris Waller\u2019s comments. What did he say? &nbsp;&nbsp; The Economic Times",
+      "published": "Fri, 04 Sep 2026 06:38:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "How India's RBI could tackle a liquidity deluge triggered by dollar deposits - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMW9CeXIzMnNDZjN2XzhIalNNX3RSMldzTEFqNnlOaFBiWVdPZjMtWGJFbjYyWXlraEQtSWZfMGtzUndlNHVzUUZzcXd0WUQ2andWSF9tUTIzQlo3eWxidVZETUZqcnNoRlB4NFhOM3FWTVRwUFhGaWhiaUlNWDAxbHd3UmVDU3l1QjBSWUZYNFVHaUxRdUtXRWsxZkdKYUZTejBENUIxRldYMW1ZTVdjdHM2MUVpckpoSEJuMWpB?oc=5",
+      "description": "How India's RBI could tackle a liquidity deluge triggered by dollar deposits &nbsp;&nbsp; Reuters",
+      "published": "Thu, 03 Sep 2026 12:35:43 GMT",
+      "source": "Reuters",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Faces Liquidity Glut as India Gets $127 Billion From Its Diaspora, Giving RBI a New Headache - NiftyTrader",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wWkl6X1NkN3BRMlRCekYzNFJQWGxhYmUtYlBOOVZ2OVR5QVAwS1lYeHQ5QW14TERTaXhoQW1aQ1k1ZTdLLWlVRUlRN0Nnb1BCRXJZbzloZzQ5LXFuNE9zNUxaLTlGVFZJMWhqYmdkTzRsZE9wVlRwdw?oc=5",
+      "description": "RBI Faces Liquidity Glut as India Gets $127 Billion From Its Diaspora, Giving RBI a New Headache &nbsp;&nbsp; NiftyTrader",
+      "published": "Thu, 03 Sep 2026 10:27:14 GMT",
+      "source": "NiftyTrader",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "How RBI could tackle a liquidity deluge triggered by dollar deposits - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcndxWHZKbnJHZTY2VE81bkFmaklxUEQ2REFDWTVJWWpmOFYxZk5BYUttMXdPb2dkbHVNYmxGOVNUekVMRXNIdTNoQkJLdFlKUzlZWGRrOS1ERVdKNTZFRWE0LXU1NzZlcHk3dlJVV0Znd3F6UUlZUDRpYjVYeDhQVV94anpCUXBFeHRDNkxLb283M1dlM0VmcHZrY1FsaGN0S2Jja0FMN09NQVJKWmhYa2t3QU9nRlA5YTB0TDJiN0lxVldVNFdpVzVNdFAtWVhNUFRsbDhqbVZYYlc0YThJ0gHfAUFVX3lxTE5yd3FYdkpuckdlNjZUTzVuQWZqSXFQRDZEQUNZNUlZamY4VjFmTkFhS20xd09vZ2RsdU1ibEY5U1R6RUxFc0h1M2hCQkt0WUpTOVlYZGs5LURFV0o1NkVFYTQtdTU3NmVweTd2UlVXRmd3cXpRSVlQNGliNVh4OFBVX3hqekJRcEV4dEM2TEtvbzczV2UzRWZwdmtjUWxoY3RLYmNrQUw3T01BUkpaaFhra3dBT2dGUDlhMHRMMmI3SXFWV1U0V2lXNU10UC1ZWE1QVGxsOGptVlhiVzRhOEk?oc=5",
+      "description": "How RBI could tackle a liquidity deluge triggered by dollar deposits &nbsp;&nbsp; The Economic Times",
+      "published": "Thu, 03 Sep 2026 10:41:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Mobilizes Record $136 Billion Forex Inflow - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONzh4cUdfVDNmdWFIVVRDbmFwXzU3cEFyNlhZZmFrbFlNZUQxVWlKcEV3cjNYQTlCVUNxakI2SmtwelNFbHBsNW1Mem5uZjBuQU5MUENKcnNoNzlJbk43MU5HdVdmdWhyQWpiU2VhdkxBSVZPZmxzdGtXNjFhaTFCN3psYUdpV3RyRlV3Z3NxbHlVRG5La28tSjgxMmxEOWx4Nm1UZkdGNklReEQzaFpBdGY1ZFUyS3dibWhoMA?oc=5",
+      "description": "RBI Mobilizes Record $136 Billion Forex Inflow &nbsp;&nbsp; Whalesbook",
+      "published": "Thu, 03 Sep 2026 17:06:30 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil may top $100 as Hormuz, Russia risks persist: Mirae Asset Sharekhan - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORURDM1ZDLTZDc204UzNyMU5PWkJKUWhkeF9vM2NVME8yMlkxWUV0VWhCbjlpWG53a2Y0VTFKblJReGtQeWFuNXpuSHl2RVhDbUJhM2F5MG1YWkNyRUZhT3pMUXZHR3JpQ2ZWLWFRV0UxZ3YwLVZ3NXR6a1M1WmtCQVRHdmZlNjhsNGdSLTVheTd6bWphSU5ERWd0SGtFb1ItVU93d3dEbW9xbGJxVUJfZmhZN0VyX0xZVmtZSGRDTk4xRG9uMXZGWVhNVnN2WVZlMkdlSV9Gd3BnZw?oc=5",
+      "description": "Oil may top $100 as Hormuz, Russia risks persist: Mirae Asset Sharekhan &nbsp;&nbsp; Business Standard",
+      "published": "Fri, 04 Sep 2026 07:35:51 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMlR5akN0RkpJX3dMQ00tZTA4SjFUR2ZIZFhYZlI3R0NJQy1veW1jM1FFRjNQSUcxVDE5Q0x3ODdpOXBteHJPTUpGajN4MG5xZUdza1lSRVpRZGZkVlNkT2dEUXE1NmxhSjNVWHhqM2xiU09LS2hteVhYX1AxSkg2Nlh2V2kxZmkzTkVhREFtc2pPZjNEb1RNeURlWVZJQ2JzNWF6eWVKcUl2dS00YURBNmhhamp1eUQwbUREOGdOT2VJRVhyaUtDWg?oc=5",
+      "description": "Oil Prices Rise as Renewed U.S.-Iran Fighting Deepens Hormuz Supply Risks &nbsp;&nbsp; WSJ",
+      "published": "Fri, 04 Sep 2026 07:21:46 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge - Crude Oil Prices Today | OilPrice.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZno2NGVxVEdHT05HYUNscTFmOW52WnpWbzFTTm1QSHIyc0pQYXotN3J0UlZoM2JGYVNSaUVTRzhLNjFnYWpWRGhIT1ZHbmZ6VUE0LTlDTGF4OTc5UkZOdVJGZTFJSjRzcHN0ZXF3ZFQ2SUhHemhWVTZCZGdpLUlnbHZISDYwbzVES1ZUMVFhTHNpaFBvbHV2RXhoZzJQY0Z5V1ZkMzY3TTM0RGJOR083UjhR0gG3AUFVX3lxTE40RmxqZ0RCMDAtWTNkTTAzSDVuMGpJSHZJYm5zcUJYMTB4RUFyX1c0cU1oc1lXcnUtQ2xVSFFzeUNjdGg5Mjl2NHNhRk84Q3ZBR19tNE1McDBOTDRZem1hTzZ2aWloenFzVW45bkI3NXlpQURmZkdaak4xZ29fcjNuS0c4RnVxczlOUXNXTWJjODBNT2RWSW1SQVJtUklVY25iWU9LUlJJaXdCNDRVLV84aWJnNTFkWQ?oc=5",
+      "description": "Brent Nears $96 as Iran Conflict Keeps Oil Market on Edge &nbsp;&nbsp; Crude Oil Prices Today | OilPrice.com",
+      "published": "Fri, 04 Sep 2026 05:40:00 GMT",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Price Today (September 4): Crude oil at $96, set for a 7% weekly surge as Iran, US exchange attacks. What\u2019s next? - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxNeHA2TzIyT2NBQng3OXBOT0d4OXFxT0FUeGV4dmg4Wms5c25Ub3RqZUQ3UXNkN1pNVmNKeDZNTDN0S0ZzMkFhMHhnTlRLd0tVRkozcFA2U1BkMVFueEJ5YUYzNjJqN3g0MVpOV2hRdjZfS0dyTGlmN08tSjk2alIzSGNxMHhYSXA2OThsVFA2a0pDNExIWjNNT0h2Q2hMX1NqQ0h4NzI5eHZjVVoyOGNKbGM4czJZQzVCWExLSDhob0VlMDZDUVk0TDFCMlFISThMQ1VmWEpnb3NVemxXWUFmYjlNNENlT1BKdGRlZVljdEhOUGYwaE9MdkNrWXI0MURMcHRCck04R1NmeTMwYVdUNS1pWTBfSTBwcGpTQ1Y0T2lpdE9lN2ppd0IzSkpZczFJd1dBQ1J3clB5c3FlbzNRNzN6bE5mUFVyMmtNTFFmQWhGSkJ5aHRMT3BYNld0cm5uMVBCV09fU2JnVzc0VmZNd0ZDd1J4S1IwSG5zYi1B?oc=5",
+      "description": "Oil Price Today (September 4): Crude oil at $96, set for a 7% weekly surge as Iran, US exchange attacks. What\u2019s next? &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Fri, 04 Sep 2026 02:12:17 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
+      "description": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days &nbsp;&nbsp; LiteFinance",
+      "published": "Fri, 04 Sep 2026 00:11:12 GMT",
+      "source": "LiteFinance",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Citi raises Q3 Brent forecast to $86 on Hormuz closure By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbVd2YlJBTUh6NTV1VHhSUlBCNS1EN0hyWWdJOXpnRG13UDhpU2I5bG1ybUpGNXFVc3d1bTF5TXd3OTlWUWZRVERuRVJXUHdCbE1lSFo0dXZHczZ2akk4d3htaWFZU19obGRBRGp1NEtBeEJwTEd2R3VGN25tQzFpZVB6TTI2bzNaeE5UOE5XdkI5OG9pbFNxUlFGY19UdEMwdFV2ZENHcUtlOG1MYUFWc2hnRUM?oc=5",
+      "description": "Citi raises Q3 Brent forecast to $86 on Hormuz closure By Investing.com &nbsp;&nbsp; Investing.com India",
+      "published": "Thu, 03 Sep 2026 23:06:34 GMT",
+      "source": "Investing.com India",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Indian rupee inflow-linked, RBI-backed optimism faces oil test - brecorder.com",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9pTldDUnN0UUpSQW8tUUFTSGlkaEN4WUhTaHBFMGE2cUg1cXJwRnF2a2FoaGlSSTg2WUlLRnBVWFhZSGQxeHdUSml3TlExc0dDY3JPNG1yZDjSAVZBVV95cUxQckQxZk9aLW5nV2xfRnUwSk55d2d5bldwX0t1UDRMOERRUWlrRzQ4WUluZHo1ckctZExvQW9uSDRLb3I4cWNxSklrSzN6OC1iZ0t5VVRjQQ?oc=5",
+      "description": "Indian rupee inflow-linked, RBI-backed optimism faces oil test &nbsp;&nbsp; brecorder.com",
+      "published": "Fri, 04 Sep 2026 03:14:50 GMT",
+      "source": "brecorder.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "Energy"
+      ],
+      "affected": [
+        "Financials",
+        "Energy"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
+      "description": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict &nbsp;&nbsp; WSJ",
+      "published": "Thu, 03 Sep 2026 19:08:00 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "India's record diaspora inflows leave RBI facing potential $10.6 bn bill - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOFlobF91cDlLV0tTM3c3c25jZENFa20yd0pjSkxTcVk2UmRCUmtFY0FtQjBzNzcxa2dBRHhZOGptSk1OR05kcUVSMXBJZzdRRmhQdElmNHMwSEJrVVhsSF9FQmVrakdqWXJIeXliWE1xTVppWU1jTjdxTXNROFNXcnVvUWx0Q296NnQycE5vVExkOTFiR05qbVptSlZHaFFPcjhVMEcyOEJjYmNvUzczZWQ0aHlaUVliekh2UFBVM21PMXlFaTFjOHdnQ2NpVVNwaXVmR9IB2gFBVV95cUxObGNaQ1hlSUVSOWdVQkJlOEY1dy14dmwyS25CX1BFYkxXcGhPdHBobS04a1JGLU5fRy1fZmlLc3d2YzZwWHlVSG9aR1BlVDFWRVpwd0E0em05QnBDQzhWVmViSUkxU251Y2R4QUJPa0Z3RTNUMnM3MTJRYm1BRU1XekRUekVLdU9Mei1aU1dFM2Vvc0t5ZV9zZFRqOUxQVy1NZmh4cGtJVzM4NnRvS3RxTjRpYV82YjlIeU44NzJZM2JEcHZTWXVWcm5QbE5HcDA1LXc1S3NSMXN6Zw?oc=5",
+      "description": "India's record diaspora inflows leave RBI facing potential $10.6 bn bill &nbsp;&nbsp; Business Standard",
+      "published": "Fri, 04 Sep 2026 06:39:49 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "NBFCs must use AI, strengthen underwriting as credit growth accelerates: RBI Deputy Governor Murmu - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPREV2ZWtZOUZIRUlVbjZtQXBDNVpiN2dCaldZWUg0WGppUHR4bWJVeHotdHYwcjVYeURSMDBTdnRlLVFENDE2MC1nRUtVOWoxYWFtWjVKZ01FanZIWGFZTF9tSVVobkdocXdneFh2di1TU1hKaHMxTHFOUWcwbVJwM1UyaXVkTWZvVGJzZTBGX2Z5akxpaTFsWUg2b1pwS2FfOGw0WDN3eEFJQ0RGLVV3VEp3Sk5MajZZVmJBNUJfQkxWd0I4em11ajlnOWNraTZ4bGQzMGFmYThLSUltR3hPRTF4Uko2MEY0aVQ4Y3QwZUs0RmlXZ0lzMtIB-AFBVV95cUxPREV2ZWtZOUZIRUlVbjZtQXBDNVpiN2dCaldZWUg0WGppUHR4bWJVeHotdHYwcjVYeURSMDBTdnRlLVFENDE2MC1nRUtVOWoxYWFtWjVKZ01FanZIWGFZTF9tSVVobkdocXdneFh2di1TU1hKaHMxTHFOUWcwbVJwM1UyaXVkTWZvVGJzZTBGX2Z5akxpaTFsWUg2b1pwS2FfOGw0WDN3eEFJQ0RGLVV3VEp3Sk5MajZZVmJBNUJfQkxWd0I4em11ajlnOWNraTZ4bGQzMGFmYThLSUltR3hPRTF4Uko2MEY0aVQ4Y3QwZUs0RmlXZ0lzMg?oc=5",
+      "description": "NBFCs must use AI, strengthen underwriting as credit growth accelerates: RBI Deputy Governor Murmu &nbsp;&nbsp; The Economic Times",
+      "published": "Thu, 03 Sep 2026 08:35:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI's dollar sales, robust swap inflows lift rupee to 10-week high - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUnVLclZxM2FpeXFHMlBINXBMVTYyNjREQnNMQ2lONHVxWEtLMXptYVkzNC1LQVFOVmFidmNDX0ZhVk4zTFlHLWl1Mmc3Y2VEZThhQ0M0Q2VLNUx6R21WYTl0WVBFLUFpUWJKRDFFZHVqYzliak9IMTRCLWlkUHBZZk9tZy1EVDU4dnNrVktIZTJtbFVwRVAtRmhuTk9JbkVRSl9Jbnp5MGVzbXQ2SjBlUE1PN3EzSVk2WU45Szl0cUVuWkxoZlR1a1NweFnSAdIBQVVfeXFMTW5CYXZCWHVMMTRhZFhfZHVWVVVVY0VlVTVGa2FyMm9fWFJBcWU5Tkl3cnpvaXpnamE2WVRwOTZWVW5mQWpGNnZiUF9KWTNHRFQ0TE9OWnlKV0t3YWJXdTkyZExBTHI0OFVuTjdtU2wzUk9xeHBzQTdoQjRjaUROMExSbmFJenJpZnp3TGtadFJLR0EwOVJkaDNBUkxiWmxLN0VZdmtIVEthcm1QQkhHTGlLOHFhOEM4ZXo0T1F5cHNmLVV6SUxqQllxeHVoU2hHYUN3?oc=5",
+      "description": "RBI's dollar sales, robust swap inflows lift rupee to 10-week high &nbsp;&nbsp; Business Standard",
+      "published": "Thu, 03 Sep 2026 15:20:17 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNME1HaTkycDRrcTd1MkRUNVVBU1cxY0FsVVJBcVlmdGdwMk5tUFRJa2p2TFBleElLNEpaOTdNVGs4djlleUp5dmhtMFBjT2RqdmNrdkg2VnJkal9mc2Q5UmdLeHpWN0R3d2xfVjAydjFja1A5SkQ5RC11X1JreWNpclFXcEpuVjFyU0EtWU1SeFJlN25aV1hKM1JwaDhxNkp2VElEczlFbDZwTV9IQkRzano4djA4aUtuWUtaYTBUOXRQdHY0SGpzNld2dGdEa1JQUEVWdUpBMDUzc3cwRmlVVzRWaE02Ylcxb1HSAeoBQVVfeXFMTTBNR2k5MnA0a3E3dTJEVDVVQVNXMWNBbFVSQXFZZnRncDJObVBUSWtqdkxQZXhJSzRKWjk3TVRrOHY5ZXlKeXZobTBQY09kanZja3ZINlZyZGpfZnNkOVJnS3h6VjdEd3dsX1YwMnYxY2tQOUpEOUQtdV9Sa3ljaXJRV3BKblYxclNBLVlNUnhSZTduWldYSjNScGg4cTZKdlRJRHM5RWw2cE1fSEJEc2p6OHYwOGlLbllLWmEwVDl0UHR2NEhqczZXdnRnRGtSUFBFVnVKQTA1M3N3MEZpVVc0VmhNNmJXMW9R?oc=5",
+      "description": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG &nbsp;&nbsp; The Economic Times",
+      "published": "Thu, 03 Sep 2026 10:55:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI's Murmu urges NBFCs, HFCs to diversify funding, strengthen liquidity - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMHdwenRVUUx6NURMSlNsamF5ZzNvaFdlbTBUVWdyaS1CQkRaaEFEVGNvbVFnOHhRX3BnQXJDNnZuYlhtYjdteElJU2JnbUpQUGE3SEdONC1Fd1M0SVNiQ3RJUi1HNldrR1VHc1RMbmt0dlY5NHcxWWJUU0I3NTk2U1VtUENNZVRtcV8wSXdEUDJiczlSMmZzWkloMEFIOHVuOWNXazk1bGtZd0tCSmZLb25YZGJhOW5qMkoxZVdTQjhDZmRZbU9KbHotaDk2ZDNaTlJj0gHYAUFVX3lxTE13LW1QamhWRHRPdnVRZlVuTVk5aFdvSVk2MGZEeUJGTlVBZWV6UFFTVjVrREpXX0JKLV9DWEhiSGRjZzVMYktXNTNXTzVGLVJBd2JDWEdGS1MzckJYLU1VRnVKYlVFZXg2RjIxVTMxazJXUHVOU05UNDJrSHUwSzdUNC1ndjBkeFdSNDNfbk5nVkN1dk0wRWtPUEY3UGdkLUVWTU9ZMlpxVTJhVUlRbmg2c19QUGtVV09OY2tRWDV3NVgwdG91VGJZZGNqb1FDS0dVRXV1MHB1aw?oc=5",
+      "description": "RBI's Murmu urges NBFCs, HFCs to diversify funding, strengthen liquidity &nbsp;&nbsp; Business Standard",
+      "published": "Thu, 03 Sep 2026 11:37:43 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPOEcwY1VWV2oxV295MXlNOTZmV1Faa0dUak9PYlg1RjR4cmdEOWZXX0xic25XZzVLZGNoQ1FHeXNIS3dUdVZnbXhaSmFacUdGU2MzVGhfSG1HQmU1Q0xKNlhRbWJISC1GVG1GSHoyNTlNamhHUGJNX2JmN2s0Z1VpRkQtaVZYTW0wdXhqTGhtdGhXTU9MTG1iWkVxWnZCa25zZmdLdXlxY29kUG1VS20zeW9fcTZtQ1NfTUM2ZmdPQTA3a19VRm1WUXdPWk1NSkNZQ2ZtXzVEeGVxNmg2ZVN1MnFTeG9ralF6RHVSd0hUV0zSAeoBQVVfeXFMTTBNR2k5MnA0a3E3dTJEVDVVQVNXMWNBbFVSQXFZZnRncDJObVBUSWtqdkxQZXhJSzRKWjk3TVRrOHY5ZXlKeXZobTBQY09kanZja3ZINlZyZGpfZnNkOVJnS3h6VjdEd3dsX1YwMnYxY2tQOUpEOUQtdV9Sa3ljaXJRV3BKblYxclNBLVlNUnhSZTduWldYSjNScGg4cTZKdlRJRHM5RWw2cE1fSEJEc2p6OHYwOGlLbllLWmEwVDl0UHR2NEhqczZXdnRnRGtSUFBFVnVKQTA1M3N3MEZpVVc0VmhNNmJXMW9R?oc=5",
+      "description": "Liquidity management, asset quality among pillars for NBFC growth: RBI DG &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Thu, 03 Sep 2026 10:55:17 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI Urges NBFCs: Prioritize Asset Quality Over Loan Growth - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZ2lvVm1kVnhjUy1BZWZ3eXVlWVdPSk9NQVJCSDhXdXB6ZC14Q1ZsN2xyZGxiTGhORDRJc05kN25TYVZ6UFdRT09xNWt0VVpZQUtMMTBfWlFkSWlTeUJ1WHJWdE81YmpmNlh6QmpwcC1WVk80TDZZVVNLbkhtR3JOS09PRkRKMXlFTVBCQ1ZPYjVaWERER3Jycld1aGowV2M5Vm5pVUtJdVVYX1NvWXfSAbMBQVVfeXFMUE9yMldMMTNqUC0yVF91aWZzbVZUczcxakNsZ0pZZk1NakJmbDdMTjd6Z0RsN01kVktncWtrS0lmNVRpem1RWnd0Zk9mX0JkSkFmYVV4REdsYmJtSV82QnB4RHFOenhJWmNvOW9mTzBLTi0zOEFKZGdmNnQtWU02SDl0dF8xclc1bWNGcVVsVFk4bmdOZzcwUXpsa1ZLanNhbjQzRzNyeVpQNGtNQ1pqcmlYZEE?oc=5",
+      "description": "RBI Urges NBFCs: Prioritize Asset Quality Over Loan Growth &nbsp;&nbsp; Rediff MoneyWiz",
+      "published": "Thu, 03 Sep 2026 11:27:26 GMT",
+      "source": "Rediff MoneyWiz",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "RBI Deputy Governor urges lenders to use AI, ML to spot early signs of borrower stress - indiagazette.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQnJkWW9TUEVPM3pUOUZ4Y2lWRFdMSFJmX1pIbE5rdFZudmc1Zi1uaDk0SjFoQlRpemIxNDl4Q3pIaVRvWC1CTFFNYkswckJ0cHktQUMxcnJObDVELUlwX21famM3b3Zrc2hkU05EUEFwclpsVnM4bDZnblR0RUFPZDdPYTFUOWUwUG8zMU90dUlqX1VWTnNDWGdMc1ZWM1IxR29SQ2ItSWkxN2NDajNYbV9QY0JGX2hMZDh2bkRmeUkxbUQ4R2pscw?oc=5",
+      "description": "RBI Deputy Governor urges lenders to use AI, ML to spot early signs of borrower stress &nbsp;&nbsp; indiagazette.com",
+      "published": "Thu, 03 Sep 2026 10:33:00 GMT",
+      "source": "indiagazette.com",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Revolving credit ban will impact a larger section, NBFCs tell RBI - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzF0Z0pCMzZsUG51ZlRjXzc0Q0VCQWo0WUlzTEs4dUFnbVlEM01xWnNlWUQ1M1lGVTVKSzNZUE5KbTNORWJPcUtGSEY4V21rd1RwYUFibUtEMUhOSHZwMWwycmJUbGYxNmlVUl9EY1FfSXNHTzJiazg3ZENPc3FKLTZad0o2NnFuNXdjcGdPWkdNNThYWExpMnIyemhxaF8zZ1lmSVRhSVZhOU1aSGVQQnJoUlNvdkc1cUhOVVdKMkUzTFY5U3ZjZWh6Y9IB0AFBVV95cUxQZHJjZ0hUYkY3UERCVXJpZnRxeXAxZHdlM1o0eXNaUFpLODVNZUNvOXJpaUxyRFJ0dWJiQmI5dnJNMkFZRV9TZ2tnV2k5VmhLckdRSWZnWm5kMUthQ3ZPdlhSdU91b3pJc1Z2Mi1SYTJ5UXNHRzdPc0FmV0U5ejc3Mi14TklyenRNUnVTcXU0QmtwdWNqclhSRC1GVnFxRXdNUFdtSy1sWS1TX1RsYkdSLThfNjRDb3hyVVFSNmZGTFNIVzJNZVVmSkJzTWtZSVRx?oc=5",
+      "description": "Revolving credit ban will impact a larger section, NBFCs tell RBI &nbsp;&nbsp; Business Standard",
+      "published": "Thu, 03 Sep 2026 14:43:25 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "Auto"
+      ],
+      "affected": [
+        "Financials",
+        "Auto"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    }
+  ],
+  "sectors": [
+    [
+      "Financials",
+      16
+    ],
+    [
+      "Energy",
+      13
+    ],
+    [
+      "IT",
+      6
+    ],
+    [
+      "Global markets",
+      2
+    ],
+    [
+      "RBI rates inflation",
+      1
+    ],
+    [
+      "Auto",
+      1
+    ]
+  ]
+}
