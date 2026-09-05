@@ -1,0 +1,1920 @@
+{
+  "generated_at": "2026-09-05T15:28:08.713632+00:00",
+  "rows": [
+    {
+      "region": "Indian",
+      "name": "INDIA VIX",
+      "ticker": "^INDIAVIX",
+      "date": "2026-09-04",
+      "close": 10.680000305175781,
+      "prev_close": 11.34000015258789,
+      "day_change_pct": -5.820104396219882,
+      "high52": 28.90999984741211,
+      "low52": 8.859999656677246,
+      "distance_high52_pct": -63.0577642284844,
+      "distance_low52_pct": 20.541768837732533,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -5.820104396219882,
+          "support": 10.75,
+          "resistance": 11.59000015258789,
+          "distance_support_pct": -0.6511599518531974,
+          "distance_resistance_pct": 8.520597578738842,
+          "range_position_pct": -8.333295489121303
+        },
+        {
+          "period": "1W",
+          "return_pct": 0.0,
+          "support": 9.25,
+          "resistance": 12.119999885559082,
+          "distance_support_pct": 15.459462758657105,
+          "distance_resistance_pct": 13.48314175314622,
+          "range_position_pct": 49.82579659222579
+        },
+        {
+          "period": "1M",
+          "return_pct": -12.171049019801606,
+          "support": 9.25,
+          "resistance": 12.920000076293945,
+          "distance_support_pct": 15.459462758657105,
+          "distance_resistance_pct": 20.973780029131706,
+          "range_position_pct": 38.96458516207526
+        },
+        {
+          "period": "3M",
+          "return_pct": -37.28714107715354,
+          "support": 9.25,
+          "resistance": 17.030000686645508,
+          "distance_support_pct": 15.459462758657105,
+          "distance_resistance_pct": 59.45693071181248,
+          "range_position_pct": 18.380465025284625
+        },
+        {
+          "period": "6M",
+          "return_pct": -37.653235093924955,
+          "support": 9.25,
+          "resistance": 28.90999984741211,
+          "distance_support_pct": 15.459462758657105,
+          "distance_resistance_pct": 170.6928747314889,
+          "range_position_pct": 7.2736536941734276
+        },
+        {
+          "period": "YTD",
+          "return_pct": 12.658236507217957,
+          "support": 8.859999656677246,
+          "resistance": 28.90999984741211,
+          "distance_support_pct": 20.541768837732533,
+          "distance_resistance_pct": 170.6928747314889,
+          "range_position_pct": 9.077309881221648
+        },
+        {
+          "period": "1Y",
+          "return_pct": -12.387197105711788,
+          "support": 8.859999656677246,
+          "resistance": 28.90999984741211,
+          "distance_support_pct": 20.541768837732533,
+          "distance_resistance_pct": 170.6928747314889,
+          "range_position_pct": 9.077309881221648
+        },
+        {
+          "period": "52W",
+          "return_pct": -12.387197105711788,
+          "support": 8.859999656677246,
+          "resistance": 28.90999984741211,
+          "distance_support_pct": 20.541768837732533,
+          "distance_resistance_pct": 170.6928747314889,
+          "range_position_pct": 9.077309881221648
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY 50",
+      "ticker": "^NSEI",
+      "date": "2026-09-04",
+      "close": 23897.69921875,
+      "prev_close": 23873.44921875,
+      "day_change_pct": 0.10157727849795517,
+      "high52": 26373.19921875,
+      "low52": 22182.55078125,
+      "distance_high52_pct": -9.386422858551214,
+      "distance_low52_pct": 7.731971198505017,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 0.10157727849795517,
+          "support": 23873.44921875,
+          "resistance": 24025.400390625,
+          "distance_support_pct": 0.10157727849795517,
+          "distance_resistance_pct": 0.5343659684812208,
+          "range_position_pct": 15.959074024087712
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.1497153846284358,
+          "support": 23786.80078125,
+          "resistance": 24143.150390625,
+          "distance_support_pct": 0.466218381025052,
+          "distance_resistance_pct": 1.027091225930321,
+          "range_position_pct": 31.12068445774482
+        },
+        {
+          "period": "1M",
+          "return_pct": -2.996837072779668,
+          "support": 23786.80078125,
+          "resistance": 24630.400390625,
+          "distance_support_pct": 0.466218381025052,
+          "distance_resistance_pct": 3.0659904335063715,
+          "range_position_pct": 13.145861646636089
+        },
+        {
+          "period": "3M",
+          "return_pct": 3.350340434848409,
+          "support": 23072.05078125,
+          "resistance": 24774.30078125,
+          "distance_support_pct": 3.578565448421167,
+          "distance_resistance_pct": 3.668142085461623,
+          "range_position_pct": 48.5033595241592
+        },
+        {
+          "period": "6M",
+          "return_pct": -3.892912849480934,
+          "support": 22182.55078125,
+          "resistance": 24854.19921875,
+          "distance_support_pct": 7.731971198505017,
+          "distance_resistance_pct": 4.002477356688527,
+          "range_position_pct": 64.19813375988022
+        },
+        {
+          "period": "YTD",
+          "return_pct": -8.54165553238795,
+          "support": 22182.55078125,
+          "resistance": 26373.19921875,
+          "distance_support_pct": 7.731971198505017,
+          "distance_resistance_pct": 10.358737790363248,
+          "range_position_pct": 40.9279963012884
+        },
+        {
+          "period": "1Y",
+          "return_pct": -2.4619551210689705,
+          "support": 22182.55078125,
+          "resistance": 26373.19921875,
+          "distance_support_pct": 7.731971198505017,
+          "distance_resistance_pct": 10.358737790363248,
+          "range_position_pct": 40.9279963012884
+        },
+        {
+          "period": "52W",
+          "return_pct": -2.4619551210689705,
+          "support": 22182.55078125,
+          "resistance": 26373.19921875,
+          "distance_support_pct": 7.731971198505017,
+          "distance_resistance_pct": 10.358737790363248,
+          "range_position_pct": 40.9279963012884
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY AUTO",
+      "ticker": "^CNXAUTO",
+      "date": "2026-07-17",
+      "close": 27099.75,
+      "prev_close": 26767.55078125,
+      "day_change_pct": 1.241051979184804,
+      "high52": 29179.099609375,
+      "low52": 23378.900390625,
+      "distance_high52_pct": -7.12616097553237,
+      "distance_low52_pct": 15.915417522661034,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 1.241051979184804,
+          "support": 26668.650390625,
+          "resistance": 26910.19921875,
+          "distance_support_pct": 1.6165032840452564,
+          "distance_resistance_pct": -0.6994558298508258,
+          "range_position_pct": 178.4730701123123
+        },
+        {
+          "period": "1W",
+          "return_pct": 0.8897741127853909,
+          "support": 26490.0,
+          "resistance": 27120.75,
+          "distance_support_pct": 2.301812004530013,
+          "distance_resistance_pct": 0.07749148977389542,
+          "range_position_pct": 96.6706302021403
+        },
+        {
+          "period": "1M",
+          "return_pct": 1.4045202282879865,
+          "support": 26067.69921875,
+          "resistance": 27452.80078125,
+          "distance_support_pct": 3.9591172684226184,
+          "distance_resistance_pct": 1.302782428804683,
+          "range_position_pct": 74.51083799134766
+        },
+        {
+          "period": "3M",
+          "return_pct": 2.7176848508968954,
+          "support": 25325.599609375,
+          "resistance": 27533.19921875,
+          "distance_support_pct": 7.005363813649823,
+          "distance_resistance_pct": 1.5994583667745976,
+          "range_position_pct": 80.36558726911919
+        },
+        {
+          "period": "6M",
+          "return_pct": -4.6285467857959395,
+          "support": 23560.099609375,
+          "resistance": 28811.25,
+          "distance_support_pct": 15.023919462617673,
+          "distance_resistance_pct": 6.31555641657211,
+          "range_position_pct": 67.40714181304767
+        },
+        {
+          "period": "YTD",
+          "return_pct": -3.866140791203543,
+          "support": 23378.900390625,
+          "resistance": 29179.099609375,
+          "distance_support_pct": 15.915417522661034,
+          "distance_resistance_pct": 7.672947571010802,
+          "range_position_pct": 64.1503760309957
+        },
+        {
+          "period": "1Y",
+          "return_pct": 13.180181832909078,
+          "support": 23378.900390625,
+          "resistance": 29179.099609375,
+          "distance_support_pct": 15.915417522661034,
+          "distance_resistance_pct": 7.672947571010802,
+          "range_position_pct": 64.1503760309957
+        },
+        {
+          "period": "52W",
+          "return_pct": 13.180181832909078,
+          "support": 23378.900390625,
+          "resistance": 29179.099609375,
+          "distance_support_pct": 15.915417522661034,
+          "distance_resistance_pct": 7.672947571010802,
+          "range_position_pct": 64.1503760309957
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY BANK",
+      "ticker": "^NSEBANK",
+      "date": "2026-09-04",
+      "close": 57369.6484375,
+      "prev_close": 57380.6015625,
+      "day_change_pct": -0.019088550314461106,
+      "high52": 61764.8515625,
+      "low52": 49954.8515625,
+      "distance_high52_pct": -7.116026370681849,
+      "distance_low52_pct": 14.842996512006712,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.019088550314461106,
+          "support": 57380.6015625,
+          "resistance": 57753.6015625,
+          "distance_support_pct": -0.019088550314461106,
+          "distance_resistance_pct": 0.6692617707397819,
+          "range_position_pct": -2.936494638069705
+        },
+        {
+          "period": "1W",
+          "return_pct": -0.22027911714157522,
+          "support": 56823.19921875,
+          "resistance": 58024.94921875,
+          "distance_support_pct": 0.9616657039079435,
+          "distance_resistance_pct": 1.1422429788181532,
+          "range_position_pct": 45.4711228416892
+        },
+        {
+          "period": "1M",
+          "return_pct": -1.1952400833837085,
+          "support": 56823.19921875,
+          "resistance": 58024.94921875,
+          "distance_support_pct": 0.9616657039079435,
+          "distance_resistance_pct": 1.1422429788181532,
+          "range_position_pct": 45.4711228416892
+        },
+        {
+          "period": "3M",
+          "return_pct": 6.114815264386952,
+          "support": 54242.30078125,
+          "resistance": 58706.05078125,
+          "distance_support_pct": 5.76551438859878,
+          "distance_resistance_pct": 2.329458834327558,
+          "range_position_pct": 70.06099481937834
+        },
+        {
+          "period": "6M",
+          "return_pct": -4.12769804718992,
+          "support": 49954.8515625,
+          "resistance": 59274.3515625,
+          "distance_support_pct": 14.842996512006712,
+          "distance_resistance_pct": 3.3200536814776527,
+          "range_position_pct": 79.56217474113419
+        },
+        {
+          "period": "YTD",
+          "return_pct": -3.7128807967296007,
+          "support": 49954.8515625,
+          "resistance": 61764.8515625,
+          "distance_support_pct": 14.842996512006712,
+          "distance_resistance_pct": 7.661199335722357,
+          "range_position_pct": 62.78405482641829
+        },
+        {
+          "period": "1Y",
+          "return_pct": 6.59471142784771,
+          "support": 49954.8515625,
+          "resistance": 61764.8515625,
+          "distance_support_pct": 14.842996512006712,
+          "distance_resistance_pct": 7.661199335722357,
+          "range_position_pct": 62.78405482641829
+        },
+        {
+          "period": "52W",
+          "return_pct": 6.59471142784771,
+          "support": 49954.8515625,
+          "resistance": 61764.8515625,
+          "distance_support_pct": 14.842996512006712,
+          "distance_resistance_pct": 7.661199335722357,
+          "range_position_pct": 62.78405482641829
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY FMCG",
+      "ticker": "^CNXFMCG",
+      "date": "2026-07-17",
+      "close": 48748.69921875,
+      "prev_close": 48408.0,
+      "day_change_pct": 0.7038076738349108,
+      "high52": 58485.05078125,
+      "low52": 45334.1484375,
+      "distance_high52_pct": -16.647590166103477,
+      "distance_low52_pct": 7.531961885106275,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 0.7038076738349108,
+          "support": 48222.6484375,
+          "resistance": 48628.1015625,
+          "distance_support_pct": 1.0908790750715491,
+          "distance_resistance_pct": -0.24738640862772554,
+          "range_position_pct": 129.74392076765963
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.1395163026713506,
+          "support": 48160.0,
+          "resistance": 49156.44921875,
+          "distance_support_pct": 1.2223820987333989,
+          "distance_resistance_pct": 0.8364325746832879,
+          "range_position_pct": 59.07970096945796
+        },
+        {
+          "period": "1M",
+          "return_pct": -1.6291684865361922,
+          "support": 48160.0,
+          "resistance": 50550.1484375,
+          "distance_support_pct": 1.2223820987333989,
+          "distance_resistance_pct": 3.695379051380132,
+          "range_position_pct": 24.630236746540977
+        },
+        {
+          "period": "3M",
+          "return_pct": 0.7664673192223193,
+          "support": 47674.69921875,
+          "resistance": 52067.05078125,
+          "distance_support_pct": 2.252767227900221,
+          "distance_resistance_pct": 6.807056630597597,
+          "range_position_pct": 24.451594657616845
+        },
+        {
+          "period": "6M",
+          "return_pct": -8.038930929941335,
+          "support": 45334.1484375,
+          "resistance": 53083.5,
+          "distance_support_pct": 7.531961885106275,
+          "distance_resistance_pct": 8.892136304598509,
+          "range_position_pct": 44.062406431183256
+        },
+        {
+          "period": "YTD",
+          "return_pct": -12.12594968822891,
+          "support": 45334.1484375,
+          "resistance": 58485.05078125,
+          "distance_support_pct": 7.531961885106275,
+          "distance_resistance_pct": 19.972536126164254,
+          "range_position_pct": 25.9643839791174
+        },
+        {
+          "period": "1Y",
+          "return_pct": -12.405747683919499,
+          "support": 45334.1484375,
+          "resistance": 58485.05078125,
+          "distance_support_pct": 7.531961885106275,
+          "distance_resistance_pct": 19.972536126164254,
+          "range_position_pct": 25.9643839791174
+        },
+        {
+          "period": "52W",
+          "return_pct": -12.405747683919499,
+          "support": 45334.1484375,
+          "resistance": 58485.05078125,
+          "distance_support_pct": 7.531961885106275,
+          "distance_resistance_pct": 19.972536126164254,
+          "range_position_pct": 25.9643839791174
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY IT",
+      "ticker": "^CNXIT",
+      "date": "2026-09-04",
+      "close": 30695.150390625,
+      "prev_close": 30838.849609375,
+      "day_change_pct": -0.4659681556549278,
+      "high52": 40301.3984375,
+      "low52": 25699.099609375,
+      "distance_high52_pct": -23.836016662728245,
+      "distance_low52_pct": 19.440567401931254,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.4659681556549278,
+          "support": 30621.650390625,
+          "resistance": 31185.69921875,
+          "distance_support_pct": 0.2400262528714059,
+          "distance_resistance_pct": 1.5981313721623813,
+          "range_position_pct": 13.03078675729675
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.8750542418534244,
+          "support": 30621.650390625,
+          "resistance": 31529.19921875,
+          "distance_support_pct": 0.2400262528714059,
+          "distance_resistance_pct": 2.717200657142693,
+          "range_position_pct": 8.09873780035079
+        },
+        {
+          "period": "1M",
+          "return_pct": -1.3215981012658196,
+          "support": 30164.5,
+          "resistance": 31955.0,
+          "distance_support_pct": 1.7591884189195994,
+          "distance_resistance_pct": 4.104393017601193,
+          "range_position_pct": 29.63699472912594
+        },
+        {
+          "period": "3M",
+          "return_pct": 7.125119064513852,
+          "support": 25699.099609375,
+          "resistance": 31955.0,
+          "distance_support_pct": 19.440567401931254,
+          "distance_resistance_pct": 4.104393017601193,
+          "range_position_pct": 79.86141832975807
+        },
+        {
+          "period": "6M",
+          "return_pct": 1.3946483007790444,
+          "support": 25699.099609375,
+          "resistance": 32134.25,
+          "distance_support_pct": 19.440567401931254,
+          "distance_resistance_pct": 4.6883614872743395,
+          "range_position_pct": 77.63689234875471
+        },
+        {
+          "period": "YTD",
+          "return_pct": -18.9760604855461,
+          "support": 25699.099609375,
+          "resistance": 40301.3984375,
+          "distance_support_pct": 19.440567401931254,
+          "distance_resistance_pct": 31.295653953886358,
+          "range_position_pct": 34.214138746614836
+        },
+        {
+          "period": "1Y",
+          "return_pct": -13.507501761394137,
+          "support": 25699.099609375,
+          "resistance": 40301.3984375,
+          "distance_support_pct": 19.440567401931254,
+          "distance_resistance_pct": 31.295653953886358,
+          "range_position_pct": 34.214138746614836
+        },
+        {
+          "period": "52W",
+          "return_pct": -13.507501761394137,
+          "support": 25699.099609375,
+          "resistance": 40301.3984375,
+          "distance_support_pct": 19.440567401931254,
+          "distance_resistance_pct": 31.295653953886358,
+          "range_position_pct": 34.214138746614836
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY METAL",
+      "ticker": "^CNXMETAL",
+      "date": "2026-07-17",
+      "close": 12436.9501953125,
+      "prev_close": 12495.900390625,
+      "day_change_pct": -0.47175628381871393,
+      "high52": 13931.349609375,
+      "low52": 9086.349609375,
+      "distance_high52_pct": -10.726881859722015,
+      "distance_low52_pct": 36.87510089288728,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.47175628381871393,
+          "support": 12483.400390625,
+          "resistance": 12623.150390625,
+          "distance_support_pct": -0.372095693953578,
+          "distance_resistance_pct": 1.497153179745614,
+          "range_position_pct": -33.23806462432916
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.9855951859993337,
+          "support": 12325.7001953125,
+          "resistance": 12768.25,
+          "distance_support_pct": 0.9025856400621146,
+          "distance_resistance_pct": 2.6638347785003402,
+          "range_position_pct": 25.13841353484667
+        },
+        {
+          "period": "1M",
+          "return_pct": -4.414975929311993,
+          "support": 12325.7001953125,
+          "resistance": 13106.400390625,
+          "distance_support_pct": 0.9025856400621146,
+          "distance_resistance_pct": 5.382752079885433,
+          "range_position_pct": 14.250028457526984
+        },
+        {
+          "period": "3M",
+          "return_pct": -2.380260869931816,
+          "support": 12325.7001953125,
+          "resistance": 13931.349609375,
+          "distance_support_pct": 0.9025856400621146,
+          "distance_resistance_pct": 12.015802834249033,
+          "range_position_pct": 6.928660704239487
+        },
+        {
+          "period": "6M",
+          "return_pct": 11.722513432559278,
+          "support": 10819.849609375,
+          "resistance": 13931.349609375,
+          "distance_support_pct": 14.945684499499357,
+          "distance_resistance_pct": 12.015802834249033,
+          "range_position_pct": 51.971736652338095
+        },
+        {
+          "period": "YTD",
+          "return_pct": 11.365862650509273,
+          "support": 9086.349609375,
+          "resistance": 13931.349609375,
+          "distance_support_pct": 36.87510089288728,
+          "distance_resistance_pct": 12.015802834249033,
+          "range_position_pct": 69.15584284700722
+        },
+        {
+          "period": "1Y",
+          "return_pct": 30.610730613509894,
+          "support": 9086.349609375,
+          "resistance": 13931.349609375,
+          "distance_support_pct": 36.87510089288728,
+          "distance_resistance_pct": 12.015802834249033,
+          "range_position_pct": 69.15584284700722
+        },
+        {
+          "period": "52W",
+          "return_pct": 30.610730613509894,
+          "support": 9086.349609375,
+          "resistance": 13931.349609375,
+          "distance_support_pct": 36.87510089288728,
+          "distance_resistance_pct": 12.015802834249033,
+          "range_position_pct": 69.15584284700722
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY MIDCAP 100",
+      "ticker": "NIFTY_MIDCAP_100.NS",
+      "date": "2026-07-17",
+      "close": 62428.05078125,
+      "prev_close": 62686.75,
+      "day_change_pct": -0.4126856452918659,
+      "high52": 63183.3515625,
+      "low52": 52032.8515625,
+      "distance_high52_pct": -1.1954110736004053,
+      "distance_low52_pct": 19.978146318319023,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.4126856452918659,
+          "support": 62555.3515625,
+          "resistance": 63176.25,
+          "distance_support_pct": -0.20350102440526152,
+          "distance_resistance_pct": 1.1984984464302961,
+          "range_position_pct": -20.50267379679144
+        },
+        {
+          "period": "1W",
+          "return_pct": -0.9657057345160647,
+          "support": 62198.8984375,
+          "resistance": 63183.3515625,
+          "distance_support_pct": 0.3684186529127498,
+          "distance_resistance_pct": 1.209874041873582,
+          "range_position_pct": 23.277120863423537
+        },
+        {
+          "period": "1M",
+          "return_pct": 0.49047453346662273,
+          "support": 61004.8984375,
+          "resistance": 63183.3515625,
+          "distance_support_pct": 2.332849296041406,
+          "distance_resistance_pct": 1.209874041873582,
+          "range_position_pct": 65.3285731704693
+        },
+        {
+          "period": "3M",
+          "return_pct": 5.547727949971892,
+          "support": 59057.5,
+          "resistance": 63183.3515625,
+          "distance_support_pct": 5.707235797739485,
+          "distance_resistance_pct": 1.209874041873582,
+          "range_position_pct": 81.69345722189927
+        },
+        {
+          "period": "6M",
+          "return_pct": 3.6622493922769506,
+          "support": 52032.8515625,
+          "resistance": 63183.3515625,
+          "distance_support_pct": 19.978146318319023,
+          "distance_resistance_pct": 1.209874041873582,
+          "range_position_pct": 93.22630571499036
+        },
+        {
+          "period": "YTD",
+          "return_pct": 3.2133038733063835,
+          "support": 52032.8515625,
+          "resistance": 63183.3515625,
+          "distance_support_pct": 19.978146318319023,
+          "distance_resistance_pct": 1.209874041873582,
+          "range_position_pct": 93.22630571499036
+        },
+        {
+          "period": "1Y",
+          "return_pct": 4.893327869093467,
+          "support": 52032.8515625,
+          "resistance": 63183.3515625,
+          "distance_support_pct": 19.978146318319023,
+          "distance_resistance_pct": 1.209874041873582,
+          "range_position_pct": 93.22630571499036
+        },
+        {
+          "period": "52W",
+          "return_pct": 4.893327869093467,
+          "support": 52032.8515625,
+          "resistance": 63183.3515625,
+          "distance_support_pct": 19.978146318319023,
+          "distance_resistance_pct": 1.209874041873582,
+          "range_position_pct": 93.22630571499036
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY PHARMA",
+      "ticker": "^CNXPHARMA",
+      "date": "2026-09-04",
+      "close": 26478.099609375,
+      "prev_close": 26658.650390625,
+      "day_change_pct": -0.6772690237668355,
+      "high52": 27188.44921875,
+      "low52": 21149.900390625,
+      "distance_high52_pct": -2.6126889535322273,
+      "distance_low52_pct": 25.192549942749622,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.6772690237668355,
+          "support": 26627.25,
+          "resistance": 26833.69921875,
+          "distance_support_pct": -0.5601419246260897,
+          "distance_resistance_pct": 1.3429952097056663,
+          "range_position_pct": -72.24555826758244
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.9033523357419702,
+          "support": 26461.400390625,
+          "resistance": 27188.44921875,
+          "distance_support_pct": 0.06310784200187491,
+          "distance_resistance_pct": 2.6827816945121263,
+          "range_position_pct": 2.2968496893208576
+        },
+        {
+          "period": "1M",
+          "return_pct": -0.32637614183124164,
+          "support": 26159.0,
+          "resistance": 27188.44921875,
+          "distance_support_pct": 1.2198463602393073,
+          "distance_resistance_pct": 2.6827816945121263,
+          "range_position_pct": 30.997119970858204
+        },
+        {
+          "period": "3M",
+          "return_pct": 9.650832197134873,
+          "support": 24020.55078125,
+          "resistance": 27188.44921875,
+          "distance_support_pct": 10.231026134685116,
+          "distance_resistance_pct": 2.6827816945121263,
+          "range_position_pct": 77.57662932099603
+        },
+        {
+          "period": "6M",
+          "return_pct": 15.339314929686743,
+          "support": 21149.900390625,
+          "resistance": 27188.44921875,
+          "distance_support_pct": 25.192549942749622,
+          "distance_resistance_pct": 2.6827816945121263,
+          "range_position_pct": 88.23641855694711
+        },
+        {
+          "period": "YTD",
+          "return_pct": 16.52220991878557,
+          "support": 21149.900390625,
+          "resistance": 27188.44921875,
+          "distance_support_pct": 25.192549942749622,
+          "distance_resistance_pct": 2.6827816945121263,
+          "range_position_pct": 88.23641855694711
+        },
+        {
+          "period": "1Y",
+          "return_pct": 20.40972991984993,
+          "support": 21149.900390625,
+          "resistance": 27188.44921875,
+          "distance_support_pct": 25.192549942749622,
+          "distance_resistance_pct": 2.6827816945121263,
+          "range_position_pct": 88.23641855694711
+        },
+        {
+          "period": "52W",
+          "return_pct": 20.40972991984993,
+          "support": 21149.900390625,
+          "resistance": 27188.44921875,
+          "distance_support_pct": 25.192549942749622,
+          "distance_resistance_pct": 2.6827816945121263,
+          "range_position_pct": 88.23641855694711
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "NIFTY PSU BANK",
+      "ticker": "^CNXPSUBANK",
+      "date": "2026-07-17",
+      "close": 8381.75,
+      "prev_close": 8347.900390625,
+      "day_change_pct": 0.4054865030854282,
+      "high52": 9918.650390625,
+      "low52": 6730.2998046875,
+      "distance_high52_pct": -15.495055578102257,
+      "distance_low52_pct": 24.53754280251086,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 0.4054865030854282,
+          "support": 8330.5498046875,
+          "resistance": 8419.25,
+          "distance_support_pct": 0.6146076371056575,
+          "distance_resistance_pct": 0.44740060249948144,
+          "range_position_pct": 57.72275374605027
+        },
+        {
+          "period": "1W",
+          "return_pct": -0.826466143728799,
+          "support": 8280.5498046875,
+          "resistance": 8497.7998046875,
+          "distance_support_pct": 1.2221434288724575,
+          "distance_resistance_pct": 1.3845534009902405,
+          "range_position_pct": 46.58236838319908
+        },
+        {
+          "period": "1M",
+          "return_pct": -3.8028901795002845,
+          "support": 8034.2001953125,
+          "resistance": 8800.150390625,
+          "distance_support_pct": 4.325879318893189,
+          "distance_resistance_pct": 4.991802316043792,
+          "range_position_pct": 45.37498740968441
+        },
+        {
+          "period": "3M",
+          "return_pct": -4.726853094472016,
+          "support": 7809.14990234375,
+          "resistance": 9095.7001953125,
+          "distance_support_pct": 7.332425485703586,
+          "distance_resistance_pct": 8.517913267664866,
+          "range_position_pct": 44.506623704150705
+        },
+        {
+          "period": "6M",
+          "return_pct": -2.371477209881745,
+          "support": 7809.14990234375,
+          "resistance": 9918.650390625,
+          "distance_support_pct": 7.332425485703586,
+          "distance_resistance_pct": 18.336270953261558,
+          "range_position_pct": 27.14387130210078
+        },
+        {
+          "period": "YTD",
+          "return_pct": -1.7742613653140005,
+          "support": 6730.2998046875,
+          "resistance": 9918.650390625,
+          "distance_support_pct": 24.53754280251086,
+          "distance_resistance_pct": 18.336270953261558,
+          "range_position_pct": 51.79638031640453
+        },
+        {
+          "period": "1Y",
+          "return_pct": 17.370908454402233,
+          "support": 6730.2998046875,
+          "resistance": 9918.650390625,
+          "distance_support_pct": 24.53754280251086,
+          "distance_resistance_pct": 18.336270953261558,
+          "range_position_pct": 51.79638031640453
+        },
+        {
+          "period": "52W",
+          "return_pct": 17.370908454402233,
+          "support": 6730.2998046875,
+          "resistance": 9918.650390625,
+          "distance_support_pct": 24.53754280251086,
+          "distance_resistance_pct": 18.336270953261558,
+          "range_position_pct": 51.79638031640453
+        }
+      ]
+    },
+    {
+      "region": "Indian",
+      "name": "SENSEX",
+      "ticker": "^BSESN",
+      "date": "2026-09-04",
+      "close": 76515.4296875,
+      "prev_close": 76152.859375,
+      "day_change_pct": 0.4761085998289172,
+      "high52": 86159.0234375,
+      "low52": 71545.8125,
+      "distance_high52_pct": -11.19278441798437,
+      "distance_low52_pct": 6.946062968395261,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 0.4761085998289172,
+          "support": 76152.859375,
+          "resistance": 76924.4765625,
+          "distance_support_pct": 0.4761085998289172,
+          "distance_resistance_pct": 0.534593972314612,
+          "range_position_pct": 46.98836655968087
+        },
+        {
+          "period": "1W",
+          "return_pct": -0.9694983456282502,
+          "support": 76135.71875,
+          "resistance": 77231.8671875,
+          "distance_support_pct": 0.4987290377422182,
+          "distance_resistance_pct": 0.936330754366832,
+          "range_position_pct": 34.640466975988375
+        },
+        {
+          "period": "1M",
+          "return_pct": -3.0895264485426677,
+          "support": 76135.71875,
+          "resistance": 78757.3984375,
+          "distance_support_pct": 0.4987290377422182,
+          "distance_resistance_pct": 2.9300871198874923,
+          "range_position_pct": 14.483498472770616
+        },
+        {
+          "period": "3M",
+          "return_pct": 4.068278910924916,
+          "support": 73426.1796875,
+          "resistance": 79143.1484375,
+          "distance_support_pct": 4.207286846663916,
+          "distance_resistance_pct": 3.43423380190373,
+          "range_position_pct": 54.0365031731195
+        },
+        {
+          "period": "6M",
+          "return_pct": -4.640422691119572,
+          "support": 71545.8125,
+          "resistance": 80303.828125,
+          "distance_support_pct": 6.946062968395261,
+          "distance_resistance_pct": 4.951156195518158,
+          "range_position_pct": 56.74364376919001
+        },
+        {
+          "period": "YTD",
+          "return_pct": -10.214867902118375,
+          "support": 71545.8125,
+          "resistance": 86159.0234375,
+          "distance_support_pct": 6.946062968395261,
+          "distance_resistance_pct": 12.603462843227597,
+          "range_position_pct": 34.0077017210989
+        },
+        {
+          "period": "1Y",
+          "return_pct": -4.451942101670459,
+          "support": 71545.8125,
+          "resistance": 86159.0234375,
+          "distance_support_pct": 6.946062968395261,
+          "distance_resistance_pct": 12.603462843227597,
+          "range_position_pct": 34.0077017210989
+        },
+        {
+          "period": "52W",
+          "return_pct": -4.451942101670459,
+          "support": 71545.8125,
+          "resistance": 86159.0234375,
+          "distance_support_pct": 6.946062968395261,
+          "distance_resistance_pct": 12.603462843227597,
+          "range_position_pct": 34.0077017210989
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "CAC 40",
+      "ticker": "^FCHI",
+      "date": "2026-09-04",
+      "close": 8278.76953125,
+      "prev_close": 8286.400390625,
+      "day_change_pct": -0.09208895316756838,
+      "high52": 8755.0302734375,
+      "low52": 7505.27001953125,
+      "distance_high52_pct": -5.439852602594197,
+      "distance_low52_pct": 10.306085053646875,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.09208895316756838,
+          "support": 8240.5,
+          "resistance": 8288.8203125,
+          "distance_support_pct": 0.4644078787694905,
+          "distance_resistance_pct": 0.12140428854869878,
+          "range_position_pct": 79.19967663702506
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.4570591369701624,
+          "support": 8237.919921875,
+          "resistance": 8427.099609375,
+          "distance_support_pct": 0.49587286308194756,
+          "distance_resistance_pct": 1.7916923229363446,
+          "range_position_pct": 21.59302085484204
+        },
+        {
+          "period": "1M",
+          "return_pct": -4.838557050494341,
+          "support": 8237.919921875,
+          "resistance": 8755.0302734375,
+          "distance_support_pct": 0.49587286308194756,
+          "distance_resistance_pct": 5.752796238495961,
+          "range_position_pct": 7.899592273016556
+        },
+        {
+          "period": "3M",
+          "return_pct": 0.918394459634353,
+          "support": 8113.0,
+          "resistance": 8755.0302734375,
+          "distance_support_pct": 2.0432581196844657,
+          "distance_resistance_pct": 5.752796238495961,
+          "range_position_pct": 25.819581740663395
+        },
+        {
+          "period": "6M",
+          "return_pct": 4.591195779418444,
+          "support": 7505.27001953125,
+          "resistance": 8755.0302734375,
+          "distance_support_pct": 10.306085053646875,
+          "distance_resistance_pct": 5.752796238495961,
+          "range_position_pct": 61.8918315973884
+        },
+        {
+          "period": "YTD",
+          "return_pct": 1.5862265323026037,
+          "support": 7505.27001953125,
+          "resistance": 8755.0302734375,
+          "distance_support_pct": 10.306085053646875,
+          "distance_resistance_pct": 5.752796238495961,
+          "range_position_pct": 61.8918315973884
+        },
+        {
+          "period": "1Y",
+          "return_pct": 6.8312394290604095,
+          "support": 7505.27001953125,
+          "resistance": 8755.0302734375,
+          "distance_support_pct": 10.306085053646875,
+          "distance_resistance_pct": 5.752796238495961,
+          "range_position_pct": 61.8918315973884
+        },
+        {
+          "period": "52W",
+          "return_pct": 6.8312394290604095,
+          "support": 7505.27001953125,
+          "resistance": 8755.0302734375,
+          "distance_support_pct": 10.306085053646875,
+          "distance_resistance_pct": 5.752796238495961,
+          "range_position_pct": 61.8918315973884
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "DAX",
+      "ticker": "^GDAXI",
+      "date": "2026-09-04",
+      "close": 26046.400390625,
+      "prev_close": 26003.3203125,
+      "day_change_pct": 0.16567145121191285,
+      "high52": 26618.740234375,
+      "low52": 21863.810546875,
+      "distance_high52_pct": -2.1501387320008836,
+      "distance_low52_pct": 19.130196151227707,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 0.16567145121191285,
+          "support": 25784.83984375,
+          "resistance": 26007.7890625,
+          "distance_support_pct": 1.0143966317417208,
+          "distance_resistance_pct": -0.1482405535733755,
+          "range_position_pct": 117.31844064826981
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.9706060827700433,
+          "support": 25727.9296875,
+          "resistance": 26471.7890625,
+          "distance_support_pct": 1.2378403820021644,
+          "distance_resistance_pct": 1.6331956258651026,
+          "range_position_pct": 42.813294263448654
+        },
+        {
+          "period": "1M",
+          "return_pct": -0.3585692407365393,
+          "support": 25727.9296875,
+          "resistance": 26618.740234375,
+          "distance_support_pct": 1.2378403820021644,
+          "distance_resistance_pct": 2.197385570237964,
+          "range_position_pct": 35.75066597967529
+        },
+        {
+          "period": "3M",
+          "return_pct": 6.603101730357497,
+          "support": 24043.51953125,
+          "resistance": 26618.740234375,
+          "distance_support_pct": 8.330231590145543,
+          "distance_resistance_pct": 2.197385570237964,
+          "range_position_pct": 77.77511484528404
+        },
+        {
+          "period": "6M",
+          "return_pct": 11.264853974316003,
+          "support": 21863.810546875,
+          "resistance": 26618.740234375,
+          "distance_support_pct": 19.130196151227707,
+          "distance_resistance_pct": 2.197385570237964,
+          "range_position_pct": 87.96323223759552
+        },
+        {
+          "period": "YTD",
+          "return_pct": 6.353467436632165,
+          "support": 21863.810546875,
+          "resistance": 26618.740234375,
+          "distance_support_pct": 19.130196151227707,
+          "distance_resistance_pct": 2.197385570237964,
+          "range_position_pct": 87.96323223759552
+        },
+        {
+          "period": "1Y",
+          "return_pct": 10.38022608493836,
+          "support": 21863.810546875,
+          "resistance": 26618.740234375,
+          "distance_support_pct": 19.130196151227707,
+          "distance_resistance_pct": 2.197385570237964,
+          "range_position_pct": 87.96323223759552
+        },
+        {
+          "period": "52W",
+          "return_pct": 10.38022608493836,
+          "support": 21863.810546875,
+          "resistance": 26618.740234375,
+          "distance_support_pct": 19.130196151227707,
+          "distance_resistance_pct": 2.197385570237964,
+          "range_position_pct": 87.96323223759552
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "Dow Jones",
+      "ticker": "^DJI",
+      "date": "2026-09-04",
+      "close": 53414.25,
+      "prev_close": 53686.109375,
+      "day_change_pct": -0.5063868068759692,
+      "high52": 54744.328125,
+      "low52": 45057.28125,
+      "distance_high52_pct": -2.4296181368104075,
+      "distance_low52_pct": 18.54743233092875,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.5063868068759692,
+          "support": 53286.1484375,
+          "resistance": 53746.5,
+          "distance_support_pct": 0.2404031183643296,
+          "distance_resistance_pct": 0.6220250214128198,
+          "range_position_pct": 27.826898599915147
+        },
+        {
+          "period": "1W",
+          "return_pct": -0.27210289980780233,
+          "support": 52691.30859375,
+          "resistance": 53746.5,
+          "distance_support_pct": 1.3720316035873648,
+          "distance_resistance_pct": 0.6220250214128198,
+          "range_position_pct": 68.51282165187743
+        },
+        {
+          "period": "1M",
+          "return_pct": -0.8738065788998717,
+          "support": 52691.30859375,
+          "resistance": 54222.8515625,
+          "distance_support_pct": 1.3720316035873648,
+          "distance_resistance_pct": 1.5138311639684154,
+          "range_position_pct": 47.203468724096155
+        },
+        {
+          "period": "3M",
+          "return_pct": 5.0081186334155925,
+          "support": 49909.0703125,
+          "resistance": 54744.328125,
+          "distance_support_pct": 7.023131598229959,
+          "distance_resistance_pct": 2.4901185077015997,
+          "range_position_pct": 72.49209501173833
+        },
+        {
+          "period": "6M",
+          "return_pct": 12.447381446510342,
+          "support": 45057.28125,
+          "resistance": 54744.328125,
+          "distance_support_pct": 18.54743233092875,
+          "distance_resistance_pct": 2.4901185077015997,
+          "range_position_pct": 86.26951905814948
+        },
+        {
+          "period": "YTD",
+          "return_pct": 11.133155973869746,
+          "support": 45057.28125,
+          "resistance": 54744.328125,
+          "distance_support_pct": 18.54743233092875,
+          "distance_resistance_pct": 2.4901185077015997,
+          "range_position_pct": 86.26951905814948
+        },
+        {
+          "period": "1Y",
+          "return_pct": 17.081851691704376,
+          "support": 45057.28125,
+          "resistance": 54744.328125,
+          "distance_support_pct": 18.54743233092875,
+          "distance_resistance_pct": 2.4901185077015997,
+          "range_position_pct": 86.26951905814948
+        },
+        {
+          "period": "52W",
+          "return_pct": 17.081851691704376,
+          "support": 45057.28125,
+          "resistance": 54744.328125,
+          "distance_support_pct": 18.54743233092875,
+          "distance_resistance_pct": 2.4901185077015997,
+          "range_position_pct": 86.26951905814948
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "FTSE 100",
+      "ticker": "^FTSE",
+      "date": "2026-09-04",
+      "close": 10831.099609375,
+      "prev_close": 10831.5,
+      "day_change_pct": -0.003696539029685031,
+      "high52": 10989.5,
+      "low52": 9177.099609375,
+      "distance_high52_pct": -1.4413794133036117,
+      "distance_low52_pct": 18.023123540146948,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.003696539029685031,
+          "support": 10742.7001953125,
+          "resistance": 10866.7998046875,
+          "distance_support_pct": 0.8228789080521048,
+          "distance_resistance_pct": 0.32960822631156184,
+          "range_position_pct": 71.232628779175
+        },
+        {
+          "period": "1W",
+          "return_pct": 0.35765216006486966,
+          "support": 10689.599609375,
+          "resistance": 10866.7998046875,
+          "distance_support_pct": 1.3237165578765087,
+          "distance_resistance_pct": 0.32960822631156184,
+          "range_position_pct": 79.85318512231817
+        },
+        {
+          "period": "1M",
+          "return_pct": -0.5253363366048647,
+          "support": 10684.400390625,
+          "resistance": 10959.900390625,
+          "distance_support_pct": 1.3730224756339338,
+          "distance_resistance_pct": 1.1891754844403302,
+          "range_position_pct": 53.2483552631579
+        },
+        {
+          "period": "3M",
+          "return_pct": 4.414254091706615,
+          "support": 10127.599609375,
+          "resistance": 10989.5,
+          "distance_support_pct": 6.9463646583024286,
+          "distance_resistance_pct": 1.4624589962028756,
+          "range_position_pct": 81.62196091938915
+        },
+        {
+          "period": "6M",
+          "return_pct": 4.006176390217631,
+          "support": 9670.5,
+          "resistance": 10989.5,
+          "distance_support_pct": 12.001443662426968,
+          "distance_resistance_pct": 1.4624589962028756,
+          "range_position_pct": 87.99087258339652
+        },
+        {
+          "period": "YTD",
+          "return_pct": 9.05913751699401,
+          "support": 9177.099609375,
+          "resistance": 10989.5,
+          "distance_support_pct": 18.023123540146948,
+          "distance_resistance_pct": 1.4624589962028756,
+          "range_position_pct": 91.2601877904928
+        },
+        {
+          "period": "1Y",
+          "return_pct": 17.62450185312705,
+          "support": 9177.099609375,
+          "resistance": 10989.5,
+          "distance_support_pct": 18.023123540146948,
+          "distance_resistance_pct": 1.4624589962028756,
+          "range_position_pct": 91.2601877904928
+        },
+        {
+          "period": "52W",
+          "return_pct": 17.62450185312705,
+          "support": 9177.099609375,
+          "resistance": 10989.5,
+          "distance_support_pct": 18.023123540146948,
+          "distance_resistance_pct": 1.4624589962028756,
+          "range_position_pct": 91.2601877904928
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "Hang Seng",
+      "ticker": "^HSI",
+      "date": "2026-09-04",
+      "close": 25650.869140625,
+      "prev_close": 25213.310546875,
+      "day_change_pct": 1.7354269798744548,
+      "high52": 28056.099609375,
+      "low52": 22518.0,
+      "distance_high52_pct": -8.57293245404036,
+      "distance_low52_pct": 13.91273266109334,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 1.7354269798744548,
+          "support": 25160.380859375,
+          "resistance": 25538.150390625,
+          "distance_support_pct": 1.9494469658126734,
+          "distance_resistance_pct": -0.43943442766810614,
+          "range_position_pct": 129.83796751077975
+        },
+        {
+          "period": "1W",
+          "return_pct": 0.2582787685432075,
+          "support": 25008.869140625,
+          "resistance": 25791.380859375,
+          "distance_support_pct": 2.567089284965385,
+          "distance_resistance_pct": 0.5477854102318158,
+          "range_position_pct": 82.04349974790713
+        },
+        {
+          "period": "1M",
+          "return_pct": 0.4723404798973707,
+          "support": 25008.869140625,
+          "resistance": 26060.3203125,
+          "distance_support_pct": 2.567089284965385,
+          "distance_resistance_pct": 1.5962467767866917,
+          "range_position_pct": 61.05847015750182
+        },
+        {
+          "period": "3M",
+          "return_pct": 2.759880311580476,
+          "support": 22518.0,
+          "resistance": 26187.5703125,
+          "distance_support_pct": 13.91273266109334,
+          "distance_resistance_pct": 2.0923313316701275,
+          "range_position_pct": 85.37427747203031
+        },
+        {
+          "period": "6M",
+          "return_pct": -0.45486872574376225,
+          "support": 22518.0,
+          "resistance": 26844.80078125,
+          "distance_support_pct": 13.91273266109334,
+          "distance_resistance_pct": 4.654546534386594,
+          "range_position_pct": 72.40613328446159
+        },
+        {
+          "period": "YTD",
+          "return_pct": 0.07931974460397839,
+          "support": 22518.0,
+          "resistance": 28056.099609375,
+          "distance_support_pct": 13.91273266109334,
+          "distance_resistance_pct": 9.376799107912781,
+          "range_position_pct": 56.56938953069063
+        },
+        {
+          "period": "1Y",
+          "return_pct": 0.49343629337721406,
+          "support": 22518.0,
+          "resistance": 28056.099609375,
+          "distance_support_pct": 13.91273266109334,
+          "distance_resistance_pct": 9.376799107912781,
+          "range_position_pct": 56.56938953069063
+        },
+        {
+          "period": "52W",
+          "return_pct": 0.49343629337721406,
+          "support": 22518.0,
+          "resistance": 28056.099609375,
+          "distance_support_pct": 13.91273266109334,
+          "distance_resistance_pct": 9.376799107912781,
+          "range_position_pct": 56.56938953069063
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "KOSPI",
+      "ticker": "^KS11",
+      "date": "2026-09-04",
+      "close": 6687.2099609375,
+      "prev_close": 6579.47998046875,
+      "day_change_pct": 1.6373631470655292,
+      "high52": 9385.58984375,
+      "low52": 3135.02001953125,
+      "distance_high52_pct": -28.750242954729053,
+      "distance_low52_pct": 113.30677058762055,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 1.6373631470655292,
+          "support": 6439.490234375,
+          "resistance": 6682.97021484375,
+          "distance_support_pct": 3.8468841095547157,
+          "distance_resistance_pct": -0.06340082214429943,
+          "range_position_pct": 101.7413119902456
+        },
+        {
+          "period": "1W",
+          "return_pct": -1.4975949439376413,
+          "support": 6439.490234375,
+          "resistance": 6857.35009765625,
+          "distance_support_pct": 3.8468841095547157,
+          "distance_resistance_pct": 2.54426192257462,
+          "range_position_pct": 59.28296740856555
+        },
+        {
+          "period": "1M",
+          "return_pct": 1.3480856842876143,
+          "support": 6158.72998046875,
+          "resistance": 7216.6201171875,
+          "distance_support_pct": 8.580989621963052,
+          "distance_resistance_pct": 7.916756903738387,
+          "range_position_pct": 49.95603627687961
+        },
+        {
+          "period": "3M",
+          "return_pct": -18.054820926221726,
+          "support": 5262.77001953125,
+          "resistance": 9385.58984375,
+          "distance_support_pct": 27.066353576535796,
+          "distance_resistance_pct": 40.35135577579809,
+          "range_position_pct": 34.550138064211254
+        },
+        {
+          "period": "6M",
+          "return_pct": 31.28806114515841,
+          "support": 5042.990234375,
+          "resistance": 9385.58984375,
+          "distance_support_pct": 32.60406326696517,
+          "distance_resistance_pct": 40.35135577579809,
+          "range_position_pct": 37.86256791929157
+        },
+        {
+          "period": "YTD",
+          "return_pct": 58.68391842069283,
+          "support": 3135.02001953125,
+          "resistance": 9385.58984375,
+          "distance_support_pct": 113.30677058762055,
+          "distance_resistance_pct": 40.35135577579809,
+          "range_position_pct": 56.82985777781041
+        },
+        {
+          "period": "1Y",
+          "return_pct": 111.03754507817865,
+          "support": 3135.02001953125,
+          "resistance": 9385.58984375,
+          "distance_support_pct": 113.30677058762055,
+          "distance_resistance_pct": 40.35135577579809,
+          "range_position_pct": 56.82985777781041
+        },
+        {
+          "period": "52W",
+          "return_pct": 111.03754507817865,
+          "support": 3135.02001953125,
+          "resistance": 9385.58984375,
+          "distance_support_pct": 113.30677058762055,
+          "distance_resistance_pct": 40.35135577579809,
+          "range_position_pct": 56.82985777781041
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "NASDAQ Composite",
+      "ticker": "^IXIC",
+      "date": "2026-09-04",
+      "close": 26506.990234375,
+      "prev_close": 26584.060546875,
+      "day_change_pct": -0.28991174002219733,
+      "high52": 27190.2109375,
+      "low52": 20690.25,
+      "distance_high52_pct": -2.5127451371946496,
+      "distance_low52_pct": 28.113436204854935,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.28991174002219733,
+          "support": 26325.060546875,
+          "resistance": 26644.5703125,
+          "distance_support_pct": 0.6910893411851804,
+          "distance_resistance_pct": 0.5190331942952264,
+          "range_position_pct": 56.94025881935827
+        },
+        {
+          "period": "1W",
+          "return_pct": 0.39606336392430386,
+          "support": 25995.529296875,
+          "resistance": 26644.5703125,
+          "distance_support_pct": 1.9674957630560153,
+          "distance_resistance_pct": 0.5190331942952264,
+          "range_position_pct": 78.80256026770265
+        },
+        {
+          "period": "1M",
+          "return_pct": 0.6020894186995029,
+          "support": 25910.8203125,
+          "resistance": 26875.51953125,
+          "distance_support_pct": 2.3008531365847684,
+          "distance_resistance_pct": 1.3903098526707902,
+          "range_position_pct": 61.79852852451582
+        },
+        {
+          "period": "3M",
+          "return_pct": 3.1022101873491748,
+          "support": 24425.33984375,
+          "resistance": 26875.51953125,
+          "distance_support_pct": 8.522503285282458,
+          "distance_resistance_pct": 1.3903098526707902,
+          "range_position_pct": 84.95909101054451
+        },
+        {
+          "period": "6M",
+          "return_pct": 18.399899428501243,
+          "support": 20690.25,
+          "resistance": 27190.2109375,
+          "distance_support_pct": 28.113436204854935,
+          "distance_resistance_pct": 2.577511430320678,
+          "range_position_pct": 89.48884909164117
+        },
+        {
+          "period": "YTD",
+          "return_pct": 14.047850322090971,
+          "support": 20690.25,
+          "resistance": 27190.2109375,
+          "distance_support_pct": 28.113436204854935,
+          "distance_resistance_pct": 2.577511430320678,
+          "range_position_pct": 89.48884909164117
+        },
+        {
+          "period": "1Y",
+          "return_pct": 22.10875916395192,
+          "support": 20690.25,
+          "resistance": 27190.2109375,
+          "distance_support_pct": 28.113436204854935,
+          "distance_resistance_pct": 2.577511430320678,
+          "range_position_pct": 89.48884909164117
+        },
+        {
+          "period": "52W",
+          "return_pct": 22.10875916395192,
+          "support": 20690.25,
+          "resistance": 27190.2109375,
+          "distance_support_pct": 28.113436204854935,
+          "distance_resistance_pct": 2.577511430320678,
+          "range_position_pct": 89.48884909164117
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "Nikkei 225",
+      "ticker": "^N225",
+      "date": "2026-09-04",
+      "close": 65020.94140625,
+      "prev_close": 64214.48046875,
+      "day_change_pct": 1.255886416292773,
+      "high52": 72831.7265625,
+      "low52": 41835.171875,
+      "distance_high52_pct": -10.72442673667393,
+      "distance_low52_pct": 55.421714533711366,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 1.255886416292773,
+          "support": 63772.80078125,
+          "resistance": 64724.80859375,
+          "distance_support_pct": 1.9571676478210565,
+          "distance_resistance_pct": -0.4554422099947275,
+          "range_position_pct": 131.10613259804524
+        },
+        {
+          "period": "1W",
+          "return_pct": -2.085098057485768,
+          "support": 63772.80078125,
+          "resistance": 66525.703125,
+          "distance_support_pct": 1.9571676478210565,
+          "distance_resistance_pct": 2.314272427014341,
+          "range_position_pct": 45.33908105507965
+        },
+        {
+          "period": "1M",
+          "return_pct": -1.9298456269613573,
+          "support": 63772.80078125,
+          "resistance": 69608.2421875,
+          "distance_support_pct": 1.9571676478210565,
+          "distance_resistance_pct": 7.05511283293887,
+          "range_position_pct": 21.388966799721263
+        },
+        {
+          "period": "3M",
+          "return_pct": -2.3535367081143344,
+          "support": 60448.8984375,
+          "resistance": 72831.7265625,
+          "distance_support_pct": 7.563484342857252,
+          "distance_resistance_pct": 12.012722343480565,
+          "range_position_pct": 36.92244552372805
+        },
+        {
+          "period": "6M",
+          "return_pct": 15.533116681336168,
+          "support": 50558.91015625,
+          "resistance": 72831.7265625,
+          "distance_support_pct": 28.604317627309904,
+          "distance_resistance_pct": 12.012722343480565,
+          "range_position_pct": 64.93130902808409
+        },
+        {
+          "period": "YTD",
+          "return_pct": 29.16490357228465,
+          "support": 41835.171875,
+          "resistance": 72831.7265625,
+          "distance_support_pct": 55.421714533711366,
+          "distance_resistance_pct": 12.012722343480565,
+          "range_position_pct": 74.80111826944477
+        },
+        {
+          "period": "1Y",
+          "return_pct": 52.512139776337484,
+          "support": 41835.171875,
+          "resistance": 72831.7265625,
+          "distance_support_pct": 55.421714533711366,
+          "distance_resistance_pct": 12.012722343480565,
+          "range_position_pct": 74.80111826944477
+        },
+        {
+          "period": "52W",
+          "return_pct": 52.512139776337484,
+          "support": 41835.171875,
+          "resistance": 72831.7265625,
+          "distance_support_pct": 55.421714533711366,
+          "distance_resistance_pct": 12.012722343480565,
+          "range_position_pct": 74.80111826944477
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "Russell 2000",
+      "ticker": "^RUT",
+      "date": "2026-09-04",
+      "close": 2975.64990234375,
+      "prev_close": 2968.27001953125,
+      "day_change_pct": 0.24862572353392398,
+      "high52": 3069.7099609375,
+      "low52": 2303.4599609375,
+      "distance_high52_pct": -3.0641350417686897,
+      "distance_low52_pct": 29.181750618867763,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": 0.24862572353392398,
+          "support": 2951.2900390625,
+          "resistance": 2976.6201171875,
+          "distance_support_pct": 0.8253971300288709,
+          "distance_resistance_pct": 0.032605140913455344,
+          "range_position_pct": 96.16971239108643
+        },
+        {
+          "period": "1W",
+          "return_pct": 0.11034242126459759,
+          "support": 2916.840087890625,
+          "resistance": 2976.659912109375,
+          "distance_support_pct": 2.016216613906141,
+          "distance_resistance_pct": 0.033942493195504575,
+          "range_position_pct": 98.31158018463648
+        },
+        {
+          "period": "1M",
+          "return_pct": -0.862892374374602,
+          "support": 2916.840087890625,
+          "resistance": 3069.7099609375,
+          "distance_support_pct": 2.016216613906141,
+          "distance_resistance_pct": 3.160992108636984,
+          "range_position_pct": 38.470506503980644
+        },
+        {
+          "period": "3M",
+          "return_pct": 5.016760273292742,
+          "support": 2795.47998046875,
+          "resistance": 3069.7099609375,
+          "distance_support_pct": 6.4450442547898,
+          "distance_resistance_pct": 3.160992108636984,
+          "range_position_pct": 65.7003007355468
+        },
+        {
+          "period": "6M",
+          "return_pct": 17.83351858424156,
+          "support": 2404.989990234375,
+          "resistance": 3069.7099609375,
+          "distance_support_pct": 23.728161631714826,
+          "distance_resistance_pct": 3.160992108636984,
+          "range_position_pct": 85.84967163025725
+        },
+        {
+          "period": "YTD",
+          "return_pct": 19.89355003682407,
+          "support": 2303.4599609375,
+          "resistance": 3069.7099609375,
+          "distance_support_pct": 29.181750618867763,
+          "distance_resistance_pct": 3.160992108636984,
+          "range_position_pct": 87.72462530587276
+        },
+        {
+          "period": "1Y",
+          "return_pct": 25.047792201876227,
+          "support": 2303.4599609375,
+          "resistance": 3069.7099609375,
+          "distance_support_pct": 29.181750618867763,
+          "distance_resistance_pct": 3.160992108636984,
+          "range_position_pct": 87.72462530587276
+        },
+        {
+          "period": "52W",
+          "return_pct": 25.047792201876227,
+          "support": 2303.4599609375,
+          "resistance": 3069.7099609375,
+          "distance_support_pct": 29.181750618867763,
+          "distance_resistance_pct": 3.160992108636984,
+          "range_position_pct": 87.72462530587276
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "S&P 500",
+      "ticker": "^GSPC",
+      "date": "2026-09-04",
+      "close": 7718.60009765625,
+      "prev_close": 7747.7099609375,
+      "day_change_pct": -0.37572216084515997,
+      "high52": 7816.7001953125,
+      "low52": 6316.91015625,
+      "distance_high52_pct": -1.255006527115854,
+      "distance_low52_pct": 22.189486738534782,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.37572216084515997,
+          "support": 7686.7099609375,
+          "resistance": 7756.759765625,
+          "distance_support_pct": 0.41487368302968175,
+          "distance_resistance_pct": 0.4943858664259171,
+          "range_position_pct": 45.52494737282346
+        },
+        {
+          "period": "1W",
+          "return_pct": 0.08870001451213305,
+          "support": 7611.2001953125,
+          "resistance": 7756.759765625,
+          "distance_support_pct": 1.411077091493329,
+          "distance_resistance_pct": 0.4943858664259171,
+          "range_position_pct": 73.78415731317048
+        },
+        {
+          "period": "1M",
+          "return_pct": 0.1120646120411184,
+          "support": 7611.2001953125,
+          "resistance": 7816.7001953125,
+          "distance_support_pct": 1.411077091493329,
+          "distance_resistance_pct": 1.27095712195322,
+          "range_position_pct": 52.2627262013382
+        },
+        {
+          "period": "3M",
+          "return_pct": 4.5350981027516335,
+          "support": 7237.85009765625,
+          "resistance": 7816.7001953125,
+          "distance_support_pct": 6.642165746920847,
+          "distance_resistance_pct": 1.27095712195322,
+          "range_position_pct": 83.05259029005006
+        },
+        {
+          "period": "6M",
+          "return_pct": 14.518949132039193,
+          "support": 6316.91015625,
+          "resistance": 7816.7001953125,
+          "distance_support_pct": 22.189486738534782,
+          "distance_resistance_pct": 1.27095712195322,
+          "range_position_pct": 93.45907793083016
+        },
+        {
+          "period": "YTD",
+          "return_pct": 12.754365607424578,
+          "support": 6316.91015625,
+          "resistance": 7816.7001953125,
+          "distance_support_pct": 22.189486738534782,
+          "distance_resistance_pct": 1.27095712195322,
+          "range_position_pct": 93.45907793083016
+        },
+        {
+          "period": "1Y",
+          "return_pct": 18.70970527760798,
+          "support": 6316.91015625,
+          "resistance": 7816.7001953125,
+          "distance_support_pct": 22.189486738534782,
+          "distance_resistance_pct": 1.27095712195322,
+          "range_position_pct": 93.45907793083016
+        },
+        {
+          "period": "52W",
+          "return_pct": 18.70970527760798,
+          "support": 6316.91015625,
+          "resistance": 7816.7001953125,
+          "distance_support_pct": 22.189486738534782,
+          "distance_resistance_pct": 1.27095712195322,
+          "range_position_pct": 93.45907793083016
+        }
+      ]
+    },
+    {
+      "region": "Global",
+      "name": "Shanghai Composite",
+      "ticker": "000001.SS",
+      "date": "2026-09-04",
+      "close": 3930.115966796875,
+      "prev_close": 3942.087890625,
+      "day_change_pct": -0.3036950002204719,
+      "high52": 4258.86279296875,
+      "low52": 3732.840087890625,
+      "distance_high52_pct": -7.719122266972911,
+      "distance_low52_pct": 5.284873561720871,
+      "periods": [
+        {
+          "period": "1D",
+          "return_pct": -0.3036950002204719,
+          "support": 3930.447021484375,
+          "resistance": 3968.112060546875,
+          "distance_support_pct": -0.008422825334886141,
+          "distance_resistance_pct": 0.9667931956971687,
+          "range_position_pct": -0.8789442298218777
+        },
+        {
+          "period": "1W",
+          "return_pct": -0.5582487162657856,
+          "support": 3915.220947265625,
+          "resistance": 3995.175048828125,
+          "distance_support_pct": 0.380438798521765,
+          "distance_resistance_pct": 1.655398532279806,
+          "range_position_pct": 18.629462704432477
+        },
+        {
+          "period": "1M",
+          "return_pct": 0.763108448368488,
+          "support": 3850.863037109375,
+          "resistance": 3995.175048828125,
+          "distance_support_pct": 2.0580563090343063,
+          "distance_resistance_pct": 1.655398532279806,
+          "range_position_pct": 54.917763770043074
+        },
+        {
+          "period": "3M",
+          "return_pct": -0.7380507709967676,
+          "support": 3741.110107421875,
+          "resistance": 4175.34814453125,
+          "distance_support_pct": 5.052133028644001,
+          "distance_resistance_pct": 6.239820397316276,
+          "range_position_pct": 43.52586443904581
+        },
+        {
+          "period": "6M",
+          "return_pct": -4.34338620534338,
+          "support": 3741.110107421875,
+          "resistance": 4258.86279296875,
+          "distance_support_pct": 5.052133028644001,
+          "distance_resistance_pct": 8.364812360481322,
+          "range_position_pct": 36.50504664700349
+        },
+        {
+          "period": "YTD",
+          "return_pct": -0.9757037380241584,
+          "support": 3732.840087890625,
+          "resistance": 4258.86279296875,
+          "distance_support_pct": 5.284873561720871,
+          "distance_resistance_pct": 8.364812360481322,
+          "range_position_pct": 37.50330109361924
+        },
+        {
+          "period": "1Y",
+          "return_pct": 4.216724106074543,
+          "support": 3732.840087890625,
+          "resistance": 4258.86279296875,
+          "distance_support_pct": 5.284873561720871,
+          "distance_resistance_pct": 8.364812360481322,
+          "range_position_pct": 37.50330109361924
+        },
+        {
+          "period": "52W",
+          "return_pct": 4.216724106074543,
+          "support": 3732.840087890625,
+          "resistance": 4258.86279296875,
+          "distance_support_pct": 5.284873561720871,
+          "distance_resistance_pct": 8.364812360481322,
+          "range_position_pct": 37.50330109361924
+        }
+      ]
+    }
+  ],
+  "failures": []
+}
