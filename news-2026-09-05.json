@@ -2,34 +2,12 @@
   "date": "2026-09-05",
   "items": [
     {
-      "query": "India markets",
-      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - goodreturns.in",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT212X0ZjSkRPNU9XTTM0UGphZ2RxOE8tS0JKWjhjcHAtUXFvbmtqa0tSamlrY3pZQUV5SG9PWVNKdkkwMHZsOU1MZzRORWhjRmk3RWZ4YjRoUmhQUFQyNldnYzlJWUZldmF1b29QVUY0NEtXc1oxcHJHYXo4ZDg4OFVWNk13aWZlUWlZUlQtb3ZrMnhvRUdudXpyTWlzYkh0cFR2UGlYcVNCOFN3Q2lxV2dFZ18xQ2o0TW9pMHZRSTFDbzRGUTdreWRoWjBUUlVF?oc=5",
-      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War &nbsp;&nbsp; goodreturns.in",
-      "published": "Sat, 05 Sep 2026 08:08:12 GMT",
-      "source": "goodreturns.in",
-      "stocks": [],
-      "sectors": [
-        "India markets"
-      ],
-      "affected": [
-        "India markets"
-      ],
-      "tone": "Negative",
-      "impact": "High",
-      "watch": [
-        "India markets"
-      ],
-      "derived_stocks": [],
-      "macro": true
-    },
-    {
       "query": "RBI rates inflation",
-      "title": "RBI's 30-day VRRR auction raises odds of rate hike in October policy - Business Standard",
+      "title": "RBI's 30-day VRRR auction raises odds of rate hike in October policy - business-standard.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0hVaVBQQzZBMDFqMHBiYmZFenFNb0dudDdrZUhCU2FyeW9EaEVoUGVmWUxOc3JRYlR0elNpNWhEWVNYV0lWT2tXYTh4cFFJTjdidlAzN2pHcjhMdUtDeU1BS2RZWk9wYXM1OUQ5Z3h1Wlo5elhER0xxMncwVFgtUWRTRmlmQ3lVZTBJc1h3SzV3TnQ0Yk1tWlpXLURYdEhURUZIUzRWM1JZT19PZjdDU2lpUHA0ZmFhZVE4aEx5eWNVU1czcEJNTlRpdjA?oc=5",
-      "description": "RBI's 30-day VRRR auction raises odds of rate hike in October policy &nbsp;&nbsp; Business Standard",
+      "description": "RBI's 30-day VRRR auction raises odds of rate hike in October policy &nbsp;&nbsp; business-standard.com",
       "published": "Fri, 04 Sep 2026 15:05:54 GMT",
-      "source": "Business Standard",
+      "source": "business-standard.com",
       "stocks": [],
       "sectors": [
         "Financials",
@@ -175,36 +153,50 @@
     },
     {
       "query": "Global markets",
-      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
-      "description": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates &nbsp;&nbsp; wsj.com",
-      "published": "Fri, 04 Sep 2026 15:10:35 GMT",
-      "source": "wsj.com",
+      "title": "Stocks Fall After Hot Jobs Report - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGV0QmpMTThWUF9sWGY3OGZuTHpuTlR2Qmh3ZlF6ZmxISEJ4TVI3Ry1lamdEUnRYSWY2bm1qYXJ5R0FGeHhCZUxrdUlzaEdsa1E0VG54bjVsZ29INnFlcmhxT2x1OGNnOXpwendIUzdMSHpIei1ENXJENlhIU2tmdEZtZw?oc=5",
+      "description": "Stocks Fall After Hot Jobs Report &nbsp;&nbsp; WSJ",
+      "published": "Fri, 04 Sep 2026 20:08:02 GMT",
+      "source": "WSJ",
       "stocks": [],
       "sectors": [
-        "IT"
+        "Global markets"
       ],
       "affected": [
-        "IT"
+        "Global markets"
       ],
       "tone": "Negative",
       "impact": "High",
       "watch": [
-        "TCS",
-        "INFY",
-        "HCLTECH",
-        "WIPRO",
-        "COFORGE",
-        "PERSISTENT"
+        "Global markets"
       ],
-      "derived_stocks": [
-        "TCS",
-        "INFY",
-        "HCLTECH",
-        "WIPRO",
-        "COFORGE",
-        "PERSISTENT"
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "Nvidia Earnings Send Chip Stocks Higher, But Reported New Trump Tariff Plans Could Broaden The Trade Fight - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM09VbW80Rm9TVkJDdVdOaVp0cC1fS0N5UVZEdFgwNVZuaXVmTXhMcmpYdFU3aEZrVlRWbmthS3gtNEhyR0tDRDY3NEtfMnAyZHRSbzFkNDdGQ0NEbDRrcks5TVp3OXJhQ0lJajNVMTBvMUxKWktFQ1Q0VUZhSU1iUTVVWFBNVXlXSTBtblVkTjgxbUVSd0JBVFVPd01wci1DUUxacW1XdFRDT0RxWjFseTc0WEZhdzBkUFE?oc=5",
+      "description": "Nvidia Earnings Send Chip Stocks Higher, But Reported New Trump Tariff Plans Could Broaden The Trade Fight &nbsp;&nbsp; Stocktwits",
+      "published": "Sat, 05 Sep 2026 12:03:08 GMT",
+      "source": "Stocktwits",
+      "stocks": [],
+      "sectors": [
+        "AI semiconductors"
       ],
+      "affected": [
+        "Auto",
+        "IT",
+        "Pharma",
+        "Metals",
+        "Chemicals"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "AI semiconductors"
+      ],
+      "derived_stocks": [],
       "macro": true
     },
     {
@@ -239,6 +231,28 @@
         "COFORGE",
         "PERSISTENT"
       ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Jane Street presses SAT for NSE, SEBI documents, cites earlier surveillance reports - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcENRYmw2RmVSc1FQaWp0M2RXaDc5Y1lQd3Z5SDN1MU5Uc3R1Y2JISnVILWFQR1dOUmJvNWI2UXpIM0hmMnRmY2k0THdiY0xCVFNicFNMWFYtUUZ2WVVmTzZhLXZzbS1KTHA1YldkMWx1SHRXUXozNWRycjRndkFSWXJOVGdId1FkTUxtaWJheGdvVDdFTDNYbHVwaFlxOXdreVY3S1Q2eU1WYzhBZ2pzZElwQkRrdG9va2JHUDZJRHVsaXfSAdABQVVfeXFMUGRWdUZZUmZPSFpraFlfdVJlLTV4eExJQW9qR1E4UFliUTJLTE1ZWEdYd3ZhVjN2Z3huT1NDazhaOXNaNFhCdk9KSldUZVNReWJmcG9DRHNyVTlnZFFPM3h2a2hIYlc5bG8tWW4xeDR2T21rYUFVNXI0eFF2OW5Oc1FVMlBucndVOW1Qd2dYTHpBOTNveVg5SUYwZVB5MWNrRnNTTzZoSzdaUm9BbnZpMml5SkZnb0plbVVGdVExWWFSR1FWUHZuQU9oVV9EXzFnWg?oc=5",
+      "description": "Jane Street presses SAT for NSE, SEBI documents, cites earlier surveillance reports &nbsp;&nbsp; Fortune India",
+      "published": "Sat, 05 Sep 2026 05:03:18 GMT",
+      "source": "Fortune India",
+      "stocks": [],
+      "sectors": [
+        "India markets"
+      ],
+      "affected": [
+        "India markets"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "India markets"
+      ],
+      "derived_stocks": [],
       "macro": true
     },
     {
@@ -277,19 +291,17 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "US Treasury Yields: What The Rise Means For Nifty, Sensex And RBI Repo Rates - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDZ4M0tkb1dtWXpHVERtNHZheUNXeGNaODgwRGlfU0owcERNZnNSWWMwTEVBNzdjc0w5RUltZUlpc1ZQcDdlVnl0aVFjZzhuT0NWWF9fdzgwcjR0eU9INmhlNkZWZDJaRnZYU3QzSkU5U1VVQjBZR1BKN1lMay1yVnVYaTFwRHFrQTZmM2JfRzE0STVXdUJKLVZfNmtZeU11R1EtV2NvZHZfZEJrVTY1UmRnTEY5RXFYVlHSAcIBQVVfeXFMTUVjZlloYzhwNGE5VnlKN295QnJkb2RTNERfYmw2cGY0cFN3RDU0dFJFV1Y2TURDODdNSjR5NmsxS1p1S0hKZUtWNkZnTXhkbHktVjhYR21QUXhNUkVMZm91M1JGRlpWa1RVOUhDbk9CN1dPdTZJWTdmUkVoTU1kdlVWUUNSTDlTZnUzbUlId2Q2M0N0S0ZMS1V5VTdQSmN4UzlvVzE2OUhBc1dieXo5d0FQT2ExbWU2NGR4YjdnN1dRNXc?oc=5",
-      "description": "US Treasury Yields: What The Rise Means For Nifty, Sensex And RBI Repo Rates &nbsp;&nbsp; NDTV Profit",
-      "published": "Fri, 04 Sep 2026 13:22:06 GMT",
-      "source": "NDTV Profit",
+      "title": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets - thehawk.in",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHFsNTZlTTNUem1NemctaUlaZGRETVFQbGlMZFp1YjlPTkI5UHJ1eEVkM3VJU1RDUGltUUFzT1E2TXUzMVJubWdhYjVkam1ORVkzMU1wck16NU01ZW1MZ1doaVFwTEp5TDQxWU5VRVdzTk50Tm80X2pyRmd2blJ0SE5pZTdRVWpoNEg4dkhlWHhwZ190NGd6WG5ZTlVNTjVobmloMXpRQnhMdmZRbWdhTUF6SmdjMzc1MmZTcmtGQzgydElncDJyVS1yc3NNdw?oc=5",
+      "description": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets &nbsp;&nbsp; thehawk.in",
+      "published": "Sat, 05 Sep 2026 00:59:20 GMT",
+      "source": "thehawk.in",
       "stocks": [],
       "sectors": [
         "Financials"
       ],
       "affected": [
-        "Financials",
-        "IT",
-        "High-growth/valuations"
+        "Financials"
       ],
       "tone": "Mixed/Neutral",
       "impact": "High",
@@ -383,40 +395,6 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets - thehawk.in",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHFsNTZlTTNUem1NemctaUlaZGRETVFQbGlMZFp1YjlPTkI5UHJ1eEVkM3VJU1RDUGltUUFzT1E2TXUzMVJubWdhYjVkam1ORVkzMU1wck16NU01ZW1MZ1doaVFwTEp5TDQxWU5VRVdzTk50Tm80X2pyRmd2blJ0SE5pZTdRVWpoNEg4dkhlWHhwZ190NGd6WG5ZTlVNTjVobmloMXpRQnhMdmZRbWdhTUF6SmdjMzc1MmZTcmtGQzgydElncDJyVS1yc3NNdw?oc=5",
-      "description": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets &nbsp;&nbsp; thehawk.in",
-      "published": "Sat, 05 Sep 2026 00:59:20 GMT",
-      "source": "thehawk.in",
-      "stocks": [],
-      "sectors": [
-        "Financials"
-      ],
-      "affected": [
-        "Financials"
-      ],
-      "tone": "Mixed/Neutral",
-      "impact": "High",
-      "watch": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
-      ],
-      "derived_stocks": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
-      ],
-      "macro": true
-    },
-    {
-      "query": "RBI rates inflation",
       "title": "Credit Card Integration with UPI to Accelerate Card Usage and Expand Merchant Acceptance, Reports... - psuindia.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaC16LVgtaGdpQW94TGk2VWJDN3BVTFZTY2ZnUjhjUmo4WDJFSjJBN0hTQkdsR1BDeF9xZmpoeFpxX1l3XzE5dlNXSEdBM1JReW1FdGZLcTZ2Ykc1U2ZQcm5ZVzJxMDdyaHdqYWxZbWtIMFg2bTVEaEVRaWZBWlNBV002U3VEbUVoc0c0UEFqV0NJMmJQOG5UR2ctUjVXS2lab3VfMF91ZG5iWVBIM3FzTnltNmZNblRzci13aHRNbkJEdDBsNW9pMjlJVXJEelJwSGNjN0ZKU3FkczhVaFJqNTVhWWZpNHRsNlI0TjFB0gHuAUFVX3lxTE9oLXotWC1oZ2lBb3hMaTZVYkM3cFVMVlNjZmdSOGNSajhYMkVKMkE3SFNCR2xHUEN4X3Fmamh4WnFfWXdfMTl2U1dIR0EzUlF5bUV0ZktxNnZiRzVTZlBybllXMnEwN3Jod2phbFlta0gwWDZtNURoRVFpZkFaU0FXTTZTdURtRWhzRzRQQWpXQ0kyYlA4blRHZy1SNVdLaVpvdV8wX3VkbmJZUEgzcXNOeW02Zk1uVHNyLXdodE1uQkR0MGw1b2kyOUlVckR6UnBIY2M3RkpTcWRzOFVoUmo1NWFZZmk0dGw2UjROMUE?oc=5",
       "description": "Credit Card Integration with UPI to Accelerate Card Usage and Expand Merchant Acceptance, Reports... &nbsp;&nbsp; psuindia.com",
@@ -451,11 +429,11 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "RBI May Hike Repo Rate to 6% by April 2027 - RTV English",
+      "title": "RBI May Hike Repo Rate to 6% by April 2027 - english.rtvlive.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZHBuUXY2eWc4SzdvQUJ6MW5iY1BUUDFxSU9mX04zRHpIcVZUOXY3ZzdwbmwtMjhWZFN3NzllLUhFU0RPeDh2QXJFYkZkekl4WHFSUXdRVDJtM1AxeDQ0NThyM00xN0pfRzEwOGlNX21TYW9US3ZPNjRn?oc=5",
-      "description": "RBI May Hike Repo Rate to 6% by April 2027 &nbsp;&nbsp; RTV English",
+      "description": "RBI May Hike Repo Rate to 6% by April 2027 &nbsp;&nbsp; english.rtvlive.com",
       "published": "Fri, 04 Sep 2026 15:12:45 GMT",
-      "source": "RTV English",
+      "source": "english.rtvlive.com",
       "stocks": [],
       "sectors": [
         "Financials"
@@ -519,11 +497,11 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3p6akRNdkVWUDZIQXJmMFo5Sy1UeGxQNVpxaXQ3UjgtVWJyQzhSSlZfT0g0enBDU0tBNXY3WE1Hb0hfaG92MkJZYlFiLU9MckJPQjlOM21iSFdoTkppaEVKYlpDSjlqZkR2eGJRQkp1MGNRTWFoS1gwTFNSUkZDTEoxU0pDcjlwdFVXRDh0T2NVUnFTcVBXd1BFdFZrT3ByOTZFbk1RUVhiZ19BQzM0R1VFNWgzNWU0MmRIakxrX2VGM1RYUHNOWkx4NjR3VF9WUnRSSVdsTzNCdUV5M25JbjVYRTNSTVBjYUFBc3dWTQ?oc=5",
-      "description": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut &nbsp;&nbsp; The Hans India",
-      "published": "Sat, 05 Sep 2026 05:13:25 GMT",
-      "source": "The Hans India",
+      "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - Punjab Kesari English",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2JSLXRmS25Nb0YzdEtEblh1bDE4MVluSUVqa3pDaGE4cjBUNkhaUk5PWmpfRnlDWGl6dHNHTnlISXExLWZBZUJuMWo4M2h6dHplSTctamJhQnZiUUxTWW1Ga0NPMFNLZkZvMERUQk5TNVFvNUh5RWtyNnA4U2RZZXVzUFNlYTVmVDNWVmRYTGNaUjlqcUJDX2N3SFhZTkxpOG13WndJOXlvQlpBTmlWVEd1SjBtS21FLUh0aXF5bTFXdFBnOTJCWlJtNEVJYURDUVpZR3VaVdIB3AFBVV95cUxPSDNHUUwyeDdwVzhXSTluRDY1NjIzc01WNnF1TFpqWWxPcWxHV29nc0E1WDNnS0RGRnlBTGhpcU5YaXVUYXRjZ3pXNV9DLVpXdjJ0QjhBZ0NzcUduOXhMYTlKdjJxVmNOMWp6dVRKSVZlNnQ4ejRWZUNLbF83NzFPMGoyTS1xZUs1cHF2UndlRTQtNk9JNEdrekZSdXZvbXNHQkZMUkFlbHRpS0c2YU0xRkJXQUtBYjA1X0J0SnpKSXNZU05XeTJJTmtrRUtfdGIxNHdVTnQya09TVEFZ?oc=5",
+      "description": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut &nbsp;&nbsp; Punjab Kesari English",
+      "published": "Sat, 05 Sep 2026 04:04:03 GMT",
+      "source": "Punjab Kesari English",
       "stocks": [],
       "sectors": [
         "Financials"
@@ -548,44 +526,6 @@
         "AXISBANK",
         "KOTAKBANK",
         "BAJFINANCE"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Crude geopolitics",
-      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
-      "description": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days &nbsp;&nbsp; LiteFinance",
-      "published": "Sat, 05 Sep 2026 08:43:00 GMT",
-      "source": "LiteFinance",
-      "stocks": [],
-      "sectors": [
-        "Energy"
-      ],
-      "affected": [
-        "Oil & Gas",
-        "Airlines",
-        "Paints",
-        "Chemicals",
-        "Tyres"
-      ],
-      "tone": "Mixed/Neutral",
-      "impact": "High",
-      "watch": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
-      ],
-      "derived_stocks": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
       ],
       "macro": true
     },
@@ -863,11 +803,11 @@
     },
     {
       "query": "Crude geopolitics",
-      "title": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics - IndexBox",
+      "title": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGtsRy1Ncm8zVDlfZ2NmVVVkM0phdGhtUXdpNjk0X3I4TFZydm4zZmVFd09KSFNFUXd5czc3VzN3UEhBSGlhWUlESXJUN08yZktENTdub1d6dXZpZUdRNGF2QkYwSGxoY1J3Q3M5YmlaT24zcGtLVDRjT2YyemQ4cmZLSThOdC1rdVQ5bllXX2k?oc=5",
-      "description": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics &nbsp;&nbsp; IndexBox",
+      "description": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics &nbsp;&nbsp; indexbox.io",
       "published": "Sat, 05 Sep 2026 04:13:41 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "stocks": [],
       "sectors": [
         "IT",
@@ -897,40 +837,6 @@
         "WIPRO",
         "COFORGE",
         "PERSISTENT"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Banks NBFC",
-      "title": "RBI asks NBFCs to prioritise asset quality as loan growth accelerates - Prop News Time",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVQ5RnlTYVVXc2x5R01ybXFrN0FjTndsRTNLTTZLdnlzQTJKdTAwMmlzNlRVMVQzQjZ5S2doWHZBcnBwVFpNZ2dvYUR4Vmx1Qm9oUmczSHd5bXJyRl9abG5iQUNJUWE3bU14OTVkRFQ0ZmRzNy1pQzMxX0FoTGl1UHhoLWVwMG9YV2laRGx1azhrWVRVeVM4OVNxM1B1a3dTWmxIVktZdF9mNzFzS2JqNE1qMHBuTjRNNDI4WHZR?oc=5",
-      "description": "RBI asks NBFCs to prioritise asset quality as loan growth accelerates &nbsp;&nbsp; Prop News Time",
-      "published": "Fri, 04 Sep 2026 14:05:15 GMT",
-      "source": "Prop News Time",
-      "stocks": [],
-      "sectors": [
-        "Financials"
-      ],
-      "affected": [
-        "Financials"
-      ],
-      "tone": "Positive",
-      "impact": "High",
-      "watch": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
-      ],
-      "derived_stocks": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
       ],
       "macro": true
     },
@@ -968,11 +874,11 @@
     },
     {
       "query": "Global markets",
-      "title": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report - wsj.com",
+      "title": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report - WSJ",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHlxUnZsQzNBY3Z1WUpoV1FFbkU2XzlfLUprd1kxS0JZem1ZeG9wR2JnOVRnblV1U21ZSF9URS04Y3M0MmFzMkRxQ2c2MzVWTGJYWERJU2MyaUprbHNtUll5cFFmUl92YmFGUGFDVHBReTQwUE51ZDNOdDZQNVUzaFNlU05DT3FjZk1ZUWRWUnNSYU5rRFY2M1VzalJnakV0c0Yxc0Z3?oc=5",
-      "description": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report &nbsp;&nbsp; wsj.com",
+      "description": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report &nbsp;&nbsp; WSJ",
       "published": "Fri, 04 Sep 2026 18:23:00 GMT",
-      "source": "wsj.com",
+      "source": "WSJ",
       "stocks": [],
       "sectors": [
         "Global markets"
@@ -1020,39 +926,63 @@
         "EICHERMOT",
         "HEROMOTOCO"
       ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Yields rise, stocks mostly ease after solid US jobs report - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekJZMVFFSGc5UWdmUmJNcjVFejNJcTJVZjZlRmZ2bVBjeEpheHhYTWhFV2Z1cjB4MGFPcjVHNkFxRjNCdzVWRjMwNTJON3pCZS1vb2J4RTdFdjR1dDJ5SGZaUG9sUHRqbEhWSVhzelBPWklYYkM2UXlmZ3Zvb0RnQlRobFJzZXNObVFwdVBtOTFUcDhqUHY2ZHZIOHlGTnc?oc=5",
+      "description": "Yields rise, stocks mostly ease after solid US jobs report &nbsp;&nbsp; Nikkei Asia",
+      "published": "Fri, 04 Sep 2026 15:56:00 GMT",
+      "source": "Nikkei Asia",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Fed's Williams ties rising bond yields to strong economy, CNBC reports - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXJBT2xjVE13MWhOa2hyU1FVd3JYZkw2RDF2WFhuYXY3V3Q4LTJVckY2MmlhNjRIb2FVd0NDMUo1M0xNekFUeG1RZU5wT3F6cVNVaG9vX3d2NHlnRmtfcW9XX2tDVG5wd3NDYkVheDhfbzh0Y2UydTFPazkwaWlIbnd5MmFTRkdLMWNYMnZPUTA5ektUT0hwaGdWQ2F3U0NYVFN6QVFRS0ZnZjBIVVlvdWJ6XzZWYWNBZHhVWG9nSFZMNXo0XzJvb1dmMWJheEF2TjdaTUg5UjhPSWVpQ2fSAeMBQVVfeXFMTnJiMUZ2Wm1FejljRnNybDNPVTZJU0Q5Y2ZpTTV5VVNwUFpzUHkwWXhkZ0FEY2RGTWJ3eS0wZGdQRGtKeGl6cTJVa2p2YVo2Xy16QlktQkRLeEdUa0MtOVEzbktpMWhIV1NTS19VVGR3b003b0hmMnQ2eGdlVTJiMkhYV3BMNnJaMWVWbUJTYWZJbVNUY050dFc0TmsyNjA5eVlPd25pVmVsbDJRa21sck11MVdFVzkwYU1yUmtYY3dtR1lXZllET1l5cTI4TVpqTW9TcXc1NmhoclNLWkxxVy1TM0U?oc=5",
+      "description": "Fed's Williams ties rising bond yields to strong economy, CNBC reports &nbsp;&nbsp; The Economic Times",
+      "published": "Sat, 05 Sep 2026 05:43:58 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
       "macro": true
     }
   ],
   "high_impact": [
     {
-      "query": "India markets",
-      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - goodreturns.in",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT212X0ZjSkRPNU9XTTM0UGphZ2RxOE8tS0JKWjhjcHAtUXFvbmtqa0tSamlrY3pZQUV5SG9PWVNKdkkwMHZsOU1MZzRORWhjRmk3RWZ4YjRoUmhQUFQyNldnYzlJWUZldmF1b29QVUY0NEtXc1oxcHJHYXo4ZDg4OFVWNk13aWZlUWlZUlQtb3ZrMnhvRUdudXpyTWlzYkh0cFR2UGlYcVNCOFN3Q2lxV2dFZ18xQ2o0TW9pMHZRSTFDbzRGUTdreWRoWjBUUlVF?oc=5",
-      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War &nbsp;&nbsp; goodreturns.in",
-      "published": "Sat, 05 Sep 2026 08:08:12 GMT",
-      "source": "goodreturns.in",
-      "stocks": [],
-      "sectors": [
-        "India markets"
-      ],
-      "affected": [
-        "India markets"
-      ],
-      "tone": "Negative",
-      "impact": "High",
-      "watch": [
-        "India markets"
-      ],
-      "derived_stocks": [],
-      "macro": true
-    },
-    {
       "query": "RBI rates inflation",
-      "title": "RBI's 30-day VRRR auction raises odds of rate hike in October policy - Business Standard",
+      "title": "RBI's 30-day VRRR auction raises odds of rate hike in October policy - business-standard.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0hVaVBQQzZBMDFqMHBiYmZFenFNb0dudDdrZUhCU2FyeW9EaEVoUGVmWUxOc3JRYlR0elNpNWhEWVNYV0lWT2tXYTh4cFFJTjdidlAzN2pHcjhMdUtDeU1BS2RZWk9wYXM1OUQ5Z3h1Wlo5elhER0xxMncwVFgtUWRTRmlmQ3lVZTBJc1h3SzV3TnQ0Yk1tWlpXLURYdEhURUZIUzRWM1JZT19PZjdDU2lpUHA0ZmFhZVE4aEx5eWNVU1czcEJNTlRpdjA?oc=5",
-      "description": "RBI's 30-day VRRR auction raises odds of rate hike in October policy &nbsp;&nbsp; Business Standard",
+      "description": "RBI's 30-day VRRR auction raises odds of rate hike in October policy &nbsp;&nbsp; business-standard.com",
       "published": "Fri, 04 Sep 2026 15:05:54 GMT",
-      "source": "Business Standard",
+      "source": "business-standard.com",
       "stocks": [],
       "sectors": [
         "Financials",
@@ -1198,36 +1128,50 @@
     },
     {
       "query": "Global markets",
-      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates - wsj.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
-      "description": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates &nbsp;&nbsp; wsj.com",
-      "published": "Fri, 04 Sep 2026 15:10:35 GMT",
-      "source": "wsj.com",
+      "title": "Stocks Fall After Hot Jobs Report - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGV0QmpMTThWUF9sWGY3OGZuTHpuTlR2Qmh3ZlF6ZmxISEJ4TVI3Ry1lamdEUnRYSWY2bm1qYXJ5R0FGeHhCZUxrdUlzaEdsa1E0VG54bjVsZ29INnFlcmhxT2x1OGNnOXpwendIUzdMSHpIei1ENXJENlhIU2tmdEZtZw?oc=5",
+      "description": "Stocks Fall After Hot Jobs Report &nbsp;&nbsp; WSJ",
+      "published": "Fri, 04 Sep 2026 20:08:02 GMT",
+      "source": "WSJ",
       "stocks": [],
       "sectors": [
-        "IT"
+        "Global markets"
       ],
       "affected": [
-        "IT"
+        "Global markets"
       ],
       "tone": "Negative",
       "impact": "High",
       "watch": [
-        "TCS",
-        "INFY",
-        "HCLTECH",
-        "WIPRO",
-        "COFORGE",
-        "PERSISTENT"
+        "Global markets"
       ],
-      "derived_stocks": [
-        "TCS",
-        "INFY",
-        "HCLTECH",
-        "WIPRO",
-        "COFORGE",
-        "PERSISTENT"
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "Nvidia Earnings Send Chip Stocks Higher, But Reported New Trump Tariff Plans Could Broaden The Trade Fight - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM09VbW80Rm9TVkJDdVdOaVp0cC1fS0N5UVZEdFgwNVZuaXVmTXhMcmpYdFU3aEZrVlRWbmthS3gtNEhyR0tDRDY3NEtfMnAyZHRSbzFkNDdGQ0NEbDRrcks5TVp3OXJhQ0lJajNVMTBvMUxKWktFQ1Q0VUZhSU1iUTVVWFBNVXlXSTBtblVkTjgxbUVSd0JBVFVPd01wci1DUUxacW1XdFRDT0RxWjFseTc0WEZhdzBkUFE?oc=5",
+      "description": "Nvidia Earnings Send Chip Stocks Higher, But Reported New Trump Tariff Plans Could Broaden The Trade Fight &nbsp;&nbsp; Stocktwits",
+      "published": "Sat, 05 Sep 2026 12:03:08 GMT",
+      "source": "Stocktwits",
+      "stocks": [],
+      "sectors": [
+        "AI semiconductors"
       ],
+      "affected": [
+        "Auto",
+        "IT",
+        "Pharma",
+        "Metals",
+        "Chemicals"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "AI semiconductors"
+      ],
+      "derived_stocks": [],
       "macro": true
     },
     {
@@ -1262,6 +1206,28 @@
         "COFORGE",
         "PERSISTENT"
       ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Jane Street presses SAT for NSE, SEBI documents, cites earlier surveillance reports - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcENRYmw2RmVSc1FQaWp0M2RXaDc5Y1lQd3Z5SDN1MU5Uc3R1Y2JISnVILWFQR1dOUmJvNWI2UXpIM0hmMnRmY2k0THdiY0xCVFNicFNMWFYtUUZ2WVVmTzZhLXZzbS1KTHA1YldkMWx1SHRXUXozNWRycjRndkFSWXJOVGdId1FkTUxtaWJheGdvVDdFTDNYbHVwaFlxOXdreVY3S1Q2eU1WYzhBZ2pzZElwQkRrdG9va2JHUDZJRHVsaXfSAdABQVVfeXFMUGRWdUZZUmZPSFpraFlfdVJlLTV4eExJQW9qR1E4UFliUTJLTE1ZWEdYd3ZhVjN2Z3huT1NDazhaOXNaNFhCdk9KSldUZVNReWJmcG9DRHNyVTlnZFFPM3h2a2hIYlc5bG8tWW4xeDR2T21rYUFVNXI0eFF2OW5Oc1FVMlBucndVOW1Qd2dYTHpBOTNveVg5SUYwZVB5MWNrRnNTTzZoSzdaUm9BbnZpMml5SkZnb0plbVVGdVExWWFSR1FWUHZuQU9oVV9EXzFnWg?oc=5",
+      "description": "Jane Street presses SAT for NSE, SEBI documents, cites earlier surveillance reports &nbsp;&nbsp; Fortune India",
+      "published": "Sat, 05 Sep 2026 05:03:18 GMT",
+      "source": "Fortune India",
+      "stocks": [],
+      "sectors": [
+        "India markets"
+      ],
+      "affected": [
+        "India markets"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "India markets"
+      ],
+      "derived_stocks": [],
       "macro": true
     },
     {
@@ -1300,19 +1266,17 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "US Treasury Yields: What The Rise Means For Nifty, Sensex And RBI Repo Rates - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDZ4M0tkb1dtWXpHVERtNHZheUNXeGNaODgwRGlfU0owcERNZnNSWWMwTEVBNzdjc0w5RUltZUlpc1ZQcDdlVnl0aVFjZzhuT0NWWF9fdzgwcjR0eU9INmhlNkZWZDJaRnZYU3QzSkU5U1VVQjBZR1BKN1lMay1yVnVYaTFwRHFrQTZmM2JfRzE0STVXdUJKLVZfNmtZeU11R1EtV2NvZHZfZEJrVTY1UmRnTEY5RXFYVlHSAcIBQVVfeXFMTUVjZlloYzhwNGE5VnlKN295QnJkb2RTNERfYmw2cGY0cFN3RDU0dFJFV1Y2TURDODdNSjR5NmsxS1p1S0hKZUtWNkZnTXhkbHktVjhYR21QUXhNUkVMZm91M1JGRlpWa1RVOUhDbk9CN1dPdTZJWTdmUkVoTU1kdlVWUUNSTDlTZnUzbUlId2Q2M0N0S0ZMS1V5VTdQSmN4UzlvVzE2OUhBc1dieXo5d0FQT2ExbWU2NGR4YjdnN1dRNXc?oc=5",
-      "description": "US Treasury Yields: What The Rise Means For Nifty, Sensex And RBI Repo Rates &nbsp;&nbsp; NDTV Profit",
-      "published": "Fri, 04 Sep 2026 13:22:06 GMT",
-      "source": "NDTV Profit",
+      "title": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets - thehawk.in",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHFsNTZlTTNUem1NemctaUlaZGRETVFQbGlMZFp1YjlPTkI5UHJ1eEVkM3VJU1RDUGltUUFzT1E2TXUzMVJubWdhYjVkam1ORVkzMU1wck16NU01ZW1MZ1doaVFwTEp5TDQxWU5VRVdzTk50Tm80X2pyRmd2blJ0SE5pZTdRVWpoNEg4dkhlWHhwZ190NGd6WG5ZTlVNTjVobmloMXpRQnhMdmZRbWdhTUF6SmdjMzc1MmZTcmtGQzgydElncDJyVS1yc3NNdw?oc=5",
+      "description": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets &nbsp;&nbsp; thehawk.in",
+      "published": "Sat, 05 Sep 2026 00:59:20 GMT",
+      "source": "thehawk.in",
       "stocks": [],
       "sectors": [
         "Financials"
       ],
       "affected": [
-        "Financials",
-        "IT",
-        "High-growth/valuations"
+        "Financials"
       ],
       "tone": "Mixed/Neutral",
       "impact": "High",
@@ -1406,40 +1370,6 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets - thehawk.in",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTHFsNTZlTTNUem1NemctaUlaZGRETVFQbGlMZFp1YjlPTkI5UHJ1eEVkM3VJU1RDUGltUUFzT1E2TXUzMVJubWdhYjVkam1ORVkzMU1wck16NU01ZW1MZ1doaVFwTEp5TDQxWU5VRVdzTk50Tm80X2pyRmd2blJ0SE5pZTdRVWpoNEg4dkhlWHhwZ190NGd6WG5ZTlVNTjVobmloMXpRQnhMdmZRbWdhTUF6SmdjMzc1MmZTcmtGQzgydElncDJyVS1yc3NNdw?oc=5",
-      "description": "RBI likely to hike repo rate to 6 pc by April 2027 as excess liquidity skews markets &nbsp;&nbsp; thehawk.in",
-      "published": "Sat, 05 Sep 2026 00:59:20 GMT",
-      "source": "thehawk.in",
-      "stocks": [],
-      "sectors": [
-        "Financials"
-      ],
-      "affected": [
-        "Financials"
-      ],
-      "tone": "Mixed/Neutral",
-      "impact": "High",
-      "watch": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
-      ],
-      "derived_stocks": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
-      ],
-      "macro": true
-    },
-    {
-      "query": "RBI rates inflation",
       "title": "Credit Card Integration with UPI to Accelerate Card Usage and Expand Merchant Acceptance, Reports... - psuindia.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaC16LVgtaGdpQW94TGk2VWJDN3BVTFZTY2ZnUjhjUmo4WDJFSjJBN0hTQkdsR1BDeF9xZmpoeFpxX1l3XzE5dlNXSEdBM1JReW1FdGZLcTZ2Ykc1U2ZQcm5ZVzJxMDdyaHdqYWxZbWtIMFg2bTVEaEVRaWZBWlNBV002U3VEbUVoc0c0UEFqV0NJMmJQOG5UR2ctUjVXS2lab3VfMF91ZG5iWVBIM3FzTnltNmZNblRzci13aHRNbkJEdDBsNW9pMjlJVXJEelJwSGNjN0ZKU3FkczhVaFJqNTVhWWZpNHRsNlI0TjFB0gHuAUFVX3lxTE9oLXotWC1oZ2lBb3hMaTZVYkM3cFVMVlNjZmdSOGNSajhYMkVKMkE3SFNCR2xHUEN4X3Fmamh4WnFfWXdfMTl2U1dIR0EzUlF5bUV0ZktxNnZiRzVTZlBybllXMnEwN3Jod2phbFlta0gwWDZtNURoRVFpZkFaU0FXTTZTdURtRWhzRzRQQWpXQ0kyYlA4blRHZy1SNVdLaVpvdV8wX3VkbmJZUEgzcXNOeW02Zk1uVHNyLXdodE1uQkR0MGw1b2kyOUlVckR6UnBIY2M3RkpTcWRzOFVoUmo1NWFZZmk0dGw2UjROMUE?oc=5",
       "description": "Credit Card Integration with UPI to Accelerate Card Usage and Expand Merchant Acceptance, Reports... &nbsp;&nbsp; psuindia.com",
@@ -1474,11 +1404,11 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "RBI May Hike Repo Rate to 6% by April 2027 - RTV English",
+      "title": "RBI May Hike Repo Rate to 6% by April 2027 - english.rtvlive.com",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZHBuUXY2eWc4SzdvQUJ6MW5iY1BUUDFxSU9mX04zRHpIcVZUOXY3ZzdwbmwtMjhWZFN3NzllLUhFU0RPeDh2QXJFYkZkekl4WHFSUXdRVDJtM1AxeDQ0NThyM00xN0pfRzEwOGlNX21TYW9US3ZPNjRn?oc=5",
-      "description": "RBI May Hike Repo Rate to 6% by April 2027 &nbsp;&nbsp; RTV English",
+      "description": "RBI May Hike Repo Rate to 6% by April 2027 &nbsp;&nbsp; english.rtvlive.com",
       "published": "Fri, 04 Sep 2026 15:12:45 GMT",
-      "source": "RTV English",
+      "source": "english.rtvlive.com",
       "stocks": [],
       "sectors": [
         "Financials"
@@ -1542,11 +1472,11 @@
     },
     {
       "query": "RBI rates inflation",
-      "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3p6akRNdkVWUDZIQXJmMFo5Sy1UeGxQNVpxaXQ3UjgtVWJyQzhSSlZfT0g0enBDU0tBNXY3WE1Hb0hfaG92MkJZYlFiLU9MckJPQjlOM21iSFdoTkppaEVKYlpDSjlqZkR2eGJRQkp1MGNRTWFoS1gwTFNSUkZDTEoxU0pDcjlwdFVXRDh0T2NVUnFTcVBXd1BFdFZrT3ByOTZFbk1RUVhiZ19BQzM0R1VFNWgzNWU0MmRIakxrX2VGM1RYUHNOWkx4NjR3VF9WUnRSSVdsTzNCdUV5M25JbjVYRTNSTVBjYUFBc3dWTQ?oc=5",
-      "description": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut &nbsp;&nbsp; The Hans India",
-      "published": "Sat, 05 Sep 2026 05:13:25 GMT",
-      "source": "The Hans India",
+      "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - Punjab Kesari English",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2JSLXRmS25Nb0YzdEtEblh1bDE4MVluSUVqa3pDaGE4cjBUNkhaUk5PWmpfRnlDWGl6dHNHTnlISXExLWZBZUJuMWo4M2h6dHplSTctamJhQnZiUUxTWW1Ga0NPMFNLZkZvMERUQk5TNVFvNUh5RWtyNnA4U2RZZXVzUFNlYTVmVDNWVmRYTGNaUjlqcUJDX2N3SFhZTkxpOG13WndJOXlvQlpBTmlWVEd1SjBtS21FLUh0aXF5bTFXdFBnOTJCWlJtNEVJYURDUVpZR3VaVdIB3AFBVV95cUxPSDNHUUwyeDdwVzhXSTluRDY1NjIzc01WNnF1TFpqWWxPcWxHV29nc0E1WDNnS0RGRnlBTGhpcU5YaXVUYXRjZ3pXNV9DLVpXdjJ0QjhBZ0NzcUduOXhMYTlKdjJxVmNOMWp6dVRKSVZlNnQ4ejRWZUNLbF83NzFPMGoyTS1xZUs1cHF2UndlRTQtNk9JNEdrekZSdXZvbXNHQkZMUkFlbHRpS0c2YU0xRkJXQUtBYjA1X0J0SnpKSXNZU05XeTJJTmtrRUtfdGIxNHdVTnQya09TVEFZ?oc=5",
+      "description": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut &nbsp;&nbsp; Punjab Kesari English",
+      "published": "Sat, 05 Sep 2026 04:04:03 GMT",
+      "source": "Punjab Kesari English",
       "stocks": [],
       "sectors": [
         "Financials"
@@ -1571,44 +1501,6 @@
         "AXISBANK",
         "KOTAKBANK",
         "BAJFINANCE"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Crude geopolitics",
-      "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days - LiteFinance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
-      "description": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days &nbsp;&nbsp; LiteFinance",
-      "published": "Sat, 05 Sep 2026 08:43:00 GMT",
-      "source": "LiteFinance",
-      "stocks": [],
-      "sectors": [
-        "Energy"
-      ],
-      "affected": [
-        "Oil & Gas",
-        "Airlines",
-        "Paints",
-        "Chemicals",
-        "Tyres"
-      ],
-      "tone": "Mixed/Neutral",
-      "impact": "High",
-      "watch": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
-      ],
-      "derived_stocks": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
       ],
       "macro": true
     },
@@ -1886,11 +1778,11 @@
     },
     {
       "query": "Crude geopolitics",
-      "title": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics - IndexBox",
+      "title": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics - indexbox.io",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeGtsRy1Ncm8zVDlfZ2NmVVVkM0phdGhtUXdpNjk0X3I4TFZydm4zZmVFd09KSFNFUXd5czc3VzN3UEhBSGlhWUlESXJUN08yZktENTdub1d6dXZpZUdRNGF2QkYwSGxoY1J3Q3M5YmlaT24zcGtLVDRjT2YyemQ4cmZLSThOdC1rdVQ5bllXX2k?oc=5",
-      "description": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics &nbsp;&nbsp; IndexBox",
+      "description": "Middle East Crude Demand Surges: Dubai Futures Near $100 | Oil Market Update - News and Statistics &nbsp;&nbsp; indexbox.io",
       "published": "Sat, 05 Sep 2026 04:13:41 GMT",
-      "source": "IndexBox",
+      "source": "indexbox.io",
       "stocks": [],
       "sectors": [
         "IT",
@@ -1920,40 +1812,6 @@
         "WIPRO",
         "COFORGE",
         "PERSISTENT"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Banks NBFC",
-      "title": "RBI asks NBFCs to prioritise asset quality as loan growth accelerates - Prop News Time",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcVQ5RnlTYVVXc2x5R01ybXFrN0FjTndsRTNLTTZLdnlzQTJKdTAwMmlzNlRVMVQzQjZ5S2doWHZBcnBwVFpNZ2dvYUR4Vmx1Qm9oUmczSHd5bXJyRl9abG5iQUNJUWE3bU14OTVkRFQ0ZmRzNy1pQzMxX0FoTGl1UHhoLWVwMG9YV2laRGx1azhrWVRVeVM4OVNxM1B1a3dTWmxIVktZdF9mNzFzS2JqNE1qMHBuTjRNNDI4WHZR?oc=5",
-      "description": "RBI asks NBFCs to prioritise asset quality as loan growth accelerates &nbsp;&nbsp; Prop News Time",
-      "published": "Fri, 04 Sep 2026 14:05:15 GMT",
-      "source": "Prop News Time",
-      "stocks": [],
-      "sectors": [
-        "Financials"
-      ],
-      "affected": [
-        "Financials"
-      ],
-      "tone": "Positive",
-      "impact": "High",
-      "watch": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
-      ],
-      "derived_stocks": [
-        "HDFCBANK",
-        "ICICIBANK",
-        "SBIN",
-        "AXISBANK",
-        "KOTAKBANK",
-        "BAJFINANCE"
       ],
       "macro": true
     },
@@ -1991,11 +1849,11 @@
     },
     {
       "query": "Global markets",
-      "title": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report - wsj.com",
+      "title": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report - WSJ",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHlxUnZsQzNBY3Z1WUpoV1FFbkU2XzlfLUprd1kxS0JZem1ZeG9wR2JnOVRnblV1U21ZSF9URS04Y3M0MmFzMkRxQ2c2MzVWTGJYWERJU2MyaUprbHNtUll5cFFmUl92YmFGUGFDVHBReTQwUE51ZDNOdDZQNVUzaFNlU05DT3FjZk1ZUWRWUnNSYU5rRFY2M1VzalJnakV0c0Yxc0Z3?oc=5",
-      "description": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report &nbsp;&nbsp; wsj.com",
+      "description": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report &nbsp;&nbsp; WSJ",
       "published": "Fri, 04 Sep 2026 18:23:00 GMT",
-      "source": "wsj.com",
+      "source": "WSJ",
       "stocks": [],
       "sectors": [
         "Global markets"
@@ -2043,36 +1901,86 @@
         "EICHERMOT",
         "HEROMOTOCO"
       ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Yields rise, stocks mostly ease after solid US jobs report - Nikkei Asia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekJZMVFFSGc5UWdmUmJNcjVFejNJcTJVZjZlRmZ2bVBjeEpheHhYTWhFV2Z1cjB4MGFPcjVHNkFxRjNCdzVWRjMwNTJON3pCZS1vb2J4RTdFdjR1dDJ5SGZaUG9sUHRqbEhWSVhzelBPWklYYkM2UXlmZ3Zvb0RnQlRobFJzZXNObVFwdVBtOTFUcDhqUHY2ZHZIOHlGTnc?oc=5",
+      "description": "Yields rise, stocks mostly ease after solid US jobs report &nbsp;&nbsp; Nikkei Asia",
+      "published": "Fri, 04 Sep 2026 15:56:00 GMT",
+      "source": "Nikkei Asia",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Fed's Williams ties rising bond yields to strong economy, CNBC reports - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNXJBT2xjVE13MWhOa2hyU1FVd3JYZkw2RDF2WFhuYXY3V3Q4LTJVckY2MmlhNjRIb2FVd0NDMUo1M0xNekFUeG1RZU5wT3F6cVNVaG9vX3d2NHlnRmtfcW9XX2tDVG5wd3NDYkVheDhfbzh0Y2UydTFPazkwaWlIbnd5MmFTRkdLMWNYMnZPUTA5ektUT0hwaGdWQ2F3U0NYVFN6QVFRS0ZnZjBIVVlvdWJ6XzZWYWNBZHhVWG9nSFZMNXo0XzJvb1dmMWJheEF2TjdaTUg5UjhPSWVpQ2fSAeMBQVVfeXFMTnJiMUZ2Wm1FejljRnNybDNPVTZJU0Q5Y2ZpTTV5VVNwUFpzUHkwWXhkZ0FEY2RGTWJ3eS0wZGdQRGtKeGl6cTJVa2p2YVo2Xy16QlktQkRLeEdUa0MtOVEzbktpMWhIV1NTS19VVGR3b003b0hmMnQ2eGdlVTJiMkhYV3BMNnJaMWVWbUJTYWZJbVNUY050dFc0TmsyNjA5eVlPd25pVmVsbDJRa21sck11MVdFVzkwYU1yUmtYY3dtR1lXZllET1l5cTI4TVpqTW9TcXc1NmhoclNLWkxxVy1TM0U?oc=5",
+      "description": "Fed's Williams ties rising bond yields to strong economy, CNBC reports &nbsp;&nbsp; The Economic Times",
+      "published": "Sat, 05 Sep 2026 05:43:58 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
       "macro": true
     }
   ],
   "sectors": [
     [
       "Financials",
-      12
+      10
     ],
     [
       "IT",
-      11
+      10
     ],
     [
       "Energy",
-      9
+      8
+    ],
+    [
+      "Global markets",
+      5
     ],
     [
       "Auto",
       3
     ],
     [
-      "Global markets",
-      2
-    ],
-    [
-      "India markets",
+      "Crude geopolitics",
       1
     ],
     [
-      "Crude geopolitics",
+      "AI semiconductors",
+      1
+    ],
+    [
+      "India markets",
       1
     ]
   ]

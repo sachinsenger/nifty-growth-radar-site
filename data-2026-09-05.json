@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "generated_utc": "2026-09-05T13:01:59.713407+00:00",
+  "generated_utc": "2026-09-05T13:58:59.368169+00:00",
   "market_regime": "Breadth proxy 7/20 above EMA50",
   "stocks": [
     {
@@ -1308,8 +1308,8 @@
         "Market regime cautious \u2014 reduced score",
         "Strong vs universe 3M (+14.9pp)",
         "Strong vs sector peers (+25.0pp)",
-        "ROE 37.4%",
-        "ROCE 42.0%"
+        "ROE 18.9%",
+        "ROCE 29.2%"
       ],
       "technical": {
         "date": "2026-09-03",
@@ -1349,8 +1349,8 @@
       "fundamentals": {
         "pe": 46.4,
         "pb": null,
-        "roe": 37.4,
-        "roce": 42.0,
+        "roe": 18.9,
+        "roce": 29.2,
         "de": null,
         "current": null,
         "sales_growth": null,
