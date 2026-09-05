@@ -1,0 +1,147 @@
+{
+  "generated": "2026-09-05T13:09:55Z",
+  "source": "NSE website index constituents",
+  "indexes": {},
+  "failures": [
+    {
+      "index": "NIFTY 50",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+50"
+    },
+    {
+      "index": "NIFTY NEXT 50",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+NEXT+50"
+    },
+    {
+      "index": "NIFTY 100",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+100"
+    },
+    {
+      "index": "NIFTY 200",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+200"
+    },
+    {
+      "index": "NIFTY 500",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+500"
+    },
+    {
+      "index": "NIFTY MIDCAP 50",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MIDCAP+50"
+    },
+    {
+      "index": "NIFTY MIDCAP 100",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MIDCAP+100"
+    },
+    {
+      "index": "NIFTY MIDCAP 150",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MIDCAP+150"
+    },
+    {
+      "index": "NIFTY SMALLCAP 50",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+SMALLCAP+50"
+    },
+    {
+      "index": "NIFTY SMALLCAP 100",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+SMALLCAP+100"
+    },
+    {
+      "index": "NIFTY SMALLCAP 250",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+SMALLCAP+250"
+    },
+    {
+      "index": "NIFTY MICROCAP 250",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MICROCAP+250"
+    },
+    {
+      "index": "NIFTY BANK",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+BANK"
+    },
+    {
+      "index": "NIFTY FINANCIAL SERVICES",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+FINANCIAL+SERVICES"
+    },
+    {
+      "index": "NIFTY AUTO",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+AUTO"
+    },
+    {
+      "index": "NIFTY CEMENT",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+CEMENT"
+    },
+    {
+      "index": "NIFTY CAPITAL GOODS",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+CAPITAL+GOODS"
+    },
+    {
+      "index": "NIFTY CHEMICALS",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+CHEMICALS"
+    },
+    {
+      "index": "NIFTY CONSUMER DURABLES",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+CONSUMER+DURABLES"
+    },
+    {
+      "index": "NIFTY CONSUMER SERVICES",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+CONSUMER+SERVICES"
+    },
+    {
+      "index": "NIFTY FMCG",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+FMCG"
+    },
+    {
+      "index": "NIFTY HEALTHCARE",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+HEALTHCARE"
+    },
+    {
+      "index": "NIFTY IT",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+IT"
+    },
+    {
+      "index": "NIFTY MEDIA",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MEDIA"
+    },
+    {
+      "index": "NIFTY METAL",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+METAL"
+    },
+    {
+      "index": "NIFTY PHARMA",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PHARMA"
+    },
+    {
+      "index": "NIFTY POWER",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+POWER"
+    },
+    {
+      "index": "NIFTY PRIVATE BANK",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PRIVATE+BANK"
+    },
+    {
+      "index": "NIFTY PSU BANK",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PSU+BANK"
+    },
+    {
+      "index": "NIFTY REALTY",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+REALTY"
+    },
+    {
+      "index": "NIFTY OIL & GAS",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+OIL+%26+GAS"
+    },
+    {
+      "index": "NIFTY TELECOMMUNICATION",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+TELECOMMUNICATION"
+    },
+    {
+      "index": "NIFTY HOSPITALS",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+HOSPITALS"
+    },
+    {
+      "index": "NIFTY INSURANCE",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+INSURANCE"
+    },
+    {
+      "index": "NIFTY HOUSING FINANCE",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+HOUSING+FINANCE"
+    }
+  ]
+}

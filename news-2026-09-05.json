@@ -3,11 +3,11 @@
   "items": [
     {
       "query": "India markets",
-      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - Goodreturns",
+      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT212X0ZjSkRPNU9XTTM0UGphZ2RxOE8tS0JKWjhjcHAtUXFvbmtqa0tSamlrY3pZQUV5SG9PWVNKdkkwMHZsOU1MZzRORWhjRmk3RWZ4YjRoUmhQUFQyNldnYzlJWUZldmF1b29QVUY0NEtXc1oxcHJHYXo4ZDg4OFVWNk13aWZlUWlZUlQtb3ZrMnhvRUdudXpyTWlzYkh0cFR2UGlYcVNCOFN3Q2lxV2dFZ18xQ2o0TW9pMHZRSTFDbzRGUTdreWRoWjBUUlVF?oc=5",
-      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War &nbsp;&nbsp; Goodreturns",
+      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War &nbsp;&nbsp; goodreturns.in",
       "published": "Sat, 05 Sep 2026 08:08:12 GMT",
-      "source": "Goodreturns",
+      "source": "goodreturns.in",
       "stocks": [],
       "sectors": [
         "India markets"
@@ -56,38 +56,6 @@
         "AXISBANK",
         "KOTAKBANK",
         "BAJFINANCE"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Crude geopolitics",
-      "title": "UK petrol prices hit highest level since Iran war began - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5",
-      "description": "UK petrol prices hit highest level since Iran war began &nbsp;&nbsp; BBC",
-      "published": "Fri, 04 Sep 2026 13:05:52 GMT",
-      "source": "BBC",
-      "stocks": [],
-      "sectors": [
-        "Auto"
-      ],
-      "affected": [
-        "Auto"
-      ],
-      "tone": "Negative",
-      "impact": "High",
-      "watch": [
-        "MARUTI",
-        "M&M",
-        "BAJAJ-AUTO",
-        "EICHERMOT",
-        "HEROMOTOCO"
-      ],
-      "derived_stocks": [
-        "MARUTI",
-        "M&M",
-        "BAJAJ-AUTO",
-        "EICHERMOT",
-        "HEROMOTOCO"
       ],
       "macro": true
     },
@@ -178,6 +146,40 @@
       "description": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike &nbsp;&nbsp; djournal.com",
       "published": "Fri, 04 Sep 2026 19:32:39 GMT",
       "source": "djournal.com",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
+      "description": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates &nbsp;&nbsp; wsj.com",
+      "published": "Fri, 04 Sep 2026 15:10:35 GMT",
+      "source": "wsj.com",
       "stocks": [],
       "sectors": [
         "IT"
@@ -483,6 +485,40 @@
     },
     {
       "query": "RBI rates inflation",
+      "title": "Indian Economy RBI to Lock Rs7 Lakh Crore Liquidity for 30 Days Amid Record Cash Glut - Argus English",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmdNZm1WVHg5VS1yQlo3ckpnWDNjVndDT1ZNdHdHa2FoVEVzamY4ZThrc01OTFprQVh2YWc3VGJUMk5XZTNNQlpucERveUsyYTJMTlU1X1NkanBOMnhONWVCSk9NUzZ5X21EVzBiR3lBN2QzYUF6T2JKZUZLU1plU2VjaGpETkdKRWQzQ1huMlBSd2RiVnowUFd1N3FJeDFQQnREaGNB?oc=5",
+      "description": "Indian Economy RBI to Lock Rs7 Lakh Crore Liquidity for 30 Days Amid Record Cash Glut &nbsp;&nbsp; Argus English",
+      "published": "Sat, 05 Sep 2026 05:25:23 GMT",
+      "source": "Argus English",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
       "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - The Hans India",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3p6akRNdkVWUDZIQXJmMFo5Sy1UeGxQNVpxaXQ3UjgtVWJyQzhSSlZfT0g0enBDU0tBNXY3WE1Hb0hfaG92MkJZYlFiLU9MckJPQjlOM21iSFdoTkppaEVKYlpDSjlqZkR2eGJRQkp1MGNRTWFoS1gwTFNSUkZDTEoxU0pDcjlwdFVXRDh0T2NVUnFTcVBXd1BFdFZrT3ByOTZFbk1RUVhiZ19BQzM0R1VFNWgzNWU0MmRIakxrX2VGM1RYUHNOWkx4NjR3VF9WUnRSSVdsTzNCdUV5M25JbjVYRTNSTVBjYUFBc3dWTQ?oc=5",
       "description": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut &nbsp;&nbsp; The Hans India",
@@ -666,44 +702,6 @@
         "WIPRO",
         "COFORGE",
         "PERSISTENT"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Crude geopolitics",
-      "title": "Crude Oil Futures Separate From Reality as Asia Physical Market Buckles: Russell - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXNxLVRkQUVLQTd6Y3VNdUZRcGpEeEdPRWViNDJtSTdfM0hBYmpJdDhTWmtwWnFlUnR6X3o0TDR5SmZONEFISDJBNkNsa2VjUFE5bUtYc21HZHZ3bDlKM0U1ZkpfY1FTS2hWNGVpWnNiaUh5YlAzZVI2V0JEeV9BM3pSMU01WTBpUUVMRDJLUjVvLXc3QlJfSEMyazRXZ3JhakhaR0pmb3JPZVM4OVVZ?oc=5",
-      "description": "Crude Oil Futures Separate From Reality as Asia Physical Market Buckles: Russell &nbsp;&nbsp; EnergyNow.com",
-      "published": "Fri, 04 Sep 2026 15:54:51 GMT",
-      "source": "EnergyNow.com",
-      "stocks": [],
-      "sectors": [
-        "Energy"
-      ],
-      "affected": [
-        "Oil & Gas",
-        "Airlines",
-        "Paints",
-        "Chemicals",
-        "Tyres"
-      ],
-      "tone": "Mixed/Neutral",
-      "impact": "High",
-      "watch": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
-      ],
-      "derived_stocks": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
       ],
       "macro": true
     },
@@ -970,11 +968,11 @@
     },
     {
       "query": "Global markets",
-      "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWlKTW5EdEF0Z25VNzRSRVl1VDdkMnlPTENSRmZ4WVJ6eDJhYjdLYnlrZEJyQUVpNWVXQ2FpRE0zU0VOVmZheDZVYXl3Z1pKM1BEd3FlUlpVdXBZcVRLTGxoOURYUFM1Ui1LZV9xaUtjVldGdG1OenpaMWdrLWN5WUIwMHM5eVdCelo4VkRXWm1BWmlNX0VwamlNWFVuRlFzSk5lVXpIaURUQQ?oc=5",
-      "description": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data &nbsp;&nbsp; WSJ",
-      "published": "Fri, 04 Sep 2026 13:43:00 GMT",
-      "source": "WSJ",
+      "title": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHlxUnZsQzNBY3Z1WUpoV1FFbkU2XzlfLUprd1kxS0JZem1ZeG9wR2JnOVRnblV1U21ZSF9URS04Y3M0MmFzMkRxQ2c2MzVWTGJYWERJU2MyaUprbHNtUll5cFFmUl92YmFGUGFDVHBReTQwUE51ZDNOdDZQNVUzaFNlU05DT3FjZk1ZUWRWUnNSYU5rRFY2M1VzalJnakV0c0Yxc0Z3?oc=5",
+      "description": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report &nbsp;&nbsp; wsj.com",
+      "published": "Fri, 04 Sep 2026 18:23:00 GMT",
+      "source": "wsj.com",
       "stocks": [],
       "sectors": [
         "Global markets"
@@ -994,35 +992,45 @@
     },
     {
       "query": "Global markets",
-      "title": "Yields rise, stocks mostly ease after solid US jobs report - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekJZMVFFSGc5UWdmUmJNcjVFejNJcTJVZjZlRmZ2bVBjeEpheHhYTWhFV2Z1cjB4MGFPcjVHNkFxRjNCdzVWRjMwNTJON3pCZS1vb2J4RTdFdjR1dDJ5SGZaUG9sUHRqbEhWSVhzelBPWklYYkM2UXlmZ3Zvb0RnQlRobFJzZXNObVFwdVBtOTFUcDhqUHY2ZHZIOHlGTnc?oc=5",
-      "description": "Yields rise, stocks mostly ease after solid US jobs report &nbsp;&nbsp; Nikkei Asia",
-      "published": "Fri, 04 Sep 2026 15:56:00 GMT",
-      "source": "Nikkei Asia",
+      "title": "GLOBAL MARKETS-Yields, dollar rise, stocks ease after solid US jobs report - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUhsRVpMZmNzblBxR3NHTUplNXlERmVDMHdWampSNVNiUmJxTmdEeUlkMlFaYm5wbTROc2tPQklVa0VIRWI2VjRjLWYyQ2xKTHhXUDllVTBjOUJMNnB6Z0d2MFFoVkk2TERvTEtKeTZKOHZXWDJ2QW5ZcVcyWlA1dmQ0VkJRVGJCcWMtYXRNb20tNmdiLW1ZMUJlYTR3MWQ4djBab044YWhqWVhtc1U0SGt3OU9DT00wcWJEdEpxa0U1bXgyelpaOGtRemJkQzVG0gHQAUFVX3lxTE0tSGxFWkxmY3NuUHFHc0dNSmU1eURGZUMwd1ZqalI1U2JSYnFOZ0R5SWQyUVpibnBtNE5za09CSVVrRUhFYjZWNGMtZjJDbEpMeFdQOWVVMGM5Qkw2cHpnR3YwUWhWSTZMRG9MS0p5Nko4dldYMnZBbllxVzJaUDV2ZDRWQlFUYkJxYy1hdE1vbS02Z2ItbVkxQmVhNHcxZDh2MFpvTjhhaGpZWG1zVTRIa3c5T0NPTTBxYkR0SnFrRTVteDJ6Wlo4a1F6YmRDNUY?oc=5",
+      "description": "GLOBAL MARKETS-Yields, dollar rise, stocks ease after solid US jobs report &nbsp;&nbsp; Devdiscourse",
+      "published": "Fri, 04 Sep 2026 23:16:59 GMT",
+      "source": "Devdiscourse",
       "stocks": [],
       "sectors": [
-        "Global markets"
+        "Auto"
       ],
       "affected": [
-        "Global markets"
+        "Auto"
       ],
       "tone": "Mixed/Neutral",
       "impact": "High",
       "watch": [
-        "Global markets"
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
       ],
-      "derived_stocks": [],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
       "macro": true
     }
   ],
   "high_impact": [
     {
       "query": "India markets",
-      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - Goodreturns",
+      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - goodreturns.in",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT212X0ZjSkRPNU9XTTM0UGphZ2RxOE8tS0JKWjhjcHAtUXFvbmtqa0tSamlrY3pZQUV5SG9PWVNKdkkwMHZsOU1MZzRORWhjRmk3RWZ4YjRoUmhQUFQyNldnYzlJWUZldmF1b29QVUY0NEtXc1oxcHJHYXo4ZDg4OFVWNk13aWZlUWlZUlQtb3ZrMnhvRUdudXpyTWlzYkh0cFR2UGlYcVNCOFN3Q2lxV2dFZ18xQ2o0TW9pMHZRSTFDbzRGUTdreWRoWjBUUlVF?oc=5",
-      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War &nbsp;&nbsp; Goodreturns",
+      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War &nbsp;&nbsp; goodreturns.in",
       "published": "Sat, 05 Sep 2026 08:08:12 GMT",
-      "source": "Goodreturns",
+      "source": "goodreturns.in",
       "stocks": [],
       "sectors": [
         "India markets"
@@ -1071,38 +1079,6 @@
         "AXISBANK",
         "KOTAKBANK",
         "BAJFINANCE"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Crude geopolitics",
-      "title": "UK petrol prices hit highest level since Iran war began - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vN0tpNVdZWWNRUC1TdVFmZE1FNWpURGFiUlVQYU9ENW92U1k0U0tCMnVXcjdSd2xHRUV2bTFZMnVfM3pQWEFqNDdDalBIakJMOF80dXlVVTlRdw?oc=5",
-      "description": "UK petrol prices hit highest level since Iran war began &nbsp;&nbsp; BBC",
-      "published": "Fri, 04 Sep 2026 13:05:52 GMT",
-      "source": "BBC",
-      "stocks": [],
-      "sectors": [
-        "Auto"
-      ],
-      "affected": [
-        "Auto"
-      ],
-      "tone": "Negative",
-      "impact": "High",
-      "watch": [
-        "MARUTI",
-        "M&M",
-        "BAJAJ-AUTO",
-        "EICHERMOT",
-        "HEROMOTOCO"
-      ],
-      "derived_stocks": [
-        "MARUTI",
-        "M&M",
-        "BAJAJ-AUTO",
-        "EICHERMOT",
-        "HEROMOTOCO"
       ],
       "macro": true
     },
@@ -1193,6 +1169,40 @@
       "description": "Stocks fall after a surprisingly strong jobs report raises prospects of an interest rate hike &nbsp;&nbsp; djournal.com",
       "published": "Fri, 04 Sep 2026 19:32:39 GMT",
       "source": "djournal.com",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
+      "description": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates &nbsp;&nbsp; wsj.com",
+      "published": "Fri, 04 Sep 2026 15:10:35 GMT",
+      "source": "wsj.com",
       "stocks": [],
       "sectors": [
         "IT"
@@ -1498,6 +1508,40 @@
     },
     {
       "query": "RBI rates inflation",
+      "title": "Indian Economy RBI to Lock Rs7 Lakh Crore Liquidity for 30 Days Amid Record Cash Glut - Argus English",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUmdNZm1WVHg5VS1yQlo3ckpnWDNjVndDT1ZNdHdHa2FoVEVzamY4ZThrc01OTFprQVh2YWc3VGJUMk5XZTNNQlpucERveUsyYTJMTlU1X1NkanBOMnhONWVCSk9NUzZ5X21EVzBiR3lBN2QzYUF6T2JKZUZLU1plU2VjaGpETkdKRWQzQ1huMlBSd2RiVnowUFd1N3FJeDFQQnREaGNB?oc=5",
+      "description": "Indian Economy RBI to Lock Rs7 Lakh Crore Liquidity for 30 Days Amid Record Cash Glut &nbsp;&nbsp; Argus English",
+      "published": "Sat, 05 Sep 2026 05:25:23 GMT",
+      "source": "Argus English",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
       "title": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut - The Hans India",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd3p6akRNdkVWUDZIQXJmMFo5Sy1UeGxQNVpxaXQ3UjgtVWJyQzhSSlZfT0g0enBDU0tBNXY3WE1Hb0hfaG92MkJZYlFiLU9MckJPQjlOM21iSFdoTkppaEVKYlpDSjlqZkR2eGJRQkp1MGNRTWFoS1gwTFNSUkZDTEoxU0pDcjlwdFVXRDh0T2NVUnFTcVBXd1BFdFZrT3ByOTZFbk1RUVhiZ19BQzM0R1VFNWgzNWU0MmRIakxrX2VGM1RYUHNOWkx4NjR3VF9WUnRSSVdsTzNCdUV5M25JbjVYRTNSTVBjYUFBc3dWTQ?oc=5",
       "description": "RBI to lock Rs 7 lakh crore excess liquidity for 30 days as banking system faces record cash glut &nbsp;&nbsp; The Hans India",
@@ -1681,44 +1725,6 @@
         "WIPRO",
         "COFORGE",
         "PERSISTENT"
-      ],
-      "macro": true
-    },
-    {
-      "query": "Crude geopolitics",
-      "title": "Crude Oil Futures Separate From Reality as Asia Physical Market Buckles: Russell - EnergyNow.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOXNxLVRkQUVLQTd6Y3VNdUZRcGpEeEdPRWViNDJtSTdfM0hBYmpJdDhTWmtwWnFlUnR6X3o0TDR5SmZONEFISDJBNkNsa2VjUFE5bUtYc21HZHZ3bDlKM0U1ZkpfY1FTS2hWNGVpWnNiaUh5YlAzZVI2V0JEeV9BM3pSMU01WTBpUUVMRDJLUjVvLXc3QlJfSEMyazRXZ3JhakhaR0pmb3JPZVM4OVVZ?oc=5",
-      "description": "Crude Oil Futures Separate From Reality as Asia Physical Market Buckles: Russell &nbsp;&nbsp; EnergyNow.com",
-      "published": "Fri, 04 Sep 2026 15:54:51 GMT",
-      "source": "EnergyNow.com",
-      "stocks": [],
-      "sectors": [
-        "Energy"
-      ],
-      "affected": [
-        "Oil & Gas",
-        "Airlines",
-        "Paints",
-        "Chemicals",
-        "Tyres"
-      ],
-      "tone": "Mixed/Neutral",
-      "impact": "High",
-      "watch": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
-      ],
-      "derived_stocks": [
-        "RELIANCE",
-        "ONGC",
-        "BPCL",
-        "NTPC",
-        "POWERGRID",
-        "TATAPOWER"
       ],
       "macro": true
     },
@@ -1985,11 +1991,11 @@
     },
     {
       "query": "Global markets",
-      "title": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWlKTW5EdEF0Z25VNzRSRVl1VDdkMnlPTENSRmZ4WVJ6eDJhYjdLYnlrZEJyQUVpNWVXQ2FpRE0zU0VOVmZheDZVYXl3Z1pKM1BEd3FlUlpVdXBZcVRLTGxoOURYUFM1Ui1LZV9xaUtjVldGdG1OenpaMWdrLWN5WUIwMHM5eVdCelo4VkRXWm1BWmlNX0VwamlNWFVuRlFzSk5lVXpIaURUQQ?oc=5",
-      "description": "Treasury Yields, Fed Rate-Hike Bets Rise After Strong U.S. Jobs Data &nbsp;&nbsp; WSJ",
-      "published": "Fri, 04 Sep 2026 13:43:00 GMT",
-      "source": "WSJ",
+      "title": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report - wsj.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWHlxUnZsQzNBY3Z1WUpoV1FFbkU2XzlfLUprd1kxS0JZem1ZeG9wR2JnOVRnblV1U21ZSF9URS04Y3M0MmFzMkRxQ2c2MzVWTGJYWERJU2MyaUprbHNtUll5cFFmUl92YmFGUGFDVHBReTQwUE51ZDNOdDZQNVUzaFNlU05DT3FjZk1ZUWRWUnNSYU5rRFY2M1VzalJnakV0c0Yxc0Z3?oc=5",
+      "description": "U.S. Stocks Slip, Short-Term Treasury Yields Climb After Strong Jobs Report &nbsp;&nbsp; wsj.com",
+      "published": "Fri, 04 Sep 2026 18:23:00 GMT",
+      "source": "wsj.com",
       "stocks": [],
       "sectors": [
         "Global markets"
@@ -2009,39 +2015,49 @@
     },
     {
       "query": "Global markets",
-      "title": "Yields rise, stocks mostly ease after solid US jobs report - Nikkei Asia",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQekJZMVFFSGc5UWdmUmJNcjVFejNJcTJVZjZlRmZ2bVBjeEpheHhYTWhFV2Z1cjB4MGFPcjVHNkFxRjNCdzVWRjMwNTJON3pCZS1vb2J4RTdFdjR1dDJ5SGZaUG9sUHRqbEhWSVhzelBPWklYYkM2UXlmZ3Zvb0RnQlRobFJzZXNObVFwdVBtOTFUcDhqUHY2ZHZIOHlGTnc?oc=5",
-      "description": "Yields rise, stocks mostly ease after solid US jobs report &nbsp;&nbsp; Nikkei Asia",
-      "published": "Fri, 04 Sep 2026 15:56:00 GMT",
-      "source": "Nikkei Asia",
+      "title": "GLOBAL MARKETS-Yields, dollar rise, stocks ease after solid US jobs report - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUhsRVpMZmNzblBxR3NHTUplNXlERmVDMHdWampSNVNiUmJxTmdEeUlkMlFaYm5wbTROc2tPQklVa0VIRWI2VjRjLWYyQ2xKTHhXUDllVTBjOUJMNnB6Z0d2MFFoVkk2TERvTEtKeTZKOHZXWDJ2QW5ZcVcyWlA1dmQ0VkJRVGJCcWMtYXRNb20tNmdiLW1ZMUJlYTR3MWQ4djBab044YWhqWVhtc1U0SGt3OU9DT00wcWJEdEpxa0U1bXgyelpaOGtRemJkQzVG0gHQAUFVX3lxTE0tSGxFWkxmY3NuUHFHc0dNSmU1eURGZUMwd1ZqalI1U2JSYnFOZ0R5SWQyUVpibnBtNE5za09CSVVrRUhFYjZWNGMtZjJDbEpMeFdQOWVVMGM5Qkw2cHpnR3YwUWhWSTZMRG9MS0p5Nko4dldYMnZBbllxVzJaUDV2ZDRWQlFUYkJxYy1hdE1vbS02Z2ItbVkxQmVhNHcxZDh2MFpvTjhhaGpZWG1zVTRIa3c5T0NPTTBxYkR0SnFrRTVteDJ6Wlo4a1F6YmRDNUY?oc=5",
+      "description": "GLOBAL MARKETS-Yields, dollar rise, stocks ease after solid US jobs report &nbsp;&nbsp; Devdiscourse",
+      "published": "Fri, 04 Sep 2026 23:16:59 GMT",
+      "source": "Devdiscourse",
       "stocks": [],
       "sectors": [
-        "Global markets"
+        "Auto"
       ],
       "affected": [
-        "Global markets"
+        "Auto"
       ],
       "tone": "Mixed/Neutral",
       "impact": "High",
       "watch": [
-        "Global markets"
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
       ],
-      "derived_stocks": [],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
       "macro": true
     }
   ],
   "sectors": [
     [
       "Financials",
-      11
+      12
     ],
     [
       "IT",
-      10
+      11
     ],
     [
       "Energy",
-      10
+      9
     ],
     [
       "Auto",
@@ -2049,7 +2065,7 @@
     ],
     [
       "Global markets",
-      3
+      2
     ],
     [
       "India markets",

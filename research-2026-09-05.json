@@ -2,550 +2,14 @@
   "date": "2026-09-05",
   "source": "Yahoo Finance daily OHLCV",
   "nifty_rows": 1175,
-  "stock_count": 84,
+  "stock_count": 218,
   "stock_failures": [
-    {
-      "symbol": "ALKEM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "AMBER",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "AMBUJACEM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ANGELONE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "APLAPOLLO",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "APOLLOHOSP",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ASHOKLEY",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ASIANPAINT",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ASTRAL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "AUBANK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "AUROPHARMA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "AXISBANK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BAJAJFINSV",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BAJFINANCE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BAJAJHLDNG",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BANDHANBNK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BANKBARODA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BANKINDIA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BDL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BHARATFORG",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "BSE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "CANBK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "COLPAL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "CROMPTON",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "CUMMINSIND",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "CYIENT",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "DABUR",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "DELHIVERY",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "DIVISLAB",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "DLF",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "DMART",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "DRREDDY",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "EICHERMOT",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ETERNAL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "FEDERALBNK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "FORTIS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "GODFRYPHLP",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HAL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HAVELLS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HCLTECH",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HDFCBANK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HDFCLIFE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HEROMOTOCO",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HFCL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HINDALCO",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HINDPETRO",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HINDUNILVR",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HINDZINC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "HYUNDAI",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ICICIBANK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ICICIGI",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "IDEA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "IDFCFIRSTB",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "IEX",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "INDHOTEL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "INDIANB",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "INDIGO",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "INDUSINDBK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "INDUSTOWER",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "INOXWIND",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "IOC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "IRCTC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "IREDA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "IRFC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ITC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "JSWSTEEL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "KFINTECH",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "KOTAKBANK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "LAURUSLABS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "LICHSGFIN",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "LICI",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "LODHA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "LT",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "LTF",
-      "error": "Insufficient independent Yahoo daily history"
-    },
     {
       "symbol": "LTIM",
       "error": "Insufficient independent Yahoo daily history"
     },
     {
-      "symbol": "LTM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "LUPIN",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "M&M",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MAHABANK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MANAPPURAM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MANKIND",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MAXHEALTH",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MAZDOCK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MCX",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MOTHERSON",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MPHASIS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "MUTHOOTFIN",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NATIONALUM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NAM-INDIA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NAUKRI",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NCC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NESTLEIND",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NMDC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NTPC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "NYKAA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "OBEROIRLTY",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "OFSS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "OIL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ONGC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "PATANJALI",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "PETRONET",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "PFC",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "PGEL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "PNBHOUSING",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "POWERGRID",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "PREMIERENE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "PRESTIGE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "RADICO",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "RECLTD",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "RELIANCE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "RVNL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SAIL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SAGILITY",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SBICARD",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SBILIFE",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SBIN",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SHREECEM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SHRIRAMFIN",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SIEMENS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SONACOMS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SRF",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SUPREMEIND",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SUZLON",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "SWIGGY",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "TATACONSUM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "TATAPOWER",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "TCS",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
       "symbol": "TMCV",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "TORNTPHARM",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "TVSMOTOR",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "ULTRACEMCO",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "UNIONBANK",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "UNOMINDA",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "VBL",
-      "error": "Insufficient independent Yahoo daily history"
-    },
-    {
-      "symbol": "VOLTAS",
       "error": "Insufficient independent Yahoo daily history"
     }
   ],
@@ -584,6 +48,28 @@
     "gap": 0.15687373672668148
   },
   "top_stocks": [
+    {
+      "name": "DIVISLAB",
+      "symbol": "DIVISLAB",
+      "cap": "F&O",
+      "sector": "Other",
+      "score": 86,
+      "action": "STRONG SETUP",
+      "close": 9100.0,
+      "rsi": 67.36871665262566,
+      "ret20": 9.969788519637458,
+      "ret60": 37.089484784573656,
+      "rs60": 33.91138127795293,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.5830459877924848,
+      "atr_pct": 2.075353218210361,
+      "ema20": 8800.609717823423,
+      "ema50": 8145.7974308552175,
+      "ema200": 7036.968034506163,
+      "stop": 8800.609717823423,
+      "target": 9638.90250791784,
+      "rr": 1.8
+    },
     {
       "name": "PAYTM",
       "symbol": "PAYTM",
@@ -648,6 +134,94 @@
       "ema200": 337.42421804979875,
       "stop": 388.5005796216013,
       "target": 460.87897377096147,
+      "rr": 1.8
+    },
+    {
+      "name": "HFCL",
+      "symbol": "HFCL",
+      "cap": "F&O",
+      "sector": "Telecom",
+      "score": 85.7,
+      "action": "STRONG SETUP",
+      "close": 231.44000244140625,
+      "rsi": 56.53458864242564,
+      "ret20": 11.27993422242426,
+      "ret60": 34.66775376437769,
+      "rs60": 31.48965025775696,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.26205950674375245,
+      "atr_pct": 4.622304569148683,
+      "ema20": 228.7521041188382,
+      "ema50": 214.22110291650526,
+      "ema200": 152.40348039337934,
+      "stop": 215.39320972987582,
+      "target": 260.32422932216105,
+      "rr": 1.8
+    },
+    {
+      "name": "ETERNAL",
+      "symbol": "ETERNAL",
+      "cap": "F&O",
+      "sector": "Other",
+      "score": 85.1,
+      "action": "STRONG SETUP",
+      "close": 322.75,
+      "rsi": 57.825361233170106,
+      "ret20": 2.4603174603174516,
+      "ret60": 32.38309924527827,
+      "rs60": 29.204995738657534,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.47465698508491216,
+      "atr_pct": 2.298331252766405,
+      "ema20": 321.57348466206906,
+      "ema50": 305.5124331273221,
+      "ema200": 280.55734586555855,
+      "stop": 311.62320382254467,
+      "target": 342.7782331194196,
+      "rr": 1.8
+    },
+    {
+      "name": "OFSS",
+      "symbol": "OFSS",
+      "cap": "F&O",
+      "sector": "IT",
+      "score": 84.3,
+      "action": "STRONG SETUP",
+      "close": 12058.0,
+      "rsi": 56.166895919303066,
+      "ret20": 2.143159678102502,
+      "ret60": 29.273653176092207,
+      "rs60": 26.095549669471474,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.7689047966658638,
+      "atr_pct": 2.712484894438784,
+      "ema20": 11893.792347370625,
+      "ema50": 11401.760617018217,
+      "ema200": 9745.840189273922,
+      "stop": 11567.392857142857,
+      "target": 12941.092857142858,
+      "rr": 1.8
+    },
+    {
+      "name": "APLAPOLLO",
+      "symbol": "APLAPOLLO",
+      "cap": "F&O",
+      "sector": "Industrials",
+      "score": 84.2,
+      "action": "STRONG SETUP",
+      "close": 2250.0,
+      "rsi": 70.29104797120354,
+      "ret20": 14.213197969543145,
+      "ret60": 23.789614338802465,
+      "rs60": 20.611510832181732,
+      "trend": "Bullish alignment",
+      "vol_ratio": 1.3958847794314029,
+      "atr_pct": 2.540635075644841,
+      "ema20": 2133.34990966852,
+      "ema50": 2021.7252506920086,
+      "ema200": 1916.8919908377518,
+      "stop": 2133.34990966852,
+      "target": 2459.970162596664,
       "rr": 1.8
     },
     {
@@ -717,6 +291,28 @@
       "rr": 1.8
     },
     {
+      "name": "PNBHOUSING",
+      "symbol": "PNBHOUSING",
+      "cap": "F&O",
+      "sector": "Other",
+      "score": 82.6,
+      "action": "STRONG SETUP",
+      "close": 1166.0,
+      "rsi": 55.397708061319506,
+      "ret20": 2.012248468941391,
+      "ret60": 17.789672819755097,
+      "rs60": 14.611569313134364,
+      "trend": "Bullish alignment",
+      "vol_ratio": 1.1613655191353855,
+      "atr_pct": 2.46569617826896,
+      "ema20": 1150.8384185966058,
+      "ema50": 1115.826588201335,
+      "ema200": 1008.9127909095631,
+      "stop": 1122.8749738420759,
+      "target": 1243.6250470842635,
+      "rr": 1.8
+    },
+    {
       "name": "SOLARINDS",
       "symbol": "SOLARINDS",
       "cap": "F&O",
@@ -737,6 +333,50 @@
       "stop": 20095.67879922512,
       "target": 23873.778161394785,
       "rr": 1.8
+    },
+    {
+      "name": "HAL",
+      "symbol": "HAL",
+      "cap": "F&O",
+      "sector": "Other",
+      "score": 80.4,
+      "action": "STRONG SETUP",
+      "close": 4856.0,
+      "rsi": 31.437447649051748,
+      "ret20": -1.0997963340122152,
+      "ret60": 15.831410591637617,
+      "rs60": 12.653307085016884,
+      "trend": "Bullish alignment",
+      "vol_ratio": 1.5437081710652505,
+      "atr_pct": 1.9166274417510003,
+      "ema20": 4846.040454066652,
+      "ema50": 4724.232746765298,
+      "ema200": 4485.690738590901,
+      "stop": 4716.392857142857,
+      "target": 5107.292857142857,
+      "rr": 1.8
+    },
+    {
+      "name": "CYIENT",
+      "symbol": "CYIENT",
+      "cap": "F&O",
+      "sector": "Other",
+      "score": 79.2,
+      "action": "PULLBACK WATCH",
+      "close": 1101.800048828125,
+      "rsi": 77.8665135671186,
+      "ret20": 28.489801612609323,
+      "ret60": 25.496899995293496,
+      "rs60": 22.318796488672763,
+      "trend": "Bullish alignment",
+      "vol_ratio": 0.1868740309781447,
+      "atr_pct": 4.724736253209834,
+      "ema20": 1009.8349704611535,
+      "ema50": 938.969971080905,
+      "ema200": 981.5343636383432,
+      "stop": 1009.8349704611535,
+      "target": 1239.7476663785824,
+      "rr": 1.5
     },
     {
       "name": "POLICYBZR",
@@ -805,223 +445,47 @@
       "rr": 1.5
     },
     {
-      "name": "CDSL",
-      "symbol": "CDSL",
-      "cap": "F&O",
-      "sector": "Financials",
-      "score": 76.0,
-      "action": "WATCH",
-      "close": 1394.5999755859375,
-      "rsi": 57.670438922987216,
-      "ret20": 5.015058402555539,
-      "ret60": 13.576019859713085,
-      "rs60": 10.397916353092352,
-      "trend": "Bullish alignment",
-      "vol_ratio": 0.8762108249650894,
-      "atr_pct": 2.3324674588053327,
-      "ema20": 1378.550998525073,
-      "ema50": 1355.214963159583,
-      "ema200": 1354.9645926477378,
-      "stop": 1345.807089669364,
-      "target": 1467.789304460798,
-      "rr": 1.5
-    },
-    {
-      "name": "MOTILALOFS",
-      "symbol": "MOTILALOFS",
+      "name": "OIL",
+      "symbol": "OIL",
       "cap": "F&O",
       "sector": "Other",
-      "score": 75.9,
-      "action": "PULLBACK WATCH",
-      "close": 1037.0,
-      "rsi": 72.3799037164132,
-      "ret20": 19.195402298850574,
-      "ret60": 16.720128960767333,
-      "rs60": 13.5420254541466,
+      "score": 78.0,
+      "action": "WATCH",
+      "close": 488.29998779296875,
+      "rsi": 59.04572379663841,
+      "ret20": 10.275519705134585,
+      "ret60": 16.87410293437699,
+      "rs60": 13.695999427756256,
       "trend": "Bullish alignment",
-      "vol_ratio": 0.6453232458296969,
-      "atr_pct": 2.907081201461117,
-      "ema20": 986.9246509559732,
-      "ema50": 946.4975308667877,
-      "ema200": 878.5390432395739,
-      "stop": 986.9246509559732,
-      "target": 1112.1130235660403,
+      "vol_ratio": 0.43241606767383317,
+      "atr_pct": 2.472865371648506,
+      "ema20": 476.32631063162046,
+      "ema50": 464.018017355953,
+      "ema200": 454.4467400639982,
+      "stop": 470.18748583112443,
+      "target": 515.4687407357352,
       "rr": 1.5
     },
     {
-      "name": "ABCAPITAL",
-      "symbol": "ABCAPITAL",
+      "name": "DLF",
+      "symbol": "DLF",
       "cap": "F&O",
       "sector": "Other",
-      "score": 75.7,
+      "score": 77.6,
       "action": "WATCH",
-      "close": 404.8999938964844,
-      "rsi": 54.920622772034065,
-      "ret20": -0.7719627473883328,
-      "ret60": 13.068971515024309,
-      "rs60": 9.890868008403576,
+      "close": 681.9000244140625,
+      "rsi": 56.096208857605156,
+      "ret20": 6.2149570738415205,
+      "ret60": 16.157063042908003,
+      "rs60": 12.97895953628727,
       "trend": "Bullish alignment",
-      "vol_ratio": 0.7198336939555301,
-      "atr_pct": 2.231591608278545,
-      "ema20": 404.86130582609127,
-      "ema50": 398.68871435307665,
-      "ema200": 358.62043990365214,
-      "stop": 391.34642246791293,
-      "target": 425.23035103934154,
-      "rr": 1.5
-    },
-    {
-      "name": "GLENMARK",
-      "symbol": "GLENMARK",
-      "cap": "F&O",
-      "sector": "Other",
-      "score": 75.2,
-      "action": "WATCH",
-      "close": 2437.199951171875,
-      "rsi": 61.79162376379876,
-      "ret20": 6.936942071048557,
-      "ret60": 12.117025320969432,
-      "rs60": 8.9389218143487,
-      "trend": "Bullish alignment",
-      "vol_ratio": 0.7894644725876246,
-      "atr_pct": 2.6080856135607466,
-      "ema20": 2389.836436268239,
-      "ema50": 2319.8473631432557,
-      "ema200": 2166.299516471538,
-      "stop": 2341.8535592215403,
-      "target": 2580.219539097377,
-      "rr": 1.5
-    },
-    {
-      "name": "BHEL",
-      "symbol": "BHEL",
-      "cap": "F&O",
-      "sector": "Other",
-      "score": 74.2,
-      "action": "WATCH",
-      "close": 431.1000061035156,
-      "rsi": 47.214241767179495,
-      "ret20": 6.391903533125043,
-      "ret60": 13.821783789707087,
-      "rs60": 10.643680283086354,
-      "trend": "Bullish alignment",
-      "vol_ratio": 0.7420664229355355,
-      "atr_pct": 2.656824797582258,
-      "ema20": 423.3321420055816,
-      "ema50": 412.5265932523808,
-      "ema200": 351.00632236940726,
-      "stop": 413.91964830671037,
-      "target": 456.8705427987235,
-      "rr": 1.5
-    },
-    {
-      "name": "PHOENIXLTD",
-      "symbol": "PHOENIXLTD",
-      "cap": "F&O",
-      "sector": "Other",
-      "score": 74.2,
-      "action": "WATCH",
-      "close": 1942.0,
-      "rsi": 53.05609849772861,
-      "ret20": 2.453178580849391,
-      "ret60": 10.49158096128151,
-      "rs60": 7.313477454660777,
-      "trend": "Bullish alignment",
-      "vol_ratio": 0.6805009679765236,
-      "atr_pct": 1.9184947101547556,
-      "ema20": 1928.861223501848,
-      "ema50": 1928.7744926374176,
-      "ema200": 1816.7268761198961,
-      "stop": 1886.114249093192,
-      "target": 2025.828626360212,
-      "rr": 1.5
-    },
-    {
-      "name": "GRASIM",
-      "symbol": "GRASIM",
-      "cap": "F&O",
-      "sector": "Other",
-      "score": 72.1,
-      "action": "WATCH",
-      "close": 3322.0,
-      "rsi": 59.79720733559476,
-      "ret20": -0.030093289196508888,
-      "ret60": 6.971502173563038,
-      "rs60": 3.7933986669423048,
-      "trend": "Bullish alignment",
-      "vol_ratio": 0.6969651119269269,
-      "atr_pct": 1.9805186406102175,
-      "ema20": 3283.3779812148523,
-      "ema50": 3217.1841224903883,
-      "ema200": 2997.9952114109146,
-      "stop": 3223.3107561383927,
-      "target": 3470.0338657924112,
-      "rr": 1.5
-    },
-    {
-      "name": "PNB",
-      "symbol": "PNB",
-      "cap": "F&O",
-      "sector": "Other",
-      "score": 71.6,
-      "action": "WATCH",
-      "close": 117.0,
-      "rsi": 48.65546191549314,
-      "ret20": 1.907501513784604,
-      "ret60": 9.46856568735399,
-      "rs60": 6.2904621807332575,
-      "trend": "Bullish alignment",
-      "vol_ratio": 0.8162348573026769,
-      "atr_pct": 1.7466413523542432,
-      "ema20": 115.56756339250447,
-      "ema50": 113.19154983166857,
-      "ema200": 112.19198935548988,
-      "stop": 113.9346444266183,
-      "target": 121.59803336007255,
-      "rr": 1.5
-    },
-    {
-      "name": "DIXON",
-      "symbol": "DIXON",
-      "cap": "F&O",
-      "sector": "Electronics",
-      "score": 68.9,
-      "action": "WATCH",
-      "close": 14240.0,
-      "rsi": 53.66518922604841,
-      "ret20": 0.28169014084507005,
-      "ret60": 23.332755932790583,
-      "rs60": 20.15465242616985,
-      "trend": "Mixed",
-      "vol_ratio": 0.9902193534069776,
-      "atr_pct": 2.5892857142857144,
-      "ema20": 14426.478973002395,
-      "ema50": 13862.223168046728,
-      "ema200": 13004.584370762936,
-      "stop": 13686.92857142857,
-      "target": 15069.607142857145,
-      "rr": 1.5
-    },
-    {
-      "name": "JINDALSTEL",
-      "symbol": "JINDALSTEL",
-      "cap": "F&O",
-      "sector": "Other",
-      "score": 68.7,
-      "action": "WATCH",
-      "close": 1165.0,
-      "rsi": 63.237684088501275,
-      "ret20": 5.621033544877596,
-      "ret60": 1.4366565084893423,
-      "rs60": -1.7414469981313907,
-      "trend": "Bullish alignment",
-      "vol_ratio": 1.1352512474628387,
-      "atr_pct": 2.4813017620037554,
-      "ema20": 1141.10274754818,
-      "ema50": 1122.6154618082398,
-      "ema200": 1111.6351711662471,
-      "stop": 1121.6392517089844,
-      "target": 1230.0411224365234,
+      "vol_ratio": 0.668263863507686,
+      "atr_pct": 2.41552059791,
+      "ema20": 673.5321161981752,
+      "ema50": 658.3096464989587,
+      "ema200": 651.0055503874194,
+      "stop": 657.19287109375,
+      "target": 718.9607543945312,
       "rr": 1.5
     }
   ],
