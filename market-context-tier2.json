@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-05T16:28:33.269106+00:00",
+  "generated_at": "2026-09-06T16:26:53.258982+00:00",
   "macro": {
     "USD/INR": {
       "name": "USD/INR",
       "ticker": "USDINR=X",
       "value": 94.48999786376953,
       "change_pct": -0.005191497634837727,
-      "date": "2026-09-05",
+      "date": "2026-09-06",
       "freshness": "Latest available"
     },
     "Brent Crude": {
@@ -20,8 +20,8 @@
     "Gold": {
       "name": "Gold",
       "ticker": "GC=F",
-      "value": 4429.7998046875,
-      "change_pct": -1.378106016283076,
+      "value": 4476.60009765625,
+      "change_pct": -0.3361777723279058,
       "date": "2026-09-04",
       "freshness": "Latest available"
     },

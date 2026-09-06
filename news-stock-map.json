@@ -1,0 +1,1539 @@
+{
+  "generated": "2026-09-06T16:36:56.987090+00:00",
+  "news_date": "2026-09-06",
+  "data_status": "Latest available news feed; not live",
+  "universe_size": 220,
+  "mapped_stocks": 23,
+  "rows": {
+    "360ONE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ABB": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ABCAPITAL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ADANIENSOL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ADANIENT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ADANIGREEN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ADANIPORTS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ADANIPOWER": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ALKEM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "AMBER": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "AMBUJACEM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ANGELONE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "APLAPOLLO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "APOLLOHOSP": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ASHOKLEY": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ASIANPAINT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ASTRAL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "AUBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "AUROPHARMA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "AXISBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+        "Why too much money in the banking system is a problem for the RBI - indianexpress.com",
+        "RBI MPC meeting begins; inflation, growth outlook in focus - ddnews.gov.in",
+        "RBI to Lock Rs 7 Lakh Crore Excess Liquidity for 30 Days as Banking System Faces Record Cash Glut - The Financial World",
+        "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit - IndiaIPO",
+        "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+        "FCNR(B) windfall lifts NBFCs, small private banks: Why these stocks may be the bigger winners - Business Today"
+      ]
+    },
+    "BAJAJ-AUTO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ]
+    },
+    "BAJAJFINSV": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BAJFINANCE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+        "Why too much money in the banking system is a problem for the RBI - indianexpress.com",
+        "RBI MPC meeting begins; inflation, growth outlook in focus - ddnews.gov.in",
+        "RBI to Lock Rs 7 Lakh Crore Excess Liquidity for 30 Days as Banking System Faces Record Cash Glut - The Financial World",
+        "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit - IndiaIPO",
+        "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+        "FCNR(B) windfall lifts NBFCs, small private banks: Why these stocks may be the bigger winners - Business Today"
+      ]
+    },
+    "BAJAJHLDNG": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BANDHANBNK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BANKBARODA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BANKINDIA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BDL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BEL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BHARATFORG": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BHARTIARTL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BHEL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BIOCON": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BLUESTARCO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BOSCHLTD": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BPCL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Price Today \u2013 Brent Crude Nears $100 as US-Iran Tensions Escalate; Check Impact on India, Petrol, Diesel and Inflation - The Sunday Guardian",
+        "Brent Crude $100 Countdown Begins as US Iran War Escalates After Fresh Attacks; Supply Disruption Fears Grow - dnpindia.in",
+        "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+        "Crude prices, Fed bets and more: What\u2019s in store for markets this week - The Times of India",
+        "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - Telangana Today",
+        "Oil prices surge to highest since 2022 at over $119 a barrel on Middle East war - ddnews.gov.in",
+        "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100 - Times Now",
+        "Oil prices surge after US Iran clashes Brent $96.28 - NewsBytes"
+      ]
+    },
+    "BRITANNIA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "BSE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CAMS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CANBK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CDSL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CGPOWER": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CHOLAFIN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CIPLA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "COALINDIA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "COCHINSHIP": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "COFORGE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Tanker Attacks Raise $100 Crude Risk as Strait of Hormuz Crisis Deepens as Middle East Tensions Escalate - The Sunday Guardian",
+        "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+        "How Asian markets, crude will impact Sensex, Nifty tomorrow: What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+        "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+        "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
+        "Nifty closes at 24,055, Sensex slips marginally amid global uncertainties keeping investors cautious - DD India"
+      ]
+    },
+    "COLPAL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CONCOR": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CROMPTON": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CUMMINSIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "CYIENT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "DABUR": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "DELHIVERY": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "DIVISLAB": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "DIXON": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "DLF": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "DMART": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "DRREDDY": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "EICHERMOT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ]
+    },
+    "ETERNAL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "FEDERALBNK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "FORTIS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GAIL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GLENMARK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GMRAIRPORT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GODFRYPHLP": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GODREJCP": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GODREJPROP": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GRASIM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "GVT&D": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HAL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HAVELLS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HCLTECH": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Tanker Attacks Raise $100 Crude Risk as Strait of Hormuz Crisis Deepens as Middle East Tensions Escalate - The Sunday Guardian",
+        "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+        "How Asian markets, crude will impact Sensex, Nifty tomorrow: What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+        "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+        "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
+        "Nifty closes at 24,055, Sensex slips marginally amid global uncertainties keeping investors cautious - DD India"
+      ]
+    },
+    "HDFCAMC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HDFCBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+        "Why too much money in the banking system is a problem for the RBI - indianexpress.com",
+        "RBI MPC meeting begins; inflation, growth outlook in focus - ddnews.gov.in",
+        "RBI to Lock Rs 7 Lakh Crore Excess Liquidity for 30 Days as Banking System Faces Record Cash Glut - The Financial World",
+        "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit - IndiaIPO",
+        "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+        "FCNR(B) windfall lifts NBFCs, small private banks: Why these stocks may be the bigger winners - Business Today"
+      ]
+    },
+    "HDFCLIFE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HEROMOTOCO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ]
+    },
+    "HFCL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HINDALCO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HINDPETRO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HINDUNILVR": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HINDZINC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "HYUNDAI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ICICIBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+        "Why too much money in the banking system is a problem for the RBI - indianexpress.com",
+        "RBI MPC meeting begins; inflation, growth outlook in focus - ddnews.gov.in",
+        "RBI to Lock Rs 7 Lakh Crore Excess Liquidity for 30 Days as Banking System Faces Record Cash Glut - The Financial World",
+        "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit - IndiaIPO",
+        "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+        "FCNR(B) windfall lifts NBFCs, small private banks: Why these stocks may be the bigger winners - Business Today"
+      ]
+    },
+    "ICICIGI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ICICIPRULI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IDEA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IDFCFIRSTB": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IEX": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IGL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "INDHOTEL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "INDIANB": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "INDIGO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "INDUSINDBK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "INDUSTOWER": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "INFY": {
+      "direct": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "results": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "catalysts": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Tanker Attacks Raise $100 Crude Risk as Strait of Hormuz Crisis Deepens as Middle East Tensions Escalate - The Sunday Guardian",
+        "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+        "How Asian markets, crude will impact Sensex, Nifty tomorrow: What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+        "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+        "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
+        "Nifty closes at 24,055, Sensex slips marginally amid global uncertainties keeping investors cautious - DD India"
+      ]
+    },
+    "INOXWIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IOC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IRCTC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IREDA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "IRFC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ITC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "JINDALSTEL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "JIOFIN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "JSWENERGY": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "JSWSTEEL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "JUBLFOOD": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "KALYANKJIL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "KAYNES": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "KEI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "KFINTECH": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "KOTAKBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+        "Why too much money in the banking system is a problem for the RBI - indianexpress.com",
+        "RBI MPC meeting begins; inflation, growth outlook in focus - ddnews.gov.in",
+        "RBI to Lock Rs 7 Lakh Crore Excess Liquidity for 30 Days as Banking System Faces Record Cash Glut - The Financial World",
+        "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit - IndiaIPO",
+        "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+        "FCNR(B) windfall lifts NBFCs, small private banks: Why these stocks may be the bigger winners - Business Today"
+      ]
+    },
+    "KPITTECH": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LAURUSLABS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LICHSGFIN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LICI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LODHA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LTF": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LTIM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LTM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "LUPIN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "M&M": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ]
+    },
+    "MAHABANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MANAPPURAM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MANKIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MARICO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MARUTI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ]
+    },
+    "MAXHEALTH": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MAZDOCK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MCX": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MFSL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MOTHERSON": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MOTILALOFS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MPHASIS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "MUTHOOTFIN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NATIONALUM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NAM-INDIA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NAUKRI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NBCC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NCC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NESTLEIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NHPC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NMDC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "NTPC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Price Today \u2013 Brent Crude Nears $100 as US-Iran Tensions Escalate; Check Impact on India, Petrol, Diesel and Inflation - The Sunday Guardian",
+        "Brent Crude $100 Countdown Begins as US Iran War Escalates After Fresh Attacks; Supply Disruption Fears Grow - dnpindia.in",
+        "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+        "Crude prices, Fed bets and more: What\u2019s in store for markets this week - The Times of India",
+        "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - Telangana Today",
+        "Oil prices surge to highest since 2022 at over $119 a barrel on Middle East war - ddnews.gov.in",
+        "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100 - Times Now",
+        "Oil prices surge after US Iran clashes Brent $96.28 - NewsBytes"
+      ]
+    },
+    "NYKAA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "OBEROIRLTY": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "OFSS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "OIL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ONGC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Price Today \u2013 Brent Crude Nears $100 as US-Iran Tensions Escalate; Check Impact on India, Petrol, Diesel and Inflation - The Sunday Guardian",
+        "Brent Crude $100 Countdown Begins as US Iran War Escalates After Fresh Attacks; Supply Disruption Fears Grow - dnpindia.in",
+        "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+        "Crude prices, Fed bets and more: What\u2019s in store for markets this week - The Times of India",
+        "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - Telangana Today",
+        "Oil prices surge to highest since 2022 at over $119 a barrel on Middle East war - ddnews.gov.in",
+        "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100 - Times Now",
+        "Oil prices surge after US Iran clashes Brent $96.28 - NewsBytes"
+      ]
+    },
+    "PAGEIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PATANJALI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PAYTM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PERSISTENT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Tanker Attacks Raise $100 Crude Risk as Strait of Hormuz Crisis Deepens as Middle East Tensions Escalate - The Sunday Guardian",
+        "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+        "How Asian markets, crude will impact Sensex, Nifty tomorrow: What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+        "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+        "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
+        "Nifty closes at 24,055, Sensex slips marginally amid global uncertainties keeping investors cautious - DD India"
+      ]
+    },
+    "PETRONET": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PFC": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PGEL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PHOENIXLTD": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PIDILITIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PIIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PNB": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PNBHOUSING": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "POLICYBZR": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "POLYCAB": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "POWERGRID": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Price Today \u2013 Brent Crude Nears $100 as US-Iran Tensions Escalate; Check Impact on India, Petrol, Diesel and Inflation - The Sunday Guardian",
+        "Brent Crude $100 Countdown Begins as US Iran War Escalates After Fresh Attacks; Supply Disruption Fears Grow - dnpindia.in",
+        "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+        "Crude prices, Fed bets and more: What\u2019s in store for markets this week - The Times of India",
+        "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - Telangana Today",
+        "Oil prices surge to highest since 2022 at over $119 a barrel on Middle East war - ddnews.gov.in",
+        "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100 - Times Now",
+        "Oil prices surge after US Iran clashes Brent $96.28 - NewsBytes"
+      ]
+    },
+    "POWERINDIA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PREMIERENE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "PRESTIGE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "RADICO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "RBLBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "RECLTD": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "RELIANCE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Price Today \u2013 Brent Crude Nears $100 as US-Iran Tensions Escalate; Check Impact on India, Petrol, Diesel and Inflation - The Sunday Guardian",
+        "Brent Crude $100 Countdown Begins as US Iran War Escalates After Fresh Attacks; Supply Disruption Fears Grow - dnpindia.in",
+        "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+        "Crude prices, Fed bets and more: What\u2019s in store for markets this week - The Times of India",
+        "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - Telangana Today",
+        "Oil prices surge to highest since 2022 at over $119 a barrel on Middle East war - ddnews.gov.in",
+        "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100 - Times Now",
+        "Oil prices surge after US Iran clashes Brent $96.28 - NewsBytes"
+      ]
+    },
+    "RVNL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SAIL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SAMMAANCAP": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SAGILITY": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SBICARD": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SBILIFE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SBIN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+        "Why too much money in the banking system is a problem for the RBI - indianexpress.com",
+        "RBI MPC meeting begins; inflation, growth outlook in focus - ddnews.gov.in",
+        "RBI to Lock Rs 7 Lakh Crore Excess Liquidity for 30 Days as Banking System Faces Record Cash Glut - The Financial World",
+        "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit - IndiaIPO",
+        "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+        "FCNR(B) windfall lifts NBFCs, small private banks: Why these stocks may be the bigger winners - Business Today"
+      ]
+    },
+    "SHREECEM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SHRIRAMFIN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SIEMENS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SOLARINDS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SONACOMS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SRF": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SUNPHARMA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SUPREMEIND": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SUZLON": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SWIGGY": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "SYNGENE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TATACONSUM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TATAELXSI": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TATAPOWER": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Price Today \u2013 Brent Crude Nears $100 as US-Iran Tensions Escalate; Check Impact on India, Petrol, Diesel and Inflation - The Sunday Guardian",
+        "Brent Crude $100 Countdown Begins as US Iran War Escalates After Fresh Attacks; Supply Disruption Fears Grow - dnpindia.in",
+        "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+        "Crude prices, Fed bets and more: What\u2019s in store for markets this week - The Times of India",
+        "Indian stock market outlook: Crude oil, bond yields, US jobs data to drive volatility next week - Telangana Today",
+        "Oil prices surge to highest since 2022 at over $119 a barrel on Middle East war - ddnews.gov.in",
+        "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100 - Times Now",
+        "Oil prices surge after US Iran clashes Brent $96.28 - NewsBytes"
+      ]
+    },
+    "TATASTEEL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TCS": {
+      "direct": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "results": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "catalysts": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Tanker Attacks Raise $100 Crude Risk as Strait of Hormuz Crisis Deepens as Middle East Tensions Escalate - The Sunday Guardian",
+        "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+        "How Asian markets, crude will impact Sensex, Nifty tomorrow: What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+        "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+        "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
+        "Nifty closes at 24,055, Sensex slips marginally amid global uncertainties keeping investors cautious - DD India"
+      ]
+    },
+    "TECHM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TIINDIA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TITAGARH": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TITAN": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TMPV": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TMCV": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TORNTPHARM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TRENT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "TVSMOTOR": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ULTRACEMCO": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "UNIONBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "UNITDSPR": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "UNOMINDA": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "UPL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "VBL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "VEDL": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "VMM": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "VOLTAS": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "WAAREEENER": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "WIPRO": {
+      "direct": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "results": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "catalysts": [
+        "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards - Goodreturns"
+      ],
+      "sector_derived": [
+        "US-Israel-Iran War Latest Live News: Oil Tanker Attacks Raise $100 Crude Risk as Strait of Hormuz Crisis Deepens as Middle East Tensions Escalate - The Sunday Guardian",
+        "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+        "How Asian markets, crude will impact Sensex, Nifty tomorrow: What GIFT Nifty, Nikkei, Kospi, Taiwan signal for India - Livemint",
+        "DJIA, Nasdaq and SP 500: US Markets Rally as Nvidia and Software Stocks Ignite Economic Rebound - BBN Times",
+        "Consumer Tech (Aug 31-Sep 4): NVIDIA Buys World's Largest Open AI Developer, Trump Claims Total Control On Hormuz & More - TradingView",
+        "Nifty closes at 24,055, Sensex slips marginally amid global uncertainties keeping investors cautious - DD India"
+      ]
+    },
+    "YESBANK": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ZYDUSLIFE": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "ATHERENERG": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    },
+    "FORCEMOT": {
+      "direct": [],
+      "results": [],
+      "catalysts": [],
+      "sector_derived": []
+    }
+  },
+  "rules": {
+    "results_keywords": [
+      "results",
+      "earnings",
+      "quarter",
+      "revenue",
+      "profit",
+      "ebitda",
+      "margin",
+      "guidance",
+      "earnings call",
+      "q1",
+      "q2",
+      "q3",
+      "q4"
+    ],
+    "catalyst_keywords": [
+      "order",
+      "contract",
+      "approval",
+      "acquisition",
+      "merger",
+      "capex",
+      "stake",
+      "promoter",
+      "buyback",
+      "dividend",
+      "fund raise",
+      "rating",
+      "upgrade",
+      "downgrade",
+      "regulatory",
+      "usfda",
+      "launch",
+      "deal"
+    ],
+    "direct_company_mapping": "dynamic F&O symbol/company-name matching plus existing news_feed stock mapping"
+  }
+}

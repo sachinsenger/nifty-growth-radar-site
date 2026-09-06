@@ -1,0 +1,16 @@
+{
+  "generated": "2026-09-06 16:37 UTC",
+  "swing": [],
+  "options": [
+    {
+      "symbol": "NIFTY",
+      "status": "Unavailable",
+      "reason": "429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v7/finance/options/%5ENSEI"
+    },
+    {
+      "symbol": "BANKNIFTY",
+      "status": "Unavailable",
+      "reason": "429 Client Error: Too Many Requests for url: https://query2.finance.yahoo.com/v7/finance/options/%5ENSEBANK"
+    }
+  ]
+}

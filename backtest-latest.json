@@ -55,82 +55,82 @@
       "symbol": "ICICIBANK"
     },
     {
-      "n": 4,
+      "n": 3,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 50.0,
-        "avg_return": 0.51,
-        "median_return": 0.26,
+        "win_rate": 66.7,
+        "avg_return": 1.13,
+        "median_return": 1.89,
         "best": 3.38,
         "worst": -1.87
       },
       "10d": {
-        "win_rate": 75.0,
-        "avg_return": 1.11,
-        "median_return": 2.36,
+        "win_rate": 100.0,
+        "avg_return": 2.6,
+        "median_return": 3.01,
         "best": 3.08,
-        "worst": -3.35
+        "worst": 1.7
       },
       "20d": {
-        "win_rate": 75.0,
-        "avg_return": 2.96,
-        "median_return": 3.64,
+        "win_rate": 66.7,
+        "avg_return": 3.1,
+        "median_return": 4.76,
         "best": 4.98,
         "worst": -0.44
       },
       "40d": {
-        "win_rate": 75.0,
-        "avg_return": 3.15,
-        "median_return": 2.66,
-        "best": 7.63,
+        "win_rate": 66.7,
+        "avg_return": 1.66,
+        "median_return": 2.46,
+        "best": 2.87,
         "worst": -0.36
       },
       "60d": {
-        "win_rate": 50.0,
-        "avg_return": -0.51,
-        "median_return": -0.34,
-        "best": 5.47,
+        "win_rate": 33.3,
+        "avg_return": -2.51,
+        "median_return": -1.41,
+        "best": 0.74,
         "worst": -6.84
       },
       "name": "Bharti Airtel",
       "symbol": "BHARTIARTL"
     },
     {
-      "n": 2,
+      "n": 1,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 50.0,
-        "avg_return": -0.32,
-        "median_return": -0.32,
-        "best": 0.51,
+        "win_rate": 0.0,
+        "avg_return": -1.16,
+        "median_return": -1.16,
+        "best": -1.16,
         "worst": -1.16
       },
       "10d": {
         "win_rate": 100.0,
-        "avg_return": 1.3,
-        "median_return": 1.3,
+        "avg_return": 1.6,
+        "median_return": 1.6,
         "best": 1.6,
-        "worst": 0.99
+        "worst": 1.6
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 1.25,
-        "median_return": 1.25,
-        "best": 1.83,
+        "avg_return": 0.67,
+        "median_return": 0.67,
+        "best": 0.67,
         "worst": 0.67
       },
       "40d": {
-        "win_rate": 50.0,
-        "avg_return": 0.23,
-        "median_return": 0.23,
-        "best": 2.3,
+        "win_rate": 0.0,
+        "avg_return": -1.85,
+        "median_return": -1.85,
+        "best": -1.85,
         "worst": -1.85
       },
       "60d": {
         "win_rate": 0.0,
-        "avg_return": -12.57,
-        "median_return": -12.57,
-        "best": -6.07,
+        "avg_return": -19.07,
+        "median_return": -19.07,
+        "best": -19.07,
         "worst": -19.07
       },
       "name": "TCS",
@@ -189,28 +189,28 @@
       },
       "10d": {
         "win_rate": 94.1,
-        "avg_return": 2.68,
+        "avg_return": 2.66,
         "median_return": 2.25,
         "best": 10.95,
         "worst": -2.31
       },
       "20d": {
         "win_rate": 76.5,
-        "avg_return": 3.23,
+        "avg_return": 3.14,
         "median_return": 2.74,
         "best": 15.02,
         "worst": -12.19
       },
       "40d": {
         "win_rate": 76.5,
-        "avg_return": 2.55,
+        "avg_return": 2.52,
         "median_return": 3.68,
         "best": 10.47,
         "worst": -10.5
       },
       "60d": {
         "win_rate": 82.4,
-        "avg_return": 4.85,
+        "avg_return": 4.83,
         "median_return": 9.73,
         "best": 14.79,
         "worst": -19.22
@@ -237,41 +237,41 @@
       "symbol": "HINDUNILVR"
     },
     {
-      "n": 4,
+      "n": 3,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 75.0,
-        "avg_return": 0.77,
-        "median_return": 0.98,
+        "win_rate": 66.7,
+        "avg_return": 0.96,
+        "median_return": 1.76,
         "best": 2.35,
         "worst": -1.22
       },
       "10d": {
-        "win_rate": 50.0,
-        "avg_return": 0.96,
-        "median_return": 0.3,
+        "win_rate": 33.3,
+        "avg_return": 0.92,
+        "median_return": -0.46,
         "best": 4.15,
         "worst": -0.92
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 3.56,
-        "median_return": 3.65,
-        "best": 4.7,
+        "avg_return": 3.18,
+        "median_return": 2.71,
+        "best": 4.59,
         "worst": 2.25
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 5.0,
-        "median_return": 5.18,
-        "best": 7.61,
+        "avg_return": 4.13,
+        "median_return": 3.95,
+        "best": 6.41,
         "worst": 2.03
       },
       "60d": {
-        "win_rate": 50.0,
-        "avg_return": 1.41,
-        "median_return": 1.1,
-        "best": 9.19,
+        "win_rate": 33.3,
+        "avg_return": -1.18,
+        "median_return": -2.76,
+        "best": 4.97,
         "worst": -5.76
       },
       "name": "Larsen & Toubro",
@@ -282,16 +282,16 @@
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 25.0,
-        "avg_return": -1.03,
+        "avg_return": -1.17,
         "median_return": -1.76,
-        "best": 2.7,
+        "best": 1.59,
         "worst": -3.3
       },
       "10d": {
         "win_rate": 62.5,
-        "avg_return": 0.79,
+        "avg_return": 0.65,
         "median_return": 1.23,
-        "best": 4.05,
+        "best": 3.97,
         "worst": -2.86
       },
       "20d": {
@@ -647,40 +647,40 @@
       "symbol": "TITAN"
     },
     {
-      "n": 8,
+      "n": 6,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 75.0,
-        "avg_return": 1.92,
-        "median_return": 4.75,
+        "win_rate": 66.7,
+        "avg_return": 0.89,
+        "median_return": 4.38,
         "best": 8.95,
         "worst": -13.61
       },
       "10d": {
-        "win_rate": 75.0,
-        "avg_return": 1.38,
-        "median_return": 3.35,
+        "win_rate": 66.7,
+        "avg_return": 0.05,
+        "median_return": 1.87,
         "best": 9.46,
         "worst": -13.33
       },
       "20d": {
-        "win_rate": 62.5,
-        "avg_return": 4.88,
-        "median_return": 2.61,
+        "win_rate": 66.7,
+        "avg_return": 6.81,
+        "median_return": 6.14,
         "best": 23.51,
         "worst": -10.61
       },
       "40d": {
-        "win_rate": 50.0,
-        "avg_return": 3.78,
-        "median_return": 0.25,
+        "win_rate": 66.7,
+        "avg_return": 5.56,
+        "median_return": 2.37,
         "best": 23.81,
         "worst": -12.07
       },
       "60d": {
-        "win_rate": 75.0,
-        "avg_return": 7.16,
-        "median_return": 10.8,
+        "win_rate": 66.7,
+        "avg_return": 7.68,
+        "median_return": 15.61,
         "best": 22.51,
         "worst": -16.42
       },
@@ -688,42 +688,42 @@
       "symbol": "BSE"
     },
     {
-      "n": 2,
+      "n": 1,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -1.73,
-        "median_return": -1.73,
-        "best": -1.51,
+        "avg_return": -1.96,
+        "median_return": -1.96,
+        "best": -1.96,
         "worst": -1.96
       },
       "10d": {
         "win_rate": 0.0,
-        "avg_return": -6.12,
-        "median_return": -6.12,
-        "best": -2.19,
+        "avg_return": -10.04,
+        "median_return": -10.04,
+        "best": -10.04,
         "worst": -10.04
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 3.53,
-        "median_return": 3.53,
+        "avg_return": 6.55,
+        "median_return": 6.55,
         "best": 6.55,
-        "worst": 0.51
+        "worst": 6.55
       },
       "40d": {
-        "win_rate": 50.0,
-        "avg_return": -4.16,
-        "median_return": -4.16,
+        "win_rate": 100.0,
+        "avg_return": 3.42,
+        "median_return": 3.42,
         "best": 3.42,
-        "worst": -11.74
+        "worst": 3.42
       },
       "60d": {
-        "win_rate": 50.0,
-        "avg_return": 0.23,
-        "median_return": 0.23,
+        "win_rate": 100.0,
+        "avg_return": 13.83,
+        "median_return": 13.83,
         "best": 13.83,
-        "worst": -13.37
+        "worst": 13.83
       },
       "name": "Oracle Financial Services Software",
       "symbol": "OFSS"
@@ -774,7 +774,7 @@
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 62.5,
-        "avg_return": 0.31,
+        "avg_return": 0.39,
         "median_return": 1.28,
         "best": 5.61,
         "worst": -4.44
@@ -858,40 +858,40 @@
       "symbol": "CUMMINSIND"
     },
     {
-      "n": 5,
+      "n": 4,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 80.0,
-        "avg_return": 1.04,
-        "median_return": 0.33,
+        "win_rate": 75.0,
+        "avg_return": 1.29,
+        "median_return": 1.66,
         "best": 3.09,
         "worst": -1.26
       },
       "10d": {
-        "win_rate": 80.0,
-        "avg_return": 1.65,
-        "median_return": 0.68,
-        "best": 7.1,
+        "win_rate": 75.0,
+        "avg_return": 0.29,
+        "median_return": 0.41,
+        "best": 3.92,
         "worst": -3.58
       },
       "20d": {
-        "win_rate": 80.0,
-        "avg_return": 2.42,
-        "median_return": 0.78,
+        "win_rate": 75.0,
+        "avg_return": 2.98,
+        "median_return": 1.88,
         "best": 9.17,
         "worst": -1.01
       },
       "40d": {
-        "win_rate": 60.0,
-        "avg_return": 3.64,
-        "median_return": 1.21,
+        "win_rate": 50.0,
+        "avg_return": 4.24,
+        "median_return": 1.52,
         "best": 21.12,
         "worst": -7.18
       },
       "60d": {
-        "win_rate": 20.0,
-        "avg_return": -3.48,
-        "median_return": -7.25,
+        "win_rate": 25.0,
+        "avg_return": -2.31,
+        "median_return": -5.55,
         "best": 15.87,
         "worst": -13.99
       },
@@ -899,41 +899,41 @@
       "symbol": "CGPOWER"
     },
     {
-      "n": 2,
+      "n": 1,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -4.15,
-        "median_return": -4.15,
-        "best": -1.96,
+        "avg_return": -6.35,
+        "median_return": -6.35,
+        "best": -6.35,
         "worst": -6.35
       },
       "10d": {
         "win_rate": 0.0,
-        "avg_return": -3.75,
-        "median_return": -3.75,
-        "best": -1.83,
+        "avg_return": -5.67,
+        "median_return": -5.67,
+        "best": -5.67,
         "worst": -5.67
       },
       "20d": {
-        "win_rate": 50.0,
-        "avg_return": -8.0,
-        "median_return": -8.0,
-        "best": 0.06,
+        "win_rate": 0.0,
+        "avg_return": -16.07,
+        "median_return": -16.07,
+        "best": -16.07,
         "worst": -16.07
       },
       "40d": {
         "win_rate": 0.0,
-        "avg_return": -8.95,
-        "median_return": -8.95,
-        "best": -2.75,
+        "avg_return": -15.16,
+        "median_return": -15.16,
+        "best": -15.16,
         "worst": -15.16
       },
       "60d": {
         "win_rate": 0.0,
-        "avg_return": -24.34,
-        "median_return": -24.34,
-        "best": -7.81,
+        "avg_return": -40.87,
+        "median_return": -40.87,
+        "best": -40.87,
         "worst": -40.87
       },
       "name": "Coforge",
@@ -1104,43 +1104,8 @@
       "symbol": "POLICYBZR"
     },
     {
-      "n": 1,
-      "note": "Price-only; no point-in-time fundamentals",
-      "5d": {
-        "win_rate": 100.0,
-        "avg_return": 2.06,
-        "median_return": 2.06,
-        "best": 2.06,
-        "worst": 2.06
-      },
-      "10d": {
-        "win_rate": 0.0,
-        "avg_return": -3.32,
-        "median_return": -3.32,
-        "best": -3.32,
-        "worst": -3.32
-      },
-      "20d": {
-        "win_rate": 0.0,
-        "avg_return": -3.27,
-        "median_return": -3.27,
-        "best": -3.27,
-        "worst": -3.27
-      },
-      "40d": {
-        "win_rate": 0.0,
-        "avg_return": -5.71,
-        "median_return": -5.71,
-        "best": -5.71,
-        "worst": -5.71
-      },
-      "60d": {
-        "win_rate": 0.0,
-        "avg_return": -16.6,
-        "median_return": -16.6,
-        "best": -16.6,
-        "worst": -16.6
-      },
+      "n": 0,
+      "note": "No qualifying signals",
       "name": "Mazagon Dock Shipbuilders",
       "symbol": "MAZDOCK"
     },
@@ -1362,122 +1327,122 @@
       "symbol": "BHARATFORG"
     },
     {
-      "n": 2,
+      "n": 1,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -4.48,
-        "median_return": -4.48,
-        "best": -3.37,
+        "avg_return": -5.59,
+        "median_return": -5.59,
+        "best": -5.59,
         "worst": -5.59
       },
       "10d": {
         "win_rate": 0.0,
-        "avg_return": -9.34,
-        "median_return": -9.34,
-        "best": -8.07,
+        "avg_return": -10.62,
+        "median_return": -10.62,
+        "best": -10.62,
         "worst": -10.62
       },
       "20d": {
         "win_rate": 0.0,
-        "avg_return": -7.65,
-        "median_return": -7.65,
-        "best": -7.32,
+        "avg_return": -7.97,
+        "median_return": -7.97,
+        "best": -7.97,
         "worst": -7.97
       },
       "40d": {
         "win_rate": 0.0,
-        "avg_return": -15.32,
-        "median_return": -15.32,
-        "best": -13.39,
+        "avg_return": -17.24,
+        "median_return": -17.24,
+        "best": -17.24,
         "worst": -17.24
       },
       "60d": {
         "win_rate": 0.0,
-        "avg_return": -13.33,
-        "median_return": -13.33,
-        "best": -12.56,
+        "avg_return": -14.09,
+        "median_return": -14.09,
+        "best": -14.09,
         "worst": -14.09
       },
       "name": "Zensar Technologies",
       "symbol": "ZENSARTECH"
     },
     {
-      "n": 9,
+      "n": 8,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 100.0,
-        "avg_return": 11.38,
-        "median_return": 10.55,
+        "avg_return": 11.49,
+        "median_return": 11.13,
         "best": 21.65,
         "worst": 3.66
       },
       "10d": {
-        "win_rate": 77.8,
-        "avg_return": 16.77,
-        "median_return": 24.7,
+        "win_rate": 75.0,
+        "avg_return": 15.57,
+        "median_return": 17.76,
         "best": 31.99,
         "worst": -3.07
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 54.61,
-        "median_return": 54.86,
+        "avg_return": 52.05,
+        "median_return": 52.78,
         "best": 78.44,
         "worst": 28.03
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 77.99,
-        "median_return": 83.44,
-        "best": 100.37,
+        "avg_return": 75.19,
+        "median_return": 75.86,
+        "best": 97.91,
         "worst": 51.62
       },
       "60d": {
         "win_rate": 100.0,
-        "avg_return": 89.79,
-        "median_return": 62.36,
-        "best": 154.36,
+        "avg_return": 81.72,
+        "median_return": 57.97,
+        "best": 152.62,
         "worst": 37.08
       },
       "name": "HFCL",
       "symbol": "HFCL"
     },
     {
-      "n": 5,
+      "n": 3,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 60.0,
-        "avg_return": 5.23,
-        "median_return": 1.79,
+        "win_rate": 66.7,
+        "avg_return": 8.89,
+        "median_return": 8.75,
         "best": 25.71,
         "worst": -7.79
       },
       "10d": {
-        "win_rate": 40.0,
-        "avg_return": 8.07,
-        "median_return": -2.65,
+        "win_rate": 66.7,
+        "avg_return": 15.78,
+        "median_return": 23.19,
         "best": 32.7,
         "worst": -8.54
       },
       "20d": {
-        "win_rate": 80.0,
-        "avg_return": 17.54,
-        "median_return": 6.52,
+        "win_rate": 66.7,
+        "avg_return": 26.52,
+        "median_return": 34.58,
         "best": 57.82,
         "worst": -12.83
       },
       "40d": {
-        "win_rate": 60.0,
-        "avg_return": 23.06,
-        "median_return": 5.65,
+        "win_rate": 66.7,
+        "avg_return": 36.9,
+        "median_return": 48.07,
         "best": 74.78,
         "worst": -12.15
       },
       "60d": {
-        "win_rate": 40.0,
-        "avg_return": 13.98,
-        "median_return": -3.21,
+        "win_rate": 66.7,
+        "avg_return": 26.44,
+        "median_return": 37.19,
         "best": 60.7,
         "worst": -18.56
       },
@@ -1661,40 +1626,40 @@
       "symbol": "MARKSANS"
     },
     {
-      "n": 3,
+      "n": 4,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 66.7,
-        "avg_return": 3.65,
-        "median_return": 0.42,
+        "win_rate": 75.0,
+        "avg_return": 4.98,
+        "median_return": 4.69,
         "best": 11.21,
         "worst": -0.67
       },
       "10d": {
         "win_rate": 100.0,
-        "avg_return": 6.32,
-        "median_return": 3.0,
+        "avg_return": 8.33,
+        "median_return": 8.68,
         "best": 14.54,
         "worst": 1.42
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 9.78,
-        "median_return": 5.14,
+        "avg_return": 11.78,
+        "median_return": 11.46,
         "best": 20.52,
         "worst": 3.68
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 14.41,
-        "median_return": 12.66,
-        "best": 24.86,
+        "avg_return": 18.63,
+        "median_return": 18.76,
+        "best": 31.26,
         "worst": 5.71
       },
       "60d": {
         "win_rate": 100.0,
-        "avg_return": 17.19,
-        "median_return": 16.39,
+        "avg_return": 17.4,
+        "median_return": 17.21,
         "best": 20.89,
         "worst": 14.31
       },
@@ -1796,42 +1761,42 @@
       "symbol": "KIMS"
     },
     {
-      "n": 10,
+      "n": 8,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 40.0,
-        "avg_return": 0.74,
+        "win_rate": 37.5,
+        "avg_return": 0.56,
         "median_return": -1.05,
         "best": 7.63,
         "worst": -7.91
       },
       "10d": {
-        "win_rate": 30.0,
-        "avg_return": 0.81,
+        "win_rate": 25.0,
+        "avg_return": -0.08,
         "median_return": -1.07,
-        "best": 17.04,
-        "worst": -8.34
+        "best": 11.02,
+        "worst": -7.46
       },
       "20d": {
-        "win_rate": 20.0,
-        "avg_return": -5.56,
-        "median_return": -5.35,
-        "best": 2.95,
+        "win_rate": 12.5,
+        "avg_return": -6.71,
+        "median_return": -5.96,
+        "best": 2.77,
         "worst": -16.34
       },
       "40d": {
-        "win_rate": 70.0,
-        "avg_return": 12.79,
+        "win_rate": 62.5,
+        "avg_return": 10.47,
         "median_return": 17.61,
-        "best": 36.62,
+        "best": 26.52,
         "worst": -15.6
       },
       "60d": {
-        "win_rate": 60.0,
-        "avg_return": 8.14,
+        "win_rate": 62.5,
+        "avg_return": 6.67,
         "median_return": 3.44,
-        "best": 37.24,
-        "worst": -9.19
+        "best": 25.4,
+        "worst": -8.39
       },
       "name": "Data Patterns",
       "symbol": "DATAPATTNS"
@@ -1919,8 +1884,43 @@
       "symbol": "CAMS"
     },
     {
-      "n": 0,
-      "note": "No qualifying signals",
+      "n": 1,
+      "note": "Price-only; no point-in-time fundamentals",
+      "5d": {
+        "win_rate": 0.0,
+        "avg_return": -0.3,
+        "median_return": -0.3,
+        "best": -0.3,
+        "worst": -0.3
+      },
+      "10d": {
+        "win_rate": 0.0,
+        "avg_return": -0.29,
+        "median_return": -0.29,
+        "best": -0.29,
+        "worst": -0.29
+      },
+      "20d": {
+        "win_rate": 0.0,
+        "avg_return": -0.65,
+        "median_return": -0.65,
+        "best": -0.65,
+        "worst": -0.65
+      },
+      "40d": {
+        "win_rate": 100.0,
+        "avg_return": 1.44,
+        "median_return": 1.44,
+        "best": 1.44,
+        "worst": 1.44
+      },
+      "60d": {
+        "win_rate": 0.0,
+        "avg_return": -7.95,
+        "median_return": -7.95,
+        "best": -7.95,
+        "worst": -7.95
+      },
       "name": "Narayana Hrudayalaya",
       "symbol": "NH"
     },
