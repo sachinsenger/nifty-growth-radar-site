@@ -1,0 +1,2071 @@
+{
+  "date": "2026-09-07",
+  "items": [
+    {
+      "query": "India markets",
+      "title": "Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWQ0aGVzamVwLUxLU2o2MWwtekVpYXNqWlZtYWhNOFpVZHdfemgyT2hFZXE3TENfX0UySXBaNW1zY2FGNUpKOUdsNlo1Z3ZlV3A3Z2R3V0dyVGo5Q0FUYmtodUlVT0hPb2tPcHNKYWFuOGkyS0RvR0E2em1YVTF3QWM3SUVEZk1Ya0hheHlKTkZYRDQxQmdhZzIyX1A1ejFqWkxYanAtT3M3UUtCT3lvNWxfb1NOWmpyaGlBamd6WVMwVWJpY0d1NHQ1MF8tb1FkMDdDakxjLU1XNjE5UVJJSUV3d19QTTBWdFQ1UdIB8gFBVV95cUxPa1cwVXEzQUlBY2ZBS0lYalJ5SGhfYXpvX2Z3TE14azA0Y3FBRk1UMjlnREJGSU1Xckw1a3ppTTF4QUxDT1ZVaXdIMmR0M1Z3SUhiaGtvWG1qY2lwX0NfUnA5ZDVYeWp1MHduY25vNkhvaDctUVhIQnFCenJTZzA5YlUzWEU3X29EVWtTZERlWHZsQi1UT01FTGdMNTZVZHZYcHh5eU1ydjRpS2k5T3NIMzBkalJlaTU1Q3NtZjI5cjdzNk5tXzh4QWY0R3JnN09LRDJDRVAycndMeXBseHh5S2NzRDhVdUQ5N00wdGNCei1TQQ?oc=5",
+      "description": "Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise &nbsp;&nbsp; Moneycontrol.com",
+      "published": "Mon, 07 Sep 2026 03:59:09 GMT",
+      "source": "Moneycontrol.com",
+      "stocks": [
+        "INFY",
+        "M&M"
+      ],
+      "sectors": [
+        "India markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "INFY",
+        "M&M"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI may act as early as October as inflation risks rise, says Citi's Samiran Chakraborty - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1c3MFdqTVhXam1VYWNfb1ZLeGRGaDBrU2dyS1NiM25KNVU4RHVBSjd2dU15TEg2N1VlNmxOY3JCYklfOVl5M2tSOHh6aXRYMWZIVHNlSUhYZktyc0k1NzQ0Tzg0OUc5UmltMnR0b0R1Tkc3WTlPNU9jOFM5TS0tZVJUUWR0STc2eDJaaEdOWW41RllOY0NkcEx3TjJOcjVWNkpocWlSUFF4Wkp6VHZaNy1wWkRJRE1RMnZpNl9FNG9EVmpVbVJUSFBneGg?oc=5",
+      "description": "RBI may act as early as October as inflation risks rise, says Citi's Samiran Chakraborty &nbsp;&nbsp; CNBC TV18",
+      "published": "Mon, 07 Sep 2026 06:52:28 GMT",
+      "source": "CNBC TV18",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "IT AI",
+      "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZlc3TUtPeUx5bUR2b21VT2tTUkNDcHI0ZkZGODdWd2tjSzBVYm5meEp3REF6a2FucEpUYmwzQ3RObGtVVkN2b0REaHBseS04OU15TWJMYzBudXlkVEVRNGExMWlrV0t4MzI4aDZrLXpvV2NTX2JZMFMyQjFsb1Q4WnBwd3lPbmM4U2owMmRxakdUZGkybUhrRGhCUWdJRk9TQlNYWDRsVVJUenJtVUJNV3k1RXV2RXEwR1ZPcFpYMmU5a1ktaV90YmYwcmk4bFJBYk54X05TTFNYZzdITldhNHNMQTF4bWloVXZlTVl6NThoWWhKbTQ5WkM1N25GeUxfcktXNFVqcndDVndlUk1wbndHNjgxZjg0SDN1TDRDa09rNHZNUllNM3RxUHNJZXNUZnVudTBQYUl1dHNmTS1JQkVWNHh2TDRnaXdKcU5FRUdPdGRMNDc2N3d3dWpIY2lK0gH8AUFVX3lxTE5aTXdNejJNZDZKUlR6azlubGV0VmhHRXZKSEkwRjRFZDA5RDJpYTR2aVV3eUVId3RRa0tsLWJVdFVPZk5qU1RFajlEQndSZkpUYkFDcjFQSXhOMWp5bEU3V2Rva0JIbW9SSC0wa3BSNlM0a1o1cHBUT1dNTm5fU2RPMk82YmRNa0hoaTN2aHhtVVpYdV9FWkwxaVFLWEp1UGtFUS1uMHVmdmVMSUpNc3o1QW1tMnhCY0JYYWVEX0V4Q2xYYi1IVjRpbklZdjlrbVptU1FubFV4dkthakFDV25QQ3MtNHZxZ3g2YXVvcjJ4U0JKOHIyak9wUHN5Qw?oc=5",
+      "description": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 07 Sep 2026 06:02:21 GMT",
+      "source": "The Economic Times",
+      "stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH"
+      ],
+      "sectors": [
+        "IT AI"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "IT AI",
+      "title": "IT Stocks Fall Up To 2% As Strong US Jobs Data Raises Fed Rate Hike Concerns - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDFqWG5OZGU3bXNaVThHbDJVeFI1Y1NhY09VVUJTbVY3cXNOUktBYk01a0piajJKVUJYRl93YU1UQ0xKRV93TFFEWENGZWQxVk9hNmRVcnJtRGg1NTk1UHpodVNrNEI4cmpXVFdWbXJveDVPeHhndVJOQnRGUE4zanpsLXc1LUExNFhFNFY3aHhVYWhVSkV1UlRLX25oTC1lVTBHdFV3VDZqYWs4WGM4czdxZzB0djTSAbwBQVVfeXFMTXRxY0xQSnRnLUh3ckpmQzh2OE8xNzEzRUtUcjV4OUg3QnptZVZoeHF5czBfMmp1SWY4czBwUkt3RmwtejR6ZEg4clpkek5qbnlVXzEwaktSb25PeldnR0J5YWFDSndzUlVzRUNRLU9ITEt3SmNhTU9pNW5UTHlIVEZhYXVTbzFoakJFclJvSTFuN3d1QzVub0pKckpUU1FJc2FJWFUwQXFjNzU2Z0tiSUV4SlVEQUM1UXdnRXQ?oc=5",
+      "description": "IT Stocks Fall Up To 2% As Strong US Jobs Data Raises Fed Rate Hike Concerns &nbsp;&nbsp; Free Press Journal",
+      "published": "Mon, 07 Sep 2026 05:32:19 GMT",
+      "source": "Free Press Journal",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
+      "description": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates &nbsp;&nbsp; WSJ",
+      "published": "Mon, 07 Sep 2026 01:59:27 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "U.S. markets closed for Labor Day; inflation data to shape Fed rate outlook - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNExNYzZXOG56TUs2VmNPTE5zdzBXWDRIYjE0QVVRZkJ0cjBPUGJwYlBVLVQ2MGFma01XNnlhdkJTRjBkSk1UemhiQWJFTWJSVTZSYzEwbkFlTHR3UXNTUDF1aG1EWVozM01zWWxJZzVjXzlDOHRFZXNTMFRqV0lZaHJaazVlbmRGMzItMklKbloxemwxbzR1RERQYkxWVkdTR0U4cEQxajl0dDg?oc=5",
+      "description": "U.S. markets closed for Labor Day; inflation data to shape Fed rate outlook &nbsp;&nbsp; KuCoin",
+      "published": "Mon, 07 Sep 2026 05:41:03 GMT",
+      "source": "KuCoin",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Asian Tech Stocks Rise as Oil Surge Revives Inflation and Rate Hike Fears - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyZkRrRDVBeG42OEVmRGsyWGRnTlZVUEVNTXFlZTZmY1dFYnlHNTNXZEw0T3llUjk3SkJaZ05fUjJmcWV6RUxKaTJ1RFJWaUlRS0VidS0xeVBZNktCOUI2VjN6blM?oc=5",
+      "description": "Asian Tech Stocks Rise as Oil Surge Revives Inflation and Rate Hike Fears &nbsp;&nbsp; \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "published": "Mon, 07 Sep 2026 06:38:53 GMT",
+      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "stocks": [],
+      "sectors": [
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Auto",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Trump\u2019s new trade-war threat adds to market jitters - DhanamOnline",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEdmVlJUZThZaHNEM1l2eExMQmp6VkJhYnAzbTdHVVNyR29TTkhYcjVzMTY0RUU5VUg4RWUtdUJTbTFnYlhWNmtWTkNHdnZnUDgzMUNsLWRJSkNJYmh5SnF6Y2dMMWRZd21UQnJLX2JSQUpLTkoxTldTRVgyNHR2Q2RJX3l2b2N0SGZjMi1Hd3k1QWN0ekdrV0E4MXVkQTJmZXFrc0RXcDEyZ0NXMFHSAa4BQVVfeXFMTzhHZlZSVGU4WWhzRDNZdnhMTEJqelZCYWJwM203R1VTckdvU05IWHI1czE2NEVFOVVIOEVlLXVCU20xZ2JYVjZrVk5DR3Z2Z1A4MzFDbC1kSUpDSWJoeUpxemNnTDFkWXdtVEJyS19iUkFKS05KMU5XU0VYMjR0dkNkSV95dm9jdEhmYzItR3d5NUFjdHpHa1dBODF1ZEEyZmVxa3NEV3AxMmdDVzBR?oc=5",
+      "description": "Trump\u2019s new trade-war threat adds to market jitters &nbsp;&nbsp; DhanamOnline",
+      "published": "Mon, 07 Sep 2026 02:18:34 GMT",
+      "source": "DhanamOnline",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2VSOXhMdl9zdnh6VVdDM1lrV0FaVFdvczVpZFV0Q05Wb2dzN3hMckVhb0RpOG1GX1N0VW9BYmRHU3lkTjV5a0pwRzVTUFlZM3dKRGFkdHhVNnNlaDE2SU9UTnlOelRxUG16Z2NKbjZDNzdpT3BSNF9lNlhqcDNOek55aUxvSU95UUh0aElGbXhvRUhDNE9hamJHQQ?oc=5",
+      "description": "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. &nbsp;&nbsp; Moomoo",
+      "published": "Sun, 06 Sep 2026 11:06:50 GMT",
+      "source": "Moomoo",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "BofA Strategist Warns: A Democratic Sweep in the Midterms Could Send US Stocks Down Over 10% and Burst the AI Bubble - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rVU0yNmZtUmdPbEdBUVRRQUcxRkJncjBKTmM1bXZCd0lOY1dCbFVrU0U5VmtCQmxpTXFZcjd1M0lJVU9CRm5CTHAyQVljMUliMmRQeTY0UFhuUS00ajhSMnJqb2xoaDZpcFRoOWJJbmRuTWJtaWc?oc=5",
+      "description": "BofA Strategist Warns: A Democratic Sweep in the Midterms Could Send US Stocks Down Over 10% and Burst the AI Bubble &nbsp;&nbsp; finance.biggo.com",
+      "published": "Sun, 06 Sep 2026 16:05:00 GMT",
+      "source": "finance.biggo.com",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "India Stocks Open Lower as Oil Prices Rise and Rupee Holds Firm - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVJ4YmltV2pVQkdiNVY3QWFnWTVSNktvSkpIQi11S3l2RFdzNXlVdzlBZDF3a0lpUkVyZHowSkRtY0RweVR6ekxHWmIxd29VdGhkVGN6TGV1cllrLWZzZVR6bndUUDRUUmF1Z1lacDdFdlFORnl6Nnl0VlBZR3ZBWTlTb3ZSLXBNMUFTUXJLVGZRQklzcVE0OHIwQTh5RkFjcUhVZHhlc1VydHJsZTR2S1dsRFlSNm5hY1pR?oc=5",
+      "description": "India Stocks Open Lower as Oil Prices Rise and Rupee Holds Firm &nbsp;&nbsp; Investing.com India",
+      "published": "Mon, 07 Sep 2026 04:00:18 GMT",
+      "source": "Investing.com India",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTm1MbFdOcFFqVngxd2J0U3dmMGpmN19nX0E1ZHhTamRkQ1I3MkF2VHN4NHNIQWxadXBTNHNIM0NxZXpIajhua2FfZjBIS0tQNGRpYnRYNWV3SHREVF9JcmlkS1VWRkZpdFlHbU4ybnMtS09JOGtRdkRiQkRfRk1QWWRqZHNyUWxyOEFydFFwalN1VTNFLW5Fck5SSTZETnM5UXJNOVdjYmhtS191STNfUHQ4alZUSWYtWnJRai1FV0k4VkJiRUNvaE5HaWlFT2loeGxZNW9RMjdmdEVPUnllYXRPVnN4OUJmcXNaVVZCOEFyZHhmNGctdVpGUzItTGdzRlJmUjJjUmUyQdIBjwJBVV95cUxNUm9FWkZpUTVISTlPSWV1dF80OEE3a1dyMXBnS01tUFliajYtZDVMM1IyZFYydkxzUHpvOHU1a2ExTVh0N09TU1lSM281OGdQOWFKdkMwZ21YemVYc3FtVTFzd0QwdWs0Vl91eElGdzg0QXVXbjVudXFaNnhpUXJTemdTQWZkN2JFS05Kb1FxMmtQTlFDemZhSnRGcno5ZE85eUFRbUxDMF9ORlg2WTFqUXJRZDhhcTZtLW1oZjY2SnZRU2VDdHUtYk1DWlc5SDNwRWo5MExaX3RLcEdiUTlvNk9sWlp4NXdsUTZnVm84dndOcE1YWWRyT3gzbm1FU3ZJZmRoYlRMY01XMzl4SDJV?oc=5",
+      "description": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India &nbsp;&nbsp; Livemint",
+      "published": "Mon, 07 Sep 2026 02:01:58 GMT",
+      "source": "Livemint",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "description": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News &nbsp;&nbsp; News On AIR",
+      "published": "Sun, 06 Sep 2026 22:29:28 GMT",
+      "source": "News On AIR",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Why too much money in the banking system is a problem for the RBI - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTJDVTJ3d2xGbFVQME1neDdUVzVMRmdRTzZLaWpOWnZUdmt0WUowS0NiMDNwS2ZWblQ4a1A2b1VOWnBBSllheERZMEtsb2FMaGFvMWFyUXFxaEpheTZMLWJhSWNWSThyOGF3NXd6NFUzTnd3clRsZFAxejNsUWIxS3l4amtQdlowMFBna0dja2FBSUZnMzJUSDln0gGgAUFVX3lxTE96UFBCYlFoVUJLUmN3QXlqMDBOZXFLRllZcmpRblduUVoxbmZsaGp5cDd5Ym5heGJWeExJN2E2V09aSVBJS29DQ0V4WHJhekpCMTNXa2hfR1RaZ0g1TWl1V1ZmN0JCek5NZ2ZpcEtMdVRleGZaY3RFSmZIXzlPZ0gxd01LU3NacmFBS0RMSUFYdE1CalZlRWJfaEU5eEtYcVA?oc=5",
+      "description": "Why too much money in the banking system is a problem for the RBI &nbsp;&nbsp; The Indian Express",
+      "published": "Mon, 07 Sep 2026 03:10:00 GMT",
+      "source": "The Indian Express",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India rupee, bonds to be driven by RBI intervention, liquidity action - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGVCWHNJVzFoWXl0Z2VadkFsZU9pU1k0cll3WmtXUlJhdGt2Y0ZoUlZqT2pWYmF0TEJXVnMzTklod2g3b2FEWHlkOEE4M0MxbldQV0RNNE9sNVVaY21CR0NGdE8ySDZHN1czVHhDR0tNZ0xaaF8zMmJBZDNXR1RDaFQ1V1dKeWVJdHhRUmtjMkV0ZmxXdkhoR0ppOHdxd2paVmFxQjVCNUZrVWxKLTF4c1Jn?oc=5",
+      "description": "India rupee, bonds to be driven by RBI intervention, liquidity action &nbsp;&nbsp; reuters.com",
+      "published": "Mon, 07 Sep 2026 01:38:00 GMT",
+      "source": "reuters.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India's central bank withdraws over 6 trillion rupees of bank liquidity after record spike - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQanllMDNzLUdFRXBNZllRNDB3ZERSVDdlRi1JeUdqOE1zWUV4eDA1c0dEc09SSDFNS2xrQWpiNHdfOUF4MjJOYU1wT21sYnBzbXU3aVRseW1hamkyYmlPQnRRdnh3M21YZDFxRndKVVk2cEJZU1BsV0xoeUhYSlNRcjVvODJ2a0dfTmpYa3JTOElhcmY3VElnUzBFZEJZZWJEajd5Z1pLbXhtaVU1bUQ2V0tsa2xicVJSVnVjakUxRGwzbjE3VTlTTUpCOHhvTU1HOEcySHRTcUR0TjZUWVhsa3AwWWlCc05nc09BYWJLbGg3RnZKM2fSAfsBQVVfeXFMTWU3ODR1bGlFamwtc0J4T1FiaEtsQUt2cE1TdHIwaVdGYmhpYmhBOGNWN21UTWl1VVk5UFZIVXlWOEhLNGRQTFpEMThnQWhWNnh5TDBfYzJpY09Fel83akRsa2lzVmN2RFBfSTRkTlJKVUJIWkZsRV9aWHo0cHpTWUs1RWE4akQ0ZVRTMUQzUjBDOGpYeHF0Mm95R1M1NHljVmJQRXVqQnRRMXFTWDFyWnlUT0hleUo3bzNfbHpGZnNQYU9NU1I2XzFLcHVvc29hRmNKYTR4NWl3Q19YUExOOUJCbENZVzM2VDV0YXhPQzBqZXlDS29EcjdhZjg?oc=5",
+      "description": "India's central bank withdraws over 6 trillion rupees of bank liquidity after record spike &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 07 Sep 2026 07:38:23 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India\u2019s central bank withdraws over six trillion rupees of bank liquidity after record spike - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRVVUU2hGNXJMZk1LRUkyaDl4SVRGUjBGS21maHZFWHJPNGpOblVTcjJkSHVPdmVOTEFNdHNWT3lZeGhzTGczdFRjMTZsREs0Tk11OGdVMk5OT1NnQUt4XzBtOWNaWDA3cFBtNnFCcmFfOU8zZnpIcVRoMDdLZk9hVXVENFJnN1dzVEVGUFZEM1c1VUN4VGtXUkF3eXBGVFFGY1Vsci1KVHZwV3V5ZDNQT0FFVTlqY3VZYTZXZUstOENtUlR4OUl3aHAxWDlyZ2dBWmtROHV6dFpVTTFYcktwT1U1NGViWVFRMEtz?oc=5",
+      "description": "India\u2019s central bank withdraws over six trillion rupees of bank liquidity after record spike &nbsp;&nbsp; The Business Times",
+      "published": "Mon, 07 Sep 2026 07:50:00 GMT",
+      "source": "The Business Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India taps diaspora dollars to defend rupee, boost reserves, court risks - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2tpMDV3ZVdmcFByOXNvMVoxUVFtUmY2Q2RFcld2ZkE4ajFqRXoyR1FGZk9qZjRlNXBOOWRxaFE1VHAtSmZYaElxN09mRlNnbFBjY2VmdXhpWlZjM21kX1g2NW4yUjc3dDA2T19IeVpnUnRidHktUF80YWpOVnlqV3pVSUd1eml2dDJ6d19kU3RlTFZjR2FzYVRsUVHSAZwBQVVfeXFMTzdraTA1d2VXZnBQcjlzbzFaMVFRbVJmNkNkRXJXdmZBOGoxakV6MkdRRmZPamY0ZTVwTjlkcWhRNVRwLUpmWGhJcTdPZkZTZ2xQY2NlZnV4aVpWYzNtZF9YNjVuMlI3N3QwNk9fSHlaZ1J0YnR5LVBfNGFqTlZ5ald6VUlHdXppdnQyendfZFN0ZUxWY0dhc2FUbFFR?oc=5",
+      "description": "India taps diaspora dollars to defend rupee, boost reserves, court risks - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+      "published": "Sun, 06 Sep 2026 21:00:00 GMT",
+      "source": "Chosunbiz",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Explained: Why is the RBI absorbing \u20b97 lakh crore from banks and what does it mean? - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbnVhRVhfRFhCWnVwQzdhdjVBMDZPbUxGdTZwLThfUUpIbURBR1dpbl85T0hzczlVZHJUVE1fUG5aenlLUjU1alZTM1VScFEwTzJUR0swOUFyR1BobnhCV1AwRlh0NDlWMG4yb1hSazd3SHl1QVpGdWUxMExacGY1eGlPQzdCTmxqNzhCMzlvdDdWWUZJNmZJeS0wbTlZa1VyeTVPMmh5NnFwTDVSVlE5RmZqcU9WU2ZzMGZJc0w2bGZJVEt3Mm1MYnRWX01oeGZNNlJxbjNVeW9ZdmdFMnk4eEc2ZlZMQdIB5gFBVV95cUxNbnVhRVhfRFhCWnVwQzdhdjVBMDZPbUxGdTZwLThfUUpIbURBR1dpbl85T0hzczlVZHJUVE1fUG5aenlLUjU1alZTM1VScFEwTzJUR0swOUFyR1BobnhCV1AwRlh0NDlWMG4yb1hSazd3SHl1QVpGdWUxMExacGY1eGlPQzdCTmxqNzhCMzlvdDdWWUZJNmZJeS0wbTlZa1VyeTVPMmh5NnFwTDVSVlE5RmZqcU9WU2ZzMGZJc0w2bGZJVEt3Mm1MYnRWX01oeGZNNlJxbjNVeW9ZdmdFMnk4eEc2ZlZMQQ?oc=5",
+      "description": "Explained: Why is the RBI absorbing \u20b97 lakh crore from banks and what does it mean? &nbsp;&nbsp; Fortune India",
+      "published": "Mon, 07 Sep 2026 05:01:14 GMT",
+      "source": "Fortune India",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "BT Explainer: What is VRRR auction and why is it key to RBI\u2019s liquidity management post FCNR (B) boost? - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOelZaOHZIbzg3cXhQMzhYZXhHQ1ZDT2k2eTBqTWpEZkZXc0ljZjB3UG5oTTVsem5DRUstc3dzQktWZ3lLOUxuOXkzVlNsMUE1aHlQZU5pdnppZDAyTmw1T3NVcnRUa3B0VTREYnIxTzRwand1eGhoSi1TemVvUVNxVlR6ZGxiU1RGWWg0U2twZ2pJSDdZemU0YWJ6Y0hLcG93Q245ZzZQWXR5T1hlaVNEODJzYTM0S0xTaGtiVm45RFdIUTQ1RnA3b3ZGNTZNRTNaam5LNXItNXJwNnBfSlR3STFmeWZ5MHVWblhEQkpNRF9NQ2_SAfMBQVVfeXFMTnpWWjh2SG84N3F4UDM4WGV4R0NWQ09pNnkwak1qRGZGV3NJY2Ywd1BuaE01bHpuQ0VLLXN3c0JLVmd5SzlMbjl5M1ZTbDFBNWh5UGVOaXZ6aWQwMk5sNU9zVXJ0VGtwdFU0RGJyMU80cGp3dXhoaEotU3plb1FTcVZUemRsYlNURlloNFNrcGdqSUg3WXplNGFiemNIS3Bvd0NuOWc2UFl0eU9YZWlTRDgyc2EzNEtMU2hrYlZuOURXSFE0NUZwN292RjU2TUUzWmpuSzVyLTVycDZwX0pUd0kxZnlmeTB1Vm5YREJKTURfTUNv?oc=5",
+      "description": "BT Explainer: What is VRRR auction and why is it key to RBI\u2019s liquidity management post FCNR (B) boost? &nbsp;&nbsp; Business Today",
+      "published": "Mon, 07 Sep 2026 05:49:01 GMT",
+      "source": "Business Today",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Dollar gets little lift from boost in Fed hike expectations - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXlvaHVYTFI0dlJtczNpdWlFVG5XcHIwX1Vsd1dDMjVqTnNRZnc2cFZXbGhoRUlvSUFfcUpEWUNSRUlwN0I2YjhGV3lJMHRtVHctYWxzS3p5ckNGZG4wRDBTazl4ZXdhRzExZEFod2xpTzVWVGUzc091c0ROWWtGUmptSnc3V083ZVFxM1docHpwd2hQTEFOMEZTOFJnaGdsSk1oVGlDcU1JZkFlY3RoS2U4YnUxM0pUcXlUeTVVVk1xV2F2bEFLQ1hjR1AxNS12TWM1WNIB2gFBVV95cUxQRkh5cUZZTFR5UUxfZF8xZ2VIYUN4UlJGd25hSDVRQ2JOLWJyNmhIWHlnUklaM2dlNkhNY2I5ZHZkYzFFZmFrTG1zRHlMY2VmdHVNOFFIWHpGaTNrY19Fd2NpekJ2Qkw2dnM4MDRxSHBzTlFPS3ZrNklQc2p2TV9wN2lPTm8xU1ZwWXN6a0pBbTJhRXl2dFNDSlE2cEFQLUkwbWthNngxYl9ieFc5VHBISXg3N2dreVozMWJSTWNpb2Q4MmdSTl9MY1RBTjdaWTMxUEtZUGwtZkFXZw?oc=5",
+      "description": "Dollar gets little lift from boost in Fed hike expectations &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 07 Sep 2026 02:04:11 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI's liquidity test may set future course - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjhZUDktaUl0VmJLUXFBcXRpRHBSc1JTejB5Z055YjM5azcyR1VZcFE2cU5va0tlX1Zfa3RQYkVTLVNTUEFIZ2FFWVFKcTJpMEM1MTVlUC1pNlU1Q2lEa2o1aGxXdnk2aldFSkxLdU1PVXN4YWR5T1pQM1EzVV8xd3l5bEJxbElERXlWVE1VdFpNUzdkQndFYVg1SF9NWXZsNmd4RVI4U3hlSUtKdjN6bUl1YUh1bTVHQnNIMNIBvAFBVV95cUxQWjhZUDktaUl0VmJLUXFBcXRpRHBSc1JTejB5Z055YjM5azcyR1VZcFE2cU5va0tlX1Zfa3RQYkVTLVNTUEFIZ2FFWVFKcTJpMEM1MTVlUC1pNlU1Q2lEa2o1aGxXdnk2aldFSkxLdU1PVXN4YWR5T1pQM1EzVV8xd3l5bEJxbElERXlWVE1VdFpNUzdkQndFYVg1SF9NWXZsNmd4RVI4U3hlSUtKdjN6bUl1YUh1bTVHQnNIMA?oc=5",
+      "description": "RBI's liquidity test may set future course &nbsp;&nbsp; The Economic Times",
+      "published": "Sun, 06 Sep 2026 19:24:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181d9IBwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181dw?oc=5",
+      "description": "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus &nbsp;&nbsp; psuindia.com",
+      "published": "Sun, 06 Sep 2026 09:00:57 GMT",
+      "source": "psuindia.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption - timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdGlwMl91Nmw5V0JicW1iQ3JISkxHa1RQLUZWMWRERVNTbHl5UndrUjZ2QXBVa0JTX0ZsYnB0SnlYMjlFT0xNcWI1emxpTTFQWkFXSEE5OUJTZ2dUZy1UWXMzVmtZRmJraDdUOEZURkYwR2VwY2RwUFZtZlc5MFlNNF9VSEVCb3lyVG80TDliY0wxUE1Od3R5UkR6NWdabWE5bFhMRjdiSjZQQi1pZ0NsWjJzdUlxRzR0UkszZ2RqYmswaUpDbjRiZ1J6RTdrb1B4VV9vd3NyWnBxQmc4RHU1VGkxbV9PMHlRd3RoTS1zQUhlWTZsMjRtaVRXWlVnQ0FScDdpVGFwZ2FSZFRqallQcNIBlgJBVV95cUxPSFVXZ2ZoSHBFbFlFNS1raWFqNW1wSFJOM0FUOFVGcmxYRW52MTdWNDBaZGhfLVM3Nk1lNXgtVlJ5cTdOem5uUzFPZW9jZ2NBM3QteXRlOVIzQ2lIQmdjT1JqN0VJblFQSGZqdDc4NXMtdXRKYV9YeklFeFV0OUNJOXRDU3NKRklPcjJac0NwbzdPY3ZWdHJVZmJCUlg2dUdiTlZzc0tWb2JpZDFMVXZfUW15Y0hUV0tXYlFNVHJyQ0VZSkxzWDdTMHZJOUdfanZFMFJZcDNVdFluaGk3Sml5YjcyVmFfWTRfXzRqcWI5OVZNNmM0YWU2ZkNETDJNLWdJOGd3LXVmQkVBemoxNjZITEhMTFpjZw?oc=5",
+      "description": "Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption &nbsp;&nbsp; timesofindia.indiatimes.com",
+      "published": "Mon, 07 Sep 2026 04:20:00 GMT",
+      "source": "timesofindia.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Prices Today, September 7, 2026: Crude Rises As US-Iran Strikes Raise Supply Concerns; Brent Near $97 - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbGVVTXRPajk5Tm1HaE5nMnkzTXNJZmJaMzNNYjJvNkRrakxmTUExX1BfS1F0dEpUZlZxNEV3QjZUeS04aW1kWndGTkVLYk1HbTBjQ3VLYWlGa01QTkJ5QWZGdTBfTDhJN25SajZOWnI2UFFtSXY4YWNyckJPWDlnZ0wyY3VTUnZmZDBVVjhpUjRudTJOZGY2ekVoZzk2enVLWVVhUWE4dDRKRXhNZ3dOaTB4ZFBTXzJfSFJxeVktMk1BU1ZMRnpoYjdkNk41eFdWZmc?oc=5",
+      "description": "Oil Prices Today, September 7, 2026: Crude Rises As US-Iran Strikes Raise Supply Concerns; Brent Near $97 &nbsp;&nbsp; HDFC Sky",
+      "published": "Mon, 07 Sep 2026 04:12:29 GMT",
+      "source": "HDFC Sky",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Indian Markets Tumble Amid Geopolitical Strain and Rising Brent Crude Prices - devdiscourse.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUN0eFloNXBzeEthVVVpU09UMVhxanZXX0tyWU95LWo4V1NLc0VrNWxpZEtHNlprLU4wUDJ3TWRvUVNmMzNfVF9jTzVOaV9kT2FhenJFSHg3aWlSOVUwbXpBZVNneFhyOE0wMlZyZ3pEV1NPS25HLWtGX3I0VHhfN1FwelF6OGFMVTY4LTI5Tk5HVGVXSWpIdEhhcUlBd29WV2lYbVpPd1QzS1BZQlhBbkEzUkFRV3kxRmV3X000TFBPY0cyU1lwak5JZFVsS0HSAc8BQVVfeXFMTXlDdHhZaDVwc3hLYVVVaVNPVDFYcWp2V19LcllPeS1qOFdTS3NFazVsaWRLRzZaay1OMFAyd01kb1FTZjMzX1RfY081TmlfZE9hYXpyRUh4N2lpUjlVMG16QWVTZ3hYcjhNMDJWcmd6RFdTT0tuRy1rRl9yNFR4XzdRcHpRejhhTFU2OC0yOU5OR1RlV0lqSHRIYXFJQXdvVldpWG1aT3dUM0tQWUJYQW5BM1JBUVd5MUZld19NNExQT2NHMlNZcGpOSWRVbEtB?oc=5",
+      "description": "Indian Markets Tumble Amid Geopolitical Strain and Rising Brent Crude Prices &nbsp;&nbsp; devdiscourse.com",
+      "published": "Mon, 07 Sep 2026 04:27:34 GMT",
+      "source": "devdiscourse.com",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil prices rise as US-Iran tanker strikes deepen Hormuz fears; Brent nears $97 - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNU9UbWh4TkVoY2p1TktGbFQyalZOMm9SY1M1M2dmOTV0cWtrSXhCRW1EZlYyUG44S1pZdlNsbkFYZ055NHJHN2U1WjF0bmpIa3lnQ1ZVaFJWcmpBdlRCaWFYb1FLSVBOMGVRZV84ei1lSmZlSkdMSC1iVndjd3pkY3BNd1NrN2JUUFdwQm84Rjh0bEd6c2Z0dWpjek5JeHZnMEdVSXlVZ3F6dTNPY0JGM1QzOENodjJMMHNfNTR5SlIza2YxQlk5dnhMeURLQVp6aDhN0gHTAUFVX3lxTE81T1RtaHhORWhjanVOS0ZsVDJqVk4yb1JjUzUzZ2Y5NXRxa2tJeEJFbURmVjJQbjhLWll2U2xuQVhnTnk0ckc3ZTVaMXRuakhreWdDVlVoUlZyakF2VEJpYVhvUUtJUE4wZVFlXzh6LWVKZmVKR0xILWJWd2N3emRjcE13U2s3YlRQV3BCbzhGOHRsR3pzZnR1amN6Tkl4dmcwR1VJeVVncXp1M09jQkYzVDM4Q2h2Mkwwc181NHlKUjNrZjFCWTl2eEx5REtBWnpoOE0?oc=5",
+      "description": "Oil prices rise as US-Iran tanker strikes deepen Hormuz fears; Brent nears $97 &nbsp;&nbsp; Moneycontrol.com",
+      "published": "Mon, 07 Sep 2026 01:36:23 GMT",
+      "source": "Moneycontrol.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Stock Market Live Updates: GIFT Nifty Points To Negative Open For Nifty, Sensex; Brent Crude Near $97 A Barrel - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjRORUp1ZENNZWFiYWVEQWRXcWFIVmJaNm9QRGQ2bTBOLUh4bmNrSnZGcWRpZllHWmVkcXdxWDRPRUF6T2JrZDY2T2lpb2NKY1lEZHA5b3MwVk5pdlR3REFZWW5SRjB3SWNCVDdkOU5XX1JZcTAyNmhjTGZSa0hCSHl6eXZPTjVkaFRWUWNraGh0cUh5LWVPNzZyb1hxVkdsQWk1dEtuLWFmcjd2Z1FZV185blVSVWxkWlBlVGlRNDYzeVVLZVF1VWZpRm84M2JIcnFUYTg4Z9IB1wFBVV95cUxQYjRORUp1ZENNZWFiYWVEQWRXcWFIVmJaNm9QRGQ2bTBOLUh4bmNrSnZGcWRpZllHWmVkcXdxWDRPRUF6T2JrZDY2T2lpb2NKY1lEZHA5b3MwVk5pdlR3REFZWW5SRjB3SWNCVDdkOU5XX1JZcTAyNmhjTGZSa0hCSHl6eXZPTjVkaFRWUWNraGh0cUh5LWVPNzZyb1hxVkdsQWk1dEtuLWFmcjd2Z1FZV185blVSVWxkWlBlVGlRNDYzeVVLZVF1VWZpRm84M2JIcnFUYTg4Zw?oc=5",
+      "description": "Stock Market Live Updates: GIFT Nifty Points To Negative Open For Nifty, Sensex; Brent Crude Near $97 A Barrel &nbsp;&nbsp; NDTV Profit",
+      "published": "Mon, 07 Sep 2026 01:05:58 GMT",
+      "source": "NDTV Profit",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
+      "description": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict &nbsp;&nbsp; WSJ",
+      "published": "Sun, 06 Sep 2026 16:03:42 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTm1MbFdOcFFqVngxd2J0U3dmMGpmN19nX0E1ZHhTamRkQ1I3MkF2VHN4NHNIQWxadXBTNHNIM0NxZXpIajhua2FfZjBIS0tQNGRpYnRYNWV3SHREVF9JcmlkS1VWRkZpdFlHbU4ybnMtS09JOGtRdkRiQkRfRk1QWWRqZHNyUWxyOEFydFFwalN1VTNFLW5Fck5SSTZETnM5UXJNOVdjYmhtS191STNfUHQ4alZUSWYtWnJRai1FV0k4VkJiRUNvaE5HaWlFT2loeGxZNW9RMjdmdEVPUnllYXRPVnN4OUJmcXNaVVZCOEFyZHhmNGctdVpGUzItTGdzRlJmUjJjUmUyQdIBjwJBVV95cUxNUm9FWkZpUTVISTlPSWV1dF80OEE3a1dyMXBnS01tUFliajYtZDVMM1IyZFYydkxzUHpvOHU1a2ExTVh0N09TU1lSM281OGdQOWFKdkMwZ21YemVYc3FtVTFzd0QwdWs0Vl91eElGdzg0QXVXbjVudXFaNnhpUXJTemdTQWZkN2JFS05Kb1FxMmtQTlFDemZhSnRGcno5ZE85eUFRbUxDMF9ORlg2WTFqUXJRZDhhcTZtLW1oZjY2SnZRU2VDdHUtYk1DWlc5SDNwRWo5MExaX3RLcEdiUTlvNk9sWlp4NXdsUTZnVm84dndOcE1YWWRyT3gzbm1FU3ZJZmRoYlRMY01XMzl4SDJV?oc=5",
+      "description": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India &nbsp;&nbsp; livemint.com",
+      "published": "Mon, 07 Sep 2026 02:01:58 GMT",
+      "source": "livemint.com",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    }
+  ],
+  "high_impact": [
+    {
+      "query": "India markets",
+      "title": "Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZWQ0aGVzamVwLUxLU2o2MWwtekVpYXNqWlZtYWhNOFpVZHdfemgyT2hFZXE3TENfX0UySXBaNW1zY2FGNUpKOUdsNlo1Z3ZlV3A3Z2R3V0dyVGo5Q0FUYmtodUlVT0hPb2tPcHNKYWFuOGkyS0RvR0E2em1YVTF3QWM3SUVEZk1Ya0hheHlKTkZYRDQxQmdhZzIyX1A1ejFqWkxYanAtT3M3UUtCT3lvNWxfb1NOWmpyaGlBamd6WVMwVWJpY0d1NHQ1MF8tb1FkMDdDakxjLU1XNjE5UVJJSUV3d19QTTBWdFQ1UdIB8gFBVV95cUxPa1cwVXEzQUlBY2ZBS0lYalJ5SGhfYXpvX2Z3TE14azA0Y3FBRk1UMjlnREJGSU1Xckw1a3ppTTF4QUxDT1ZVaXdIMmR0M1Z3SUhiaGtvWG1qY2lwX0NfUnA5ZDVYeWp1MHduY25vNkhvaDctUVhIQnFCenJTZzA5YlUzWEU3X29EVWtTZERlWHZsQi1UT01FTGdMNTZVZHZYcHh5eU1ydjRpS2k5T3NIMzBkalJlaTU1Q3NtZjI5cjdzNk5tXzh4QWY0R3JnN09LRDJDRVAycndMeXBseHh5S2NzRDhVdUQ5N00wdGNCei1TQQ?oc=5",
+      "description": "Nifty IT falls over 1%; Infosys, Tech Mahindra, HCL Tech lead losses as Fed rate hike bets rise &nbsp;&nbsp; Moneycontrol.com",
+      "published": "Mon, 07 Sep 2026 03:59:09 GMT",
+      "source": "Moneycontrol.com",
+      "stocks": [
+        "INFY",
+        "M&M"
+      ],
+      "sectors": [
+        "India markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "INFY",
+        "M&M"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI may act as early as October as inflation risks rise, says Citi's Samiran Chakraborty - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU1c3MFdqTVhXam1VYWNfb1ZLeGRGaDBrU2dyS1NiM25KNVU4RHVBSjd2dU15TEg2N1VlNmxOY3JCYklfOVl5M2tSOHh6aXRYMWZIVHNlSUhYZktyc0k1NzQ0Tzg0OUc5UmltMnR0b0R1Tkc3WTlPNU9jOFM5TS0tZVJUUWR0STc2eDJaaEdOWW41RllOY0NkcEx3TjJOcjVWNkpocWlSUFF4Wkp6VHZaNy1wWkRJRE1RMnZpNl9FNG9EVmpVbVJUSFBneGg?oc=5",
+      "description": "RBI may act as early as October as inflation risks rise, says Citi's Samiran Chakraborty &nbsp;&nbsp; CNBC TV18",
+      "published": "Mon, 07 Sep 2026 06:52:28 GMT",
+      "source": "CNBC TV18",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "IT AI",
+      "title": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOZlc3TUtPeUx5bUR2b21VT2tTUkNDcHI0ZkZGODdWd2tjSzBVYm5meEp3REF6a2FucEpUYmwzQ3RObGtVVkN2b0REaHBseS04OU15TWJMYzBudXlkVEVRNGExMWlrV0t4MzI4aDZrLXpvV2NTX2JZMFMyQjFsb1Q4WnBwd3lPbmM4U2owMmRxakdUZGkybUhrRGhCUWdJRk9TQlNYWDRsVVJUenJtVUJNV3k1RXV2RXEwR1ZPcFpYMmU5a1ktaV90YmYwcmk4bFJBYk54X05TTFNYZzdITldhNHNMQTF4bWloVXZlTVl6NThoWWhKbTQ5WkM1N25GeUxfcktXNFVqcndDVndlUk1wbndHNjgxZjg0SDN1TDRDa09rNHZNUllNM3RxUHNJZXNUZnVudTBQYUl1dHNmTS1JQkVWNHh2TDRnaXdKcU5FRUdPdGRMNDc2N3d3dWpIY2lK0gH8AUFVX3lxTE5aTXdNejJNZDZKUlR6azlubGV0VmhHRXZKSEkwRjRFZDA5RDJpYTR2aVV3eUVId3RRa0tsLWJVdFVPZk5qU1RFajlEQndSZkpUYkFDcjFQSXhOMWp5bEU3V2Rva0JIbW9SSC0wa3BSNlM0a1o1cHBUT1dNTm5fU2RPMk82YmRNa0hoaTN2aHhtVVpYdV9FWkwxaVFLWEp1UGtFUS1uMHVmdmVMSUpNc3o1QW1tMnhCY0JYYWVEX0V4Q2xYYi1IVjRpbklZdjlrbVptU1FubFV4dkthakFDV25QQ3MtNHZxZ3g2YXVvcjJ4U0JKOHIyak9wUHN5Qw?oc=5",
+      "description": "Infosys, HCLTech, TCS, other IT stocks drop up to 3% as Fed rate hike worries return. Here's why &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 07 Sep 2026 06:02:21 GMT",
+      "source": "The Economic Times",
+      "stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH"
+      ],
+      "sectors": [
+        "IT AI"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "IT AI",
+      "title": "IT Stocks Fall Up To 2% As Strong US Jobs Data Raises Fed Rate Hike Concerns - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSDFqWG5OZGU3bXNaVThHbDJVeFI1Y1NhY09VVUJTbVY3cXNOUktBYk01a0piajJKVUJYRl93YU1UQ0xKRV93TFFEWENGZWQxVk9hNmRVcnJtRGg1NTk1UHpodVNrNEI4cmpXVFdWbXJveDVPeHhndVJOQnRGUE4zanpsLXc1LUExNFhFNFY3aHhVYWhVSkV1UlRLX25oTC1lVTBHdFV3VDZqYWs4WGM4czdxZzB0djTSAbwBQVVfeXFMTXRxY0xQSnRnLUh3ckpmQzh2OE8xNzEzRUtUcjV4OUg3QnptZVZoeHF5czBfMmp1SWY4czBwUkt3RmwtejR6ZEg4clpkek5qbnlVXzEwaktSb25PeldnR0J5YWFDSndzUlVzRUNRLU9ITEt3SmNhTU9pNW5UTHlIVEZhYXVTbzFoakJFclJvSTFuN3d1QzVub0pKckpUU1FJc2FJWFUwQXFjNzU2Z0tiSUV4SlVEQUM1UXdnRXQ?oc=5",
+      "description": "IT Stocks Fall Up To 2% As Strong US Jobs Data Raises Fed Rate Hike Concerns &nbsp;&nbsp; Free Press Journal",
+      "published": "Mon, 07 Sep 2026 05:32:19 GMT",
+      "source": "Free Press Journal",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
+      "description": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates &nbsp;&nbsp; WSJ",
+      "published": "Mon, 07 Sep 2026 01:59:27 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "U.S. markets closed for Labor Day; inflation data to shape Fed rate outlook - KuCoin",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNExNYzZXOG56TUs2VmNPTE5zdzBXWDRIYjE0QVVRZkJ0cjBPUGJwYlBVLVQ2MGFma01XNnlhdkJTRjBkSk1UemhiQWJFTWJSVTZSYzEwbkFlTHR3UXNTUDF1aG1EWVozM01zWWxJZzVjXzlDOHRFZXNTMFRqV0lZaHJaazVlbmRGMzItMklKbloxemwxbzR1RERQYkxWVkdTR0U4cEQxajl0dDg?oc=5",
+      "description": "U.S. markets closed for Labor Day; inflation data to shape Fed rate outlook &nbsp;&nbsp; KuCoin",
+      "published": "Mon, 07 Sep 2026 05:41:03 GMT",
+      "source": "KuCoin",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Asian Tech Stocks Rise as Oil Surge Revives Inflation and Rate Hike Fears - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAyZkRrRDVBeG42OEVmRGsyWGRnTlZVUEVNTXFlZTZmY1dFYnlHNTNXZEw0T3llUjk3SkJaZ05fUjJmcWV6RUxKaTJ1RFJWaUlRS0VidS0xeVBZNktCOUI2VjN6blM?oc=5",
+      "description": "Asian Tech Stocks Rise as Oil Surge Revives Inflation and Rate Hike Fears &nbsp;&nbsp; \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "published": "Mon, 07 Sep 2026 06:38:53 GMT",
+      "source": "\u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
+      "stocks": [],
+      "sectors": [
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Auto",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Trump\u2019s new trade-war threat adds to market jitters - DhanamOnline",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOEdmVlJUZThZaHNEM1l2eExMQmp6VkJhYnAzbTdHVVNyR29TTkhYcjVzMTY0RUU5VUg4RWUtdUJTbTFnYlhWNmtWTkNHdnZnUDgzMUNsLWRJSkNJYmh5SnF6Y2dMMWRZd21UQnJLX2JSQUpLTkoxTldTRVgyNHR2Q2RJX3l2b2N0SGZjMi1Hd3k1QWN0ekdrV0E4MXVkQTJmZXFrc0RXcDEyZ0NXMFHSAa4BQVVfeXFMTzhHZlZSVGU4WWhzRDNZdnhMTEJqelZCYWJwM203R1VTckdvU05IWHI1czE2NEVFOVVIOEVlLXVCU20xZ2JYVjZrVk5DR3Z2Z1A4MzFDbC1kSUpDSWJoeUpxemNnTDFkWXdtVEJyS19iUkFKS05KMU5XU0VYMjR0dkNkSV95dm9jdEhmYzItR3d5NUFjdHpHa1dBODF1ZEEyZmVxa3NEV3AxMmdDVzBR?oc=5",
+      "description": "Trump\u2019s new trade-war threat adds to market jitters &nbsp;&nbsp; DhanamOnline",
+      "published": "Mon, 07 Sep 2026 02:18:34 GMT",
+      "source": "DhanamOnline",
+      "stocks": [],
+      "sectors": [
+        "Global markets"
+      ],
+      "affected": [
+        "Global markets"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "Global markets"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR2VSOXhMdl9zdnh6VVdDM1lrV0FaVFdvczVpZFV0Q05Wb2dzN3hMckVhb0RpOG1GX1N0VW9BYmRHU3lkTjV5a0pwRzVTUFlZM3dKRGFkdHhVNnNlaDE2SU9UTnlOelRxUG16Z2NKbjZDNzdpT3BSNF9lNlhqcDNOek55aUxvSU95UUh0aElGbXhvRUhDNE9hamJHQQ?oc=5",
+      "description": "CITIC Securities: The Fed's September rate hike is not a decisive variable; the A-share market remains predominantly volatile. &nbsp;&nbsp; Moomoo",
+      "published": "Sun, 06 Sep 2026 11:06:50 GMT",
+      "source": "Moomoo",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "BofA Strategist Warns: A Democratic Sweep in the Midterms Could Send US Stocks Down Over 10% and Burst the AI Bubble - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rVU0yNmZtUmdPbEdBUVRRQUcxRkJncjBKTmM1bXZCd0lOY1dCbFVrU0U5VmtCQmxpTXFZcjd1M0lJVU9CRm5CTHAyQVljMUliMmRQeTY0UFhuUS00ajhSMnJqb2xoaDZpcFRoOWJJbmRuTWJtaWc?oc=5",
+      "description": "BofA Strategist Warns: A Democratic Sweep in the Midterms Could Send US Stocks Down Over 10% and Burst the AI Bubble &nbsp;&nbsp; finance.biggo.com",
+      "published": "Sun, 06 Sep 2026 16:05:00 GMT",
+      "source": "finance.biggo.com",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "India Stocks Open Lower as Oil Prices Rise and Rupee Holds Firm - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVJ4YmltV2pVQkdiNVY3QWFnWTVSNktvSkpIQi11S3l2RFdzNXlVdzlBZDF3a0lpUkVyZHowSkRtY0RweVR6ekxHWmIxd29VdGhkVGN6TGV1cllrLWZzZVR6bndUUDRUUmF1Z1lacDdFdlFORnl6Nnl0VlBZR3ZBWTlTb3ZSLXBNMUFTUXJLVGZRQklzcVE0OHIwQTh5RkFjcUhVZHhlc1VydHJsZTR2S1dsRFlSNm5hY1pR?oc=5",
+      "description": "India Stocks Open Lower as Oil Prices Rise and Rupee Holds Firm &nbsp;&nbsp; Investing.com India",
+      "published": "Mon, 07 Sep 2026 04:00:18 GMT",
+      "source": "Investing.com India",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTm1MbFdOcFFqVngxd2J0U3dmMGpmN19nX0E1ZHhTamRkQ1I3MkF2VHN4NHNIQWxadXBTNHNIM0NxZXpIajhua2FfZjBIS0tQNGRpYnRYNWV3SHREVF9JcmlkS1VWRkZpdFlHbU4ybnMtS09JOGtRdkRiQkRfRk1QWWRqZHNyUWxyOEFydFFwalN1VTNFLW5Fck5SSTZETnM5UXJNOVdjYmhtS191STNfUHQ4alZUSWYtWnJRai1FV0k4VkJiRUNvaE5HaWlFT2loeGxZNW9RMjdmdEVPUnllYXRPVnN4OUJmcXNaVVZCOEFyZHhmNGctdVpGUzItTGdzRlJmUjJjUmUyQdIBjwJBVV95cUxNUm9FWkZpUTVISTlPSWV1dF80OEE3a1dyMXBnS01tUFliajYtZDVMM1IyZFYydkxzUHpvOHU1a2ExTVh0N09TU1lSM281OGdQOWFKdkMwZ21YemVYc3FtVTFzd0QwdWs0Vl91eElGdzg0QXVXbjVudXFaNnhpUXJTemdTQWZkN2JFS05Kb1FxMmtQTlFDemZhSnRGcno5ZE85eUFRbUxDMF9ORlg2WTFqUXJRZDhhcTZtLW1oZjY2SnZRU2VDdHUtYk1DWlc5SDNwRWo5MExaX3RLcEdiUTlvNk9sWlp4NXdsUTZnVm84dndOcE1YWWRyT3gzbm1FU3ZJZmRoYlRMY01XMzl4SDJV?oc=5",
+      "description": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India &nbsp;&nbsp; Livemint",
+      "published": "Mon, 07 Sep 2026 02:01:58 GMT",
+      "source": "Livemint",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "description": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News &nbsp;&nbsp; News On AIR",
+      "published": "Sun, 06 Sep 2026 22:29:28 GMT",
+      "source": "News On AIR",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Why too much money in the banking system is a problem for the RBI - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUTJDVTJ3d2xGbFVQME1neDdUVzVMRmdRTzZLaWpOWnZUdmt0WUowS0NiMDNwS2ZWblQ4a1A2b1VOWnBBSllheERZMEtsb2FMaGFvMWFyUXFxaEpheTZMLWJhSWNWSThyOGF3NXd6NFUzTnd3clRsZFAxejNsUWIxS3l4amtQdlowMFBna0dja2FBSUZnMzJUSDln0gGgAUFVX3lxTE96UFBCYlFoVUJLUmN3QXlqMDBOZXFLRllZcmpRblduUVoxbmZsaGp5cDd5Ym5heGJWeExJN2E2V09aSVBJS29DQ0V4WHJhekpCMTNXa2hfR1RaZ0g1TWl1V1ZmN0JCek5NZ2ZpcEtMdVRleGZaY3RFSmZIXzlPZ0gxd01LU3NacmFBS0RMSUFYdE1CalZlRWJfaEU5eEtYcVA?oc=5",
+      "description": "Why too much money in the banking system is a problem for the RBI &nbsp;&nbsp; The Indian Express",
+      "published": "Mon, 07 Sep 2026 03:10:00 GMT",
+      "source": "The Indian Express",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India rupee, bonds to be driven by RBI intervention, liquidity action - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONGVCWHNJVzFoWXl0Z2VadkFsZU9pU1k0cll3WmtXUlJhdGt2Y0ZoUlZqT2pWYmF0TEJXVnMzTklod2g3b2FEWHlkOEE4M0MxbldQV0RNNE9sNVVaY21CR0NGdE8ySDZHN1czVHhDR0tNZ0xaaF8zMmJBZDNXR1RDaFQ1V1dKeWVJdHhRUmtjMkV0ZmxXdkhoR0ppOHdxd2paVmFxQjVCNUZrVWxKLTF4c1Jn?oc=5",
+      "description": "India rupee, bonds to be driven by RBI intervention, liquidity action &nbsp;&nbsp; reuters.com",
+      "published": "Mon, 07 Sep 2026 01:38:00 GMT",
+      "source": "reuters.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India's central bank withdraws over 6 trillion rupees of bank liquidity after record spike - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQanllMDNzLUdFRXBNZllRNDB3ZERSVDdlRi1JeUdqOE1zWUV4eDA1c0dEc09SSDFNS2xrQWpiNHdfOUF4MjJOYU1wT21sYnBzbXU3aVRseW1hamkyYmlPQnRRdnh3M21YZDFxRndKVVk2cEJZU1BsV0xoeUhYSlNRcjVvODJ2a0dfTmpYa3JTOElhcmY3VElnUzBFZEJZZWJEajd5Z1pLbXhtaVU1bUQ2V0tsa2xicVJSVnVjakUxRGwzbjE3VTlTTUpCOHhvTU1HOEcySHRTcUR0TjZUWVhsa3AwWWlCc05nc09BYWJLbGg3RnZKM2fSAfsBQVVfeXFMTWU3ODR1bGlFamwtc0J4T1FiaEtsQUt2cE1TdHIwaVdGYmhpYmhBOGNWN21UTWl1VVk5UFZIVXlWOEhLNGRQTFpEMThnQWhWNnh5TDBfYzJpY09Fel83akRsa2lzVmN2RFBfSTRkTlJKVUJIWkZsRV9aWHo0cHpTWUs1RWE4akQ0ZVRTMUQzUjBDOGpYeHF0Mm95R1M1NHljVmJQRXVqQnRRMXFTWDFyWnlUT0hleUo3bzNfbHpGZnNQYU9NU1I2XzFLcHVvc29hRmNKYTR4NWl3Q19YUExOOUJCbENZVzM2VDV0YXhPQzBqZXlDS29EcjdhZjg?oc=5",
+      "description": "India's central bank withdraws over 6 trillion rupees of bank liquidity after record spike &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 07 Sep 2026 07:38:23 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India\u2019s central bank withdraws over six trillion rupees of bank liquidity after record spike - The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRVVUU2hGNXJMZk1LRUkyaDl4SVRGUjBGS21maHZFWHJPNGpOblVTcjJkSHVPdmVOTEFNdHNWT3lZeGhzTGczdFRjMTZsREs0Tk11OGdVMk5OT1NnQUt4XzBtOWNaWDA3cFBtNnFCcmFfOU8zZnpIcVRoMDdLZk9hVXVENFJnN1dzVEVGUFZEM1c1VUN4VGtXUkF3eXBGVFFGY1Vsci1KVHZwV3V5ZDNQT0FFVTlqY3VZYTZXZUstOENtUlR4OUl3aHAxWDlyZ2dBWmtROHV6dFpVTTFYcktwT1U1NGViWVFRMEtz?oc=5",
+      "description": "India\u2019s central bank withdraws over six trillion rupees of bank liquidity after record spike &nbsp;&nbsp; The Business Times",
+      "published": "Mon, 07 Sep 2026 07:50:00 GMT",
+      "source": "The Business Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India taps diaspora dollars to defend rupee, boost reserves, court risks - CHOSUNBIZ - Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2tpMDV3ZVdmcFByOXNvMVoxUVFtUmY2Q2RFcld2ZkE4ajFqRXoyR1FGZk9qZjRlNXBOOWRxaFE1VHAtSmZYaElxN09mRlNnbFBjY2VmdXhpWlZjM21kX1g2NW4yUjc3dDA2T19IeVpnUnRidHktUF80YWpOVnlqV3pVSUd1eml2dDJ6d19kU3RlTFZjR2FzYVRsUVHSAZwBQVVfeXFMTzdraTA1d2VXZnBQcjlzbzFaMVFRbVJmNkNkRXJXdmZBOGoxakV6MkdRRmZPamY0ZTVwTjlkcWhRNVRwLUpmWGhJcTdPZkZTZ2xQY2NlZnV4aVpWYzNtZF9YNjVuMlI3N3QwNk9fSHlaZ1J0YnR5LVBfNGFqTlZ5ald6VUlHdXppdnQyendfZFN0ZUxWY0dhc2FUbFFR?oc=5",
+      "description": "India taps diaspora dollars to defend rupee, boost reserves, court risks - CHOSUNBIZ &nbsp;&nbsp; Chosunbiz",
+      "published": "Sun, 06 Sep 2026 21:00:00 GMT",
+      "source": "Chosunbiz",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "RBI rates inflation"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Explained: Why is the RBI absorbing \u20b97 lakh crore from banks and what does it mean? - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbnVhRVhfRFhCWnVwQzdhdjVBMDZPbUxGdTZwLThfUUpIbURBR1dpbl85T0hzczlVZHJUVE1fUG5aenlLUjU1alZTM1VScFEwTzJUR0swOUFyR1BobnhCV1AwRlh0NDlWMG4yb1hSazd3SHl1QVpGdWUxMExacGY1eGlPQzdCTmxqNzhCMzlvdDdWWUZJNmZJeS0wbTlZa1VyeTVPMmh5NnFwTDVSVlE5RmZqcU9WU2ZzMGZJc0w2bGZJVEt3Mm1MYnRWX01oeGZNNlJxbjNVeW9ZdmdFMnk4eEc2ZlZMQdIB5gFBVV95cUxNbnVhRVhfRFhCWnVwQzdhdjVBMDZPbUxGdTZwLThfUUpIbURBR1dpbl85T0hzczlVZHJUVE1fUG5aenlLUjU1alZTM1VScFEwTzJUR0swOUFyR1BobnhCV1AwRlh0NDlWMG4yb1hSazd3SHl1QVpGdWUxMExacGY1eGlPQzdCTmxqNzhCMzlvdDdWWUZJNmZJeS0wbTlZa1VyeTVPMmh5NnFwTDVSVlE5RmZqcU9WU2ZzMGZJc0w2bGZJVEt3Mm1MYnRWX01oeGZNNlJxbjNVeW9ZdmdFMnk4eEc2ZlZMQQ?oc=5",
+      "description": "Explained: Why is the RBI absorbing \u20b97 lakh crore from banks and what does it mean? &nbsp;&nbsp; Fortune India",
+      "published": "Mon, 07 Sep 2026 05:01:14 GMT",
+      "source": "Fortune India",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "BT Explainer: What is VRRR auction and why is it key to RBI\u2019s liquidity management post FCNR (B) boost? - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOelZaOHZIbzg3cXhQMzhYZXhHQ1ZDT2k2eTBqTWpEZkZXc0ljZjB3UG5oTTVsem5DRUstc3dzQktWZ3lLOUxuOXkzVlNsMUE1aHlQZU5pdnppZDAyTmw1T3NVcnRUa3B0VTREYnIxTzRwand1eGhoSi1TemVvUVNxVlR6ZGxiU1RGWWg0U2twZ2pJSDdZemU0YWJ6Y0hLcG93Q245ZzZQWXR5T1hlaVNEODJzYTM0S0xTaGtiVm45RFdIUTQ1RnA3b3ZGNTZNRTNaam5LNXItNXJwNnBfSlR3STFmeWZ5MHVWblhEQkpNRF9NQ2_SAfMBQVVfeXFMTnpWWjh2SG84N3F4UDM4WGV4R0NWQ09pNnkwak1qRGZGV3NJY2Ywd1BuaE01bHpuQ0VLLXN3c0JLVmd5SzlMbjl5M1ZTbDFBNWh5UGVOaXZ6aWQwMk5sNU9zVXJ0VGtwdFU0RGJyMU80cGp3dXhoaEotU3plb1FTcVZUemRsYlNURlloNFNrcGdqSUg3WXplNGFiemNIS3Bvd0NuOWc2UFl0eU9YZWlTRDgyc2EzNEtMU2hrYlZuOURXSFE0NUZwN292RjU2TUUzWmpuSzVyLTVycDZwX0pUd0kxZnlmeTB1Vm5YREJKTURfTUNv?oc=5",
+      "description": "BT Explainer: What is VRRR auction and why is it key to RBI\u2019s liquidity management post FCNR (B) boost? &nbsp;&nbsp; Business Today",
+      "published": "Mon, 07 Sep 2026 05:49:01 GMT",
+      "source": "Business Today",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Dollar gets little lift from boost in Fed hike expectations - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXlvaHVYTFI0dlJtczNpdWlFVG5XcHIwX1Vsd1dDMjVqTnNRZnc2cFZXbGhoRUlvSUFfcUpEWUNSRUlwN0I2YjhGV3lJMHRtVHctYWxzS3p5ckNGZG4wRDBTazl4ZXdhRzExZEFod2xpTzVWVGUzc091c0ROWWtGUmptSnc3V083ZVFxM1docHpwd2hQTEFOMEZTOFJnaGdsSk1oVGlDcU1JZkFlY3RoS2U4YnUxM0pUcXlUeTVVVk1xV2F2bEFLQ1hjR1AxNS12TWM1WNIB2gFBVV95cUxQRkh5cUZZTFR5UUxfZF8xZ2VIYUN4UlJGd25hSDVRQ2JOLWJyNmhIWHlnUklaM2dlNkhNY2I5ZHZkYzFFZmFrTG1zRHlMY2VmdHVNOFFIWHpGaTNrY19Fd2NpekJ2Qkw2dnM4MDRxSHBzTlFPS3ZrNklQc2p2TV9wN2lPTm8xU1ZwWXN6a0pBbTJhRXl2dFNDSlE2cEFQLUkwbWthNngxYl9ieFc5VHBISXg3N2dreVozMWJSTWNpb2Q4MmdSTl9MY1RBTjdaWTMxUEtZUGwtZkFXZw?oc=5",
+      "description": "Dollar gets little lift from boost in Fed hike expectations &nbsp;&nbsp; The Economic Times",
+      "published": "Mon, 07 Sep 2026 02:04:11 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "RBI rates inflation"
+      ],
+      "affected": [
+        "Financials",
+        "IT",
+        "High-growth/valuations"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RBI rates inflation"
+      ],
+      "derived_stocks": [],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI's liquidity test may set future course - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWjhZUDktaUl0VmJLUXFBcXRpRHBSc1JTejB5Z055YjM5azcyR1VZcFE2cU5va0tlX1Zfa3RQYkVTLVNTUEFIZ2FFWVFKcTJpMEM1MTVlUC1pNlU1Q2lEa2o1aGxXdnk2aldFSkxLdU1PVXN4YWR5T1pQM1EzVV8xd3l5bEJxbElERXlWVE1VdFpNUzdkQndFYVg1SF9NWXZsNmd4RVI4U3hlSUtKdjN6bUl1YUh1bTVHQnNIMNIBvAFBVV95cUxQWjhZUDktaUl0VmJLUXFBcXRpRHBSc1JTejB5Z055YjM5azcyR1VZcFE2cU5va0tlX1Zfa3RQYkVTLVNTUEFIZ2FFWVFKcTJpMEM1MTVlUC1pNlU1Q2lEa2o1aGxXdnk2aldFSkxLdU1PVXN4YWR5T1pQM1EzVV8xd3l5bEJxbElERXlWVE1VdFpNUzdkQndFYVg1SF9NWXZsNmd4RVI4U3hlSUtKdjN6bUl1YUh1bTVHQnNIMA?oc=5",
+      "description": "RBI's liquidity test may set future course &nbsp;&nbsp; The Economic Times",
+      "published": "Sun, 06 Sep 2026 19:24:00 GMT",
+      "source": "The Economic Times",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus - psuindia.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181d9IBwgFBVV95cUxQOFlMTGtGdy1wY2VqaXRqUU1FeWZuMTh1NnRzVVhjcTFDRDlJZkg4T3R0U3d5UlRKVUNLSnhIZDI4ZE55UlBrMGVMNmVjdXlXSW9td0Z3N3l2YTVWVkRUNjk3SWc0S2lUZ28xSEljSll2U3Nqc3ZYbl9BT1hRV1pRZFVtWlRLRkVMaHRwMmJkT2NCajFCR1pxRjhlRmpJeG9YcVlmU2RmUGZyWERDV2VaVWFvMWpPbTRXTlQ5eW5sa181dw?oc=5",
+      "description": "RBI Deploys 30-Day VRRR Auction to Absorb Banking System Liquidity Surplus &nbsp;&nbsp; psuindia.com",
+      "published": "Sun, 06 Sep 2026 09:00:57 GMT",
+      "source": "psuindia.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption - timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNdGlwMl91Nmw5V0JicW1iQ3JISkxHa1RQLUZWMWRERVNTbHl5UndrUjZ2QXBVa0JTX0ZsYnB0SnlYMjlFT0xNcWI1emxpTTFQWkFXSEE5OUJTZ2dUZy1UWXMzVmtZRmJraDdUOEZURkYwR2VwY2RwUFZtZlc5MFlNNF9VSEVCb3lyVG80TDliY0wxUE1Od3R5UkR6NWdabWE5bFhMRjdiSjZQQi1pZ0NsWjJzdUlxRzR0UkszZ2RqYmswaUpDbjRiZ1J6RTdrb1B4VV9vd3NyWnBxQmc4RHU1VGkxbV9PMHlRd3RoTS1zQUhlWTZsMjRtaVRXWlVnQ0FScDdpVGFwZ2FSZFRqallQcNIBlgJBVV95cUxPSFVXZ2ZoSHBFbFlFNS1raWFqNW1wSFJOM0FUOFVGcmxYRW52MTdWNDBaZGhfLVM3Nk1lNXgtVlJ5cTdOem5uUzFPZW9jZ2NBM3QteXRlOVIzQ2lIQmdjT1JqN0VJblFQSGZqdDc4NXMtdXRKYV9YeklFeFV0OUNJOXRDU3NKRklPcjJac0NwbzdPY3ZWdHJVZmJCUlg2dUdiTlZzc0tWb2JpZDFMVXZfUW15Y0hUV0tXYlFNVHJyQ0VZSkxzWDdTMHZJOUdfanZFMFJZcDNVdFluaGk3Sml5YjcyVmFfWTRfXzRqcWI5OVZNNmM0YWU2ZkNETDJNLWdJOGd3LXVmQkVBemoxNjZITEhMTFpjZw?oc=5",
+      "description": "Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption &nbsp;&nbsp; timesofindia.indiatimes.com",
+      "published": "Mon, 07 Sep 2026 04:20:00 GMT",
+      "source": "timesofindia.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Prices Today, September 7, 2026: Crude Rises As US-Iran Strikes Raise Supply Concerns; Brent Near $97 - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbGVVTXRPajk5Tm1HaE5nMnkzTXNJZmJaMzNNYjJvNkRrakxmTUExX1BfS1F0dEpUZlZxNEV3QjZUeS04aW1kWndGTkVLYk1HbTBjQ3VLYWlGa01QTkJ5QWZGdTBfTDhJN25SajZOWnI2UFFtSXY4YWNyckJPWDlnZ0wyY3VTUnZmZDBVVjhpUjRudTJOZGY2ekVoZzk2enVLWVVhUWE4dDRKRXhNZ3dOaTB4ZFBTXzJfSFJxeVktMk1BU1ZMRnpoYjdkNk41eFdWZmc?oc=5",
+      "description": "Oil Prices Today, September 7, 2026: Crude Rises As US-Iran Strikes Raise Supply Concerns; Brent Near $97 &nbsp;&nbsp; HDFC Sky",
+      "published": "Mon, 07 Sep 2026 04:12:29 GMT",
+      "source": "HDFC Sky",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Indian Markets Tumble Amid Geopolitical Strain and Rising Brent Crude Prices - devdiscourse.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeUN0eFloNXBzeEthVVVpU09UMVhxanZXX0tyWU95LWo4V1NLc0VrNWxpZEtHNlprLU4wUDJ3TWRvUVNmMzNfVF9jTzVOaV9kT2FhenJFSHg3aWlSOVUwbXpBZVNneFhyOE0wMlZyZ3pEV1NPS25HLWtGX3I0VHhfN1FwelF6OGFMVTY4LTI5Tk5HVGVXSWpIdEhhcUlBd29WV2lYbVpPd1QzS1BZQlhBbkEzUkFRV3kxRmV3X000TFBPY0cyU1lwak5JZFVsS0HSAc8BQVVfeXFMTXlDdHhZaDVwc3hLYVVVaVNPVDFYcWp2V19LcllPeS1qOFdTS3NFazVsaWRLRzZaay1OMFAyd01kb1FTZjMzX1RfY081TmlfZE9hYXpyRUh4N2lpUjlVMG16QWVTZ3hYcjhNMDJWcmd6RFdTT0tuRy1rRl9yNFR4XzdRcHpRejhhTFU2OC0yOU5OR1RlV0lqSHRIYXFJQXdvVldpWG1aT3dUM0tQWUJYQW5BM1JBUVd5MUZld19NNExQT2NHMlNZcGpOSWRVbEtB?oc=5",
+      "description": "Indian Markets Tumble Amid Geopolitical Strain and Rising Brent Crude Prices &nbsp;&nbsp; devdiscourse.com",
+      "published": "Mon, 07 Sep 2026 04:27:34 GMT",
+      "source": "devdiscourse.com",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil prices rise as US-Iran tanker strikes deepen Hormuz fears; Brent nears $97 - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNU9UbWh4TkVoY2p1TktGbFQyalZOMm9SY1M1M2dmOTV0cWtrSXhCRW1EZlYyUG44S1pZdlNsbkFYZ055NHJHN2U1WjF0bmpIa3lnQ1ZVaFJWcmpBdlRCaWFYb1FLSVBOMGVRZV84ei1lSmZlSkdMSC1iVndjd3pkY3BNd1NrN2JUUFdwQm84Rjh0bEd6c2Z0dWpjek5JeHZnMEdVSXlVZ3F6dTNPY0JGM1QzOENodjJMMHNfNTR5SlIza2YxQlk5dnhMeURLQVp6aDhN0gHTAUFVX3lxTE81T1RtaHhORWhjanVOS0ZsVDJqVk4yb1JjUzUzZ2Y5NXRxa2tJeEJFbURmVjJQbjhLWll2U2xuQVhnTnk0ckc3ZTVaMXRuakhreWdDVlVoUlZyakF2VEJpYVhvUUtJUE4wZVFlXzh6LWVKZmVKR0xILWJWd2N3emRjcE13U2s3YlRQV3BCbzhGOHRsR3pzZnR1amN6Tkl4dmcwR1VJeVVncXp1M09jQkYzVDM4Q2h2Mkwwc181NHlKUjNrZjFCWTl2eEx5REtBWnpoOE0?oc=5",
+      "description": "Oil prices rise as US-Iran tanker strikes deepen Hormuz fears; Brent nears $97 &nbsp;&nbsp; Moneycontrol.com",
+      "published": "Mon, 07 Sep 2026 01:36:23 GMT",
+      "source": "Moneycontrol.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Stock Market Live Updates: GIFT Nifty Points To Negative Open For Nifty, Sensex; Brent Crude Near $97 A Barrel - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjRORUp1ZENNZWFiYWVEQWRXcWFIVmJaNm9QRGQ2bTBOLUh4bmNrSnZGcWRpZllHWmVkcXdxWDRPRUF6T2JrZDY2T2lpb2NKY1lEZHA5b3MwVk5pdlR3REFZWW5SRjB3SWNCVDdkOU5XX1JZcTAyNmhjTGZSa0hCSHl6eXZPTjVkaFRWUWNraGh0cUh5LWVPNzZyb1hxVkdsQWk1dEtuLWFmcjd2Z1FZV185blVSVWxkWlBlVGlRNDYzeVVLZVF1VWZpRm84M2JIcnFUYTg4Z9IB1wFBVV95cUxQYjRORUp1ZENNZWFiYWVEQWRXcWFIVmJaNm9QRGQ2bTBOLUh4bmNrSnZGcWRpZllHWmVkcXdxWDRPRUF6T2JrZDY2T2lpb2NKY1lEZHA5b3MwVk5pdlR3REFZWW5SRjB3SWNCVDdkOU5XX1JZcTAyNmhjTGZSa0hCSHl6eXZPTjVkaFRWUWNraGh0cUh5LWVPNzZyb1hxVkdsQWk1dEtuLWFmcjd2Z1FZV185blVSVWxkWlBlVGlRNDYzeVVLZVF1VWZpRm84M2JIcnFUYTg4Zw?oc=5",
+      "description": "Stock Market Live Updates: GIFT Nifty Points To Negative Open For Nifty, Sensex; Brent Crude Near $97 A Barrel &nbsp;&nbsp; NDTV Profit",
+      "published": "Mon, 07 Sep 2026 01:05:58 GMT",
+      "source": "NDTV Profit",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQc21PRFBnRHZya0ZIdkxhSUtQS01nWDhKSTJSclNXVm5HemQ1cDZENXotZGZrbUpnbjRueU5nQ1FPQmJGZ2pmMWd4OEJQY3pUM19fMDN5MXFCTmlBYWdNbC1WQWNxQkE5emluNU82ZEJJV3g5UGJmYTIteGtpaTJOWFE1RUp5dDVPaWktb19HZ2F2YnNLTnotblV2ajBVZzJ5Y3Q2djQwOA?oc=5",
+      "description": "Crude Futures End Mixed With No End in Sight to U.S.-Iran Conflict &nbsp;&nbsp; WSJ",
+      "published": "Sun, 06 Sep 2026 16:03:42 GMT",
+      "source": "WSJ",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTm1MbFdOcFFqVngxd2J0U3dmMGpmN19nX0E1ZHhTamRkQ1I3MkF2VHN4NHNIQWxadXBTNHNIM0NxZXpIajhua2FfZjBIS0tQNGRpYnRYNWV3SHREVF9JcmlkS1VWRkZpdFlHbU4ybnMtS09JOGtRdkRiQkRfRk1QWWRqZHNyUWxyOEFydFFwalN1VTNFLW5Fck5SSTZETnM5UXJNOVdjYmhtS191STNfUHQ4alZUSWYtWnJRai1FV0k4VkJiRUNvaE5HaWlFT2loeGxZNW9RMjdmdEVPUnllYXRPVnN4OUJmcXNaVVZCOEFyZHhmNGctdVpGUzItTGdzRlJmUjJjUmUyQdIBjwJBVV95cUxNUm9FWkZpUTVISTlPSWV1dF80OEE3a1dyMXBnS01tUFliajYtZDVMM1IyZFYydkxzUHpvOHU1a2ExTVh0N09TU1lSM281OGdQOWFKdkMwZ21YemVYc3FtVTFzd0QwdWs0Vl91eElGdzg0QXVXbjVudXFaNnhpUXJTemdTQWZkN2JFS05Kb1FxMmtQTlFDemZhSnRGcno5ZE85eUFRbUxDMF9ORlg2WTFqUXJRZDhhcTZtLW1oZjY2SnZRU2VDdHUtYk1DWlc5SDNwRWo5MExaX3RLcEdiUTlvNk9sWlp4NXdsUTZnVm84dndOcE1YWWRyT3gzbm1FU3ZJZmRoYlRMY01XMzl4SDJV?oc=5",
+      "description": "How Asian markets, crude will impact Sensex, Nifty: What GIFT Nifty, Nikkei, Kospi, Taiwan index signals for India &nbsp;&nbsp; livemint.com",
+      "published": "Mon, 07 Sep 2026 02:01:58 GMT",
+      "source": "livemint.com",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    }
+  ],
+  "sectors": [
+    [
+      "IT",
+      11
+    ],
+    [
+      "Financials",
+      10
+    ],
+    [
+      "Energy",
+      10
+    ],
+    [
+      "Global markets",
+      2
+    ],
+    [
+      "Auto",
+      2
+    ],
+    [
+      "RBI rates inflation",
+      2
+    ],
+    [
+      "India markets",
+      1
+    ],
+    [
+      "IT AI",
+      1
+    ]
+  ]
+}
