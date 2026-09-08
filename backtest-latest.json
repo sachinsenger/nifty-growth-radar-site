@@ -237,40 +237,40 @@
       "symbol": "HINDUNILVR"
     },
     {
-      "n": 3,
+      "n": 4,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 66.7,
-        "avg_return": 0.96,
-        "median_return": 1.76,
+        "win_rate": 75.0,
+        "avg_return": 0.91,
+        "median_return": 1.26,
         "best": 2.35,
         "worst": -1.22
       },
       "10d": {
-        "win_rate": 33.3,
-        "avg_return": 0.92,
-        "median_return": -0.46,
+        "win_rate": 25.0,
+        "avg_return": 0.66,
+        "median_return": -0.28,
         "best": 4.15,
         "worst": -0.92
       },
       "20d": {
-        "win_rate": 100.0,
-        "avg_return": 3.18,
-        "median_return": 2.71,
+        "win_rate": 75.0,
+        "avg_return": 0.94,
+        "median_return": 2.48,
         "best": 4.59,
-        "worst": 2.25
+        "worst": -5.79
       },
       "40d": {
-        "win_rate": 100.0,
-        "avg_return": 4.13,
-        "median_return": 3.95,
+        "win_rate": 75.0,
+        "avg_return": 2.56,
+        "median_return": 2.99,
         "best": 6.41,
-        "worst": 2.03
+        "worst": -2.15
       },
       "60d": {
-        "win_rate": 33.3,
-        "avg_return": -1.18,
-        "median_return": -2.76,
+        "win_rate": 25.0,
+        "avg_return": -1.91,
+        "median_return": -3.43,
         "best": 4.97,
         "worst": -5.76
       },
