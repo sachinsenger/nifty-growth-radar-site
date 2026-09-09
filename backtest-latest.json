@@ -189,29 +189,29 @@
       },
       "10d": {
         "win_rate": 94.1,
-        "avg_return": 2.66,
+        "avg_return": 2.68,
         "median_return": 2.25,
         "best": 10.95,
         "worst": -2.31
       },
       "20d": {
         "win_rate": 76.5,
-        "avg_return": 3.14,
+        "avg_return": 3.21,
         "median_return": 2.74,
         "best": 15.02,
         "worst": -12.19
       },
       "40d": {
         "win_rate": 76.5,
-        "avg_return": 2.52,
+        "avg_return": 2.62,
         "median_return": 3.68,
-        "best": 10.47,
+        "best": 11.72,
         "worst": -10.5
       },
       "60d": {
         "win_rate": 82.4,
-        "avg_return": 4.83,
-        "median_return": 9.73,
+        "avg_return": 4.86,
+        "median_return": 10.03,
         "best": 14.79,
         "worst": -19.22
       },
@@ -282,16 +282,16 @@
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 25.0,
-        "avg_return": -1.17,
+        "avg_return": -1.03,
         "median_return": -1.76,
-        "best": 1.59,
+        "best": 2.7,
         "worst": -3.3
       },
       "10d": {
         "win_rate": 62.5,
-        "avg_return": 0.65,
+        "avg_return": 0.79,
         "median_return": 1.23,
-        "best": 3.97,
+        "best": 4.05,
         "worst": -2.86
       },
       "20d": {
@@ -360,41 +360,41 @@
       "symbol": "KOTAKBANK"
     },
     {
-      "n": 2,
+      "n": 1,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 50.0,
-        "avg_return": 1.36,
-        "median_return": 1.36,
-        "best": 3.8,
+        "win_rate": 0.0,
+        "avg_return": -1.08,
+        "median_return": -1.08,
+        "best": -1.08,
         "worst": -1.08
       },
       "10d": {
-        "win_rate": 50.0,
-        "avg_return": 2.4,
-        "median_return": 2.4,
-        "best": 6.61,
+        "win_rate": 0.0,
+        "avg_return": -1.81,
+        "median_return": -1.81,
+        "best": -1.81,
         "worst": -1.81
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 4.61,
-        "median_return": 4.61,
-        "best": 5.88,
+        "avg_return": 3.34,
+        "median_return": 3.34,
+        "best": 3.34,
         "worst": 3.34
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 6.29,
-        "median_return": 6.29,
-        "best": 11.59,
+        "avg_return": 0.99,
+        "median_return": 0.99,
+        "best": 0.99,
         "worst": 0.99
       },
       "60d": {
         "win_rate": 100.0,
-        "avg_return": 5.21,
-        "median_return": 5.21,
-        "best": 9.71,
+        "avg_return": 0.7,
+        "median_return": 0.7,
+        "best": 0.7,
         "worst": 0.7
       },
       "name": "Bajaj Finance",
@@ -647,40 +647,40 @@
       "symbol": "TITAN"
     },
     {
-      "n": 6,
+      "n": 8,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 66.7,
-        "avg_return": 0.89,
-        "median_return": 4.38,
+        "win_rate": 75.0,
+        "avg_return": 1.92,
+        "median_return": 4.75,
         "best": 8.95,
         "worst": -13.61
       },
       "10d": {
-        "win_rate": 66.7,
-        "avg_return": 0.05,
-        "median_return": 1.87,
+        "win_rate": 75.0,
+        "avg_return": 1.38,
+        "median_return": 3.35,
         "best": 9.46,
         "worst": -13.33
       },
       "20d": {
-        "win_rate": 66.7,
-        "avg_return": 6.81,
-        "median_return": 6.14,
+        "win_rate": 62.5,
+        "avg_return": 4.88,
+        "median_return": 2.61,
         "best": 23.51,
         "worst": -10.61
       },
       "40d": {
-        "win_rate": 66.7,
-        "avg_return": 5.56,
-        "median_return": 2.37,
+        "win_rate": 50.0,
+        "avg_return": 3.78,
+        "median_return": 0.25,
         "best": 23.81,
         "worst": -12.07
       },
       "60d": {
-        "win_rate": 66.7,
-        "avg_return": 7.68,
-        "median_return": 15.61,
+        "win_rate": 75.0,
+        "avg_return": 7.16,
+        "median_return": 10.8,
         "best": 22.51,
         "worst": -16.42
       },
@@ -899,41 +899,41 @@
       "symbol": "CGPOWER"
     },
     {
-      "n": 1,
+      "n": 2,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -6.35,
-        "median_return": -6.35,
-        "best": -6.35,
+        "avg_return": -4.15,
+        "median_return": -4.15,
+        "best": -1.96,
         "worst": -6.35
       },
       "10d": {
         "win_rate": 0.0,
-        "avg_return": -5.67,
-        "median_return": -5.67,
-        "best": -5.67,
+        "avg_return": -3.75,
+        "median_return": -3.75,
+        "best": -1.83,
         "worst": -5.67
       },
       "20d": {
-        "win_rate": 0.0,
-        "avg_return": -16.07,
-        "median_return": -16.07,
-        "best": -16.07,
+        "win_rate": 50.0,
+        "avg_return": -8.0,
+        "median_return": -8.0,
+        "best": 0.06,
         "worst": -16.07
       },
       "40d": {
         "win_rate": 0.0,
-        "avg_return": -15.16,
-        "median_return": -15.16,
-        "best": -15.16,
+        "avg_return": -8.95,
+        "median_return": -8.95,
+        "best": -2.75,
         "worst": -15.16
       },
       "60d": {
         "win_rate": 0.0,
-        "avg_return": -40.87,
-        "median_return": -40.87,
-        "best": -40.87,
+        "avg_return": -24.34,
+        "median_return": -24.34,
+        "best": -7.81,
         "worst": -40.87
       },
       "name": "Coforge",
@@ -1286,42 +1286,42 @@
       "symbol": "SONACOMS"
     },
     {
-      "n": 7,
+      "n": 8,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 57.1,
-        "avg_return": 1.44,
-        "median_return": 1.32,
+        "win_rate": 62.5,
+        "avg_return": 1.77,
+        "median_return": 1.57,
         "best": 5.67,
         "worst": -2.21
       },
       "10d": {
-        "win_rate": 71.4,
-        "avg_return": 4.62,
-        "median_return": 1.31,
+        "win_rate": 75.0,
+        "avg_return": 4.81,
+        "median_return": 3.71,
         "best": 13.79,
         "worst": -4.72
       },
       "20d": {
-        "win_rate": 42.9,
-        "avg_return": 3.5,
-        "median_return": -1.34,
+        "win_rate": 50.0,
+        "avg_return": 3.68,
+        "median_return": 1.78,
         "best": 19.68,
         "worst": -3.17
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 7.13,
-        "median_return": 7.48,
+        "avg_return": 6.43,
+        "median_return": 7.4,
         "best": 10.75,
         "worst": 0.77
       },
       "60d": {
-        "win_rate": 100.0,
-        "avg_return": 14.2,
-        "median_return": 12.2,
+        "win_rate": 87.5,
+        "avg_return": 12.32,
+        "median_return": 11.57,
         "best": 21.75,
-        "worst": 7.23
+        "worst": -0.83
       },
       "name": "Bharat Forge",
       "symbol": "BHARATFORG"
@@ -1409,40 +1409,40 @@
       "symbol": "HFCL"
     },
     {
-      "n": 3,
+      "n": 4,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 66.7,
-        "avg_return": 8.89,
-        "median_return": 8.75,
+        "win_rate": 75.0,
+        "avg_return": 8.84,
+        "median_return": 8.71,
         "best": 25.71,
         "worst": -7.79
       },
       "10d": {
-        "win_rate": 66.7,
-        "avg_return": 15.78,
-        "median_return": 23.19,
+        "win_rate": 75.0,
+        "avg_return": 16.65,
+        "median_return": 21.23,
         "best": 32.7,
         "worst": -8.54
       },
       "20d": {
-        "win_rate": 66.7,
-        "avg_return": 26.52,
-        "median_return": 34.58,
+        "win_rate": 75.0,
+        "avg_return": 25.94,
+        "median_return": 29.39,
         "best": 57.82,
         "worst": -12.83
       },
       "40d": {
-        "win_rate": 66.7,
-        "avg_return": 36.9,
-        "median_return": 48.07,
+        "win_rate": 75.0,
+        "avg_return": 35.63,
+        "median_return": 39.95,
         "best": 74.78,
         "worst": -12.15
       },
       "60d": {
-        "win_rate": 66.7,
-        "avg_return": 26.44,
-        "median_return": 37.19,
+        "win_rate": 75.0,
+        "avg_return": 27.04,
+        "median_return": 33.01,
         "best": 60.7,
         "worst": -18.56
       },
@@ -1450,82 +1450,82 @@
       "symbol": "AEGISLOG"
     },
     {
-      "n": 7,
+      "n": 8,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 28.6,
-        "avg_return": -2.78,
-        "median_return": -3.63,
+        "win_rate": 25.0,
+        "avg_return": -2.82,
+        "median_return": -3.38,
         "best": 2.05,
         "worst": -7.62
       },
       "10d": {
-        "win_rate": 14.3,
-        "avg_return": -6.53,
-        "median_return": -5.51,
+        "win_rate": 12.5,
+        "avg_return": -6.01,
+        "median_return": -5.08,
         "best": 0.53,
         "worst": -12.98
       },
       "20d": {
-        "win_rate": 28.6,
-        "avg_return": -2.53,
-        "median_return": -3.6,
+        "win_rate": 25.0,
+        "avg_return": -2.34,
+        "median_return": -2.31,
         "best": 4.9,
         "worst": -11.24
       },
       "40d": {
-        "win_rate": 57.1,
-        "avg_return": -1.61,
-        "median_return": 6.99,
-        "best": 10.54,
+        "win_rate": 62.5,
+        "avg_return": -0.0,
+        "median_return": 7.31,
+        "best": 11.23,
         "worst": -19.9
       },
       "60d": {
-        "win_rate": 42.9,
-        "avg_return": -7.74,
-        "median_return": -0.88,
-        "best": 9.1,
+        "win_rate": 50.0,
+        "avg_return": -5.3,
+        "median_return": 0.34,
+        "best": 11.81,
         "worst": -25.29
       },
       "name": "Neuland Laboratories",
       "symbol": "NEULANDLAB"
     },
     {
-      "n": 7,
+      "n": 4,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 71.4,
-        "avg_return": 1.76,
-        "median_return": 1.24,
-        "best": 10.97,
+        "win_rate": 50.0,
+        "avg_return": -1.09,
+        "median_return": -0.81,
+        "best": 9.11,
         "worst": -11.87
       },
       "10d": {
-        "win_rate": 57.1,
-        "avg_return": -1.45,
-        "median_return": 0.28,
+        "win_rate": 50.0,
+        "avg_return": -3.15,
+        "median_return": -0.89,
         "best": 5.99,
         "worst": -16.78
       },
       "20d": {
         "win_rate": 0.0,
-        "avg_return": -9.38,
-        "median_return": -10.36,
-        "best": -0.88,
+        "avg_return": -12.41,
+        "median_return": -12.52,
+        "best": -8.29,
         "worst": -16.32
       },
       "40d": {
-        "win_rate": 57.1,
-        "avg_return": 8.68,
-        "median_return": 14.65,
-        "best": 29.03,
+        "win_rate": 25.0,
+        "avg_return": -4.32,
+        "median_return": -8.4,
+        "best": 14.65,
         "worst": -15.14
       },
       "60d": {
-        "win_rate": 28.6,
-        "avg_return": -6.06,
-        "median_return": -2.34,
-        "best": 13.37,
+        "win_rate": 0.0,
+        "avg_return": -15.81,
+        "median_return": -17.46,
+        "best": -2.34,
         "worst": -25.97
       },
       "name": "Force Motors",
@@ -1761,41 +1761,41 @@
       "symbol": "KIMS"
     },
     {
-      "n": 8,
+      "n": 9,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 37.5,
-        "avg_return": 0.56,
-        "median_return": -1.05,
+        "win_rate": 44.4,
+        "avg_return": 1.33,
+        "median_return": -0.81,
         "best": 7.63,
         "worst": -7.91
       },
       "10d": {
-        "win_rate": 25.0,
-        "avg_return": -0.08,
-        "median_return": -1.07,
-        "best": 11.02,
+        "win_rate": 33.3,
+        "avg_return": 1.82,
+        "median_return": -0.88,
+        "best": 17.04,
         "worst": -7.46
       },
       "20d": {
-        "win_rate": 12.5,
-        "avg_return": -6.71,
-        "median_return": -5.96,
-        "best": 2.77,
+        "win_rate": 22.2,
+        "avg_return": -5.64,
+        "median_return": -5.88,
+        "best": 2.95,
         "worst": -16.34
       },
       "40d": {
-        "win_rate": 62.5,
-        "avg_return": 10.47,
-        "median_return": 17.61,
-        "best": 26.52,
+        "win_rate": 66.7,
+        "avg_return": 13.37,
+        "median_return": 17.68,
+        "best": 36.62,
         "worst": -15.6
       },
       "60d": {
-        "win_rate": 62.5,
-        "avg_return": 6.67,
-        "median_return": 3.44,
-        "best": 25.4,
+        "win_rate": 66.7,
+        "avg_return": 10.07,
+        "median_return": 4.24,
+        "best": 37.24,
         "worst": -8.39
       },
       "name": "Data Patterns",
