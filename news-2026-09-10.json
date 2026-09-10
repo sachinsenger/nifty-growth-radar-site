@@ -1,0 +1,2179 @@
+{
+  "date": "2026-09-10",
+  "items": [
+    {
+      "query": "India markets",
+      "title": "Sensex, Nifty fall sharply as crude oil crosses $100; IT stocks lead sell-off - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSHRJRmhweURrMjQyYlR4QTl6NjI1VEY1QmJiQkRyWHBlMmhwQ2hxNlRXNHR6YWwzblg0eGZmUlEyUXVNMVZOd25sSW1UX2U3WFdxS09LMXdJSzAtNHNNN3VlcDQ5U01OdXhES28wYjU5endETVZsQjd3c1pFY3lOd1c4WkQ5T1JZRVc0NmJ2OGhpemxrNFpjdFlJOGtnMnhUeGNsU2dsZHhWTFF5Ty0ydW43OW9YUEhpalg2QzNHMzh2Q0o3V25Xb0M0RlczUk1NQ3lEdTE0NlZfX1ptZzdUaTRfRWJpd25WcTZObUZaNDbSAfYBQVVfeXFMT0xwbXloNURjY2pxTEZBaWhBc3Z0Ulh5N2k0S1piMmZRZG1aMmVlZEt0dTk1dHgxTGVqc2lmU1AwNnFhU0xoMGw4RXFVbVFDeXIxS0h3WmQxZms3N01sSU8xbWR2X3dXazljaHpXM2Z0S2VvV0VpRktrZEM4R25BYlFONXFkMGhFRmdaT0RhbzQzOUxyUGhtNi0wRlBkQ1dSQTNaSUdBM2Zmb3h6RjEyN29mTkVmZkNNOVNCUGoyM29adXpKWVpTb2d2NXUxTExaOTh5ZkdYMzktZVFmNWwxbmRTVVF4MTlLN0xZb2h4T2pqWEJKYlhR?oc=5",
+      "description": "Sensex, Nifty fall sharply as crude oil crosses $100; IT stocks lead sell-off &nbsp;&nbsp; India Today",
+      "published": "Wed, 09 Sep 2026 10:04:59 GMT",
+      "source": "India Today",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORWxMeFo5ZU5hSVFJNXNKUWx6UTRneUtFYW1faGQyLUVWUHJKSmJROUphbXV0bkg2ZVdsYWpMS1VnMlFIeVRjdmMwSkVXWWJqLXBJcGhiWU16ZHp4N29XSVF0bnV1blZra0dDY2ZReW9qVS1BTFFlRnFpRUUzT3NpOERxeXpvLWZudndKZ1d0TExfamtsdzFjRmVYQUlnQWxaQXgxY0VhVV9FOUV4Sl9YUDN5dHAxV3Q2SVN2SWkzVnVqWTFnSHNlZmtlVWVqYTdMZ05NMDF6S1ZJTVJxNzVlR2VadkdwMm1tVkpYdDN6cnjSAfYBQVVfeXFMTlkxX3FiYWc1MGg4WlpRX1RQUjFrY1VaTjEyamRlbXdoX0k3SWctTENYNFhsOHJlTEtOVmlPaWRRNEtmaWxXTXhIMFNFSC1oS2VURk4xTU1oQjdxZGFYZ0syT3l3V3dTQk1NUWlWX2hhQkdWVXcxTnc3Z2Fld1ZFV0tDU3VlUUdON1ExdXFuaUN1bHRMQkYwTTI3U3BxMmRlRWE3Tm5Ta0F5dnU1VkVfUVFkc3ZkX2xZN3ZuZGpQNS1JdVRJOFlVa1VOZ0pIVklLSVZidFpsZDFacjFDRmRjU2haczFSQ0loaVc2ZVZCOHd3cFhZT0ln?oc=5",
+      "description": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed &nbsp;&nbsp; economictimes.com",
+      "published": "Thu, 10 Sep 2026 02:17:56 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India bonds fall as oil tops $100/bbl, reviving inflation concerns - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjcwcVBRRDBnUExUZDVaalRScjRiSnN2dVd1OXBYbTVpYVpXVHB5cmQtYVNIbWFqWTF1VVJvR2ZyNVY5b3JYVmd4YU9LNzJKbkZqMVhwWnVVLURHUGpTWi1IQUh3N0ZFaUh4d2RQQ2d3SlgxVVBkRkg2eUtLRnJfVUlLaEg1dW04SkUtMF9vNkZQSGlObGVqN0tUeGhNaE1FVlMyeml0S2xsY3NfWmFzUmlLOVdwRzJaSVFLZi1fZnJEWFVuZHRkTzdSaUNERVFVTC01UURwVjLSAdIBQVVfeXFMTTQwSTBkeGE0Q0hYMWdDdUdQQ2tZeUZ6X0ZyWGM4enRuaGpXOFBwMTVSVjlucVA3cEwxNkI4OGg5M0twWGdyVllqQVBtUFdvYVZURHN5NU8zRHZTWlhZNkZERUR3Z3habThOakhCUXFYTjBrbkJHZ0dsLWdsbExyMnNBX2JHcDdmc2lieGxYdkRWb0lodnhtQ0N0VzBQWjJuZmJPclByT09heWVKTmVMWGI3WWpIRi1BOHRzSVZ3d2FpVGVvUklZTkdnWEFGYktBeXlB?oc=5",
+      "description": "India bonds fall as oil tops $100/bbl, reviving inflation concerns &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Wed, 09 Sep 2026 12:07:42 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Auto",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India bonds fall as oil tops $100/bbl, reviving inflation concerns - bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUlY4LTV1dDJQN2c5S2oyc19haTFFaEFETW9xclpkTHMxbEQ1RzhoWUJtZll6MU5GS1A0N0QxRmlmWVJOLXg1NUptRnJGdnU5dkhPN0VuUXRURW84X0JpUW1IbTIyb1RLYXAwczl2ZDVJM1laV1RrZkRlbE1kQ0FBc0tPNnJ2YmRYd054Umh3RXdlNjJXaGxmQXNyNHRiQ2FEVGlkOG9ySnpub0k0SVFEdFkyLVFPSFVqUVpqZ1BodzBBMGRoWFlrdmRFaWZaV052NUN3ZUpPZUI2U3FL0gHcAUFVX3lxTFBSVjgtNXV0MlA3ZzlLajJzX2FpMUVoQURNb3FyWmRMczFsRDVHOGhZQm1mWXoxTkZLUDQ3RDFGaWZZUk4teDU1Sm1GckZ2dTl2SE83RW5RdFRFbzhfQmlRbUhtMjJvVEthcDBzOXZkNUkzWVpXVGtmRGVsTWRDQUFzS082cnZiZFh3TnhSaHdFd2U2MldobGZBc3I0dGJDYURUaWQ4b3JKem5vSTRJUUR0WTItUU9IVWpRWmpnUGh3MEEwZGhYWWt2ZEVpZlpXTnY1Q3dlSk9lQjZTcUs?oc=5",
+      "description": "India bonds fall as oil tops $100/bbl, reviving inflation concerns &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "published": "Wed, 09 Sep 2026 12:56:31 GMT",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Auto",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Dalal Street Sentiment Turns Negative: Crude, Rate Hike Fears Weigh On Indian Markets - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdUNYU3pBcVFkaThCZ2VkTmx0cDNURGJ6MDIyNzM5aG5GQzI3QmNjSjVLaWZKOXlFWFJhbDhSLTItYm1hNll6dTRiR1N4VEVkN0pHeWdqQnRWaDZtT3ZpWDU5WG43QllkWkRsMVpnN0Q5aU9mSXA0alBBUlNwLUxxZ0pZcVlZUmxqTHZfX09NZjFlTTZfVHpMQXZaWHFXNGpweTIxajRJbW9kS2VIdXZtZHk3VlYyVTF4NzYxUFhEMWV2aVBXcm81cDRfeExFSkNQZ25ackszbXNnYXBKa20tVXFPYWpyUmNQRk00?oc=5",
+      "description": "Dalal Street Sentiment Turns Negative: Crude, Rate Hike Fears Weigh On Indian Markets &nbsp;&nbsp; Business Today",
+      "published": "Wed, 09 Sep 2026 09:10:30 GMT",
+      "source": "Business Today",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Axis Bank CEO Signals Possible RBI Rate Hike, Flags Lending Risks - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON1lMMmNDQ0hvRVJJRXJxSkZOalp6YlVzNjBEUjhiQTBVaDE3czdFeWVkVFoxdVdjRXFIeWNybUZwcjVMeEJGdW5uSXcwT2x2NGFoNDk3Q2FiTURiLVpZOHozRndRSWNYcnFPQXpVTmlGSEtMSVQyRzg3LTRLa2dwT0ZVZFYzU0dyYUM0NXpTYl9KR2lWa1JzOERYWk1iLWpURVFxS29CZlViYlZlaHBoMlhBRnVJclllcEdYcUNWdmEtc0ZjWjFCU0JIODVPMzRLUzk4ZlQ3eGZfeWk1?oc=5",
+      "description": "Axis Bank CEO Signals Possible RBI Rate Hike, Flags Lending Risks &nbsp;&nbsp; Whalesbook",
+      "published": "Wed, 09 Sep 2026 12:31:36 GMT",
+      "source": "Whalesbook",
+      "stocks": [
+        "AXISBANK"
+      ],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "AXISBANK"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Global Market Today: Asian stocks to fall as oil stokes inflation fears - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZDFwSlNWNzlMYnB2S0xHQzNDaUg3VGNFNWdqU2tMZVQxQmdFdHBWTjhqeTF0ZTIxWERNYlpVZ1IzUTBKcFdBWjBjTUhZOTVpUHZiOGtzYnAxeUdBWlFIR05UeF9YT0lLam1HMDBPLWdTbWhQNi1fZzFFZ2Ewd0MtX05VSUpjalVOVnI4cXdkSkJDY0VNeXVmM3BNdEpkbU1LUXg5cklJRVZVd19oX3Q0X3YzbUtmSkJMTUVJdXA1aDloTWppbTh6Zy0xRWFhMHhVNDF4T2tTWWZra0lCcEFHUHZ5MHdOSGs5SzI0OWVTdWNlenE2aTh4RDhET1pUY05lVFdlbzV6T0s0Z2VpRjBrdzVmWDhGR0ltNllBTEVHdFZuSS11N2c0THQzZ2JCYUpkLTdkZWpSX2VJQnRQdVhTUWF1OFNYdHlyYnfSAeYBQVVfeXFMUGVqMHFRWW5VbV8xM1FidmowbFhRQmVuXzBaLVBNaUxPSXdLeHcyVGpwQ0lBcXg1dTVJam12UFFNLXhRRGZmSHdyX1FpNDZ5QmlMQXdVUG9yRDU5Y21lVHpJSzJITXFmSzFoVjdULTFvVllSZU0tWTlxOEw4Q1c5ZnAtZFRCbGcwenFrNko0SDhXWFYtc1lqRUxicElHUk8yZ2F5UUI5ZXpxeFFhSXQzaEZNVXdmS2JRWndGVnRDMjVaNG81REZwRnJlbHgyY2d4TGdpa19WNUF2Q1lRak13dDVodnA1VEE?oc=5",
+      "description": "Global Market Today: Asian stocks to fall as oil stokes inflation fears &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Thu, 10 Sep 2026 01:03:25 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Apple's foldable debut fails to lift US stocks as major indexes fall for third straight session; Brent crude tops $101 - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ya2U5WV9BRFVCTUU3WnZDYzlzTHNOUExFc3F5RlZnR2twNThWVGtNUzNwZGFYOTVBUl9MYkxnMjBEc1VGU0FnNnZRbzB6UXdjMmVycHlncmZWU1A5OFFhRVcwMTFxZFNmZFVqay1sNFJiNk1vLWc?oc=5",
+      "description": "Apple's foldable debut fails to lift US stocks as major indexes fall for third straight session; Brent crude tops $101 &nbsp;&nbsp; finance.biggo.com",
+      "published": "Wed, 09 Sep 2026 23:55:00 GMT",
+      "source": "finance.biggo.com",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "US August CPI Preview: Will Inflation Reaccelerate? US Stocks, Dollar and Gold Face Key Test - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZWI4b1UtRWRPM1drcGJXTWZUcnY3YnR0UTVxWU1oWGFkNlo4SmcyUTBBaEQ0dGZQMDU0WHFmbzVkclpoTHFVTEtRZDZ2MEtVbWRQRGxIZGNpZ3BlTDJEOGxQMzdLRVhoVnJORFNKUkoxWFd2R0VCZXlhdFJuU0Y2bHpmSGtGOGlYcF9WNjVOXzhqYUpoVnY5UmZnVTRLNnJWeS1yYXNWNXhxVk5PLWNvaXNfUThTWHd1eS00Y1F6ZmdpQ3JSUFFiT3hmUG9ycjlQSkxVNmtWVU8yOXZHZVhkNw?oc=5",
+      "description": "US August CPI Preview: Will Inflation Reaccelerate? US Stocks, Dollar and Gold Face Key Test &nbsp;&nbsp; TradingKey",
+      "published": "Thu, 10 Sep 2026 03:44:40 GMT",
+      "source": "TradingKey",
+      "stocks": [],
+      "sectors": [
+        "Auto"
+      ],
+      "affected": [
+        "Auto"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Fall, Brent Jumps Over $100 Amid Middle East Tensioms \u2014 CASY, TTAN, RKLB in Focus - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWjZZUmZmZHFOcDJZSzduYlJ3STBDc2tubE8xSUY0SjR5WGVhWXN0M3BkWnNWQmRiQzJLUEIzeTV4aUVxUjIxTU1tbGFibEdPc191cHM2NW9nejZoYWdOZXlaajFEemQ5YVRFbTFwbUdPWDJraXNrZExXRlRFdWNsMDZQZjFYYm9JSk5Qc29PZlhsSGF5bDNJR3pUVG9vWFdEU0w5U0I5QnNXRVNjaXNMd0RWNVJHbm0zUjJJX2lqdDhScTREYk41UHdTZEpJeS1IZmlYcnVlQ0tLV2xJS1o5MWRMQ3ByMjBwTjRpdHdGaVVsVzdIa3czWklwN0czV29HQzN1aWN0b2I0Y0U?oc=5",
+      "description": "Stock Market Today: Dow Jones, S&P 500 Futures Fall, Brent Jumps Over $100 Amid Middle East Tensioms \u2014 CASY, TTAN, RKLB in Focus &nbsp;&nbsp; TradingView",
+      "published": "Wed, 09 Sep 2026 09:42:48 GMT",
+      "source": "TradingView",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Wall Street Futures Fall as Brent Crude Crosses USD 100 for First Time Since July - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3lMcmt1RmhnaW93ejg5Y3ZMalhpOWNxWVRCby1rOHU0dEF1dEt2WEt4UnlVYTRYY0hqQmR2c3dJWnQwdklpc19yZHo3NVpkRzBwSHB5RkZkUkpDOGN0ZzdiYXNZekx6enNfc1Q2NURneHN2b0N1UktwMU9ZNEFMRFlIMjlrNXh2eE9Zb01ZZ3FqaFZONktsc3B2WVRXSXRkN1VfQjltZTFEWEFqTWhHa2Q4QzZTdTJKNlBDWVFHNGdET1lDVW43NWRpa9IBywFBVV95cUxOU3lMcmt1RmhnaW93ejg5Y3ZMalhpOWNxWVRCby1rOHU0dEF1dEt2WEt4UnlVYTRYY0hqQmR2c3dJWnQwdklpc19yZHo3NVpkRzBwSHB5RkZkUkpDOGN0ZzdiYXNZekx6enNfc1Q2NURneHN2b0N1UktwMU9ZNEFMRFlIMjlrNXh2eE9Zb01ZZ3FqaFZONktsc3B2WVRXSXRkN1VfQjltZTFEWEFqTWhHa2Q4QzZTdTJKNlBDWVFHNGdET1lDVW43NWRpaw?oc=5",
+      "description": "Wall Street Futures Fall as Brent Crude Crosses USD 100 for First Time Since July &nbsp;&nbsp; Analytics Insight",
+      "published": "Wed, 09 Sep 2026 13:07:04 GMT",
+      "source": "Analytics Insight",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXcyZHk3MWlyVXBtQ3RPR2JCNWFLaFY1eVFuNmdSU3dhbGZSV0FGaG5wenBicC1GLWUxV1ZQc3lCS1AwVmJsSkIwVEUzNWIzSEVJYVU5MUhrVzlmZVJJUHVObm83dXVhaGx1ekZZOFlRaE1JVndxUnE2NGg3NmNLOVZjczFmd0NVczJ4dDVrNkdxakJnWVdlcWVTa1BlVG5NRUlOQldDSnNVMVRFUUhYUTRCWHhuWUl6UzdvMldLWDJhWTA?oc=5",
+      "description": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up &nbsp;&nbsp; 24/7 Wall St.",
+      "published": "Wed, 09 Sep 2026 14:45:00 GMT",
+      "source": "24/7 Wall St.",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "Global Market Today: Asian stocks to fall as oil stokes inflation fears - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPekJuYktlR29ZRkdxTGw1NjBwWFdqOHI3ekM1a1llZGxXVlhOeEJIOV9wNzhKMHhDYmEwWWZIU2Y3Nk5sRE1DMl9JTGpZZ0JBRDY0QUc4c0h0dzR3S2R4WXRtZXlQMENIeFNsbExsT3pHeWdBRXV4WkhOS2NrekJ3Vy0tLXdCcVh2U2t5U0h3UlpIZkUySWNjaGttVGE0VEJsYTk2bENwOUZvdFZGLWdMMy1aVERLaHRMelFIYlh2RXZNR214SDJuZUNITEtGNEk4RW51dnpJUnhrZ29vMlRyWdIB5gFBVV95cUxQZWowcVFZblVtXzEzUWJ2ajBsWFFCZW5fMFotUE1pTE9Jd0t4dzJUanBDSUFxeDV1NUlqbXZQUU0teFFEZmZId3JfUWk0NnlCaUxBd1VQb3JENTljbWVUeklLMkhNcWZLMWhWN1QtMW9WWVJlTS1ZOXE4TDhDVzlmcC1kVEJsZzB6cWs2SjRIOFdYVi1zWWpFTGJwSUdSTzJnYXlRQjllenF4UWFJdDNoRk1Vd2ZLYlFad0ZWdEMyNVo0bzVERnBGcmVseDJjZ3hMZ2lrX1Y1QXZDWVFqTXd0NWh2cDVUQQ?oc=5",
+      "description": "Global Market Today: Asian stocks to fall as oil stokes inflation fears &nbsp;&nbsp; economictimes.com",
+      "published": "Thu, 10 Sep 2026 01:03:25 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Brent Crude hits $100/bbl after 3 months; Nifty Oil & Gas stocks then & now - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGk2eEZCU2h5SWxXd2piUUJ4bXl4d3Y4VG9RcGVma3N2bTY0bVZZdVlTWXM0bm80SV9obGtmb2o4M1MyYnFiajZTQzFYRnNmVjhRQzhhdV9DcTdieDlpMGZBZGE0ME55ZERXVzZ1ZktFRHV5eU9EajgycWlHYXBDSGN1cV9nR1pPbEFlcmYzNnB4bDBjYXJuai1hY01sc25raHpLWktQNA?oc=5",
+      "description": "Brent Crude hits $100/bbl after 3 months; Nifty Oil & Gas stocks then & now &nbsp;&nbsp; IndiaIPO",
+      "published": "Thu, 10 Sep 2026 04:55:51 GMT",
+      "source": "IndiaIPO",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Oil breaches $100; stocks, rupee slide - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QSXpKZ0Y1MWVnbl9GaFJRRzVRRjRreUpBSGxzRzZSYTZNWk54dllMY0RodTRaRmRiWGliWl9KM0pTRmFOaFAwUm84OVp3WC0xOXJUdmUwdXYtVkVnWFFfdERJR0d4bXhWMllXdmhCYjlhcmdVUUNITHh5aw?oc=5",
+      "description": "Oil breaches $100; stocks, rupee slide &nbsp;&nbsp; IndiaIPO",
+      "published": "Wed, 09 Sep 2026 21:22:32 GMT",
+      "source": "IndiaIPO",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "IT",
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "description": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News &nbsp;&nbsp; News On AIR",
+      "published": "Wed, 09 Sep 2026 22:39:33 GMT",
+      "source": "News On AIR",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Oil tops $100, rupee breaches 95/$ as stocks reel on US-Iran tensions - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0RRd2U5RXRSdnU3YWdGTmI5d0dlRi11d3hGdzFTb1hiYjE3TTVNOWxWNUhlTUVDV2RnWVVqNDhqYUY0YW5qb3RBR2pva1Y2MXhBZEtwOXVjNlJ6TnBBLUpmNUNxVmxfd0hudkJ5aW5TenNfOFdOMHJiVW9YZUoyN3o3UW5DOTBBTWVRWURKcEFVcmJVdnJzaEZNZllqM0tvaXBCbnc0bU90eXQ5aG53MHB3YktjM05BeDZSS2VmUjJDV294aFVoY0drd9IB0AFBVV95cUxNOFd2OV9jc3pqc0RBWVZWWnBDdzlJN0p3bE4xN1RPODUtUmNxNU1iQXNSNU9vM1lXNHhvbU9nTzE4RS03QWhySFFuSWMwVGFXM0hoZXF6OWp5dUxVUW9mdWFHZko4N1BPOHRPSjlRaFNCRjQ5dHNXYl9sQ19RYU5DUkhjUG1hdlV4VVVOV2NQenNtN2U3SmZ2MjVpeFB6QzRaeURJNS1vNEdWMmhyT01veGxvQ2FEWnZySVFzRE1YNHpRWlpuQ2pmOWFEdEc1cWw3?oc=5",
+      "description": "Oil tops $100, rupee breaches 95/$ as stocks reel on US-Iran tensions &nbsp;&nbsp; Business Standard",
+      "published": "Wed, 09 Sep 2026 13:25:58 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Drains Record $115 Billion Rupee Surplus With Bond-Sparing FX Swaps - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVZwc0lvZHBuaUZfSzJ0NXhaNmRmdlJQdVFzTHZOWDJ4bjhSTDNnX00tclNGdGlzeWMyRFY5ZlI0b2RFUGx4dFVVcVJzOGlWTkJmdU5fQ3pNbDZuT0taQXJpZ0t1VUNYWWdxTGVmRFo3M012WEY0YllZQjdwMlZoa3p2cmFzVXBkT2JtWUxMRjU4Tk1IZG42T2JJVWJUVzJuLXhYUG5NaXR0QzkyTXhoMzVqSkhSZEZYd1RTUg?oc=5",
+      "description": "RBI Drains Record $115 Billion Rupee Surplus With Bond-Sparing FX Swaps &nbsp;&nbsp; Tech Times",
+      "published": "Wed, 09 Sep 2026 17:29:00 GMT",
+      "source": "Tech Times",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "$100 crude shock: Oil cos lose Rs 5/litre on petrol, Rs 23 on diesel as pump prices stay frozen - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb0VwUUdkekN4QjdOa0E4cC1nOWZBM1RRUHJwMHVraFhTNk5qUFJLOWI4cTVwSy1oQ0xhYWxscnh2b0E3MWRwTGtPR29SWmFYSUg1ODR6X3JZTzlIVjJEQWJlTHllOWpWNHFfeEV1dVJvdHZKYnJqV0R6R3VncjF1SkE4dUNTc2dZRzUtWG9ibldkS2lSeUptRXBnYVNjdXZiVWhmcUdERnVRMzg5RHBxd3lkaXVmY3JRaHpXNHRveWd2SFNzV0dhaS1fNnczZVpTdUhTVVZtX0ZrczRzd0Y3T01PUDdEb2RsV054eE5ORGlHNVJLUWtmMlhxWU_SAYQCQVVfeXFMTWl3UW1JRXNETzYtYlZMZHlZNGFOV056T0FPRUFEV3o3RmxmV2JrY253NFdrTW1BcEhXcnI2YmVpc1lXM0o3aElSeEVkbnowVzM4ZkZWRFBTZUN0dTZTYVdzMEptQXVQUHZGb21IM3hjb214OWJTaDhPeWNhYnBJUmdocklDZEN1cUtzNFJfeVU1cE1Bb3p1S2ZGZGpoQTZ4X1dqWmhreXJQZGZubEZCV0I5aFYtUHBJNnZ4VVJoREhtWkFkaTFwdFMtQnAxYWZDVjE4SlU4YzVsVEo5VlpnTWxUeklVdGR3UzRWTUJRaWNfZmxwRjRuSThrNWFYUUdHRVd5REE?oc=5",
+      "description": "$100 crude shock: Oil cos lose Rs 5/litre on petrol, Rs 23 on diesel as pump prices stay frozen &nbsp;&nbsp; economictimes.com",
+      "published": "Wed, 09 Sep 2026 12:13:22 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2Q5Y1JBTXRpemxkdk1iQUJ5RDlOS1FIbnMwQ2xNSXd3dGR1R2hhU3pVUTJHbHVzdi1mckdXd1FxdGNBZkFNYnF3c0hrUUhyUDB1SEFVTjZWQjRGdldkUV81XzVYNmJFLW13YVV0eHVJZk1FOHBUZ0dwbVFHYVR1R2dLdmJ1SkxlbHRiQzhMblpRNzhWc3VISE1vTThYQzFvdHdj?oc=5",
+      "description": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus &nbsp;&nbsp; BW Businessworld",
+      "published": "Thu, 10 Sep 2026 07:24:52 GMT",
+      "source": "BW Businessworld",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI accepts Rs 3.97 lakh crore in one-day VRRR auction - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDJlQzVjZVdDQnpKWFRnai1obHZRQnNNWXZWakRBUXNIOVFTWUZDSENNYnhnY280TFhqREk5Vm8zeWdlaElWaEFxSUU3c09ad3VZREtiZjRYeXdwQlV5ZDVsRjRGQVJxcV9LMFNwMm13dUdtUEo2Y3pfVmdyU0liNmVIc0I2VnJRZ2tubFczVzY5SG8?oc=5",
+      "description": "RBI accepts Rs 3.97 lakh crore in one-day VRRR auction &nbsp;&nbsp; Traders Union",
+      "published": "Thu, 10 Sep 2026 06:21:39 GMT",
+      "source": "Traders Union",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Oil Cos Lose on Petrol, Diesel as Crude Crosses $100 - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVN6T2xSZ1BZRzRIYjhMMXJtejYxSG15UTN2VEFtZTlXQnhiYzUxS0dfQjRUTnduVF9wYWg2cFpLamMzQnkweFFzUnNZRlhRdng3WmgyZ09ZbFRuYlJORTNsQWJfSUtMX0dWeGlkUW1sSU4xcWx3TUJsMGJFSWZid3NaSjVLVUk2a1FxMmpqUE1OUGtlbHNhTmR3cS10YmkwZHBvcNIBqgFBVV95cUxPb1NKazRsVWxEVHRDemFSYlZVbnJhMkhheC00cjZhLW8wN2JPRFRZNVRTYXlvYkp2RUNsZEVNZnR2R2RzMDR6WDJ5Y0QtT2huNmhsenJMbGUxRnpwcGR2NDkzQ2xCNHN0RXphTmdSTHpDemZSbVMtYW4yUGVCUVJrQ1dpbjJXSlN0bWdONjFqMWYtYkxraHBLbVRwMy1QcjJOOE9SZ2tDeWtvdw?oc=5",
+      "description": "Oil Cos Lose on Petrol, Diesel as Crude Crosses $100 &nbsp;&nbsp; Rediff MoneyWiz",
+      "published": "Wed, 09 Sep 2026 11:51:53 GMT",
+      "source": "Rediff MoneyWiz",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI uses currency swaps to cut $115 billion cash surplus - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbE42UWZMMFJuLXFFLXZvNzViYnZJWWdSV2lXeGNsN3Y2VENfTGVNaEZxLUhnM3JYVjBIRUdtM1p3ZDUwd1I1YnZYU1hIY0VfWTJnYnNZdnNzdlB4MkFNX0c2OTlpQUhUc2dabFBxQTdYVHAzdThvQnhON2dqcm9vVEtUMUFfMi01NDlTTm1vX2lucmtkWU1Ybm9YejZ2aHlncFBkdHBaS2x2VktzYlUzVVM0cVdpMWdfTlV3M21pYk1OdjI5VDVhUGtGSXRZclhpdkHSAdcBQVVfeXFMUGdqWkNFMklrTUJzTmVGQzJsS2FQQkc4aVdmX0dZUFV5MVBNSlo1dGg3MHFLMjlSV3djcWRyWDBsUnZZLTR4OTFvZEFYeGxPYnpQaUFtVG44dDQ0eUoyR3pBSHRUcjMyY0RPaE9rcElRdzEyYkRHdTdFcTNoRDFZaWdOeDllVFJJbVVLX0hlZTh6Y3pUZzJaeW52M0M1elBKUVZUY0hwRlUtUlN5SHUxV2NWYlE5bC1jQ0FSTTlFMTJ2OWxEOExMcUNPUUlJZktmYkNwcEpXbmM?oc=5",
+      "description": "RBI uses currency swaps to cut $115 billion cash surplus &nbsp;&nbsp; economictimes.com",
+      "published": "Wed, 09 Sep 2026 12:50:01 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Drains Surplus Cash Via FX Swaps as Liquidity Hits Record High - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTENDV01RYktYTXFFYmxNTTBSY1FhOGQzWVJlYk1zWTZGcjhDOEdTRVRNMW03bEVvaTNsU3ZjbzlmV2k0dENTQXlBb0o1U05VVHlzUkNHT29FNlNmNHY2Y0N4OGNUVVUtdDN3UjdiclFhaEMyOUNVLVV2emFZeVhNR3dlanpyQThqazZjUVRBeWdVRXFYRndMaVJtV1E2VmlXUlNPRnJQTE15bVhTMjlOYTdQR2MxOGNxSEI1TFhWNVVUanNtUGp1TDBhLTE3SVZu?oc=5",
+      "description": "RBI Drains Surplus Cash Via FX Swaps as Liquidity Hits Record High &nbsp;&nbsp; Whalesbook",
+      "published": "Wed, 09 Sep 2026 11:44:04 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Crude Oil Prices in India Raise Fuel Retailer Losses - urbanacres.in",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVQtSWJma0xEdmgyXzVZb3hjNTFJTGxJcUJsV1hWNWxTZlg2dnA3SmZ3VERxN25ieW5SS0l0Sm9mVE5kZ1V2TVBXa1hvTkNxakd1QkNiSlowanVDeXFSN1cxS3JMb1FxZ2NQenE4b2dSU0plbVNaUEM1d0FWNHJ5RG9nZ2lxRXRuZVE2QkpB?oc=5",
+      "description": "Crude Oil Prices in India Raise Fuel Retailer Losses &nbsp;&nbsp; urbanacres.in",
+      "published": "Wed, 09 Sep 2026 15:15:56 GMT",
+      "source": "urbanacres.in",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Swap Window Secures $136 Billion, Easing Bank Funding - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMGlyQ1ZmcGp5RTV2YWU1bDZmQWpMbE13VFd2by1QbExCdUg4S241a0FUMDlJSWxhX2NYWlh1bUl2MTBHT3h0VkZLd3lwTWo2M0tjalViMDlGQkh1by1JNlh2YTFydElQbWhqLXNneG00THFFTWdfUmdxa0VzQzlYOW1iRHRPcG1DUDF6NEpOLVRtVzVjLWVtY3I5ajZmeWlWWUVfOFlhbzZMbDdzQVBGcWdvUzV6cFdVRnV3WmM0UUxxNFhyM3pfQnpzMVZ1cjRDTHc0dS1PQ3Y?oc=5",
+      "description": "RBI Swap Window Secures $136 Billion, Easing Bank Funding &nbsp;&nbsp; Whalesbook",
+      "published": "Wed, 09 Sep 2026 15:28:37 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Crude Holds Above $100 as US-Iran Conflict Threatens Deeper Oil Supply Disruption - GujaratSamachar English",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVHozSkRiMjlrVXZPWlBZMmM0ak5EcENnSVFTSTh1RWhoc0VjY0Y3NkRWa0ZmVzJHRkZRU05PX1hydjYtZFo4OF8xOEhNWnBkc2VHQllkNGY3cGhRX0VyeXlUWkZXbmhScy16LUU0RmpZNDFKSExSZ3hrNmwybFhUbVlNMDdiM1p4WUwwM05IUkVuNzZYa2N2VVJkOWozX0lCbFc3Nzc0SWtuZU9qZHduX1AxMUlZUzVfdjg5aVFYTXpObF9ScVdFbVZidUFacWhvbDN4Mm5jWmxSUF9EWWhlLTJoX3dpZlV2bnc?oc=5",
+      "description": "Brent Crude Holds Above $100 as US-Iran Conflict Threatens Deeper Oil Supply Disruption &nbsp;&nbsp; GujaratSamachar English",
+      "published": "Thu, 10 Sep 2026 07:00:05 GMT",
+      "source": "GujaratSamachar English",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "ONGC, Oil India shares rise up to 2.5% as Brent crude holds above $100 - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUE1TVE9DZklTU3hTSzhlVzQtMFhBZ3NpSUxWSmhCTkNWT3BwYW9NVGJVMFA0SlozV3FwQnphNm9VQnNVTUN1SDhtSTEyQlI0SjJWRS1TbzR5VkZkN1BMeGE1X1Z3Ti1HbjJGSlhyRmctOEhWSE9GN2JhV3BCekE5T1UxUTNZLXpUTkVBMFMzOXN4aWE0MzVXMWQyUUZQR1FITmtiaVF6R3lhUEJWRkx3Ukk1VHhybnhsaEFsWHQwczA3WDNrSnNqTkZOS1DSAdIBQVVfeXFMT2FBUWktVFlkb3VpMTA1bXlCWmczWXE4NEJKVUJWVlowWUpwejhlMkJhVFFrNDRpVkNOZUlpVU9KNGh2REtQc1BOMFJMcTA2WXRBQ0ZOamtLNkxIOEt5aVBFUW1sX0RCMEpKQVY1VzM0Qi04cGRQOC1ybEs1LU9RODVLRGF3V2xvZUtaX0pSQTFLeGlYTmJMS2RsQ2xDWFhVeDRjVmtaYk5qUzBTa1lLaWVGYUtkbUwxS3diaVplUnBXeDVod0E3R0J4YXZhN1RBWm9n?oc=5",
+      "description": "ONGC, Oil India shares rise up to 2.5% as Brent crude holds above $100 &nbsp;&nbsp; Moneycontrol.com",
+      "published": "Thu, 10 Sep 2026 04:57:55 GMT",
+      "source": "Moneycontrol.com",
+      "stocks": [
+        "ONGC"
+      ],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "ONGC"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "CPCL, MRPL, HPCL, BPCL, IOC shares: Brent nears $102; impact on oil stocks - BusinessToday - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDhmdk5lZDdSMy1kUnF6TzEyOERueGQ2VlNRaGxZdF9lS21TQ0NWMmV4NWhoU1prUndaUWpZcnh0cEJpbE84cm9venp0U3JXXzZYSXppYnNhSDMxVGRRQkRvV21FUkZaR1JBSUZGbTJVa3g2WmFQU2RjTkNsemtOamk5MVliVXpoWER2WHBlTnJyZGZhY3ZROTJjQkNrY0EwNEZRU3dPcV9OanZuRjUwSURlbXg5LUNo?oc=5",
+      "description": "CPCL, MRPL, HPCL, BPCL, IOC shares: Brent nears $102; impact on oil stocks - BusinessToday &nbsp;&nbsp; IndiaIPO",
+      "published": "Thu, 10 Sep 2026 07:05:49 GMT",
+      "source": "IndiaIPO",
+      "stocks": [
+        "BPCL"
+      ],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "BPCL"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Prices Extend Rally: Brent Crude Nears $102 As Iran Threatens Escalation, Hormuz Risks Rise - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR2hfVHZqcE03U2pkdWtqOTBiTDFjQWdiNmM4Y1RFT0hMWW5aVVBqRmplNkhsVVFhcVgyUG1IR01FVERQSEREQS1NSExwOFJYQl9HVkZjbnJJSjlRMTVPZS1xaGpFMTU4LV9oblFDWng4Rm1aZzV0UnVwUVRWZTdvWXpPemNiemxYU19SZE5IRmtGRExNeEtTR3ZNNEo1MFhDaDZJNlg5VUx2cVR6aWVGcG9xT0paT2wyNlpuVEF2ZVMzWEplQkNSR1lOeHhWM3ZVNnF5dVR2U1AyZ9IB2gFBVV95cUxNR2hfVHZqcE03U2pkdWtqOTBiTDFjQWdiNmM4Y1RFT0hMWW5aVVBqRmplNkhsVVFhcVgyUG1IR01FVERQSEREQS1NSExwOFJYQl9HVkZjbnJJSjlRMTVPZS1xaGpFMTU4LV9oblFDWng4Rm1aZzV0UnVwUVRWZTdvWXpPemNiemxYU19SZE5IRmtGRExNeEtTR3ZNNEo1MFhDaDZJNlg5VUx2cVR6aWVGcG9xT0paT2wyNlpuVEF2ZVMzWEplQkNSR1lOeHhWM3ZVNnF5dVR2U1AyZw?oc=5",
+      "description": "Oil Prices Extend Rally: Brent Crude Nears $102 As Iran Threatens Escalation, Hormuz Risks Rise &nbsp;&nbsp; NDTV Profit",
+      "published": "Thu, 10 Sep 2026 01:16:05 GMT",
+      "source": "NDTV Profit",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    }
+  ],
+  "high_impact": [
+    {
+      "query": "India markets",
+      "title": "Sensex, Nifty fall sharply as crude oil crosses $100; IT stocks lead sell-off - India Today",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQSHRJRmhweURrMjQyYlR4QTl6NjI1VEY1QmJiQkRyWHBlMmhwQ2hxNlRXNHR6YWwzblg0eGZmUlEyUXVNMVZOd25sSW1UX2U3WFdxS09LMXdJSzAtNHNNN3VlcDQ5U01OdXhES28wYjU5endETVZsQjd3c1pFY3lOd1c4WkQ5T1JZRVc0NmJ2OGhpemxrNFpjdFlJOGtnMnhUeGNsU2dsZHhWTFF5Ty0ydW43OW9YUEhpalg2QzNHMzh2Q0o3V25Xb0M0RlczUk1NQ3lEdTE0NlZfX1ptZzdUaTRfRWJpd25WcTZObUZaNDbSAfYBQVVfeXFMT0xwbXloNURjY2pxTEZBaWhBc3Z0Ulh5N2k0S1piMmZRZG1aMmVlZEt0dTk1dHgxTGVqc2lmU1AwNnFhU0xoMGw4RXFVbVFDeXIxS0h3WmQxZms3N01sSU8xbWR2X3dXazljaHpXM2Z0S2VvV0VpRktrZEM4R25BYlFONXFkMGhFRmdaT0RhbzQzOUxyUGhtNi0wRlBkQ1dSQTNaSUdBM2Zmb3h6RjEyN29mTkVmZkNNOVNCUGoyM29adXpKWVpTb2d2NXUxTExaOTh5ZkdYMzktZVFmNWwxbmRTVVF4MTlLN0xZb2h4T2pqWEJKYlhR?oc=5",
+      "description": "Sensex, Nifty fall sharply as crude oil crosses $100; IT stocks lead sell-off &nbsp;&nbsp; India Today",
+      "published": "Wed, 09 Sep 2026 10:04:59 GMT",
+      "source": "India Today",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORWxMeFo5ZU5hSVFJNXNKUWx6UTRneUtFYW1faGQyLUVWUHJKSmJROUphbXV0bkg2ZVdsYWpMS1VnMlFIeVRjdmMwSkVXWWJqLXBJcGhiWU16ZHp4N29XSVF0bnV1blZra0dDY2ZReW9qVS1BTFFlRnFpRUUzT3NpOERxeXpvLWZudndKZ1d0TExfamtsdzFjRmVYQUlnQWxaQXgxY0VhVV9FOUV4Sl9YUDN5dHAxV3Q2SVN2SWkzVnVqWTFnSHNlZmtlVWVqYTdMZ05NMDF6S1ZJTVJxNzVlR2VadkdwMm1tVkpYdDN6cnjSAfYBQVVfeXFMTlkxX3FiYWc1MGg4WlpRX1RQUjFrY1VaTjEyamRlbXdoX0k3SWctTENYNFhsOHJlTEtOVmlPaWRRNEtmaWxXTXhIMFNFSC1oS2VURk4xTU1oQjdxZGFYZ0syT3l3V3dTQk1NUWlWX2hhQkdWVXcxTnc3Z2Fld1ZFV0tDU3VlUUdON1ExdXFuaUN1bHRMQkYwTTI3U3BxMmRlRWE3Tm5Ta0F5dnU1VkVfUVFkc3ZkX2xZN3ZuZGpQNS1JdVRJOFlVa1VOZ0pIVklLSVZidFpsZDFacjFDRmRjU2haczFSQ0loaVc2ZVZCOHd3cFhZT0ln?oc=5",
+      "description": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed &nbsp;&nbsp; economictimes.com",
+      "published": "Thu, 10 Sep 2026 02:17:56 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India bonds fall as oil tops $100/bbl, reviving inflation concerns - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTjcwcVBRRDBnUExUZDVaalRScjRiSnN2dVd1OXBYbTVpYVpXVHB5cmQtYVNIbWFqWTF1VVJvR2ZyNVY5b3JYVmd4YU9LNzJKbkZqMVhwWnVVLURHUGpTWi1IQUh3N0ZFaUh4d2RQQ2d3SlgxVVBkRkg2eUtLRnJfVUlLaEg1dW04SkUtMF9vNkZQSGlObGVqN0tUeGhNaE1FVlMyeml0S2xsY3NfWmFzUmlLOVdwRzJaSVFLZi1fZnJEWFVuZHRkTzdSaUNERVFVTC01UURwVjLSAdIBQVVfeXFMTTQwSTBkeGE0Q0hYMWdDdUdQQ2tZeUZ6X0ZyWGM4enRuaGpXOFBwMTVSVjlucVA3cEwxNkI4OGg5M0twWGdyVllqQVBtUFdvYVZURHN5NU8zRHZTWlhZNkZERUR3Z3habThOakhCUXFYTjBrbkJHZ0dsLWdsbExyMnNBX2JHcDdmc2lieGxYdkRWb0lodnhtQ0N0VzBQWjJuZmJPclByT09heWVKTmVMWGI3WWpIRi1BOHRzSVZ3d2FpVGVvUklZTkdnWEFGYktBeXlB?oc=5",
+      "description": "India bonds fall as oil tops $100/bbl, reviving inflation concerns &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Wed, 09 Sep 2026 12:07:42 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Auto",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "India bonds fall as oil tops $100/bbl, reviving inflation concerns - bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUlY4LTV1dDJQN2c5S2oyc19haTFFaEFETW9xclpkTHMxbEQ1RzhoWUJtZll6MU5GS1A0N0QxRmlmWVJOLXg1NUptRnJGdnU5dkhPN0VuUXRURW84X0JpUW1IbTIyb1RLYXAwczl2ZDVJM1laV1RrZkRlbE1kQ0FBc0tPNnJ2YmRYd054Umh3RXdlNjJXaGxmQXNyNHRiQ2FEVGlkOG9ySnpub0k0SVFEdFkyLVFPSFVqUVpqZ1BodzBBMGRoWFlrdmRFaWZaV052NUN3ZUpPZUI2U3FL0gHcAUFVX3lxTFBSVjgtNXV0MlA3ZzlLajJzX2FpMUVoQURNb3FyWmRMczFsRDVHOGhZQm1mWXoxTkZLUDQ3RDFGaWZZUk4teDU1Sm1GckZ2dTl2SE83RW5RdFRFbzhfQmlRbUhtMjJvVEthcDBzOXZkNUkzWVpXVGtmRGVsTWRDQUFzS082cnZiZFh3TnhSaHdFd2U2MldobGZBc3I0dGJDYURUaWQ4b3JKem5vSTRJUUR0WTItUU9IVWpRWmpnUGh3MEEwZGhYWWt2ZEVpZlpXTnY1Q3dlSk9lQjZTcUs?oc=5",
+      "description": "India bonds fall as oil tops $100/bbl, reviving inflation concerns &nbsp;&nbsp; bfsi.economictimes.indiatimes.com",
+      "published": "Wed, 09 Sep 2026 12:56:31 GMT",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Auto",
+        "Energy"
+      ],
+      "affected": [
+        "Auto",
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO",
+        "RELIANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Dalal Street Sentiment Turns Negative: Crude, Rate Hike Fears Weigh On Indian Markets - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdUNYU3pBcVFkaThCZ2VkTmx0cDNURGJ6MDIyNzM5aG5GQzI3QmNjSjVLaWZKOXlFWFJhbDhSLTItYm1hNll6dTRiR1N4VEVkN0pHeWdqQnRWaDZtT3ZpWDU5WG43QllkWkRsMVpnN0Q5aU9mSXA0alBBUlNwLUxxZ0pZcVlZUmxqTHZfX09NZjFlTTZfVHpMQXZaWHFXNGpweTIxajRJbW9kS2VIdXZtZHk3VlYyVTF4NzYxUFhEMWV2aVBXcm81cDRfeExFSkNQZ25ackszbXNnYXBKa20tVXFPYWpyUmNQRk00?oc=5",
+      "description": "Dalal Street Sentiment Turns Negative: Crude, Rate Hike Fears Weigh On Indian Markets &nbsp;&nbsp; Business Today",
+      "published": "Wed, 09 Sep 2026 09:10:30 GMT",
+      "source": "Business Today",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Banks NBFC",
+      "title": "Axis Bank CEO Signals Possible RBI Rate Hike, Flags Lending Risks - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON1lMMmNDQ0hvRVJJRXJxSkZOalp6YlVzNjBEUjhiQTBVaDE3czdFeWVkVFoxdVdjRXFIeWNybUZwcjVMeEJGdW5uSXcwT2x2NGFoNDk3Q2FiTURiLVpZOHozRndRSWNYcnFPQXpVTmlGSEtMSVQyRzg3LTRLa2dwT0ZVZFYzU0dyYUM0NXpTYl9KR2lWa1JzOERYWk1iLWpURVFxS29CZlViYlZlaHBoMlhBRnVJclllcEdYcUNWdmEtc0ZjWjFCU0JIODVPMzRLUzk4ZlQ3eGZfeWk1?oc=5",
+      "description": "Axis Bank CEO Signals Possible RBI Rate Hike, Flags Lending Risks &nbsp;&nbsp; Whalesbook",
+      "published": "Wed, 09 Sep 2026 12:31:36 GMT",
+      "source": "Whalesbook",
+      "stocks": [
+        "AXISBANK"
+      ],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "AXISBANK"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Global Market Today: Asian stocks to fall as oil stokes inflation fears - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZDFwSlNWNzlMYnB2S0xHQzNDaUg3VGNFNWdqU2tMZVQxQmdFdHBWTjhqeTF0ZTIxWERNYlpVZ1IzUTBKcFdBWjBjTUhZOTVpUHZiOGtzYnAxeUdBWlFIR05UeF9YT0lLam1HMDBPLWdTbWhQNi1fZzFFZ2Ewd0MtX05VSUpjalVOVnI4cXdkSkJDY0VNeXVmM3BNdEpkbU1LUXg5cklJRVZVd19oX3Q0X3YzbUtmSkJMTUVJdXA1aDloTWppbTh6Zy0xRWFhMHhVNDF4T2tTWWZra0lCcEFHUHZ5MHdOSGs5SzI0OWVTdWNlenE2aTh4RDhET1pUY05lVFdlbzV6T0s0Z2VpRjBrdzVmWDhGR0ltNllBTEVHdFZuSS11N2c0THQzZ2JCYUpkLTdkZWpSX2VJQnRQdVhTUWF1OFNYdHlyYnfSAeYBQVVfeXFMUGVqMHFRWW5VbV8xM1FidmowbFhRQmVuXzBaLVBNaUxPSXdLeHcyVGpwQ0lBcXg1dTVJam12UFFNLXhRRGZmSHdyX1FpNDZ5QmlMQXdVUG9yRDU5Y21lVHpJSzJITXFmSzFoVjdULTFvVllSZU0tWTlxOEw4Q1c5ZnAtZFRCbGcwenFrNko0SDhXWFYtc1lqRUxicElHUk8yZ2F5UUI5ZXpxeFFhSXQzaEZNVXdmS2JRWndGVnRDMjVaNG81REZwRnJlbHgyY2d4TGdpa19WNUF2Q1lRak13dDVodnA1VEE?oc=5",
+      "description": "Global Market Today: Asian stocks to fall as oil stokes inflation fears &nbsp;&nbsp; economictimes.indiatimes.com",
+      "published": "Thu, 10 Sep 2026 01:03:25 GMT",
+      "source": "economictimes.indiatimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Apple's foldable debut fails to lift US stocks as major indexes fall for third straight session; Brent crude tops $101 - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ya2U5WV9BRFVCTUU3WnZDYzlzTHNOUExFc3F5RlZnR2twNThWVGtNUzNwZGFYOTVBUl9MYkxnMjBEc1VGU0FnNnZRbzB6UXdjMmVycHlncmZWU1A5OFFhRVcwMTFxZFNmZFVqay1sNFJiNk1vLWc?oc=5",
+      "description": "Apple's foldable debut fails to lift US stocks as major indexes fall for third straight session; Brent crude tops $101 &nbsp;&nbsp; finance.biggo.com",
+      "published": "Wed, 09 Sep 2026 23:55:00 GMT",
+      "source": "finance.biggo.com",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "US August CPI Preview: Will Inflation Reaccelerate? US Stocks, Dollar and Gold Face Key Test - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZWI4b1UtRWRPM1drcGJXTWZUcnY3YnR0UTVxWU1oWGFkNlo4SmcyUTBBaEQ0dGZQMDU0WHFmbzVkclpoTHFVTEtRZDZ2MEtVbWRQRGxIZGNpZ3BlTDJEOGxQMzdLRVhoVnJORFNKUkoxWFd2R0VCZXlhdFJuU0Y2bHpmSGtGOGlYcF9WNjVOXzhqYUpoVnY5UmZnVTRLNnJWeS1yYXNWNXhxVk5PLWNvaXNfUThTWHd1eS00Y1F6ZmdpQ3JSUFFiT3hmUG9ycjlQSkxVNmtWVU8yOXZHZVhkNw?oc=5",
+      "description": "US August CPI Preview: Will Inflation Reaccelerate? US Stocks, Dollar and Gold Face Key Test &nbsp;&nbsp; TradingKey",
+      "published": "Thu, 10 Sep 2026 03:44:40 GMT",
+      "source": "TradingKey",
+      "stocks": [],
+      "sectors": [
+        "Auto"
+      ],
+      "affected": [
+        "Auto"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "derived_stocks": [
+        "MARUTI",
+        "M&M",
+        "BAJAJ-AUTO",
+        "EICHERMOT",
+        "HEROMOTOCO"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Fall, Brent Jumps Over $100 Amid Middle East Tensioms \u2014 CASY, TTAN, RKLB in Focus - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWjZZUmZmZHFOcDJZSzduYlJ3STBDc2tubE8xSUY0SjR5WGVhWXN0M3BkWnNWQmRiQzJLUEIzeTV4aUVxUjIxTU1tbGFibEdPc191cHM2NW9nejZoYWdOZXlaajFEemQ5YVRFbTFwbUdPWDJraXNrZExXRlRFdWNsMDZQZjFYYm9JSk5Qc29PZlhsSGF5bDNJR3pUVG9vWFdEU0w5U0I5QnNXRVNjaXNMd0RWNVJHbm0zUjJJX2lqdDhScTREYk41UHdTZEpJeS1IZmlYcnVlQ0tLV2xJS1o5MWRMQ3ByMjBwTjRpdHdGaVVsVzdIa3czWklwN0czV29HQzN1aWN0b2I0Y0U?oc=5",
+      "description": "Stock Market Today: Dow Jones, S&P 500 Futures Fall, Brent Jumps Over $100 Amid Middle East Tensioms \u2014 CASY, TTAN, RKLB in Focus &nbsp;&nbsp; TradingView",
+      "published": "Wed, 09 Sep 2026 09:42:48 GMT",
+      "source": "TradingView",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Global markets",
+      "title": "Wall Street Futures Fall as Brent Crude Crosses USD 100 for First Time Since July - Analytics Insight",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOU3lMcmt1RmhnaW93ejg5Y3ZMalhpOWNxWVRCby1rOHU0dEF1dEt2WEt4UnlVYTRYY0hqQmR2c3dJWnQwdklpc19yZHo3NVpkRzBwSHB5RkZkUkpDOGN0ZzdiYXNZekx6enNfc1Q2NURneHN2b0N1UktwMU9ZNEFMRFlIMjlrNXh2eE9Zb01ZZ3FqaFZONktsc3B2WVRXSXRkN1VfQjltZTFEWEFqTWhHa2Q4QzZTdTJKNlBDWVFHNGdET1lDVW43NWRpa9IBywFBVV95cUxOU3lMcmt1RmhnaW93ejg5Y3ZMalhpOWNxWVRCby1rOHU0dEF1dEt2WEt4UnlVYTRYY0hqQmR2c3dJWnQwdklpc19yZHo3NVpkRzBwSHB5RkZkUkpDOGN0ZzdiYXNZekx6enNfc1Q2NURneHN2b0N1UktwMU9ZNEFMRFlIMjlrNXh2eE9Zb01ZZ3FqaFZONktsc3B2WVRXSXRkN1VfQjltZTFEWEFqTWhHa2Q4QzZTdTJKNlBDWVFHNGdET1lDVW43NWRpaw?oc=5",
+      "description": "Wall Street Futures Fall as Brent Crude Crosses USD 100 for First Time Since July &nbsp;&nbsp; Analytics Insight",
+      "published": "Wed, 09 Sep 2026 13:07:04 GMT",
+      "source": "Analytics Insight",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXcyZHk3MWlyVXBtQ3RPR2JCNWFLaFY1eVFuNmdSU3dhbGZSV0FGaG5wenBicC1GLWUxV1ZQc3lCS1AwVmJsSkIwVEUzNWIzSEVJYVU5MUhrVzlmZVJJUHVObm83dXVhaGx1ekZZOFlRaE1JVndxUnE2NGg3NmNLOVZjczFmd0NVczJ4dDVrNkdxakJnWVdlcWVTa1BlVG5NRUlOQldDSnNVMVRFUUhYUTRCWHhuWUl6UzdvMldLWDJhWTA?oc=5",
+      "description": "AMD Rises 3% as CFO Lifts AI Chip Market Forecast Toward $3 Trillion; Intel Ticks Up &nbsp;&nbsp; 24/7 Wall St.",
+      "published": "Wed, 09 Sep 2026 14:45:00 GMT",
+      "source": "24/7 Wall St.",
+      "stocks": [],
+      "sectors": [
+        "IT"
+      ],
+      "affected": [
+        "IT"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "AI semiconductors",
+      "title": "Global Market Today: Asian stocks to fall as oil stokes inflation fears - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPekJuYktlR29ZRkdxTGw1NjBwWFdqOHI3ekM1a1llZGxXVlhOeEJIOV9wNzhKMHhDYmEwWWZIU2Y3Nk5sRE1DMl9JTGpZZ0JBRDY0QUc4c0h0dzR3S2R4WXRtZXlQMENIeFNsbExsT3pHeWdBRXV4WkhOS2NrekJ3Vy0tLXdCcVh2U2t5U0h3UlpIZkUySWNjaGttVGE0VEJsYTk2bENwOUZvdFZGLWdMMy1aVERLaHRMelFIYlh2RXZNR214SDJuZUNITEtGNEk4RW51dnpJUnhrZ29vMlRyWdIB5gFBVV95cUxQZWowcVFZblVtXzEzUWJ2ajBsWFFCZW5fMFotUE1pTE9Jd0t4dzJUanBDSUFxeDV1NUlqbXZQUU0teFFEZmZId3JfUWk0NnlCaUxBd1VQb3JENTljbWVUeklLMkhNcWZLMWhWN1QtMW9WWVJlTS1ZOXE4TDhDVzlmcC1kVEJsZzB6cWs2SjRIOFdYVi1zWWpFTGJwSUdSTzJnYXlRQjllenF4UWFJdDNoRk1Vd2ZLYlFad0ZWdEMyNVo0bzVERnBGcmVseDJjZ3hMZ2lrX1Y1QXZDWVFqTXd0NWh2cDVUQQ?oc=5",
+      "description": "Global Market Today: Asian stocks to fall as oil stokes inflation fears &nbsp;&nbsp; economictimes.com",
+      "published": "Thu, 10 Sep 2026 01:03:25 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Negative",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Brent Crude hits $100/bbl after 3 months; Nifty Oil & Gas stocks then & now - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTGk2eEZCU2h5SWxXd2piUUJ4bXl4d3Y4VG9RcGVma3N2bTY0bVZZdVlTWXM0bm80SV9obGtmb2o4M1MyYnFiajZTQzFYRnNmVjhRQzhhdV9DcTdieDlpMGZBZGE0ME55ZERXVzZ1ZktFRHV5eU9EajgycWlHYXBDSGN1cV9nR1pPbEFlcmYzNnB4bDBjYXJuai1hY01sc25raHpLWktQNA?oc=5",
+      "description": "Brent Crude hits $100/bbl after 3 months; Nifty Oil & Gas stocks then & now &nbsp;&nbsp; IndiaIPO",
+      "published": "Thu, 10 Sep 2026 04:55:51 GMT",
+      "source": "IndiaIPO",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "India markets",
+      "title": "Oil breaches $100; stocks, rupee slide - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QSXpKZ0Y1MWVnbl9GaFJRRzVRRjRreUpBSGxzRzZSYTZNWk54dllMY0RodTRaRmRiWGliWl9KM0pTRmFOaFAwUm84OVp3WC0xOXJUdmUwdXYtVkVnWFFfdERJR0d4bXhWMllXdmhCYjlhcmdVUUNITHh5aw?oc=5",
+      "description": "Oil breaches $100; stocks, rupee slide &nbsp;&nbsp; IndiaIPO",
+      "published": "Wed, 09 Sep 2026 21:22:32 GMT",
+      "source": "IndiaIPO",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "IT",
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+      "description": "RBI keeps repo rate unchanged; Projects India\u2019s real GDP growth for current fiscal at 6.9% | Akashvani News &nbsp;&nbsp; News On AIR",
+      "published": "Wed, 09 Sep 2026 22:39:33 GMT",
+      "source": "News On AIR",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Oil tops $100, rupee breaches 95/$ as stocks reel on US-Iran tensions - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT0RRd2U5RXRSdnU3YWdGTmI5d0dlRi11d3hGdzFTb1hiYjE3TTVNOWxWNUhlTUVDV2RnWVVqNDhqYUY0YW5qb3RBR2pva1Y2MXhBZEtwOXVjNlJ6TnBBLUpmNUNxVmxfd0hudkJ5aW5TenNfOFdOMHJiVW9YZUoyN3o3UW5DOTBBTWVRWURKcEFVcmJVdnJzaEZNZllqM0tvaXBCbnc0bU90eXQ5aG53MHB3YktjM05BeDZSS2VmUjJDV294aFVoY0drd9IB0AFBVV95cUxNOFd2OV9jc3pqc0RBWVZWWnBDdzlJN0p3bE4xN1RPODUtUmNxNU1iQXNSNU9vM1lXNHhvbU9nTzE4RS03QWhySFFuSWMwVGFXM0hoZXF6OWp5dUxVUW9mdWFHZko4N1BPOHRPSjlRaFNCRjQ5dHNXYl9sQ19RYU5DUkhjUG1hdlV4VVVOV2NQenNtN2U3SmZ2MjVpeFB6QzRaeURJNS1vNEdWMmhyT01veGxvQ2FEWnZySVFzRE1YNHpRWlpuQ2pmOWFEdEc1cWw3?oc=5",
+      "description": "Oil tops $100, rupee breaches 95/$ as stocks reel on US-Iran tensions &nbsp;&nbsp; Business Standard",
+      "published": "Wed, 09 Sep 2026 13:25:58 GMT",
+      "source": "Business Standard",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Energy"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Drains Record $115 Billion Rupee Surplus With Bond-Sparing FX Swaps - Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMVZwc0lvZHBuaUZfSzJ0NXhaNmRmdlJQdVFzTHZOWDJ4bjhSTDNnX00tclNGdGlzeWMyRFY5ZlI0b2RFUGx4dFVVcVJzOGlWTkJmdU5fQ3pNbDZuT0taQXJpZ0t1VUNYWWdxTGVmRFo3M012WEY0YllZQjdwMlZoa3p2cmFzVXBkT2JtWUxMRjU4Tk1IZG42T2JJVWJUVzJuLXhYUG5NaXR0QzkyTXhoMzVqSkhSZEZYd1RTUg?oc=5",
+      "description": "RBI Drains Record $115 Billion Rupee Surplus With Bond-Sparing FX Swaps &nbsp;&nbsp; Tech Times",
+      "published": "Wed, 09 Sep 2026 17:29:00 GMT",
+      "source": "Tech Times",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "$100 crude shock: Oil cos lose Rs 5/litre on petrol, Rs 23 on diesel as pump prices stay frozen - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQb0VwUUdkekN4QjdOa0E4cC1nOWZBM1RRUHJwMHVraFhTNk5qUFJLOWI4cTVwSy1oQ0xhYWxscnh2b0E3MWRwTGtPR29SWmFYSUg1ODR6X3JZTzlIVjJEQWJlTHllOWpWNHFfeEV1dVJvdHZKYnJqV0R6R3VncjF1SkE4dUNTc2dZRzUtWG9ibldkS2lSeUptRXBnYVNjdXZiVWhmcUdERnVRMzg5RHBxd3lkaXVmY3JRaHpXNHRveWd2SFNzV0dhaS1fNnczZVpTdUhTVVZtX0ZrczRzd0Y3T01PUDdEb2RsV054eE5ORGlHNVJLUWtmMlhxWU_SAYQCQVVfeXFMTWl3UW1JRXNETzYtYlZMZHlZNGFOV056T0FPRUFEV3o3RmxmV2JrY253NFdrTW1BcEhXcnI2YmVpc1lXM0o3aElSeEVkbnowVzM4ZkZWRFBTZUN0dTZTYVdzMEptQXVQUHZGb21IM3hjb214OWJTaDhPeWNhYnBJUmdocklDZEN1cUtzNFJfeVU1cE1Bb3p1S2ZGZGpoQTZ4X1dqWmhreXJQZGZubEZCV0I5aFYtUHBJNnZ4VVJoREhtWkFkaTFwdFMtQnAxYWZDVjE4SlU4YzVsVEo5VlpnTWxUeklVdGR3UzRWTUJRaWNfZmxwRjRuSThrNWFYUUdHRVd5REE?oc=5",
+      "description": "$100 crude shock: Oil cos lose Rs 5/litre on petrol, Rs 23 on diesel as pump prices stay frozen &nbsp;&nbsp; economictimes.com",
+      "published": "Wed, 09 Sep 2026 12:13:22 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb2Q5Y1JBTXRpemxkdk1iQUJ5RDlOS1FIbnMwQ2xNSXd3dGR1R2hhU3pVUTJHbHVzdi1mckdXd1FxdGNBZkFNYnF3c0hrUUhyUDB1SEFVTjZWQjRGdldkUV81XzVYNmJFLW13YVV0eHVJZk1FOHBUZ0dwbVFHYVR1R2dLdmJ1SkxlbHRiQzhMblpRNzhWc3VISE1vTThYQzFvdHdj?oc=5",
+      "description": "RBI Withdraws Over Rs 6 Tn Liquidity After Record Surplus &nbsp;&nbsp; BW Businessworld",
+      "published": "Thu, 10 Sep 2026 07:24:52 GMT",
+      "source": "BW Businessworld",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI accepts Rs 3.97 lakh crore in one-day VRRR auction - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDJlQzVjZVdDQnpKWFRnai1obHZRQnNNWXZWakRBUXNIOVFTWUZDSENNYnhnY280TFhqREk5Vm8zeWdlaElWaEFxSUU3c09ad3VZREtiZjRYeXdwQlV5ZDVsRjRGQVJxcV9LMFNwMm13dUdtUEo2Y3pfVmdyU0liNmVIc0I2VnJRZ2tubFczVzY5SG8?oc=5",
+      "description": "RBI accepts Rs 3.97 lakh crore in one-day VRRR auction &nbsp;&nbsp; Traders Union",
+      "published": "Thu, 10 Sep 2026 06:21:39 GMT",
+      "source": "Traders Union",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Oil Cos Lose on Petrol, Diesel as Crude Crosses $100 - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVN6T2xSZ1BZRzRIYjhMMXJtejYxSG15UTN2VEFtZTlXQnhiYzUxS0dfQjRUTnduVF9wYWg2cFpLamMzQnkweFFzUnNZRlhRdng3WmgyZ09ZbFRuYlJORTNsQWJfSUtMX0dWeGlkUW1sSU4xcWx3TUJsMGJFSWZid3NaSjVLVUk2a1FxMmpqUE1OUGtlbHNhTmR3cS10YmkwZHBvcNIBqgFBVV95cUxPb1NKazRsVWxEVHRDemFSYlZVbnJhMkhheC00cjZhLW8wN2JPRFRZNVRTYXlvYkp2RUNsZEVNZnR2R2RzMDR6WDJ5Y0QtT2huNmhsenJMbGUxRnpwcGR2NDkzQ2xCNHN0RXphTmdSTHpDemZSbVMtYW4yUGVCUVJrQ1dpbjJXSlN0bWdONjFqMWYtYkxraHBLbVRwMy1QcjJOOE9SZ2tDeWtvdw?oc=5",
+      "description": "Oil Cos Lose on Petrol, Diesel as Crude Crosses $100 &nbsp;&nbsp; Rediff MoneyWiz",
+      "published": "Wed, 09 Sep 2026 11:51:53 GMT",
+      "source": "Rediff MoneyWiz",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI uses currency swaps to cut $115 billion cash surplus - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbE42UWZMMFJuLXFFLXZvNzViYnZJWWdSV2lXeGNsN3Y2VENfTGVNaEZxLUhnM3JYVjBIRUdtM1p3ZDUwd1I1YnZYU1hIY0VfWTJnYnNZdnNzdlB4MkFNX0c2OTlpQUhUc2dabFBxQTdYVHAzdThvQnhON2dqcm9vVEtUMUFfMi01NDlTTm1vX2lucmtkWU1Ybm9YejZ2aHlncFBkdHBaS2x2VktzYlUzVVM0cVdpMWdfTlV3M21pYk1OdjI5VDVhUGtGSXRZclhpdkHSAdcBQVVfeXFMUGdqWkNFMklrTUJzTmVGQzJsS2FQQkc4aVdmX0dZUFV5MVBNSlo1dGg3MHFLMjlSV3djcWRyWDBsUnZZLTR4OTFvZEFYeGxPYnpQaUFtVG44dDQ0eUoyR3pBSHRUcjMyY0RPaE9rcElRdzEyYkRHdTdFcTNoRDFZaWdOeDllVFJJbVVLX0hlZTh6Y3pUZzJaeW52M0M1elBKUVZUY0hwRlUtUlN5SHUxV2NWYlE5bC1jQ0FSTTlFMTJ2OWxEOExMcUNPUUlJZktmYkNwcEpXbmM?oc=5",
+      "description": "RBI uses currency swaps to cut $115 billion cash surplus &nbsp;&nbsp; economictimes.com",
+      "published": "Wed, 09 Sep 2026 12:50:01 GMT",
+      "source": "economictimes.com",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Drains Surplus Cash Via FX Swaps as Liquidity Hits Record High - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTENDV01RYktYTXFFYmxNTTBSY1FhOGQzWVJlYk1zWTZGcjhDOEdTRVRNMW03bEVvaTNsU3ZjbzlmV2k0dENTQXlBb0o1U05VVHlzUkNHT29FNlNmNHY2Y0N4OGNUVVUtdDN3UjdiclFhaEMyOUNVLVV2emFZeVhNR3dlanpyQThqazZjUVRBeWdVRXFYRndMaVJtV1E2VmlXUlNPRnJQTE15bVhTMjlOYTdQR2MxOGNxSEI1TFhWNVVUanNtUGp1TDBhLTE3SVZu?oc=5",
+      "description": "RBI Drains Surplus Cash Via FX Swaps as Liquidity Hits Record High &nbsp;&nbsp; Whalesbook",
+      "published": "Wed, 09 Sep 2026 11:44:04 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "Financials",
+        "IT"
+      ],
+      "affected": [
+        "Financials",
+        "IT"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "Crude Oil Prices in India Raise Fuel Retailer Losses - urbanacres.in",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaVQtSWJma0xEdmgyXzVZb3hjNTFJTGxJcUJsV1hWNWxTZlg2dnA3SmZ3VERxN25ieW5SS0l0Sm9mVE5kZ1V2TVBXa1hvTkNxakd1QkNiSlowanVDeXFSN1cxS3JMb1FxZ2NQenE4b2dSU0plbVNaUEM1d0FWNHJ5RG9nZ2lxRXRuZVE2QkpB?oc=5",
+      "description": "Crude Oil Prices in India Raise Fuel Retailer Losses &nbsp;&nbsp; urbanacres.in",
+      "published": "Wed, 09 Sep 2026 15:15:56 GMT",
+      "source": "urbanacres.in",
+      "stocks": [],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "RBI rates inflation",
+      "title": "RBI Swap Window Secures $136 Billion, Easing Bank Funding - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMGlyQ1ZmcGp5RTV2YWU1bDZmQWpMbE13VFd2by1QbExCdUg4S241a0FUMDlJSWxhX2NYWlh1bUl2MTBHT3h0VkZLd3lwTWo2M0tjalViMDlGQkh1by1JNlh2YTFydElQbWhqLXNneG00THFFTWdfUmdxa0VzQzlYOW1iRHRPcG1DUDF6NEpOLVRtVzVjLWVtY3I5ajZmeWlWWUVfOFlhbzZMbDdzQVBGcWdvUzV6cFdVRnV3WmM0UUxxNFhyM3pfQnpzMVZ1cjRDTHc0dS1PQ3Y?oc=5",
+      "description": "RBI Swap Window Secures $136 Billion, Easing Bank Funding &nbsp;&nbsp; Whalesbook",
+      "published": "Wed, 09 Sep 2026 15:28:37 GMT",
+      "source": "Whalesbook",
+      "stocks": [],
+      "sectors": [
+        "Financials"
+      ],
+      "affected": [
+        "Financials"
+      ],
+      "tone": "Positive",
+      "impact": "High",
+      "watch": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "derived_stocks": [
+        "HDFCBANK",
+        "ICICIBANK",
+        "SBIN",
+        "AXISBANK",
+        "KOTAKBANK",
+        "BAJFINANCE"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Brent Crude Holds Above $100 as US-Iran Conflict Threatens Deeper Oil Supply Disruption - GujaratSamachar English",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVHozSkRiMjlrVXZPWlBZMmM0ak5EcENnSVFTSTh1RWhoc0VjY0Y3NkRWa0ZmVzJHRkZRU05PX1hydjYtZFo4OF8xOEhNWnBkc2VHQllkNGY3cGhRX0VyeXlUWkZXbmhScy16LUU0RmpZNDFKSExSZ3hrNmwybFhUbVlNMDdiM1p4WUwwM05IUkVuNzZYa2N2VVJkOWozX0lCbFc3Nzc0SWtuZU9qZHduX1AxMUlZUzVfdjg5aVFYTXpObF9ScVdFbVZidUFacWhvbDN4Mm5jWmxSUF9EWWhlLTJoX3dpZlV2bnc?oc=5",
+      "description": "Brent Crude Holds Above $100 as US-Iran Conflict Threatens Deeper Oil Supply Disruption &nbsp;&nbsp; GujaratSamachar English",
+      "published": "Thu, 10 Sep 2026 07:00:05 GMT",
+      "source": "GujaratSamachar English",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "ONGC, Oil India shares rise up to 2.5% as Brent crude holds above $100 - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUE1TVE9DZklTU3hTSzhlVzQtMFhBZ3NpSUxWSmhCTkNWT3BwYW9NVGJVMFA0SlozV3FwQnphNm9VQnNVTUN1SDhtSTEyQlI0SjJWRS1TbzR5VkZkN1BMeGE1X1Z3Ti1HbjJGSlhyRmctOEhWSE9GN2JhV3BCekE5T1UxUTNZLXpUTkVBMFMzOXN4aWE0MzVXMWQyUUZQR1FITmtiaVF6R3lhUEJWRkx3Ukk1VHhybnhsaEFsWHQwczA3WDNrSnNqTkZOS1DSAdIBQVVfeXFMT2FBUWktVFlkb3VpMTA1bXlCWmczWXE4NEJKVUJWVlowWUpwejhlMkJhVFFrNDRpVkNOZUlpVU9KNGh2REtQc1BOMFJMcTA2WXRBQ0ZOamtLNkxIOEt5aVBFUW1sX0RCMEpKQVY1VzM0Qi04cGRQOC1ybEs1LU9RODVLRGF3V2xvZUtaX0pSQTFLeGlYTmJMS2RsQ2xDWFhVeDRjVmtaYk5qUzBTa1lLaWVGYUtkbUwxS3diaVplUnBXeDVod0E3R0J4YXZhN1RBWm9n?oc=5",
+      "description": "ONGC, Oil India shares rise up to 2.5% as Brent crude holds above $100 &nbsp;&nbsp; Moneycontrol.com",
+      "published": "Thu, 10 Sep 2026 04:57:55 GMT",
+      "source": "Moneycontrol.com",
+      "stocks": [
+        "ONGC"
+      ],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "ONGC"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "CPCL, MRPL, HPCL, BPCL, IOC shares: Brent nears $102; impact on oil stocks - BusinessToday - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDhmdk5lZDdSMy1kUnF6TzEyOERueGQ2VlNRaGxZdF9lS21TQ0NWMmV4NWhoU1prUndaUWpZcnh0cEJpbE84cm9venp0U3JXXzZYSXppYnNhSDMxVGRRQkRvV21FUkZaR1JBSUZGbTJVa3g2WmFQU2RjTkNsemtOamk5MVliVXpoWER2WHBlTnJyZGZhY3ZROTJjQkNrY0EwNEZRU3dPcV9OanZuRjUwSURlbXg5LUNo?oc=5",
+      "description": "CPCL, MRPL, HPCL, BPCL, IOC shares: Brent nears $102; impact on oil stocks - BusinessToday &nbsp;&nbsp; IndiaIPO",
+      "published": "Thu, 10 Sep 2026 07:05:49 GMT",
+      "source": "IndiaIPO",
+      "stocks": [
+        "BPCL"
+      ],
+      "sectors": [
+        "IT",
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "BPCL"
+      ],
+      "derived_stocks": [
+        "TCS",
+        "INFY",
+        "HCLTECH",
+        "WIPRO",
+        "COFORGE",
+        "PERSISTENT"
+      ],
+      "macro": true
+    },
+    {
+      "query": "Crude geopolitics",
+      "title": "Oil Prices Extend Rally: Brent Crude Nears $102 As Iran Threatens Escalation, Hormuz Risks Rise - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR2hfVHZqcE03U2pkdWtqOTBiTDFjQWdiNmM4Y1RFT0hMWW5aVVBqRmplNkhsVVFhcVgyUG1IR01FVERQSEREQS1NSExwOFJYQl9HVkZjbnJJSjlRMTVPZS1xaGpFMTU4LV9oblFDWng4Rm1aZzV0UnVwUVRWZTdvWXpPemNiemxYU19SZE5IRmtGRExNeEtTR3ZNNEo1MFhDaDZJNlg5VUx2cVR6aWVGcG9xT0paT2wyNlpuVEF2ZVMzWEplQkNSR1lOeHhWM3ZVNnF5dVR2U1AyZ9IB2gFBVV95cUxNR2hfVHZqcE03U2pkdWtqOTBiTDFjQWdiNmM4Y1RFT0hMWW5aVVBqRmplNkhsVVFhcVgyUG1IR01FVERQSEREQS1NSExwOFJYQl9HVkZjbnJJSjlRMTVPZS1xaGpFMTU4LV9oblFDWng4Rm1aZzV0UnVwUVRWZTdvWXpPemNiemxYU19SZE5IRmtGRExNeEtTR3ZNNEo1MFhDaDZJNlg5VUx2cVR6aWVGcG9xT0paT2wyNlpuVEF2ZVMzWEplQkNSR1lOeHhWM3ZVNnF5dVR2U1AyZw?oc=5",
+      "description": "Oil Prices Extend Rally: Brent Crude Nears $102 As Iran Threatens Escalation, Hormuz Risks Rise &nbsp;&nbsp; NDTV Profit",
+      "published": "Thu, 10 Sep 2026 01:16:05 GMT",
+      "source": "NDTV Profit",
+      "stocks": [],
+      "sectors": [
+        "Energy"
+      ],
+      "affected": [
+        "Oil & Gas",
+        "Airlines",
+        "Paints",
+        "Chemicals",
+        "Tyres"
+      ],
+      "tone": "Mixed/Neutral",
+      "impact": "High",
+      "watch": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "derived_stocks": [
+        "RELIANCE",
+        "ONGC",
+        "BPCL",
+        "NTPC",
+        "POWERGRID",
+        "TATAPOWER"
+      ],
+      "macro": true
+    }
+  ],
+  "sectors": [
+    [
+      "Energy",
+      20
+    ],
+    [
+      "IT",
+      9
+    ],
+    [
+      "Financials",
+      8
+    ],
+    [
+      "Auto",
+      3
+    ]
+  ]
+}

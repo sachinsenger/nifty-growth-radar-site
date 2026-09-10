@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-09T08:06:10.947375+00:00",
+  "generated_at": "2026-09-10T08:05:18.737598+00:00",
   "gift_nifty": null,
   "fii_dii": {
     "DII": {
-      "date": "08-Sep-2026",
-      "buy": 14678.53,
-      "sell": 13328.89,
-      "net": 1349.64
+      "date": "09-Sep-2026",
+      "buy": 18130.76,
+      "sell": 16621.72,
+      "net": 1509.04
     },
     "FII": {
-      "date": "08-Sep-2026",
-      "buy": 11704.84,
-      "sell": 11828.03,
-      "net": -123.19
+      "date": "09-Sep-2026",
+      "buy": 16392.9,
+      "sell": 16975.89,
+      "net": -582.99
     }
   },
   "gift_error": "RuntimeError: GIFT NIFTY section not found",

@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-09-09T08:06:11.700926+00:00",
+  "generated_at": "2026-09-10T08:05:19.799846+00:00",
   "macro": {
     "USD/INR": {
       "name": "USD/INR",
       "ticker": "USDINR=X",
-      "value": 95.06999969482422,
-      "change_pct": 0.6118007221820987,
-      "date": "2026-09-09",
+      "value": 95.33999633789062,
+      "change_pct": 0.5452245780712905,
+      "date": "2026-09-10",
       "freshness": "Latest available"
     },
     "Brent Crude": {
       "name": "Brent Crude",
       "ticker": "BZ=F",
-      "value": 99.88999938964844,
-      "change_pct": 2.0118476894823933,
-      "date": "2026-09-09",
+      "value": 101.30999755859375,
+      "change_pct": 0.09880295921911308,
+      "date": "2026-09-10",
       "freshness": "Latest available"
     },
     "Gold": {
       "name": "Gold",
       "ticker": "GC=F",
-      "value": 4452.60009765625,
-      "change_pct": 1.335947486677802,
-      "date": "2026-09-09",
+      "value": 4457.2998046875,
+      "change_pct": 0.9352310844089606,
+      "date": "2026-09-10",
       "freshness": "Latest available"
     },
     "US 10Y Yield": {
       "name": "US 10Y Yield",
       "ticker": "^TNX",
-      "value": 4.806000232696533,
-      "change_pct": 0.459872767006142,
-      "date": "2026-09-08",
+      "value": 4.836999893188477,
+      "change_pct": 0.6450199540367185,
+      "date": "2026-09-09",
       "freshness": "Latest available"
     }
   },
