@@ -61,7 +61,20 @@
       "target": 10390.0,
       "rr": 1.5,
       "rs3": 40.49692221026192,
-      "sector_rs": 40.49692221026192
+      "sector_rs": 40.49692221026192,
+      "signal_change": "STABLE",
+      "previous_score": 53,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 6,
+        "position_value": 55383.0,
+        "actual_risk_pct": 0.9276
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "DIVISLAB"
+      }
     },
     {
       "name": "ETERNAL",
@@ -117,7 +130,20 @@
       "target": 339.9496536974043,
       "rr": 1.5,
       "rs3": 29.77541505138065,
-      "sector_rs": 29.77541505138065
+      "sector_rs": 29.77541505138065,
+      "signal_change": "STABLE",
+      "previous_score": 52.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 455,
+        "position_value": 147192.5,
+        "actual_risk_pct": 0.9979456576425257
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ETERNAL"
+      }
     },
     {
       "name": "PNBHOUSING",
@@ -173,7 +199,20 @@
       "target": 1264.3999633789062,
       "rr": 1.5,
       "rs3": 24.295187936822362,
-      "sector_rs": 24.295187936822362
+      "sector_rs": 24.295187936822362,
+      "signal_change": "STABLE",
+      "previous_score": 52.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 89,
+        "position_value": 105109.0,
+        "actual_risk_pct": 0.9896795654296875
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "PNBHOUSING"
+      }
     },
     {
       "name": "IDEA",
@@ -229,7 +268,20 @@
       "target": 17.475000381469727,
       "rr": 1.5,
       "rs3": 4.6171753117972525,
-      "sector_rs": 4.6171753117972525
+      "sector_rs": 4.6171753117972525,
+      "signal_change": "STABLE",
+      "previous_score": 51.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 3144,
+        "position_value": 47442.96047973633,
+        "actual_risk_pct": 0.9997920959472656
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IDEA"
+      }
     },
     {
       "name": "MCX",
@@ -285,7 +337,20 @@
       "target": 3571.60009765625,
       "rr": 1.5,
       "rs3": 15.344515848811437,
-      "sector_rs": 15.344515848811437
+      "sector_rs": 15.344515848811437,
+      "signal_change": "STABLE",
+      "previous_score": 50.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 24,
+        "position_value": 78302.40234375,
+        "actual_risk_pct": 0.9887999999999999
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MCX"
+      }
     },
     {
       "name": "BOSCHLTD",
@@ -341,7 +406,20 @@
       "target": 50199.91109210499,
       "rr": 1.5,
       "rs3": 23.921448565248326,
-      "sector_rs": 23.921448565248326
+      "sector_rs": 23.921448565248326,
+      "signal_change": "STABLE",
+      "previous_score": 50.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 3,
+        "position_value": 143250.0,
+        "actual_risk_pct": 0.9799644368419947
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BOSCHLTD"
+      }
     },
     {
       "name": "MOTILALOFS",
@@ -397,7 +475,20 @@
       "target": 1193.8500061035156,
       "rr": 1.5,
       "rs3": 8.979840300204192,
-      "sector_rs": 8.979840300204192
+      "sector_rs": 8.979840300204192,
+      "signal_change": "STABLE",
+      "previous_score": 49.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 42,
+        "position_value": 42663.59948730469,
+        "actual_risk_pct": 0.9970801025390625
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MOTILALOFS"
+      }
     },
     {
       "name": "ADANIENT",
@@ -453,7 +544,20 @@
       "target": 3404.25,
       "rr": 1.5,
       "rs3": 5.356737352100729,
-      "sector_rs": 5.356737352100729
+      "sector_rs": 5.356737352100729,
+      "signal_change": "STABLE",
+      "previous_score": 48.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 21,
+        "position_value": 64260.0,
+        "actual_risk_pct": 0.9639
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ADANIENT"
+      }
     },
     {
       "name": "IDFCFIRSTB",
@@ -509,7 +613,20 @@
       "target": 92.19999313354492,
       "rr": 1.5,
       "rs3": 8.768560589301524,
-      "sector_rs": 8.768560589301524
+      "sector_rs": 8.768560589301524,
+      "signal_change": "STABLE",
+      "previous_score": 46.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1288,
+        "position_value": 111257.43646240234,
+        "actual_risk_pct": 0.9994872924804687
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IDFCFIRSTB"
+      }
     },
     {
       "name": "HAL",
@@ -565,7 +682,20 @@
       "target": 5202.0,
       "rr": 1.5,
       "rs3": 16.111465422375485,
-      "sector_rs": 16.111465422375485
+      "sector_rs": 16.111465422375485,
+      "signal_change": "STABLE",
+      "previous_score": 46.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 25,
+        "position_value": 122625.0,
+        "actual_risk_pct": 0.9900000000000001
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HAL"
+      }
     },
     {
       "name": "KOTAKBANK",
@@ -621,7 +751,20 @@
       "target": 464.62498474121094,
       "rr": 1.5,
       "rs3": 4.04343464421856,
-      "sector_rs": 4.04343464421856
+      "sector_rs": 4.04343464421856,
+      "signal_change": "STABLE",
+      "previous_score": 45.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 160,
+        "position_value": 66863.9990234375,
+        "actual_risk_pct": 0.9967998046875
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "KOTAKBANK"
+      }
     },
     {
       "name": "BHEL",
@@ -677,7 +820,20 @@
       "target": 460.2500305175781,
       "rr": 1.5,
       "rs3": 5.674498607894898,
-      "sector_rs": 5.674498607894898
+      "sector_rs": 5.674498607894898,
+      "signal_change": "IMPROVED",
+      "previous_score": 28.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 230,
+        "position_value": 98371.00280761719,
+        "actual_risk_pct": 0.9982005615234374
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BHEL"
+      }
     },
     {
       "name": "COFORGE",
@@ -733,7 +889,20 @@
       "target": 1916.0458055554782,
       "rr": 1.5,
       "rs3": 23.380944785098812,
-      "sector_rs": 23.380944785098812
+      "sector_rs": 23.380944785098812,
+      "signal_change": "STABLE",
+      "previous_score": 44.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 54,
+        "position_value": 96098.39868164062,
+        "actual_risk_pct": 0.9824099757806922
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "COFORGE"
+      }
     },
     {
       "name": "MAHABANK",
@@ -789,7 +958,20 @@
       "target": 89.77499771118164,
       "rr": 1.5,
       "rs3": -3.7229031771534116,
-      "sector_rs": -3.7229031771534116
+      "sector_rs": -3.7229031771534116,
+      "signal_change": "STABLE",
+      "previous_score": 43.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1228,
+        "position_value": 102746.75775146484,
+        "actual_risk_pct": 0.9995919250488282
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MAHABANK"
+      }
     },
     {
       "name": "HYUNDAI",
@@ -845,7 +1027,20 @@
       "target": 2347.5499267578125,
       "rr": 1.5,
       "rs3": 12.894983638341262,
-      "sector_rs": 12.894983638341262
+      "sector_rs": 12.894983638341262,
+      "signal_change": "IMPROVED",
+      "previous_score": 33.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 49,
+        "position_value": 107628.5,
+        "actual_risk_pct": 0.986859521484375
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HYUNDAI"
+      }
     },
     {
       "name": "CYIENT",
@@ -901,7 +1096,20 @@
       "target": 1345.3499145507812,
       "rr": 1.5,
       "rs3": 21.03943872223436,
-      "sector_rs": 21.03943872223436
+      "sector_rs": 21.03943872223436,
+      "signal_change": "STABLE",
+      "previous_score": 42.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 25,
+        "position_value": 26204.998779296875,
+        "actual_risk_pct": 0.9904998779296875
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CYIENT"
+      }
     },
     {
       "name": "AUROPHARMA",
@@ -957,7 +1165,20 @@
       "target": 1729.6097161664927,
       "rr": 1.5,
       "rs3": 15.484276002084474,
-      "sector_rs": 15.484276002084474
+      "sector_rs": 15.484276002084474,
+      "signal_change": "STABLE",
+      "previous_score": 41.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 90,
+        "position_value": 148230.0,
+        "actual_risk_pct": 0.9913165939979126
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "AUROPHARMA"
+      }
     },
     {
       "name": "LODHA",
@@ -1013,7 +1234,20 @@
       "target": 1198.53209024555,
       "rr": 1.5,
       "rs3": 23.859351305682722,
-      "sector_rs": 23.859351305682722
+      "sector_rs": 23.859351305682722,
+      "signal_change": "STABLE",
+      "previous_score": 41.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 74,
+        "position_value": 81207.60180664062,
+        "actual_risk_pct": 0.9978363828706762
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "LODHA"
+      }
     },
     {
       "name": "COALINDIA",
@@ -1069,7 +1303,20 @@
       "target": 456.82723561427247,
       "rr": 1.5,
       "rs3": -3.006982518060539,
-      "sector_rs": -3.006982518060539
+      "sector_rs": -3.006982518060539,
+      "signal_change": "STABLE",
+      "previous_score": 40.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 194,
+        "position_value": 81140.5,
+        "actual_risk_pct": 0.9978644945558471
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "COALINDIA"
+      }
     },
     {
       "name": "JINDALSTEL",
@@ -1125,7 +1372,20 @@
       "target": 1253.1617058104353,
       "rr": 1.5,
       "rs3": 4.2974493955521575,
-      "sector_rs": 4.2974493955521575
+      "sector_rs": 4.2974493955521575,
+      "signal_change": "STABLE",
+      "previous_score": 41.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 73,
+        "position_value": 84074.09643554688,
+        "actual_risk_pct": 0.9875610784819864
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "JINDALSTEL"
+      }
     },
     {
       "name": "GLENMARK",
@@ -1181,7 +1441,20 @@
       "target": 2548.9721320984936,
       "rr": 1.5,
       "rs3": 10.79531695002921,
-      "sector_rs": 10.79531695002921
+      "sector_rs": 10.79531695002921,
+      "signal_change": "STABLE",
+      "previous_score": 40.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 48,
+        "position_value": 114979.1953125,
+        "actual_risk_pct": 0.9828622704303576
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GLENMARK"
+      }
     },
     {
       "name": "APLAPOLLO",
@@ -1237,7 +1510,20 @@
       "target": 2245.2787112847586,
       "rr": 1.5,
       "rs3": 15.212725820068508,
-      "sector_rs": 15.212725820068508
+      "sector_rs": 15.212725820068508,
+      "signal_change": "STABLE",
+      "previous_score": 40.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 60,
+        "position_value": 127313.994140625,
+        "actual_risk_pct": 0.9870304715280699
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "APLAPOLLO"
+      }
     },
     {
       "name": "COLPAL",
@@ -1293,7 +1579,20 @@
       "target": 2019.10009765625,
       "rr": 1.5,
       "rs3": -4.649258718279112,
-      "sector_rs": -4.649258718279112
+      "sector_rs": -4.649258718279112,
+      "signal_change": "STABLE",
+      "previous_score": 40.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 52,
+        "position_value": 97598.80126953125,
+        "actual_risk_pct": 0.9859205078125001
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "COLPAL"
+      }
     },
     {
       "name": "KALYANKJIL",
@@ -1349,7 +1648,20 @@
       "target": 631.8124146901094,
       "rr": 1.5,
       "rs3": 54.56719270854317,
-      "sector_rs": 54.56719270854317
+      "sector_rs": 54.56719270854317,
+      "signal_change": "WEAKENED",
+      "previous_score": 52.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 160,
+        "position_value": 93600.0,
+        "actual_risk_pct": 0.9986648467223349
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "KALYANKJIL"
+      }
     },
     {
       "name": "LTF",
@@ -1405,7 +1717,20 @@
       "target": 331.5494455239858,
       "rr": 1.5,
       "rs3": 14.738143394733772,
-      "sector_rs": 14.738143394733772
+      "sector_rs": 14.738143394733772,
+      "signal_change": "STABLE",
+      "previous_score": 38.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 398,
+        "position_value": 124474.5,
+        "actual_risk_pct": 0.9976239091395152
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "LTF"
+      }
     },
     {
       "name": "BAJAJ-AUTO",
@@ -1461,7 +1786,20 @@
       "target": 11921.820908970374,
       "rr": 1.5,
       "rs3": 15.300670587067334,
-      "sector_rs": 15.300670587067334
+      "sector_rs": 15.300670587067334,
+      "signal_change": "STABLE",
+      "previous_score": 42.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 16,
+        "position_value": 183440.0,
+        "actual_risk_pct": 0.9745512724701316
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BAJAJ-AUTO"
+      }
     },
     {
       "name": "DRREDDY",
@@ -1517,7 +1855,20 @@
       "target": 1230.7501220703125,
       "rr": 1.5,
       "rs3": -6.0166962033274185,
-      "sector_rs": -6.0166962033274185
+      "sector_rs": -6.0166962033274185,
+      "signal_change": "IMPROVED",
+      "previous_score": 19.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 124,
+        "position_value": 145117.2060546875,
+        "actual_risk_pct": 0.9994412109374999
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "DRREDDY"
+      }
     },
     {
       "name": "ADANIPORTS",
@@ -1573,7 +1924,20 @@
       "target": 1944.5999145507812,
       "rr": 1.5,
       "rs3": -4.482190466645273,
-      "sector_rs": -4.482190466645273
+      "sector_rs": -4.482190466645273,
+      "signal_change": "WEAKENED",
+      "previous_score": 44.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 35,
+        "position_value": 60679.498291015625,
+        "actual_risk_pct": 0.9841998291015625
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ADANIPORTS"
+      }
     },
     {
       "name": "FEDERALBNK",
@@ -1629,7 +1993,20 @@
       "target": 360.7955311695646,
       "rr": 1.5,
       "rs3": 10.809908626374998,
-      "sector_rs": 10.809908626374998
+      "sector_rs": 10.809908626374998,
+      "signal_change": "STABLE",
+      "previous_score": 36.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 498,
+        "position_value": 172183.5,
+        "actual_risk_pct": 0.9990232696590902
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "FEDERALBNK"
+      }
     },
     {
       "name": "BAJAJHLDNG",
@@ -1685,7 +2062,20 @@
       "target": 11651.696998246656,
       "rr": 1.5,
       "rs3": 9.12745557444833,
-      "sector_rs": 9.12745557444833
+      "sector_rs": 9.12745557444833,
+      "signal_change": "STABLE",
+      "previous_score": 36.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 14,
+        "position_value": 155876.0,
+        "actual_risk_pct": 0.9663677300604249
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BAJAJHLDNG"
+      }
     },
     {
       "name": "JSWSTEEL",
@@ -1741,7 +2131,20 @@
       "target": 1368.1499633789062,
       "rr": 1.5,
       "rs3": 3.1689660263913533,
-      "sector_rs": 3.1689660263913533
+      "sector_rs": 3.1689660263913533,
+      "signal_change": "STABLE",
+      "previous_score": 36.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 106,
+        "position_value": 137535.0,
+        "actual_risk_pct": 0.9985194824218749
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "JSWSTEEL"
+      }
     },
     {
       "name": "MAXHEALTH",
@@ -1797,7 +2200,20 @@
       "target": 1125.3001403808594,
       "rr": 1.5,
       "rs3": 2.9691710527497994,
-      "sector_rs": 2.9691710527497994
+      "sector_rs": 2.9691710527497994,
+      "signal_change": "STABLE",
+      "previous_score": 35.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 86,
+        "position_value": 89293.80419921875,
+        "actual_risk_pct": 0.9976010498046874
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MAXHEALTH"
+      }
     },
     {
       "name": "EXIDEIND",
@@ -1853,7 +2269,20 @@
       "target": 444.14874074981844,
       "rr": 1.5,
       "rs3": 11.669999013687939,
-      "sector_rs": 11.669999013687939
+      "sector_rs": 11.669999013687939,
+      "signal_change": "STABLE",
+      "previous_score": 31.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 292,
+        "position_value": 122202.0,
+        "actual_risk_pct": 0.9985909731929313
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "EXIDEIND"
+      }
     },
     {
       "name": "DIXON",
@@ -1909,7 +2338,20 @@
       "target": 14149.117019992747,
       "rr": 1.5,
       "rs3": 9.395265585628056,
-      "sector_rs": 9.395265585628056
+      "sector_rs": 9.395265585628056,
+      "signal_change": "STABLE",
+      "previous_score": 31.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 9,
+        "position_value": 119898.0,
+        "actual_risk_pct": 0.9925404239912958
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "DIXON"
+      }
     },
     {
       "name": "INDUSTOWER",
@@ -1965,7 +2407,20 @@
       "target": 399.9298089538298,
       "rr": 1.5,
       "rs3": -3.192462167597207,
-      "sector_rs": -3.192462167597207
+      "sector_rs": -3.192462167597207,
+      "signal_change": "IMPROVED",
+      "previous_score": 22.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 378,
+        "position_value": 143677.8023071289,
+        "actual_risk_pct": 0.9994220636558354
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "INDUSTOWER"
+      }
     },
     {
       "name": "LTM",
@@ -2021,7 +2476,20 @@
       "target": 4700.584948513425,
       "rr": 1.5,
       "rs3": 16.625955145319317,
-      "sector_rs": 16.625955145319317
+      "sector_rs": 16.625955145319317,
+      "signal_change": "STABLE",
+      "previous_score": 30.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 27,
+        "position_value": 119610.0,
+        "actual_risk_pct": 0.9741058146483298
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "LTM"
+      }
     },
     {
       "name": "JUBLFOOD",
@@ -2077,7 +2545,20 @@
       "target": 505.88894409583145,
       "rr": 1.5,
       "rs3": 15.377695137953431,
-      "sector_rs": 15.377695137953431
+      "sector_rs": 15.377695137953431,
+      "signal_change": "STABLE",
+      "previous_score": 30.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 256,
+        "position_value": 122009.6015625,
+        "actual_risk_pct": 0.9997290834710468
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "JUBLFOOD"
+      }
     },
     {
       "name": "CHOLAFIN",
@@ -2133,7 +2614,20 @@
       "target": 1908.9505856947753,
       "rr": 1.5,
       "rs3": 8.794005779087767,
-      "sector_rs": 8.794005779087767
+      "sector_rs": 8.794005779087767,
+      "signal_change": "STABLE",
+      "previous_score": 30.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 71,
+        "position_value": 128076.90173339844,
+        "actual_risk_pct": 0.994478646790748
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CHOLAFIN"
+      }
     },
     {
       "name": "COCHINSHIP",
@@ -2189,7 +2683,20 @@
       "target": 1595.2499389648438,
       "rr": 1.5,
       "rs3": 5.4198864372966415,
-      "sector_rs": 5.4198864372966415
+      "sector_rs": 5.4198864372966415,
+      "signal_change": "STABLE",
+      "previous_score": 29.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 78,
+        "position_value": 116929.79809570312,
+        "actual_risk_pct": 0.9999596191406249
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "COCHINSHIP"
+      }
     },
     {
       "name": "LT",
@@ -2245,7 +2752,20 @@
       "target": 4092.8657180155274,
       "rr": 1.5,
       "rs3": -0.5954805911965824,
-      "sector_rs": -0.5954805911965824
+      "sector_rs": -0.5954805911965824,
+      "signal_change": "STABLE",
+      "previous_score": 29.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 60,
+        "position_value": 238103.994140625,
+        "actual_risk_pct": 0.9957265253742189
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "LT"
+      }
     },
     {
       "name": "BAJFINANCE",
@@ -2301,7 +2821,20 @@
       "target": 1057.9743748867288,
       "rr": 1.5,
       "rs3": 6.703400592648392,
-      "sector_rs": 6.703400592648392
+      "sector_rs": 6.703400592648392,
+      "signal_change": "STABLE",
+      "previous_score": 29.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 168,
+        "position_value": 170251.2041015625,
+        "actual_risk_pct": 0.9984654505877266
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BAJFINANCE"
+      }
     },
     {
       "name": "MANAPPURAM",
@@ -2357,7 +2890,20 @@
       "target": 349.34367857342886,
       "rr": 1.5,
       "rs3": 13.416569928441813,
-      "sector_rs": 13.416569928441813
+      "sector_rs": 13.416569928441813,
+      "signal_change": "STABLE",
+      "previous_score": 28.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 324,
+        "position_value": 105688.80395507812,
+        "actual_risk_pct": 0.9998063870283769
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MANAPPURAM"
+      }
     },
     {
       "name": "HINDALCO",
@@ -2413,7 +2959,20 @@
       "target": 1035.3886200960865,
       "rr": 1.5,
       "rs3": -1.288183374242167,
-      "sector_rs": -1.288183374242167
+      "sector_rs": -1.288183374242167,
+      "signal_change": "STABLE",
+      "previous_score": 28.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 139,
+        "position_value": 136428.5,
+        "actual_risk_pct": 0.9987357591141358
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HINDALCO"
+      }
     },
     {
       "name": "BANDHANBNK",
@@ -2469,7 +3028,20 @@
       "target": 187.36500549316406,
       "rr": 1.5,
       "rs3": -17.04989367083942,
-      "sector_rs": -17.04989367083942
+      "sector_rs": -17.04989367083942,
+      "signal_change": "STABLE",
+      "previous_score": 28.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 444,
+        "position_value": 75697.56243896484,
+        "actual_risk_pct": 0.9990000000000001
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BANDHANBNK"
+      }
     },
     {
       "name": "EICHERMOT",
@@ -2525,7 +3097,20 @@
       "target": 7980.973376414431,
       "rr": 1.5,
       "rs3": 9.17011679577421,
-      "sector_rs": 9.17011679577421
+      "sector_rs": 9.17011679577421,
+      "signal_change": "STABLE",
+      "previous_score": 28.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 23,
+        "position_value": 176111.0,
+        "actual_risk_pct": 0.993518354337589
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "EICHERMOT"
+      }
     },
     {
       "name": "BAJAJFINSV",
@@ -2581,7 +3166,20 @@
       "target": 1926.376523590739,
       "rr": 1.5,
       "rs3": 5.065021834430641,
-      "sector_rs": 5.065021834430641
+      "sector_rs": 5.065021834430641,
+      "signal_change": "STABLE",
+      "previous_score": 28.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 93,
+        "position_value": 171668.7022705078,
+        "actual_risk_pct": 0.99790858979079
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BAJAJFINSV"
+      }
     },
     {
       "name": "HCLTECH",
@@ -2637,7 +3235,20 @@
       "target": 1368.83290439989,
       "rr": 1.5,
       "rs3": 15.386924526892976,
-      "sector_rs": 15.386924526892976
+      "sector_rs": 15.386924526892976,
+      "signal_change": "STABLE",
+      "previous_score": 28.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 99,
+        "position_value": 128046.60241699219,
+        "actual_risk_pct": 0.995714015812922
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HCLTECH"
+      }
     },
     {
       "name": "HFCL",
@@ -2693,7 +3304,20 @@
       "target": 233.21237648267774,
       "rr": 1.5,
       "rs3": 1.1827836435979864,
-      "sector_rs": 1.1827836435979864
+      "sector_rs": 1.1827836435979864,
+      "signal_change": "STABLE",
+      "previous_score": 26.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 309,
+        "position_value": 64581.0,
+        "actual_risk_pct": 0.9975499110863228
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HFCL"
+      }
     },
     {
       "name": "M&M",
@@ -2749,7 +3373,20 @@
       "target": 3293.2415034585665,
       "rr": 1.5,
       "rs3": 5.839820687195099,
-      "sector_rs": 5.839820687195099
+      "sector_rs": 5.839820687195099,
+      "signal_change": "STABLE",
+      "previous_score": 27.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 50,
+        "position_value": 157244.9951171875,
+        "actual_risk_pct": 0.9889440074321101
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "M&M"
+      }
     },
     {
       "name": "CIPLA",
@@ -2805,7 +3442,20 @@
       "target": 1423.5390031768407,
       "rr": 1.5,
       "rs3": 3.133417191275436,
-      "sector_rs": 3.133417191275436
+      "sector_rs": 3.133417191275436,
+      "signal_change": "STABLE",
+      "previous_score": 25.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 155,
+        "position_value": 213155.99243164062,
+        "actual_risk_pct": 0.9990070747692879
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CIPLA"
+      }
     },
     {
       "name": "GMRAIRPORT",
@@ -2861,7 +3511,20 @@
       "target": 100.59062938247558,
       "rr": 1.5,
       "rs3": -10.651585734504064,
-      "sector_rs": -10.651585734504064
+      "sector_rs": -10.651585734504064,
+      "signal_change": "IMPROVED",
+      "previous_score": 22.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1375,
+        "position_value": 130817.4991607666,
+        "actual_risk_pct": 0.9992821653516446
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GMRAIRPORT"
+      }
     },
     {
       "name": "ANGELONE",
@@ -2917,7 +3580,20 @@
       "target": 320.25,
       "rr": 1.5,
       "rs3": -15.219789909825785,
-      "sector_rs": -15.219789909825785
+      "sector_rs": -15.219789909825785,
+      "signal_change": "STABLE",
+      "previous_score": 27.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 277,
+        "position_value": 81230.25,
+        "actual_risk_pct": 0.9972
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ANGELONE"
+      }
     },
     {
       "name": "HEROMOTOCO",
@@ -2973,7 +3649,20 @@
       "target": 5532.270636987727,
       "rr": 1.5,
       "rs3": 7.901975460432511,
-      "sector_rs": 7.901975460432511
+      "sector_rs": 7.901975460432511,
+      "signal_change": "STABLE",
+      "previous_score": 27.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 28,
+        "position_value": 147420.0,
+        "actual_risk_pct": 0.997810378087512
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HEROMOTOCO"
+      }
     },
     {
       "name": "SBILIFE",
@@ -3029,7 +3718,20 @@
       "target": 1876.3999633789062,
       "rr": 1.5,
       "rs3": 1.7359034740792276,
-      "sector_rs": 1.7359034740792276
+      "sector_rs": 1.7359034740792276,
+      "signal_change": "STABLE",
+      "previous_score": 27.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 73,
+        "position_value": 129575.0,
+        "actual_risk_pct": 0.9869596435546875
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "SBILIFE"
+      }
     },
     {
       "name": "CONCOR",
@@ -3085,7 +3787,20 @@
       "target": 512.9857158898816,
       "rr": 1.5,
       "rs3": 4.789377308768041,
-      "sector_rs": 4.789377308768041
+      "sector_rs": 4.789377308768041,
+      "signal_change": "STABLE",
+      "previous_score": 31.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 302,
+        "position_value": 147436.40368652344,
+        "actual_risk_pct": 0.9980376682961081
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CONCOR"
+      }
     },
     {
       "name": "ABB",
@@ -3141,7 +3856,20 @@
       "target": 7493.838821237313,
       "rr": 1.5,
       "rs3": 3.876599664696392,
-      "sector_rs": 3.876599664696392
+      "sector_rs": 3.876599664696392,
+      "signal_change": "STABLE",
+      "previous_score": 27.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 19,
+        "position_value": 135109.0,
+        "actual_risk_pct": 0.969858347134526
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ABB"
+      }
     },
     {
       "name": "GRASIM",
@@ -3197,7 +3925,20 @@
       "target": 3300.190326303199,
       "rr": 1.5,
       "rs3": 2.1502672861499006,
-      "sector_rs": 2.1502672861499006
+      "sector_rs": 2.1502672861499006,
+      "signal_change": "STABLE",
+      "previous_score": 27.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 54,
+        "position_value": 170812.79736328125,
+        "actual_risk_pct": 0.986330700945535
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GRASIM"
+      }
     },
     {
       "name": "CDSL",
@@ -3253,7 +3994,20 @@
       "target": 1434.2499389648438,
       "rr": 1.5,
       "rs3": 0.3851416690113705,
-      "sector_rs": 0.3851416690113705
+      "sector_rs": 0.3851416690113705,
+      "signal_change": "STABLE",
+      "previous_score": 25.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 83,
+        "position_value": 111560.29797363281,
+        "actual_risk_pct": 0.9976595947265625
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CDSL"
+      }
     },
     {
       "name": "LICI",
@@ -3309,7 +4063,20 @@
       "target": 429.00082890321204,
       "rr": 1.5,
       "rs3": 6.668069654718214,
-      "sector_rs": 6.668069654718214
+      "sector_rs": 6.668069654718214,
+      "signal_change": "STABLE",
+      "previous_score": 26.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 410,
+        "position_value": 168407.5,
+        "actual_risk_pct": 0.997711980042258
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "LICI"
+      }
     },
     {
       "name": "GVT&D",
@@ -3365,7 +4132,20 @@
       "target": 4871.99951171875,
       "rr": 1.5,
       "rs3": -18.979781520492566,
-      "sector_rs": -18.979781520492566
+      "sector_rs": -18.979781520492566,
+      "signal_change": "WEAKENED",
+      "previous_score": 39.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 14,
+        "position_value": 61093.197265625,
+        "actual_risk_pct": 0.948639453125
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GVT&D"
+      }
     },
     {
       "name": "ICICIBANK",
@@ -3421,7 +4201,20 @@
       "target": 1398.6619654880483,
       "rr": 1.5,
       "rs3": 2.657364295468758,
-      "sector_rs": 2.657364295468758
+      "sector_rs": 2.657364295468758,
+      "signal_change": "STABLE",
+      "previous_score": 26.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 160,
+        "position_value": 216320.0,
+        "actual_risk_pct": 0.9954552637450323
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ICICIBANK"
+      }
     },
     {
       "name": "ABCAPITAL",
@@ -3477,7 +4270,20 @@
       "target": 410.8799945758127,
       "rr": 1.5,
       "rs3": 5.24650996358881,
-      "sector_rs": 5.24650996358881
+      "sector_rs": 5.24650996358881,
+      "signal_change": "STABLE",
+      "previous_score": 25.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 365,
+        "position_value": 142477.7522277832,
+        "actual_risk_pct": 0.9991261056517896
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ABCAPITAL"
+      }
     },
     {
       "name": "APOLLOHOSP",
@@ -3533,7 +4339,20 @@
       "target": 9033.033198380848,
       "rr": 1.5,
       "rs3": 5.035944254527438,
-      "sector_rs": 5.035944254527438
+      "sector_rs": 5.035944254527438,
+      "signal_change": "STABLE",
+      "previous_score": 26.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 23,
+        "position_value": 200261.0,
+        "actual_risk_pct": 0.9998351417012681
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "APOLLOHOSP"
+      }
     },
     {
       "name": "MARICO",
@@ -3589,7 +4408,20 @@
       "target": 838.6234026724408,
       "rr": 1.5,
       "rs3": -0.02104312396476815,
-      "sector_rs": -0.02104312396476815
+      "sector_rs": -0.02104312396476815,
+      "signal_change": "STABLE",
+      "previous_score": 26.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 220,
+        "position_value": 177000.99731445312,
+        "actual_risk_pct": 0.999486836464514
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MARICO"
+      }
     },
     {
       "name": "DLF",
@@ -3645,7 +4477,20 @@
       "target": 662.6496408040166,
       "rr": 1.5,
       "rs3": 0.17668171197527038,
-      "sector_rs": 0.17668171197527038
+      "sector_rs": 0.17668171197527038,
+      "signal_change": "STABLE",
+      "previous_score": 26.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 199,
+        "position_value": 124375.0,
+        "actual_risk_pct": 0.998970469333242
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "DLF"
+      }
     },
     {
       "name": "AUBANK",
@@ -3701,7 +4546,20 @@
       "target": 1108.59292544713,
       "rr": 1.5,
       "rs3": 3.949651607601381,
-      "sector_rs": 3.949651607601381
+      "sector_rs": 3.949651607601381,
+      "signal_change": "STABLE",
+      "previous_score": 25.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 150,
+        "position_value": 158835.00366210938,
+        "actual_risk_pct": 0.9938580206613506
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "AUBANK"
+      }
     },
     {
       "name": "ALKEM",
@@ -3757,7 +4615,20 @@
       "target": 5307.449733372061,
       "rr": 1.5,
       "rs3": -3.048197253425509,
-      "sector_rs": -3.048197253425509
+      "sector_rs": -3.048197253425509,
+      "signal_change": "STABLE",
+      "previous_score": 25.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 34,
+        "position_value": 172975.0,
+        "actual_risk_pct": 0.9971054579533434
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ALKEM"
+      }
     },
     {
       "name": "ADANIENSOL",
@@ -3813,7 +4684,20 @@
       "target": 1457.378500065025,
       "rr": 1.5,
       "rs3": -8.754160003425659,
-      "sector_rs": -8.754160003425659
+      "sector_rs": -8.754160003425659,
+      "signal_change": "STABLE",
+      "previous_score": 25.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 72,
+        "position_value": 97509.603515625,
+        "actual_risk_pct": 0.9895531318742415
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ADANIENSOL"
+      }
     },
     {
       "name": "INDIGO",
@@ -3869,7 +4753,20 @@
       "target": 4987.167033410666,
       "rr": 1.5,
       "rs3": -3.9808925571741964,
-      "sector_rs": -3.9808925571741964
+      "sector_rs": -3.9808925571741964,
+      "signal_change": "STABLE",
+      "previous_score": 25.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 30,
+        "position_value": 142260.0,
+        "actual_risk_pct": 0.980668133642661
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "INDIGO"
+      }
     },
     {
       "name": "ASHOKLEY",
@@ -3925,7 +4822,20 @@
       "target": 168.23960991360616,
       "rr": 1.5,
       "rs3": 2.5220597671429834,
-      "sector_rs": 2.5220597671429834
+      "sector_rs": 2.5220597671429834,
+      "signal_change": "STABLE",
+      "previous_score": 22.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 807,
+        "position_value": 128272.64753723145,
+        "actual_risk_pct": 0.9995623550731634
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ASHOKLEY"
+      }
     },
     {
       "name": "ADANIGREEN",
@@ -3981,7 +4891,20 @@
       "target": 1357.6499633789062,
       "rr": 1.5,
       "rs3": -13.933065456223403,
-      "sector_rs": -13.933065456223403
+      "sector_rs": -13.933065456223403,
+      "signal_change": "STABLE",
+      "previous_score": 25.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 87,
+        "position_value": 110664.0,
+        "actual_risk_pct": 0.9935395751953124
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ADANIGREEN"
+      }
     },
     {
       "name": "BANKINDIA",
@@ -4037,7 +4960,20 @@
       "target": 145.0725967521122,
       "rr": 1.5,
       "rs3": -3.690353664340704,
-      "sector_rs": -3.690353664340704
+      "sector_rs": -3.690353664340704,
+      "signal_change": "STABLE",
+      "previous_score": 21.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1167,
+        "position_value": 161804.54287719727,
+        "actual_risk_pct": 0.9993570043356859
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BANKINDIA"
+      }
     },
     {
       "name": "GAIL",
@@ -4093,7 +5029,20 @@
       "target": 179.1276983606001,
       "rr": 1.5,
       "rs3": 0.7815809105311564,
-      "sector_rs": 0.7815809105311564
+      "sector_rs": 0.7815809105311564,
+      "signal_change": "WEAKENED",
+      "previous_score": 40.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1101,
+        "position_value": 189724.32806396484,
+        "actual_risk_pct": 0.9993690441407852
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GAIL"
+      }
     },
     {
       "name": "CGPOWER",
@@ -4149,7 +5098,20 @@
       "target": 929.2787856630657,
       "rr": 1.5,
       "rs3": -7.821987271862205,
-      "sector_rs": -7.821987271862205
+      "sector_rs": -7.821987271862205,
+      "signal_change": "STABLE",
+      "previous_score": 25.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 137,
+        "position_value": 119854.44665527344,
+        "actual_risk_pct": 0.9942329307422079
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CGPOWER"
+      }
     },
     {
       "name": "BHARATFORG",
@@ -4205,7 +5167,20 @@
       "target": 2037.4189372431274,
       "rr": 1.5,
       "rs3": -6.9619313497399,
-      "sector_rs": -6.9619313497399
+      "sector_rs": -6.9619313497399,
+      "signal_change": "WEAKENED",
+      "previous_score": 33.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 64,
+        "position_value": 123008.0,
+        "actual_risk_pct": 0.984908264474687
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BHARATFORG"
+      }
     },
     {
       "name": "INDHOTEL",
@@ -4261,7 +5236,20 @@
       "target": 745.408230909159,
       "rr": 1.5,
       "rs3": 0.3578754669659643,
-      "sector_rs": 0.3578754669659643
+      "sector_rs": 0.3578754669659643,
+      "signal_change": "STABLE",
+      "previous_score": 24.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 238,
+        "position_value": 169932.0,
+        "actual_risk_pct": 0.9966878608506454
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "INDHOTEL"
+      }
     },
     {
       "name": "DELHIVERY",
@@ -4317,7 +5305,20 @@
       "target": 447.58733690787176,
       "rr": 1.5,
       "rs3": -5.167508798252805,
-      "sector_rs": -5.167508798252805
+      "sector_rs": -5.167508798252805,
+      "signal_change": "STABLE",
+      "previous_score": 24.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 289,
+        "position_value": 121856.84823608398,
+        "actual_risk_pct": 0.999452284038795
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "DELHIVERY"
+      }
     },
     {
       "name": "MPHASIS",
@@ -4373,7 +5374,20 @@
       "target": 2434.4723818946695,
       "rr": 1.5,
       "rs3": 2.9052667034800272,
-      "sector_rs": 2.9052667034800272
+      "sector_rs": 2.9052667034800272,
+      "signal_change": "STABLE",
+      "previous_score": 24.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 49,
+        "position_value": 111876.79760742188,
+        "actual_risk_pct": 0.9883132140555924
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MPHASIS"
+      }
     },
     {
       "name": "ASIANPAINT",
@@ -4429,7 +5443,20 @@
       "target": 2542.4559390281015,
       "rr": 1.5,
       "rs3": -8.558993635895883,
-      "sector_rs": -8.558993635895883
+      "sector_rs": -8.558993635895883,
+      "signal_change": "STABLE",
+      "previous_score": 24.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 72,
+        "position_value": 175644.0,
+        "actual_risk_pct": 0.9883770146697745
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ASIANPAINT"
+      }
     },
     {
       "name": "360ONE",
@@ -4485,7 +5512,20 @@
       "target": 1123.7896034113014,
       "rr": 1.5,
       "rs3": -6.081659244396362,
-      "sector_rs": -6.081659244396362
+      "sector_rs": -6.081659244396362,
+      "signal_change": "STABLE",
+      "previous_score": 24.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 116,
+        "position_value": 122890.40283203125,
+        "actual_risk_pct": 0.9958921551572951
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "360ONE"
+      }
     },
     {
       "name": "NAM-INDIA",
@@ -4541,7 +5581,20 @@
       "target": 1194.3591484027156,
       "rr": 1.5,
       "rs3": -3.1101877997987453,
-      "sector_rs": -3.1101877997987453
+      "sector_rs": -3.1101877997987453,
+      "signal_change": "STABLE",
+      "previous_score": 24.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 102,
+        "position_value": 114352.19750976562,
+        "actual_risk_pct": 0.9963247503081825
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "NAM-INDIA"
+      }
     },
     {
       "name": "TATASTEEL",
@@ -4597,7 +5650,20 @@
       "target": 194.03077257327254,
       "rr": 1.5,
       "rs3": -3.598638082548953,
-      "sector_rs": -3.598638082548953
+      "sector_rs": -3.598638082548953,
+      "signal_change": "STABLE",
+      "previous_score": 23.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 767,
+        "position_value": 141327.41578674316,
+        "actual_risk_pct": 0.9992249035942502
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "TATASTEEL"
+      }
     },
     {
       "name": "MAZDOCK",
@@ -4653,7 +5719,20 @@
       "target": 2336.80887284074,
       "rr": 1.5,
       "rs3": -11.435331317758555,
-      "sector_rs": -11.435331317758555
+      "sector_rs": -11.435331317758555,
+      "signal_change": "IMPROVED",
+      "previous_score": 17.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 51,
+        "position_value": 111761.39501953125,
+        "actual_risk_pct": 0.9887809993795316
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MAZDOCK"
+      }
     },
     {
       "name": "ASTRAL",
@@ -4709,7 +5788,20 @@
       "target": 1487.5158534317798,
       "rr": 1.5,
       "rs3": -5.3980790434488535,
-      "sector_rs": -5.3980790434488535
+      "sector_rs": -5.3980790434488535,
+      "signal_change": "STABLE",
+      "previous_score": 23.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 89,
+        "position_value": 124938.20434570312,
+        "actual_risk_pct": 0.9934275479633712
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ASTRAL"
+      }
     },
     {
       "name": "KEI",
@@ -4765,7 +5857,20 @@
       "target": 4902.305208927077,
       "rr": 1.5,
       "rs3": -18.966166428085128,
-      "sector_rs": -18.966166428085128
+      "sector_rs": -18.966166428085128,
+      "signal_change": "STABLE",
+      "previous_score": 23.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 18,
+        "position_value": 80892.0,
+        "actual_risk_pct": 0.9799325014249833
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "KEI"
+      }
     },
     {
       "name": "ADANIPOWER",
@@ -4821,7 +5926,20 @@
       "target": 216.7409269456973,
       "rr": 1.5,
       "rs3": -11.070867916498326,
-      "sector_rs": -11.070867916498326
+      "sector_rs": -11.070867916498326,
+      "signal_change": "WEAKENED",
+      "previous_score": 31.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 618,
+        "position_value": 126455.15698242188,
+        "actual_risk_pct": 0.9987647826692073
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ADANIPOWER"
+      }
     },
     {
       "name": "BSE",
@@ -4877,7 +5995,20 @@
       "target": 3650.500244140625,
       "rr": 1.5,
       "rs3": -18.16571004894545,
-      "sector_rs": -18.16571004894545
+      "sector_rs": -18.16571004894545,
+      "signal_change": "STABLE",
+      "previous_score": 23.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 24,
+        "position_value": 80138.40234375,
+        "actual_risk_pct": 0.9964804687500001
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BSE"
+      }
     },
     {
       "name": "MANKIND",
@@ -4933,7 +6064,20 @@
       "target": 2434.156027900266,
       "rr": 1.5,
       "rs3": -1.0595148525293732,
-      "sector_rs": -1.0595148525293732
+      "sector_rs": -1.0595148525293732,
+      "signal_change": "STABLE",
+      "previous_score": 23.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 64,
+        "position_value": 148332.796875,
+        "actual_risk_pct": 0.9937585214156016
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MANKIND"
+      }
     },
     {
       "name": "BIOCON",
@@ -4989,7 +6133,20 @@
       "target": 399.65508734173625,
       "rr": 1.5,
       "rs3": -8.237951586172741,
-      "sector_rs": -8.237951586172741
+      "sector_rs": -8.237951586172741,
+      "signal_change": "STABLE",
+      "previous_score": 22.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 382,
+        "position_value": 145179.09533691406,
+        "actual_risk_pct": 0.9985530703505564
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BIOCON"
+      }
     },
     {
       "name": "CUMMINSIND",
@@ -5045,7 +6202,20 @@
       "target": 5212.023022042453,
       "rr": 1.5,
       "rs3": -11.553278113542842,
-      "sector_rs": -11.553278113542842
+      "sector_rs": -11.553278113542842,
+      "signal_change": "STABLE",
+      "previous_score": 22.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 27,
+        "position_value": 133407.0,
+        "actual_risk_pct": 0.97568287935283
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CUMMINSIND"
+      }
     },
     {
       "name": "JSWENERGY",
@@ -5101,7 +6271,20 @@
       "target": 566.1499786376953,
       "rr": 1.5,
       "rs3": -3.475873439152264,
-      "sector_rs": -3.475873439152264
+      "sector_rs": -3.475873439152264,
+      "signal_change": "STABLE",
+      "previous_score": 22.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 228,
+        "position_value": 121592.39721679688,
+        "actual_risk_pct": 0.9986397216796875
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "JSWENERGY"
+      }
     },
     {
       "name": "INDIANB",
@@ -5157,7 +6340,20 @@
       "target": 882.4119147579158,
       "rr": 1.5,
       "rs3": -2.0914479922933475,
-      "sector_rs": -2.0914479922933475
+      "sector_rs": -2.0914479922933475,
+      "signal_change": "STABLE",
+      "previous_score": 22.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 175,
+        "position_value": 146947.50213623047,
+        "actual_risk_pct": 0.996611059520639
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "INDIANB"
+      }
     },
     {
       "name": "HDFCBANK",
@@ -5213,7 +6409,20 @@
       "target": 747.7749633789062,
       "rr": 1.5,
       "rs3": -6.870754384925546,
-      "sector_rs": -6.870754384925546
+      "sector_rs": -6.870754384925546,
+      "signal_change": "STABLE",
+      "previous_score": 22.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 189,
+        "position_value": 133859.25,
+        "actual_risk_pct": 0.9960290771484375
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HDFCBANK"
+      }
     },
     {
       "name": "GODREJPROP",
@@ -5269,7 +6478,20 @@
       "target": 1822.7207211685882,
       "rr": 1.5,
       "rs3": -4.660286213138051,
-      "sector_rs": -4.660286213138051
+      "sector_rs": -4.660286213138051,
+      "signal_change": "STABLE",
+      "previous_score": 22.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 49,
+        "position_value": 81918.20239257812,
+        "actual_risk_pct": 0.9860150592910261
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GODREJPROP"
+      }
     },
     {
       "name": "DABUR",
@@ -5325,7 +6547,20 @@
       "target": 408.04998779296875,
       "rr": 1.5,
       "rs3": -6.464422950143686,
-      "sector_rs": -6.464422950143686
+      "sector_rs": -6.464422950143686,
+      "signal_change": "WEAKENED",
+      "previous_score": 27.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 312,
+        "position_value": 119823.59619140625,
+        "actual_risk_pct": 0.9984
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "DABUR"
+      }
     },
     {
       "name": "GODREJCP",
@@ -5381,7 +6616,20 @@
       "target": 914.6907625880239,
       "rr": 1.5,
       "rs3": -10.877962755457347,
-      "sector_rs": -10.877962755457347
+      "sector_rs": -10.877962755457347,
+      "signal_change": "STABLE",
+      "previous_score": 18,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 179,
+        "position_value": 156249.1043701172,
+        "actual_risk_pct": 0.9974056177518777
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GODREJCP"
+      }
     },
     {
       "name": "NATIONALUM",
@@ -5437,7 +6685,20 @@
       "target": 380.93079426564856,
       "rr": 1.5,
       "rs3": -2.6922975836686103,
-      "sector_rs": -2.6922975836686103
+      "sector_rs": -2.6922975836686103,
+      "signal_change": "STABLE",
+      "previous_score": 21.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 277,
+        "position_value": 98044.15338134766,
+        "actual_risk_pct": 0.9964902173649325
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "NATIONALUM"
+      }
     },
     {
       "name": "AMBER",
@@ -5493,7 +6754,20 @@
       "target": 7438.889935674801,
       "rr": 1.5,
       "rs3": -8.564952463655594,
-      "sector_rs": -8.564952463655594
+      "sector_rs": -8.564952463655594,
+      "signal_change": "STABLE",
+      "previous_score": 21.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 18,
+        "position_value": 126576.0,
+        "actual_risk_pct": 0.9765358456195216
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "AMBER"
+      }
     },
     {
       "name": "FORTIS",
@@ -5549,7 +6823,20 @@
       "target": 913.4946362364155,
       "rr": 1.5,
       "rs3": -7.397956223924649,
-      "sector_rs": -7.397956223924649
+      "sector_rs": -7.397956223924649,
+      "signal_change": "STABLE",
+      "previous_score": 21.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 187,
+        "position_value": 163335.15228271484,
+        "actual_risk_pct": 0.998445959132647
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "FORTIS"
+      }
     },
     {
       "name": "HINDUNILVR",
@@ -5605,7 +6892,20 @@
       "target": 2016.7829000594265,
       "rr": 1.5,
       "rs3": -8.79332889929265,
-      "sector_rs": -8.79332889929265
+      "sector_rs": -8.79332889929265,
+      "signal_change": "STABLE",
+      "previous_score": 18.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 114,
+        "position_value": 222414.0,
+        "actual_risk_pct": 0.9999000809032815
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HINDUNILVR"
+      }
     },
     {
       "name": "BRITANNIA",
@@ -5661,7 +6961,20 @@
       "target": 5279.693988031886,
       "rr": 1.5,
       "rs3": 1.0012707138507013,
-      "sector_rs": 1.0012707138507013
+      "sector_rs": 1.0012707138507013,
+      "signal_change": "STABLE",
+      "previous_score": 20.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 34,
+        "position_value": 172057.0,
+        "actual_risk_pct": 0.9936794124112185
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BRITANNIA"
+      }
     },
     {
       "name": "BPCL",
@@ -5717,7 +7030,20 @@
       "target": 317.4775500625839,
       "rr": 1.5,
       "rs3": -0.08162502906159186,
-      "sector_rs": -0.08162502906159186
+      "sector_rs": -0.08162502906159186,
+      "signal_change": "STABLE",
+      "previous_score": 20.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 486,
+        "position_value": 146796.2940673828,
+        "actual_risk_pct": 0.9997060350710598
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BPCL"
+      }
     },
     {
       "name": "MARUTI",
@@ -5773,7 +7099,20 @@
       "target": 13234.043359485553,
       "rr": 1.5,
       "rs3": -0.7549787547461031,
-      "sector_rs": -0.7549787547461031
+      "sector_rs": -0.7549787547461031,
+      "signal_change": "STABLE",
+      "previous_score": 20.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 13,
+        "position_value": 164944.0,
+        "actual_risk_pct": 0.9464751564416238
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MARUTI"
+      }
     },
     {
       "name": "AXISBANK",
@@ -5829,7 +7168,20 @@
       "target": 1298.2112748486616,
       "rr": 1.5,
       "rs3": -6.871891594594646,
-      "sector_rs": -6.871891594594646
+      "sector_rs": -6.871891594594646,
+      "signal_change": "STABLE",
+      "previous_score": 20.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 145,
+        "position_value": 180756.99645996094,
+        "actual_risk_pct": 0.9978184524126629
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "AXISBANK"
+      }
     },
     {
       "name": "HINDPETRO",
@@ -5885,7 +7237,20 @@
       "target": 369.22499084472656,
       "rr": 1.5,
       "rs3": -4.266628297499739,
-      "sector_rs": -4.266628297499739
+      "sector_rs": -4.266628297499739,
+      "signal_change": "STABLE",
+      "previous_score": 20.2,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 429,
+        "position_value": 150900.75,
+        "actual_risk_pct": 0.9995694763183594
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HINDPETRO"
+      }
     },
     {
       "name": "TRENT",
@@ -5941,7 +7306,20 @@
       "target": 2935.6340179477775,
       "rr": 1.5,
       "rs3": 3.2116048288350596,
-      "sector_rs": 3.2116048288350596
+      "sector_rs": 3.2116048288350596,
+      "signal_change": "STABLE",
+      "previous_score": 19.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 55,
+        "position_value": 154021.99462890625,
+        "actual_risk_pct": 0.9917168477628696
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "TRENT"
+      }
     },
     {
       "name": "BLUESTARCO",
@@ -5997,7 +7375,20 @@
       "target": 1610.0499877929688,
       "rr": 1.5,
       "rs3": -10.056721744570606,
-      "sector_rs": -10.056721744570606
+      "sector_rs": -10.056721744570606,
+      "signal_change": "STABLE",
+      "previous_score": 19.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 70,
+        "position_value": 105238.00170898438,
+        "actual_risk_pct": 0.9953996582031249
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BLUESTARCO"
+      }
     },
     {
       "name": "BHARTIARTL",
@@ -6053,7 +7444,20 @@
       "target": 1899.7067054048957,
       "rr": 1.5,
       "rs3": -1.6343464713647318,
-      "sector_rs": -1.6343464713647318
+      "sector_rs": -1.6343464713647318,
+      "signal_change": "STABLE",
+      "previous_score": 20.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 116,
+        "position_value": 212894.8056640625,
+        "actual_risk_pct": 0.9961562883873891
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BHARTIARTL"
+      }
     },
     {
       "name": "JIOFIN",
@@ -6109,7 +7513,20 @@
       "target": 244.34350761679778,
       "rr": 1.5,
       "rs3": 2.93867587974185,
-      "sector_rs": 2.93867587974185
+      "sector_rs": 2.93867587974185,
+      "signal_change": "STABLE",
+      "previous_score": 18.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 670,
+        "position_value": 156217.20245361328,
+        "actual_risk_pct": 0.9990596866188309
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "JIOFIN"
+      }
     },
     {
       "name": "HAVELLS",
@@ -6165,7 +7582,20 @@
       "target": 1145.4996829765396,
       "rr": 1.5,
       "rs3": -6.010681636267477,
-      "sector_rs": -6.010681636267477
+      "sector_rs": -6.010681636267477,
+      "signal_change": "STABLE",
+      "previous_score": 18.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 132,
+        "position_value": 143761.19677734375,
+        "actual_risk_pct": 0.9926348500745987
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HAVELLS"
+      }
     },
     {
       "name": "ICICIPRULI",
@@ -6221,7 +7651,20 @@
       "target": 498.07215823485706,
       "rr": 1.5,
       "rs3": 3.3354995290319067,
-      "sector_rs": 3.3354995290319067
+      "sector_rs": 3.3354995290319067,
+      "signal_change": "STABLE",
+      "previous_score": 18.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 260,
+        "position_value": 122017.99682617188,
+        "actual_risk_pct": 0.9974352419854613
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ICICIPRULI"
+      }
     },
     {
       "name": "IEX",
@@ -6277,7 +7720,20 @@
       "target": 118.34760970911566,
       "rr": 1.5,
       "rs3": -8.448012361543654,
-      "sector_rs": -8.448012361543654
+      "sector_rs": -8.448012361543654,
+      "signal_change": "STABLE",
+      "previous_score": 18.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1485,
+        "position_value": 168250.50453186035,
+        "actual_risk_pct": 0.9994261181568521
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IEX"
+      }
     },
     {
       "name": "AMBUJACEM",
@@ -6333,7 +7789,20 @@
       "target": 397.50222232259625,
       "rr": 1.5,
       "rs3": -8.69313498325379,
-      "sector_rs": -8.69313498325379
+      "sector_rs": -8.69313498325379,
+      "signal_change": "STABLE",
+      "previous_score": 17.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 458,
+        "position_value": 174566.69720458984,
+        "actual_risk_pct": 0.9985760825545636
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "AMBUJACEM"
+      }
     },
     {
       "name": "ITC",
@@ -6389,7 +7858,20 @@
       "target": 271.0922225566794,
       "rr": 1.5,
       "rs3": -9.278209272990278,
-      "sector_rs": -9.278209272990278
+      "sector_rs": -9.278209272990278,
+      "signal_change": "STABLE",
+      "previous_score": 18.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 708,
+        "position_value": 184434.0,
+        "actual_risk_pct": 0.999905809350537
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ITC"
+      }
     },
     {
       "name": "CROMPTON",
@@ -6445,7 +7927,20 @@
       "target": 238.79862962464117,
       "rr": 1.5,
       "rs3": -15.690482385242909,
-      "sector_rs": -15.690482385242909
+      "sector_rs": -15.690482385242909,
+      "signal_change": "STABLE",
+      "previous_score": 18,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 563,
+        "position_value": 126950.87309265137,
+        "actual_risk_pct": 0.9990340514695479
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CROMPTON"
+      }
     },
     {
       "name": "DMART",
@@ -6501,7 +7996,20 @@
       "target": 3843.0658783679273,
       "rr": 1.5,
       "rs3": -11.281768272603141,
-      "sector_rs": -11.281768272603141
+      "sector_rs": -11.281768272603141,
+      "signal_change": "STABLE",
+      "previous_score": 18.0,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 42,
+        "position_value": 154072.7958984375,
+        "actual_risk_pct": 0.9781294657353917
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "DMART"
+      }
     },
     {
       "name": "ICICIGI",
@@ -6557,7 +8065,20 @@
       "target": 1512.5175454968216,
       "rr": 1.5,
       "rs3": -19.984226641544154,
-      "sector_rs": -19.984226641544154
+      "sector_rs": -19.984226641544154,
+      "signal_change": "STABLE",
+      "previous_score": 18,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 112,
+        "position_value": 161918.39453125,
+        "actual_risk_pct": 0.9978094085858699
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "ICICIGI"
+      }
     },
     {
       "name": "INOXWIND",
@@ -6613,7 +8134,20 @@
       "target": 82.52499389648438,
       "rr": 1.5,
       "rs3": -19.138027085413356,
-      "sector_rs": -19.138027085413356
+      "sector_rs": -19.138027085413356,
+      "signal_change": "STABLE",
+      "previous_score": 18.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 860,
+        "position_value": 63476.597900390625,
+        "actual_risk_pct": 0.999319580078125
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "INOXWIND"
+      }
     },
     {
       "name": "IRFC",
@@ -6669,7 +8203,20 @@
       "target": 82.32096261931864,
       "rr": 1.5,
       "rs3": -19.600296673181372,
-      "sector_rs": -19.600296673181372
+      "sector_rs": -19.600296673181372,
+      "signal_change": "STABLE",
+      "previous_score": 18,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 2328,
+        "position_value": 184144.7964477539,
+        "actual_risk_pct": 0.9997872706693192
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IRFC"
+      }
     },
     {
       "name": "CAMS",
@@ -6725,7 +8272,20 @@
       "target": 752.875,
       "rr": 1.5,
       "rs3": -11.651178860660448,
-      "sector_rs": -11.651178860660448
+      "sector_rs": -11.651178860660448,
+      "signal_change": "WEAKENED",
+      "previous_score": 23.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 173,
+        "position_value": 122786.75,
+        "actual_risk_pct": 0.99475
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CAMS"
+      }
     },
     {
       "name": "INFY",
@@ -6781,7 +8341,20 @@
       "target": 1115.736131200842,
       "rr": 1.5,
       "rs3": 0.30421324124484594,
-      "sector_rs": 0.30421324124484594
+      "sector_rs": 0.30421324124484594,
+      "signal_change": "STABLE",
+      "previous_score": 15.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 120,
+        "position_value": 126443.994140625,
+        "actual_risk_pct": 0.992578880463473
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "INFY"
+      }
     },
     {
       "name": "IRCTC",
@@ -6837,7 +8410,20 @@
       "target": 489.49918514545766,
       "rr": 1.5,
       "rs3": -6.346206966107302,
-      "sector_rs": -6.346206966107302
+      "sector_rs": -6.346206966107302,
+      "signal_change": "STABLE",
+      "previous_score": 17.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 445,
+        "position_value": 210329.24728393555,
+        "actual_risk_pct": 0.9997186807724132
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IRCTC"
+      }
     },
     {
       "name": "BDL",
@@ -6893,7 +8479,20 @@
       "target": 1224.2403774029717,
       "rr": 1.5,
       "rs3": -6.513821910750804,
-      "sector_rs": -6.513821910750804
+      "sector_rs": -6.513821910750804,
+      "signal_change": "STABLE",
+      "previous_score": 17.7,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 87,
+        "position_value": 99075.60424804688,
+        "actual_risk_pct": 0.9911078114682232
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BDL"
+      }
     },
     {
       "name": "BANKBARODA",
@@ -6949,7 +8548,20 @@
       "target": 241.68582886444696,
       "rr": 1.5,
       "rs3": -17.346068541493562,
-      "sector_rs": -17.346068541493562
+      "sector_rs": -17.346068541493562,
+      "signal_change": "STABLE",
+      "previous_score": 15,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 809,
+        "position_value": 188027.77851867676,
+        "actual_risk_pct": 0.9994742710214446
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BANKBARODA"
+      }
     },
     {
       "name": "HDFCAMC",
@@ -7005,7 +8617,20 @@
       "target": 2539.3908773443336,
       "rr": 1.5,
       "rs3": -6.832760684464476,
-      "sector_rs": -6.832760684464476
+      "sector_rs": -6.832760684464476,
+      "signal_change": "STABLE",
+      "previous_score": 16.3,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 56,
+        "position_value": 134786.39453125,
+        "actual_risk_pct": 0.9892659466710226
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HDFCAMC"
+      }
     },
     {
       "name": "IOC",
@@ -7061,7 +8686,20 @@
       "target": 140.60521857278354,
       "rr": 1.5,
       "rs3": -4.659078752858701,
-      "sector_rs": -4.659078752858701
+      "sector_rs": -4.659078752858701,
+      "signal_change": "STABLE",
+      "previous_score": 16.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1364,
+        "position_value": 184290.04083251953,
+        "actual_risk_pct": 0.9993969734342933
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IOC"
+      }
     },
     {
       "name": "MUTHOOTFIN",
@@ -7117,7 +8755,20 @@
       "target": 3027.4056753249074,
       "rr": 1.5,
       "rs3": -8.575134415016448,
-      "sector_rs": -8.575134415016448
+      "sector_rs": -8.575134415016448,
+      "signal_change": "STABLE",
+      "previous_score": 15.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 41,
+        "position_value": 116636.80200195312,
+        "actual_risk_pct": 0.9982440915157438
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MUTHOOTFIN"
+      }
     },
     {
       "name": "BEL",
@@ -7173,7 +8824,20 @@
       "target": 406.3908025827357,
       "rr": 1.5,
       "rs3": -5.736209368956822,
-      "sector_rs": -5.736209368956822
+      "sector_rs": -5.736209368956822,
+      "signal_change": "STABLE",
+      "previous_score": 15.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 440,
+        "position_value": 171314.00268554688,
+        "actual_risk_pct": 0.9997267267809121
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "BEL"
+      }
     },
     {
       "name": "IREDA",
@@ -7229,7 +8893,20 @@
       "target": 117.06913211394557,
       "rr": 1.5,
       "rs3": -6.605460478754131,
-      "sector_rs": -6.605460478754131
+      "sector_rs": -6.605460478754131,
+      "signal_change": "STABLE",
+      "previous_score": 15.9,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1589,
+        "position_value": 178524.14757537842,
+        "actual_risk_pct": 0.9998271138241458
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IREDA"
+      }
     },
     {
       "name": "MFSL",
@@ -7285,7 +8962,20 @@
       "target": 1563.5981171102867,
       "rr": 1.5,
       "rs3": -8.030407528907766,
-      "sector_rs": -8.030407528907766
+      "sector_rs": -8.030407528907766,
+      "signal_change": "STABLE",
+      "previous_score": 15.8,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 88,
+        "position_value": 130116.7978515625,
+        "actual_risk_pct": 0.9973115272190306
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "MFSL"
+      }
     },
     {
       "name": "IGL",
@@ -7341,7 +9031,20 @@
       "target": 155.2004027265318,
       "rr": 1.5,
       "rs3": -10.19664720197929,
-      "sector_rs": -10.19664720197929
+      "sector_rs": -10.19664720197929,
+      "signal_change": "STABLE",
+      "previous_score": 17.6,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1065,
+        "position_value": 157790.40390014648,
+        "actual_risk_pct": 0.999736667147983
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "IGL"
+      }
     },
     {
       "name": "HDFCLIFE",
@@ -7397,7 +9100,20 @@
       "target": 553.5750427246094,
       "rr": 1.5,
       "rs3": -9.613897832938877,
-      "sector_rs": -9.613897832938877
+      "sector_rs": -9.613897832938877,
+      "signal_change": "STABLE",
+      "previous_score": 15.5,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 278,
+        "position_value": 146408.70678710938,
+        "actual_risk_pct": 0.9980206787109375
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "HDFCLIFE"
+      }
     },
     {
       "name": "CANBK",
@@ -7453,7 +9169,20 @@
       "target": 128.0697594131198,
       "rr": 1.5,
       "rs3": -7.855219694694047,
-      "sector_rs": -7.855219694694047
+      "sector_rs": -7.855219694694047,
+      "signal_change": "STABLE",
+      "previous_score": 15.4,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 1401,
+        "position_value": 171930.72171020508,
+        "actual_risk_pct": 0.9993348303434384
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "CANBK"
+      }
     },
     {
       "name": "GODFRYPHLP",
@@ -7509,7 +9238,20 @@
       "target": 2033.7464108124832,
       "rr": 1.5,
       "rs3": -12.217982825779904,
-      "sector_rs": -12.217982825779904
+      "sector_rs": -12.217982825779904,
+      "signal_change": "STABLE",
+      "previous_score": 18,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 74,
+        "position_value": 143071.60180664062,
+        "actual_risk_pct": 0.990084345797752
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "GODFRYPHLP"
+      }
     },
     {
       "name": "SYNGENE",
@@ -7565,7 +9307,20 @@
       "target": 403.8319979198591,
       "rr": 1.5,
       "rs3": -13.907054886106684,
-      "sector_rs": -13.907054886106684
+      "sector_rs": -13.907054886106684,
+      "signal_change": "STABLE",
+      "previous_score": 15.1,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 354,
+        "position_value": 135458.09783935547,
+        "actual_risk_pct": 0.9997905899032872
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "SYNGENE"
+      }
     },
     {
       "name": "KPITTECH",
@@ -7621,7 +9376,20 @@
       "target": 586.7357984964235,
       "rr": 1.5,
       "rs3": -24.905422461696713,
-      "sector_rs": -24.905422461696713
+      "sector_rs": -24.905422461696713,
+      "signal_change": "STABLE",
+      "previous_score": 15,
+      "risk": {
+        "risk_cash": 5000.0,
+        "qty": 221,
+        "position_value": 122179.84460449219,
+        "actual_risk_pct": 0.9985022484289863
+      },
+      "corporate_events": {
+        "status": "UNAVAILABLE",
+        "events": [],
+        "symbol": "KPITTECH"
+      }
     }
   ],
   "failures": [
