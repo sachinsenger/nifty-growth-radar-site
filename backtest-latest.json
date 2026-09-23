@@ -2,41 +2,41 @@
   "method": "technical breakout/volume price-only backtest",
   "results": [
     {
-      "n": 3,
+      "n": 2,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 33.3,
-        "avg_return": -0.41,
-        "median_return": -0.61,
-        "best": 1.37,
+        "win_rate": 0.0,
+        "avg_return": -1.29,
+        "median_return": -1.29,
+        "best": -0.61,
         "worst": -1.98
       },
       "10d": {
-        "win_rate": 33.3,
-        "avg_return": -0.35,
-        "median_return": -0.18,
-        "best": 1.22,
+        "win_rate": 0.0,
+        "avg_return": -1.14,
+        "median_return": -1.14,
+        "best": -0.18,
         "worst": -2.1
       },
       "20d": {
-        "win_rate": 33.3,
-        "avg_return": 0.8,
-        "median_return": -0.44,
-        "best": 3.59,
+        "win_rate": 0.0,
+        "avg_return": -0.59,
+        "median_return": -0.59,
+        "best": -0.44,
         "worst": -0.75
       },
       "40d": {
-        "win_rate": 33.3,
-        "avg_return": -4.07,
-        "median_return": -5.83,
-        "best": 5.33,
+        "win_rate": 0.0,
+        "avg_return": -8.77,
+        "median_return": -8.77,
+        "best": -5.83,
         "worst": -11.71
       },
       "60d": {
-        "win_rate": 33.3,
-        "avg_return": -5.16,
-        "median_return": -6.47,
-        "best": 0.58,
+        "win_rate": 0.0,
+        "avg_return": -8.03,
+        "median_return": -8.03,
+        "best": -6.47,
         "worst": -9.59
       },
       "name": "Reliance Industries",
@@ -65,24 +65,24 @@
         "worst": -1.87
       },
       "10d": {
-        "win_rate": 50.0,
-        "avg_return": 0.67,
-        "median_return": 1.48,
+        "win_rate": 75.0,
+        "avg_return": 1.11,
+        "median_return": 2.36,
         "best": 3.08,
         "worst": -3.35
       },
       "20d": {
         "win_rate": 75.0,
-        "avg_return": 2.97,
-        "median_return": 2.74,
-        "best": 6.82,
+        "avg_return": 2.96,
+        "median_return": 3.64,
+        "best": 4.98,
         "worst": -0.44
       },
       "40d": {
         "win_rate": 75.0,
-        "avg_return": 3.62,
+        "avg_return": 3.15,
         "median_return": 2.66,
-        "best": 9.52,
+        "best": 7.63,
         "worst": -0.36
       },
       "60d": {
@@ -178,40 +178,40 @@
       "symbol": "INFY"
     },
     {
-      "n": 14,
+      "n": 13,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 78.6,
-        "avg_return": 0.88,
-        "median_return": 0.5,
+        "win_rate": 76.9,
+        "avg_return": 0.94,
+        "median_return": 0.62,
         "best": 5.42,
         "worst": -1.23
       },
       "10d": {
-        "win_rate": 92.9,
-        "avg_return": 2.77,
-        "median_return": 2.27,
+        "win_rate": 92.3,
+        "avg_return": 2.97,
+        "median_return": 2.29,
         "best": 10.95,
         "worst": -2.31
       },
       "20d": {
-        "win_rate": 71.4,
-        "avg_return": 2.96,
-        "median_return": 2.87,
+        "win_rate": 69.2,
+        "avg_return": 3.25,
+        "median_return": 3.28,
         "best": 15.02,
         "worst": -12.19
       },
       "40d": {
-        "win_rate": 71.4,
-        "avg_return": 1.48,
-        "median_return": 2.53,
+        "win_rate": 69.2,
+        "avg_return": 0.86,
+        "median_return": 2.5,
         "best": 11.72,
         "worst": -10.5
       },
       "60d": {
-        "win_rate": 78.6,
-        "avg_return": 2.94,
-        "median_return": 7.72,
+        "win_rate": 76.9,
+        "avg_return": 2.33,
+        "median_return": 5.98,
         "best": 12.48,
         "worst": -19.22
       },
@@ -237,41 +237,41 @@
       "symbol": "HINDUNILVR"
     },
     {
-      "n": 4,
+      "n": 5,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 75.0,
-        "avg_return": 0.91,
-        "median_return": 1.26,
+        "win_rate": 80.0,
+        "avg_return": 0.77,
+        "median_return": 0.76,
         "best": 2.35,
         "worst": -1.22
       },
       "10d": {
-        "win_rate": 25.0,
-        "avg_return": 0.66,
-        "median_return": -0.28,
+        "win_rate": 40.0,
+        "avg_return": 0.74,
+        "median_return": -0.11,
         "best": 4.15,
         "worst": -0.92
       },
       "20d": {
-        "win_rate": 75.0,
-        "avg_return": 0.94,
-        "median_return": 2.48,
-        "best": 4.59,
+        "win_rate": 80.0,
+        "avg_return": 1.69,
+        "median_return": 2.71,
+        "best": 4.7,
         "worst": -5.79
       },
       "40d": {
-        "win_rate": 75.0,
-        "avg_return": 2.56,
-        "median_return": 2.99,
-        "best": 6.41,
+        "win_rate": 80.0,
+        "avg_return": 3.57,
+        "median_return": 3.95,
+        "best": 7.61,
         "worst": -2.15
       },
       "60d": {
-        "win_rate": 25.0,
-        "avg_return": -1.91,
-        "median_return": -3.43,
-        "best": 4.97,
+        "win_rate": 40.0,
+        "avg_return": 0.31,
+        "median_return": -2.76,
+        "best": 9.19,
         "worst": -5.76
       },
       "name": "Larsen & Toubro",
@@ -870,40 +870,40 @@
       "symbol": "COFORGE"
     },
     {
-      "n": 7,
+      "n": 5,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 100.0,
-        "avg_return": 3.6,
-        "median_return": 3.83,
-        "best": 6.6,
+        "avg_return": 2.6,
+        "median_return": 1.88,
+        "best": 4.7,
         "worst": 0.96
       },
       "10d": {
         "win_rate": 100.0,
-        "avg_return": 4.78,
-        "median_return": 4.74,
-        "best": 10.68,
+        "avg_return": 2.74,
+        "median_return": 1.9,
+        "best": 5.7,
         "worst": 0.57
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 7.66,
-        "median_return": 8.34,
-        "best": 12.17,
+        "avg_return": 6.39,
+        "median_return": 7.23,
+        "best": 9.38,
         "worst": 3.32
       },
       "40d": {
-        "win_rate": 85.7,
-        "avg_return": 11.18,
-        "median_return": 13.42,
-        "best": 21.87,
+        "win_rate": 80.0,
+        "avg_return": 7.06,
+        "median_return": 10.24,
+        "best": 16.08,
         "worst": -5.42
       },
       "60d": {
         "win_rate": 100.0,
-        "avg_return": 16.2,
-        "median_return": 18.5,
+        "avg_return": 14.97,
+        "median_return": 17.42,
         "best": 20.58,
         "worst": 5.24
       },
@@ -1181,40 +1181,40 @@
       "symbol": "SONACOMS"
     },
     {
-      "n": 10,
+      "n": 11,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 60.0,
-        "avg_return": 1.41,
-        "median_return": 1.57,
+        "win_rate": 54.5,
+        "avg_return": 1.14,
+        "median_return": 1.32,
         "best": 5.67,
         "worst": -2.21
       },
       "10d": {
-        "win_rate": 70.0,
-        "avg_return": 3.65,
-        "median_return": 0.92,
+        "win_rate": 63.6,
+        "avg_return": 3.21,
+        "median_return": 0.54,
         "best": 13.79,
         "worst": -4.72
       },
       "20d": {
-        "win_rate": 60.0,
-        "avg_return": 3.56,
-        "median_return": 3.1,
+        "win_rate": 63.6,
+        "avg_return": 3.28,
+        "median_return": 1.54,
         "best": 19.68,
         "worst": -3.17
       },
       "40d": {
-        "win_rate": 80.0,
-        "avg_return": 4.73,
-        "median_return": 6.56,
+        "win_rate": 72.7,
+        "avg_return": 3.76,
+        "median_return": 5.8,
         "best": 10.75,
-        "worst": -3.87
+        "worst": -5.98
       },
       "60d": {
-        "win_rate": 70.0,
-        "avg_return": 7.73,
-        "median_return": 10.87,
+        "win_rate": 63.6,
+        "avg_return": 6.35,
+        "median_return": 10.8,
         "best": 21.75,
         "worst": -10.85
       },
@@ -1222,122 +1222,122 @@
       "symbol": "BHARATFORG"
     },
     {
-      "n": 2,
+      "n": 1,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 0.0,
-        "avg_return": -4.48,
-        "median_return": -4.48,
-        "best": -3.37,
+        "avg_return": -5.59,
+        "median_return": -5.59,
+        "best": -5.59,
         "worst": -5.59
       },
       "10d": {
         "win_rate": 0.0,
-        "avg_return": -9.34,
-        "median_return": -9.34,
-        "best": -8.07,
+        "avg_return": -10.62,
+        "median_return": -10.62,
+        "best": -10.62,
         "worst": -10.62
       },
       "20d": {
         "win_rate": 0.0,
-        "avg_return": -7.65,
-        "median_return": -7.65,
-        "best": -7.32,
+        "avg_return": -7.97,
+        "median_return": -7.97,
+        "best": -7.97,
         "worst": -7.97
       },
       "40d": {
         "win_rate": 0.0,
-        "avg_return": -15.32,
-        "median_return": -15.32,
-        "best": -13.39,
+        "avg_return": -17.24,
+        "median_return": -17.24,
+        "best": -17.24,
         "worst": -17.24
       },
       "60d": {
         "win_rate": 0.0,
-        "avg_return": -13.33,
-        "median_return": -13.33,
-        "best": -12.56,
+        "avg_return": -14.09,
+        "median_return": -14.09,
+        "best": -14.09,
         "worst": -14.09
       },
       "name": "Zensar Technologies",
       "symbol": "ZENSARTECH"
     },
     {
-      "n": 9,
+      "n": 8,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
         "win_rate": 100.0,
-        "avg_return": 11.38,
-        "median_return": 10.55,
+        "avg_return": 11.49,
+        "median_return": 11.13,
         "best": 21.65,
         "worst": 3.66
       },
       "10d": {
-        "win_rate": 77.8,
-        "avg_return": 16.77,
-        "median_return": 24.7,
+        "win_rate": 75.0,
+        "avg_return": 15.57,
+        "median_return": 17.76,
         "best": 31.99,
         "worst": -3.07
       },
       "20d": {
         "win_rate": 100.0,
-        "avg_return": 54.61,
-        "median_return": 54.86,
+        "avg_return": 52.05,
+        "median_return": 52.78,
         "best": 78.44,
         "worst": 28.03
       },
       "40d": {
         "win_rate": 100.0,
-        "avg_return": 77.99,
-        "median_return": 83.44,
-        "best": 100.37,
+        "avg_return": 75.19,
+        "median_return": 75.86,
+        "best": 97.91,
         "worst": 51.62
       },
       "60d": {
         "win_rate": 100.0,
-        "avg_return": 89.79,
-        "median_return": 62.36,
-        "best": 154.36,
+        "avg_return": 81.72,
+        "median_return": 57.97,
+        "best": 152.62,
         "worst": 37.08
       },
       "name": "HFCL",
       "symbol": "HFCL"
     },
     {
-      "n": 5,
+      "n": 4,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 60.0,
-        "avg_return": 6.61,
-        "median_return": 8.68,
+        "win_rate": 75.0,
+        "avg_return": 8.84,
+        "median_return": 8.71,
         "best": 25.71,
         "worst": -7.79
       },
       "10d": {
-        "win_rate": 60.0,
-        "avg_return": 12.46,
-        "median_return": 19.27,
+        "win_rate": 75.0,
+        "avg_return": 16.65,
+        "median_return": 21.23,
         "best": 32.7,
         "worst": -8.54
       },
       "20d": {
-        "win_rate": 80.0,
-        "avg_return": 21.07,
-        "median_return": 24.2,
+        "win_rate": 75.0,
+        "avg_return": 25.94,
+        "median_return": 29.39,
         "best": 57.82,
         "worst": -12.83
       },
       "40d": {
-        "win_rate": 60.0,
-        "avg_return": 28.29,
-        "median_return": 31.83,
+        "win_rate": 75.0,
+        "avg_return": 35.63,
+        "median_return": 39.95,
         "best": 74.78,
         "worst": -12.15
       },
       "60d": {
-        "win_rate": 60.0,
-        "avg_return": 20.39,
-        "median_return": 28.83,
+        "win_rate": 75.0,
+        "avg_return": 27.04,
+        "median_return": 33.01,
         "best": 60.7,
         "worst": -18.56
       },
@@ -1609,40 +1609,40 @@
       "symbol": "DELHIVERY"
     },
     {
-      "n": 8,
+      "n": 9,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 75.0,
-        "avg_return": 1.62,
-        "median_return": 2.82,
+        "win_rate": 77.8,
+        "avg_return": 1.44,
+        "median_return": 2.58,
         "best": 3.84,
         "worst": -4.44
       },
       "10d": {
-        "win_rate": 87.5,
-        "avg_return": 4.99,
-        "median_return": 6.13,
+        "win_rate": 88.9,
+        "avg_return": 5.04,
+        "median_return": 5.37,
         "best": 9.38,
         "worst": -3.12
       },
       "20d": {
-        "win_rate": 87.5,
-        "avg_return": 10.71,
-        "median_return": 11.97,
+        "win_rate": 88.9,
+        "avg_return": 10.12,
+        "median_return": 11.83,
         "best": 19.45,
         "worst": -5.66
       },
       "40d": {
-        "win_rate": 87.5,
-        "avg_return": 18.9,
-        "median_return": 21.12,
+        "win_rate": 88.9,
+        "avg_return": 19.72,
+        "median_return": 21.17,
         "best": 34.08,
         "worst": -6.31
       },
       "60d": {
-        "win_rate": 87.5,
-        "avg_return": 34.24,
-        "median_return": 38.63,
+        "win_rate": 88.9,
+        "avg_return": 34.36,
+        "median_return": 36.09,
         "best": 46.99,
         "worst": -7.15
       },
@@ -1732,40 +1732,40 @@
       "symbol": "DATAPATTNS"
     },
     {
-      "n": 13,
+      "n": 12,
       "note": "Price-only; no point-in-time fundamentals",
       "5d": {
-        "win_rate": 46.2,
-        "avg_return": 1.94,
-        "median_return": -0.41,
+        "win_rate": 41.7,
+        "avg_return": 1.17,
+        "median_return": -0.59,
         "best": 12.9,
         "worst": -6.68
       },
       "10d": {
-        "win_rate": 46.2,
-        "avg_return": 0.47,
-        "median_return": -0.68,
+        "win_rate": 41.7,
+        "avg_return": -0.19,
+        "median_return": -1.31,
         "best": 10.13,
         "worst": -9.08
       },
       "20d": {
-        "win_rate": 46.2,
-        "avg_return": 1.63,
-        "median_return": -0.03,
+        "win_rate": 41.7,
+        "avg_return": 1.35,
+        "median_return": -1.51,
         "best": 26.61,
         "worst": -15.92
       },
       "40d": {
-        "win_rate": 84.6,
-        "avg_return": 10.62,
-        "median_return": 14.46,
+        "win_rate": 83.3,
+        "avg_return": 10.54,
+        "median_return": 15.94,
         "best": 20.94,
         "worst": -16.95
       },
       "60d": {
-        "win_rate": 84.6,
-        "avg_return": 17.52,
-        "median_return": 18.27,
+        "win_rate": 83.3,
+        "avg_return": 18.1,
+        "median_return": 19.4,
         "best": 52.55,
         "worst": -15.33
       },
@@ -1773,8 +1773,43 @@
       "symbol": "KIRLOSENG"
     },
     {
-      "n": 0,
-      "note": "No qualifying signals",
+      "n": 4,
+      "note": "Price-only; no point-in-time fundamentals",
+      "5d": {
+        "win_rate": 0.0,
+        "avg_return": -4.35,
+        "median_return": -4.16,
+        "best": -1.71,
+        "worst": -7.34
+      },
+      "10d": {
+        "win_rate": 0.0,
+        "avg_return": -5.29,
+        "median_return": -5.61,
+        "best": -3.2,
+        "worst": -6.72
+      },
+      "20d": {
+        "win_rate": 0.0,
+        "avg_return": -4.96,
+        "median_return": -5.6,
+        "best": -1.79,
+        "worst": -6.86
+      },
+      "40d": {
+        "win_rate": 0.0,
+        "avg_return": -22.36,
+        "median_return": -3.68,
+        "best": -1.23,
+        "worst": -80.83
+      },
+      "60d": {
+        "win_rate": 0.0,
+        "avg_return": -81.74,
+        "median_return": -81.8,
+        "best": -81.18,
+        "worst": -82.15
+      },
       "name": "CAMS",
       "symbol": "CAMS"
     },

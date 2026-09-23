@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-09-22T08:29:33.993669+00:00",
+  "generated_at": "2026-09-23T08:31:25.880056+00:00",
   "macro": {
     "USD/INR": {
       "name": "USD/INR",
       "ticker": "USDINR=X",
-      "value": 95.84750366210938,
-      "change_pct": -0.17247230728851815,
-      "date": "2026-09-22",
+      "value": 95.7300033569336,
+      "change_pct": 0.01881203137814591,
+      "date": "2026-09-23",
       "freshness": "Latest available"
     },
     "Brent Crude": {
       "name": "Brent Crude",
       "ticker": "BZ=F",
-      "value": 101.55999755859375,
-      "change_pct": 1.2158673163539024,
-      "date": "2026-09-22",
+      "value": 95.62999725341797,
+      "change_pct": -3.6473579310650206,
+      "date": "2026-09-23",
       "freshness": "Latest available"
     },
     "Gold": {
       "name": "Gold",
       "ticker": "GC=F",
-      "value": 4339.89990234375,
-      "change_pct": -1.0036725513845934,
-      "date": "2026-09-22",
+      "value": 4356.7001953125,
+      "change_pct": -0.4501349847096936,
+      "date": "2026-09-23",
       "freshness": "Latest available"
     },
     "US 10Y Yield": {
