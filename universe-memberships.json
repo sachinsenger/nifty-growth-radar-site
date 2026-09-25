@@ -1,10 +1,17 @@
 {
-  "generated": "2026-09-24T08:33:55Z",
+  "generated": "2026-09-25T08:55:44Z",
   "source": "NSE equity-stockIndices; allIndices discovery with maintained fallback catalog",
   "index_count_requested": 29,
   "indexes": {
-    "NIFTY 100": {
-      "name": "NIFTY 100",
+    "NIFTY 50": {
+      "name": "NIFTY 50",
+      "available": false,
+      "count": 0,
+      "rows": [],
+      "symbols": []
+    },
+    "NIFTY NEXT 50": {
+      "name": "NIFTY NEXT 50",
       "available": false,
       "count": 0,
       "rows": [],
@@ -17,15 +24,15 @@
       "rows": [],
       "symbols": []
     },
-    "NIFTY 50": {
-      "name": "NIFTY 50",
+    "NIFTY 100": {
+      "name": "NIFTY 100",
       "available": false,
       "count": 0,
       "rows": [],
       "symbols": []
     },
-    "NIFTY NEXT 50": {
-      "name": "NIFTY NEXT 50",
+    "NIFTY MIDCAP 100": {
+      "name": "NIFTY MIDCAP 100",
       "available": false,
       "count": 0,
       "rows": [],
@@ -45,13 +52,6 @@
       "rows": [],
       "symbols": []
     },
-    "NIFTY MIDCAP 100": {
-      "name": "NIFTY MIDCAP 100",
-      "available": false,
-      "count": 0,
-      "rows": [],
-      "symbols": []
-    },
     "NIFTY MIDCAP 150": {
       "name": "NIFTY MIDCAP 150",
       "available": false,
@@ -66,15 +66,15 @@
       "rows": [],
       "symbols": []
     },
-    "NIFTY SMALLCAP 250": {
-      "name": "NIFTY SMALLCAP 250",
+    "NIFTY SMALLCAP 50": {
+      "name": "NIFTY SMALLCAP 50",
       "available": false,
       "count": 0,
       "rows": [],
       "symbols": []
     },
-    "NIFTY SMALLCAP 50": {
-      "name": "NIFTY SMALLCAP 50",
+    "NIFTY SMALLCAP 250": {
+      "name": "NIFTY SMALLCAP 250",
       "available": false,
       "count": 0,
       "rows": [],
@@ -101,22 +101,8 @@
       "rows": [],
       "symbols": []
     },
-    "NIFTY PSU BANK": {
-      "name": "NIFTY PSU BANK",
-      "available": false,
-      "count": 0,
-      "rows": [],
-      "symbols": []
-    },
     "NIFTY PRIVATE BANK": {
       "name": "NIFTY PRIVATE BANK",
-      "available": false,
-      "count": 0,
-      "rows": [],
-      "symbols": []
-    },
-    "NIFTY FMCG": {
-      "name": "NIFTY FMCG",
       "available": false,
       "count": 0,
       "rows": [],
@@ -129,8 +115,8 @@
       "rows": [],
       "symbols": []
     },
-    "NIFTY PHARMA": {
-      "name": "NIFTY PHARMA",
+    "NIFTY PSU BANK": {
+      "name": "NIFTY PSU BANK",
       "available": false,
       "count": 0,
       "rows": [],
@@ -143,8 +129,22 @@
       "rows": [],
       "symbols": []
     },
+    "NIFTY PHARMA": {
+      "name": "NIFTY PHARMA",
+      "available": false,
+      "count": 0,
+      "rows": [],
+      "symbols": []
+    },
     "NIFTY METAL": {
       "name": "NIFTY METAL",
+      "available": false,
+      "count": 0,
+      "rows": [],
+      "symbols": []
+    },
+    "NIFTY FMCG": {
+      "name": "NIFTY FMCG",
       "available": false,
       "count": 0,
       "rows": [],
@@ -157,15 +157,15 @@
       "rows": [],
       "symbols": []
     },
-    "NIFTY CONSUMER DURABLES": {
-      "name": "NIFTY CONSUMER DURABLES",
+    "NIFTY HEALTHCARE INDEX": {
+      "name": "NIFTY HEALTHCARE INDEX",
       "available": false,
       "count": 0,
       "rows": [],
       "symbols": []
     },
-    "NIFTY HEALTHCARE INDEX": {
-      "name": "NIFTY HEALTHCARE INDEX",
+    "NIFTY CONSUMER DURABLES": {
+      "name": "NIFTY CONSUMER DURABLES",
       "available": false,
       "count": 0,
       "rows": [],
@@ -178,15 +178,15 @@
       "rows": [],
       "symbols": []
     },
-    "NIFTY MEDIA": {
-      "name": "NIFTY MEDIA",
+    "NIFTY ENERGY": {
+      "name": "NIFTY ENERGY",
       "available": false,
       "count": 0,
       "rows": [],
       "symbols": []
     },
-    "NIFTY ENERGY": {
-      "name": "NIFTY ENERGY",
+    "NIFTY MEDIA": {
+      "name": "NIFTY MEDIA",
       "available": false,
       "count": 0,
       "rows": [],
@@ -209,20 +209,24 @@
   },
   "failures": [
     {
-      "index": "NIFTY 100",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+100"
-    },
-    {
-      "index": "NIFTY 200",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+200"
-    },
-    {
       "index": "NIFTY 50",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+50"
     },
     {
       "index": "NIFTY NEXT 50",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+NEXT+50"
+    },
+    {
+      "index": "NIFTY 200",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+200"
+    },
+    {
+      "index": "NIFTY 100",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+100"
+    },
+    {
+      "index": "NIFTY MIDCAP 100",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MIDCAP+100"
     },
     {
       "index": "NIFTY MIDCAP 50",
@@ -233,10 +237,6 @@
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+500"
     },
     {
-      "index": "NIFTY MIDCAP 100",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MIDCAP+100"
-    },
-    {
       "index": "NIFTY MIDCAP 150",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MIDCAP+150"
     },
@@ -245,12 +245,12 @@
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+SMALLCAP+100"
     },
     {
-      "index": "NIFTY SMALLCAP 250",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+SMALLCAP+250"
-    },
-    {
       "index": "NIFTY SMALLCAP 50",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+SMALLCAP+50"
+    },
+    {
+      "index": "NIFTY SMALLCAP 250",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+SMALLCAP+250"
     },
     {
       "index": "NIFTY MICROCAP 250",
@@ -265,56 +265,56 @@
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+FINANCIAL+SERVICES"
     },
     {
-      "index": "NIFTY PSU BANK",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PSU+BANK"
-    },
-    {
       "index": "NIFTY PRIVATE BANK",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PRIVATE+BANK"
-    },
-    {
-      "index": "NIFTY FMCG",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+FMCG"
     },
     {
       "index": "NIFTY AUTO",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+AUTO"
     },
     {
-      "index": "NIFTY PHARMA",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PHARMA"
+      "index": "NIFTY PSU BANK",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PSU+BANK"
     },
     {
       "index": "NIFTY IT",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+IT"
     },
     {
+      "index": "NIFTY PHARMA",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+PHARMA"
+    },
+    {
       "index": "NIFTY METAL",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+METAL"
+    },
+    {
+      "index": "NIFTY FMCG",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+FMCG"
     },
     {
       "index": "NIFTY REALTY",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+REALTY"
     },
     {
-      "index": "NIFTY CONSUMER DURABLES",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+CONSUMER+DURABLES"
-    },
-    {
       "index": "NIFTY HEALTHCARE INDEX",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+HEALTHCARE+INDEX"
+    },
+    {
+      "index": "NIFTY CONSUMER DURABLES",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+CONSUMER+DURABLES"
     },
     {
       "index": "NIFTY OIL & GAS",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+OIL+%26+GAS"
     },
     {
-      "index": "NIFTY MEDIA",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MEDIA"
-    },
-    {
       "index": "NIFTY ENERGY",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+ENERGY"
+    },
+    {
+      "index": "NIFTY MEDIA",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.nseindia.com/api/equity-stockIndices?index=NIFTY+MEDIA"
     },
     {
       "index": "NIFTY INFRASTRUCTURE",
